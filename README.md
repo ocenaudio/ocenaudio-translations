@@ -3,6 +3,7 @@
 Ocenaudio is a cross-platform, easy to use, fast and functional audio editor. Ocenaudio is available in ([official site](http://www.ocenaudio.com.br)).
 
 ![ocenaudio screenshot](http://www.ocenaudio.com.br/imgs/screenshot_mac01.png)
+[![githalytics.com alpha](https://cruel-carlota.pagodabox.com/f985a3cd70ab45d59863fe856d09f80a "githalytics.com")](http://githalytics.com/ocenaudio/ocenaudio-translations)
 
 ___
 
