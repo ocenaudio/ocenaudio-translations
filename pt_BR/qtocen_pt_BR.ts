@@ -66,10 +66,6 @@
         <translation>%1 em %2</translation>
     </message>
     <message>
-        <source>unknown</source>
-        <translation></translation>
-    </message>
-    <message>
         <source>Unsupported Language</source>
         <translation>Idioma não suportado</translation>
     </message>
@@ -100,6 +96,62 @@
     <message>
         <source>64 bits</source>
         <translation></translation>
+    </message>
+    <message>
+        <source>English</source>
+        <translation>Inglês</translation>
+    </message>
+    <message>
+        <source>Portuguese</source>
+        <translation>Português</translation>
+    </message>
+    <message>
+        <source>French</source>
+        <translation>Francês</translation>
+    </message>
+    <message>
+        <source>Hindi</source>
+        <translation></translation>
+    </message>
+    <message>
+        <source>German</source>
+        <translation>Alemão</translation>
+    </message>
+    <message>
+        <source>Spanish</source>
+        <translation>Espanhol</translation>
+    </message>
+    <message>
+        <source>Italian</source>
+        <translation>Italiano</translation>
+    </message>
+    <message>
+        <source>Japanese</source>
+        <translation>Japonês</translation>
+    </message>
+    <message>
+        <source>Bulgarian</source>
+        <translation>Búlgaro</translation>
+    </message>
+    <message>
+        <source>Russian</source>
+        <translation>Russo</translation>
+    </message>
+    <message>
+        <source>Stream</source>
+        <translation>Faixa</translation>
+    </message>
+    <message>
+        <source>stream</source>
+        <translation>faixa</translation>
+    </message>
+    <message>
+        <source>Stream %1 of %2</source>
+        <translation>faixa %1 de %2</translation>
+    </message>
+    <message>
+        <source>Stream %1</source>
+        <translation>Faixa %1</translation>
     </message>
 </context>
 <context>
@@ -803,7 +855,11 @@
     </message>
     <message>
         <source>Move cursor to playback stop position</source>
-        <translation>Mova o cursor para a posição de parada</translation>
+        <translation>Mover o cursor para a posição de parada da reprodução</translation>
+    </message>
+    <message>
+        <source>Move cursor to recording stop position</source>
+        <translation>Mover o cursor para a posição de parada da gravação</translation>
     </message>
 </context>
 <context>
@@ -1096,6 +1152,18 @@
         <source>and %1 other files</source>
         <translation>e %1 outros arquivos</translation>
     </message>
+    <message>
+        <source>Open both streams in this file</source>
+        <translation>Abrir ambas as faixas do arquivo</translation>
+    </message>
+    <message>
+        <source>Open all streams in this file</source>
+        <translation>Abrir todas as faixas do arquivo</translation>
+    </message>
+    <message>
+        <source>Open all files in this directory</source>
+        <translation>Abrir todos os arquivos do diretório</translation>
+    </message>
 </context>
 <context>
     <name>QOcenMetadata</name>
@@ -1355,6 +1423,10 @@
     <message>
         <source>If you continue the saved file will not contain the regions created in this audio.</source>
         <translation>Se você continuar o arquivo salvo não irá conter as regiões criadas neste áudio.</translation>
+    </message>
+    <message>
+        <source>Format</source>
+        <translation>Formato</translation>
     </message>
 </context>
 <context>

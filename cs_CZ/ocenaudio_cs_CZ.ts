@@ -1040,12 +1040,12 @@
     <message>
         <source>Silence</source>
         <comment>Effect</comment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">ticho</translation>
     </message>
     <message>
         <source>Silence</source>
         <comment>Generator</comment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">ticho</translation>
     </message>
     <message>
         <source>Fade...</source>

@@ -86,10 +86,6 @@
         <translation>%1 v %2</translation>
     </message>
     <message>
-        <source>unknown</source>
-        <translation>neznámý</translation>
-    </message>
-    <message>
         <source>Unsupported Language</source>
         <translation>Nepodporovaný jazyk</translation>
     </message>
@@ -100,6 +96,62 @@
     <message>
         <source>64 bits</source>
         <translation>64bitů</translation>
+    </message>
+    <message>
+        <source>English</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Portuguese</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>French</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Hindi</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>German</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Spanish</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Italian</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Japanese</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Bulgarian</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Russian</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Stream</source>
+        <translation type="unfinished">proud</translation>
+    </message>
+    <message>
+        <source>stream</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Stream %1 of %2</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Stream %1</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -805,6 +857,10 @@
         <source>System Default</source>
         <translation>Výchozí nastavení systému</translation>
     </message>
+    <message>
+        <source>Move cursor to recording stop position</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>QOcenKeyBindings</name>
@@ -1096,6 +1152,18 @@
         <source>and %1 other files</source>
         <translation>a %1 ostatní soubory</translation>
     </message>
+    <message>
+        <source>Open both streams in this file</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Open all streams in this file</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Open all files in this directory</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>QOcenMetadata</name>
@@ -1355,6 +1423,10 @@
     <message>
         <source>If you continue the saved file will not contain the regions created in this audio.</source>
         <translation>Pokud budete pokračovat, uložený soubor nebude obsahovat oblasti vytvořené v tomto zvuku.</translation>
+    </message>
+    <message>
+        <source>Format</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
