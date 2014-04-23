@@ -1220,6 +1220,18 @@
         <source>New From Selection</source>
         <translation>Neu aus Auswahl</translation>
     </message>
+    <message>
+        <source>Hide Markers Label</source>
+        <translation>Label-Marker Ausblenden</translation>
+    </message>
+    <message>
+        <source>Show/Hide Markers Label</source>
+        <translation>Label-Marker Einblenden/Ausblenden</translation>
+    </message>
+    <message>
+        <source>Show Markers Label</source>
+        <translation>Label-Marker Einblenden</translation>
+    </message>
 </context>
 <context>
     <name>NavigatorDialog</name>

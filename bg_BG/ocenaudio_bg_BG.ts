@@ -1223,6 +1223,18 @@
         <source>Repeat Last Effect</source>
         <translation type="unfinished"></translation>
     </message>
+    <message>
+        <source>Hide Markers Label</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Show/Hide Markers Label</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Show Markers Label</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>NavigatorDialog</name>

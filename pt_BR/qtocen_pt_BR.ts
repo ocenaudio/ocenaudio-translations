@@ -858,7 +858,7 @@
         <translation>Mover o cursor para a posição de parada da reprodução</translation>
     </message>
     <message>
-        <source>Move cursor to recording stop position</source>
+        <source>Move cursor to record stop position</source>
         <translation>Mover o cursor para a posição de parada da gravação</translation>
     </message>
 </context>

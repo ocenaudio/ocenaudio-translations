@@ -1219,6 +1219,18 @@
         <source>The export file cannot be create on the destination path!</source>
         <translation type="unfinished"></translation>
     </message>
+    <message>
+        <source>Hide Markers Label</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Show/Hide Markers Label</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Show Markers Label</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>NavigatorDialog</name>

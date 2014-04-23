@@ -858,7 +858,7 @@
         <translation>Systemstandard</translation>
     </message>
     <message>
-        <source>Move cursor to recording stop position</source>
+        <source>Move cursor to record stop position</source>
         <translation>Verschiebe Zeiger zur Aufnahme Stop-Position</translation>
     </message>
 </context>

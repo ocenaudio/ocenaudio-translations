@@ -858,7 +858,7 @@
         <translation>Défaut du Système</translation>
     </message>
     <message>
-        <source>Move cursor to recording stop position</source>
+        <source>Move cursor to record stop position</source>
         <translation type="unfinished"></translation>
     </message>
 </context>

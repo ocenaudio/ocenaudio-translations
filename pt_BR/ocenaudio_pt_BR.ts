@@ -60,7 +60,7 @@
     </message>
     <message>
         <source>Hide %1</source>
-        <translation>Minimizar %1</translation>
+        <translation>Ocultar %1</translation>
     </message>
     <message>
         <source>Hide Others</source>
@@ -314,7 +314,7 @@
     </message>
     <message>
         <source>Hide Waveform Navigator</source>
-        <translation>Esconder Navegador de Forma de Onda</translation>
+        <translation>Ocultar Navegador de Forma de Onda</translation>
     </message>
     <message>
         <source>Add Marker</source>
@@ -611,11 +611,11 @@
     </message>
     <message>
         <source>Hide Toolbar</source>
-        <translation>Esconder Barra de Ferramentas</translation>
+        <translation>Ocultar Barra de Ferramentas</translation>
     </message>
     <message>
         <source>Hide Navigator</source>
-        <translation>Esconder Navegador</translation>
+        <translation>Ocultar Navegador</translation>
     </message>
     <message>
         <source>Show Sidebar</source>
@@ -900,35 +900,35 @@
     </message>
     <message>
         <source>Show/Hide Regions</source>
-        <translation>Mostrar/Esconder Regiões</translation>
+        <translation>Mostrar/Ocultar Regiões</translation>
     </message>
     <message>
         <source>Show/Hide Loops</source>
-        <translation>Mostrar/Esconder Loops</translation>
+        <translation>Mostrar/Ocultar Loops</translation>
     </message>
     <message>
         <source>Show/Hide Markers</source>
-        <translation>Mostrar/Esconder Marcadores</translation>
+        <translation>Mostrar/Ocultar Marcadores</translation>
     </message>
     <message>
         <source>Show/Hide All Regions, Loops and Markers</source>
-        <translation>Mostrar/Esconder Todas as Regiões, Loops e Marcadores</translation>
+        <translation>Mostrar/Ocultar Todas as Regiões, Loops e Marcadores</translation>
     </message>
     <message>
         <source>Show/Hide Toolbar</source>
-        <translation>Mostrar/Esconder Barra de Ferramentas</translation>
+        <translation>Mostrar/Ocultar Barra de Ferramentas</translation>
     </message>
     <message>
         <source>Show/Hide Sidebar</source>
-        <translation>Mostrar/Esconder Barra Lateral</translation>
+        <translation>Mostrar/Ocultar Barra Lateral</translation>
     </message>
     <message>
         <source>Show/Hide Navigator</source>
-        <translation>Mostrar/Esconder Navegador</translation>
+        <translation>Mostrar/Ocultar Navegador</translation>
     </message>
     <message>
         <source>Show/Hide Navigator Window</source>
-        <translation>Mostrar/Esconder Janela do Navegador</translation>
+        <translation>Mostrar/Ocultar Janela do Navegador</translation>
     </message>
     <message>
         <source>Start/Stop Recording</source>
@@ -1140,7 +1140,7 @@
     </message>
     <message>
         <source>Hide Navigator Window</source>
-        <translation>Esconder Janela do Navegador</translation>
+        <translation>Ocultar Janela do Navegador</translation>
     </message>
     <message>
         <source>Hide All</source>
@@ -1212,7 +1212,7 @@
     </message>
     <message>
         <source>Hide Sidebar</source>
-        <translation>Esconder Barra Lateral</translation>
+        <translation>Ocultar Barra Lateral</translation>
     </message>
     <message>
         <source>Show Navigator</source>
@@ -1221,6 +1221,18 @@
     <message>
         <source>Stop</source>
         <translation>Parar</translation>
+    </message>
+    <message>
+        <source>Hide Markers Label</source>
+        <translation>Ocultar Rótulos de Marcadores</translation>
+    </message>
+    <message>
+        <source>Show/Hide Markers Label</source>
+        <translation>Mostar/Ocultar Rótulos de Marcadores</translation>
+    </message>
+    <message>
+        <source>Show Markers Label</source>
+        <translation>Mostrar Rótulos de Marcadores</translation>
     </message>
 </context>
 <context>
