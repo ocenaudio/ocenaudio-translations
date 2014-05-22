@@ -99,15 +99,15 @@
     </message>
     <message>
         <source>English</source>
-        <translation>Englisch</translation>
+        <translation></translation>
     </message>
     <message>
         <source>Portuguese</source>
-        <translation>Portugiesisch</translation>
+        <translation></translation>
     </message>
     <message>
         <source>French</source>
-        <translation>Französisch</translation>
+        <translation></translation>
     </message>
     <message>
         <source>Hindi</source>
@@ -115,43 +115,51 @@
     </message>
     <message>
         <source>German</source>
-        <translation>Deutsch</translation>
+        <translation></translation>
     </message>
     <message>
         <source>Spanish</source>
-        <translation>Spanisch</translation>
+        <translation></translation>
     </message>
     <message>
         <source>Italian</source>
-        <translation>Italienisch</translation>
+        <translation></translation>
     </message>
     <message>
         <source>Japanese</source>
-        <translation>Japanisch</translation>
+        <translation></translation>
     </message>
     <message>
         <source>Bulgarian</source>
-        <translation>Bulgarisch</translation>
+        <translation></translation>
     </message>
     <message>
         <source>Russian</source>
-        <translation>Russisch</translation>
+        <translation></translation>
     </message>
     <message>
         <source>Stream</source>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
     <message>
         <source>stream</source>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
     <message>
         <source>Stream %1 of %2</source>
-        <translation type="unfinished"></translation>
+        <translation>Stream %1 von %2</translation>
     </message>
     <message>
         <source>Stream %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Stream %1</translation>
+    </message>
+    <message>
+        <source>Sound Files</source>
+        <translation>Audiodateien</translation>
+    </message>
+    <message>
+        <source>All Files</source>
+        <translation>Alle Dateien</translation>
     </message>
 </context>
 <context>
@@ -861,6 +869,10 @@
         <source>Move cursor to record stop position</source>
         <translation>Verschiebe Zeiger zur Aufnahme Stop-Position</translation>
     </message>
+    <message>
+        <source>Options</source>
+        <translation>Optionen</translation>
+    </message>
 </context>
 <context>
     <name>QOcenKeyBindings</name>
@@ -1154,15 +1166,15 @@
     </message>
     <message>
         <source>Open both streams in this file</source>
-        <translation type="unfinished"></translation>
+        <translation>Öffnen beiden Stream in dieser datei</translation>
     </message>
     <message>
         <source>Open all streams in this file</source>
-        <translation type="unfinished"></translation>
+        <translation>Öffnen alle Stream in dieser datei</translation>
     </message>
     <message>
         <source>Open all files in this directory</source>
-        <translation type="unfinished"></translation>
+        <translation>Öffnen alle dateien in diesem ordner</translation>
     </message>
 </context>
 <context>

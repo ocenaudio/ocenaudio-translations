@@ -733,7 +733,7 @@
     </message>
     <message>
         <source>New From Selection</source>
-        <translation type="unfinished">Nouvelle partir de la sélection</translation>
+        <translation>Nouvelle partir de la sélection</translation>
     </message>
     <message>
         <source>About</source>
@@ -1053,183 +1053,183 @@
     </message>
     <message>
         <source>Fade...</source>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
     <message>
         <source>File Menu</source>
-        <translation type="unfinished"></translation>
+        <translation>Menu Fichier</translation>
     </message>
     <message>
         <source>Edit Menu</source>
-        <translation type="unfinished"></translation>
+        <translation>Menu Édition</translation>
     </message>
     <message>
         <source>View Menu</source>
-        <translation type="unfinished"></translation>
+        <translation>Menu Présentation</translation>
     </message>
     <message>
         <source>Control Menu</source>
-        <translation type="unfinished"></translation>
+        <translation>Menu Commandes</translation>
     </message>
     <message>
         <source>Effects Menu</source>
-        <translation type="unfinished"></translation>
+        <translation>Menu Effets</translation>
     </message>
     <message>
         <source>VST Effects</source>
-        <translation type="unfinished"></translation>
+        <translation>Effets VST</translation>
     </message>
     <message>
         <source>Generate Menu</source>
-        <translation type="unfinished"></translation>
+        <translation>Menu Génére</translation>
     </message>
     <message>
         <source>Analyze Menu</source>
-        <translation type="unfinished"></translation>
+        <translation>Menu Analyser</translation>
     </message>
     <message>
         <source>Help Menu</source>
-        <translation type="unfinished"></translation>
+        <translation>Menu Aide</translation>
     </message>
     <message>
         <source>New From Clipboard</source>
-        <translation type="unfinished"></translation>
+        <translation>Nouvelle de Presse-papiers</translation>
     </message>
     <message>
         <source>Adjust Selection to Scale Tick</source>
-        <translation type="unfinished"></translation>
+        <translation>Ajuster la sélection à graduation de l&apos;échelle</translation>
     </message>
     <message>
         <source>Adjust Selection to Zero Cross</source>
-        <translation type="unfinished"></translation>
+        <translation>Ajuster la sélection à croix zéro</translation>
     </message>
     <message>
         <source>Create Marker/Region</source>
-        <translation type="unfinished"></translation>
+        <translation>Créer Marqueur/Région</translation>
     </message>
     <message>
         <source>Waveform and Spectral View</source>
-        <translation type="unfinished"></translation>
+        <translation>Affichage de formes d’onde et spectral</translation>
     </message>
     <message>
         <source>Display Time Format in Decimal</source>
-        <translation type="unfinished"></translation>
+        <translation>Format de l&apos;affichage en temps</translation>
     </message>
     <message>
         <source>Display Time Format in Samples</source>
-        <translation type="unfinished"></translation>
+        <translation>Format de l&apos;affichage en échantillons</translation>
     </message>
     <message>
         <source>Display Time Format in Frames</source>
-        <translation type="unfinished"></translation>
+        <translation>Format de l&apos;affichage en cadres</translation>
     </message>
     <message>
         <source>Vertical Scale in Sample Value</source>
-        <translation type="unfinished"></translation>
+        <translation>Echelle verticale en valeur de l&apos;échantillon</translation>
     </message>
     <message>
         <source>Vertical Scale Normalized</source>
-        <translation type="unfinished"></translation>
+        <translation>Echelle verticale normalisée</translation>
     </message>
     <message>
         <source>Vertical Scale Percentages</source>
-        <translation type="unfinished"></translation>
+        <translation>Échelle verticale pourcentages</translation>
     </message>
     <message>
         <source>Vertical Scale in Decibels</source>
-        <translation type="unfinished"></translation>
+        <translation>Echelle verticale en décibels</translation>
     </message>
     <message>
         <source>Spectral Scale in Mels</source>
-        <translation type="unfinished"></translation>
+        <translation>Échelle spectrale à Mels</translation>
     </message>
     <message>
         <source>Spectral Scale in Hz</source>
-        <translation type="unfinished"></translation>
+        <translation>Échelle spectrale à Hz</translation>
     </message>
     <message>
         <source>Show/Hide Regions</source>
-        <translation type="unfinished"></translation>
+        <translation>Afficher/Masquer Régions</translation>
     </message>
     <message>
         <source>Show/Hide Loops</source>
-        <translation type="unfinished"></translation>
+        <translation>Afficher/Masquer Loops</translation>
     </message>
     <message>
         <source>Show/Hide Markers</source>
-        <translation type="unfinished"></translation>
+        <translation>Afficher/Masquer Marqueurs</translation>
     </message>
     <message>
         <source>Show/Hide All Regions, Loops and Markers</source>
-        <translation type="unfinished"></translation>
+        <translation>Afficher/Masquer tous le Régions, Loops et Marqueurs</translation>
     </message>
     <message>
         <source>Show/Hide Toolbar</source>
-        <translation type="unfinished"></translation>
+        <translation>Afficher/Masquer la barre d&apos;outils</translation>
     </message>
     <message>
         <source>Show/Hide Sidebar</source>
-        <translation type="unfinished"></translation>
+        <translation>Afficher/Masquer la barre latérale</translation>
     </message>
     <message>
         <source>Show/Hide Navigator</source>
-        <translation type="unfinished"></translation>
+        <translation>Afficher/Masquer la navigation</translation>
     </message>
     <message>
         <source>Show/Hide Navigator Window</source>
-        <translation type="unfinished"></translation>
+        <translation>Afficher/Masquer la fenêtre de navigation</translation>
     </message>
     <message>
         <source>Show Full-size Level Meter</source>
-        <translation type="unfinished"></translation>
+        <translation>Afficher/Masquer Full-size Level Meter</translation>
     </message>
     <message>
         <source>Show Mini Level Meter</source>
-        <translation type="unfinished"></translation>
+        <translation>Afficher/Masquer Mini Level Meter</translation>
     </message>
     <message>
         <source>Hide Level Meter</source>
-        <translation type="unfinished"></translation>
+        <translation>Masquer Level Meter</translation>
     </message>
     <message>
         <source>Start/Stop Recording</source>
-        <translation type="unfinished"></translation>
+        <translation>Lancer/Arrêter l&apos;enregistrement</translation>
     </message>
     <message>
         <source>Goto Next Audio</source>
-        <translation type="unfinished"></translation>
+        <translation>Aller audio suivant</translation>
     </message>
     <message>
         <source>Goto Previous Audio</source>
-        <translation type="unfinished"></translation>
+        <translation>Aller audio précédente</translation>
     </message>
     <message>
         <source>Enable/Disable Loop Playback</source>
-        <translation type="unfinished"></translation>
+        <translation>Activer/Désactiver la lecture en loop</translation>
     </message>
     <message>
         <source>Move Cursor to Next Marker</source>
-        <translation type="unfinished"></translation>
+        <translation>Déplacer le curseur au marqueur suivant</translation>
     </message>
     <message>
         <source>Move Cursor to Previous Marker</source>
-        <translation type="unfinished"></translation>
+        <translation>Déplacez le curseur au marqueur précédent</translation>
     </message>
     <message>
         <source>Repeat Last Effect</source>
-        <translation type="unfinished"></translation>
+        <translation>Répéter le dernier effet</translation>
     </message>
     <message>
         <source>Hide Markers Label</source>
-        <translation type="unfinished"></translation>
+        <translation>Masquer Marqueurs Étiquette</translation>
     </message>
     <message>
         <source>Show/Hide Markers Label</source>
-        <translation type="unfinished"></translation>
+        <translation>Afficher/Masquer Marqueurs Étiquette</translation>
     </message>
     <message>
         <source>Show Markers Label</source>
-        <translation type="unfinished"></translation>
+        <translation>Afficher Marqueurs Étiquette</translation>
     </message>
 </context>
 <context>
@@ -1738,55 +1738,55 @@
     <name>QFadeDialog</name>
     <message>
         <source>Apply Fade</source>
-        <translation type="unfinished"></translation>
+        <translation>Appliquer fondu</translation>
     </message>
     <message>
         <source>Fade Options</source>
-        <translation type="unfinished"></translation>
+        <translation>Options de Fondu</translation>
     </message>
     <message>
         <source>Direction</source>
-        <translation type="unfinished"></translation>
+        <translation>Direction</translation>
     </message>
     <message>
         <source>Fade In</source>
-        <translation type="unfinished">Fondre en ouverture</translation>
+        <translation>Fondre en ouverture</translation>
     </message>
     <message>
         <source>Fade Out</source>
-        <translation type="unfinished">Fondre en fermeture</translation>
+        <translation>Fondre en fermeture</translation>
     </message>
     <message>
         <source>Curve</source>
-        <translation type="unfinished"></translation>
+        <translation>Courbe</translation>
     </message>
     <message>
         <source>Linear</source>
-        <translation type="unfinished"></translation>
+        <translation>Linéaire</translation>
     </message>
     <message>
         <source>Cosine</source>
-        <translation type="unfinished"></translation>
+        <translation>Cosinus</translation>
     </message>
     <message>
         <source>Exponential</source>
-        <translation type="unfinished"></translation>
+        <translation>Exponentiel</translation>
     </message>
     <message>
         <source>Use this curve for all fade operations</source>
-        <translation type="unfinished"></translation>
+        <translation>Utilisez cette courbe pour toutes les opérations de fondu</translation>
     </message>
     <message>
         <source>S-Curve</source>
-        <translation type="unfinished"></translation>
+        <translation>S-Courbe</translation>
     </message>
     <message>
         <source>Logarithmic</source>
-        <translation type="unfinished"></translation>
+        <translation>Logarithmique</translation>
     </message>
     <message>
         <source>Applying %1 </source>
-        <translation type="unfinished"></translation>
+        <translation>Appliquer %1</translation>
     </message>
 </context>
 <context>

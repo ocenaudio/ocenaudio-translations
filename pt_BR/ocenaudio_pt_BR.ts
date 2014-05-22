@@ -2997,7 +2997,7 @@ Aqui</translation>
     </message>
     <message>
         <source>Join</source>
-        <translation>Combinar</translation>
+        <translation>Concatenar</translation>
     </message>
     <message>
         <source>Merge...</source>

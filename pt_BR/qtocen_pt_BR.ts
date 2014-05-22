@@ -99,15 +99,15 @@
     </message>
     <message>
         <source>English</source>
-        <translation>Inglês</translation>
+        <translation></translation>
     </message>
     <message>
         <source>Portuguese</source>
-        <translation>Português</translation>
+        <translation></translation>
     </message>
     <message>
         <source>French</source>
-        <translation>Francês</translation>
+        <translation></translation>
     </message>
     <message>
         <source>Hindi</source>
@@ -115,27 +115,27 @@
     </message>
     <message>
         <source>German</source>
-        <translation>Alemão</translation>
+        <translation></translation>
     </message>
     <message>
         <source>Spanish</source>
-        <translation>Espanhol</translation>
+        <translation></translation>
     </message>
     <message>
         <source>Italian</source>
-        <translation>Italiano</translation>
+        <translation></translation>
     </message>
     <message>
         <source>Japanese</source>
-        <translation>Japonês</translation>
+        <translation></translation>
     </message>
     <message>
         <source>Bulgarian</source>
-        <translation>Búlgaro</translation>
+        <translation></translation>
     </message>
     <message>
         <source>Russian</source>
-        <translation>Russo</translation>
+        <translation></translation>
     </message>
     <message>
         <source>Stream</source>
@@ -152,6 +152,14 @@
     <message>
         <source>Stream %1</source>
         <translation>Faixa %1</translation>
+    </message>
+    <message>
+        <source>Sound Files</source>
+        <translation>Arquivos de Som</translation>
+    </message>
+    <message>
+        <source>All Files</source>
+        <translation>Todos os Arquivos</translation>
     </message>
 </context>
 <context>
@@ -860,6 +868,10 @@
     <message>
         <source>Move cursor to record stop position</source>
         <translation>Mover o cursor para a posição de parada da gravação</translation>
+    </message>
+    <message>
+        <source>Options</source>
+        <translation>Opções</translation>
     </message>
 </context>
 <context>

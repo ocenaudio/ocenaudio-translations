@@ -99,59 +99,67 @@
     </message>
     <message>
         <source>English</source>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
     <message>
         <source>Portuguese</source>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
     <message>
         <source>French</source>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
     <message>
         <source>Hindi</source>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
     <message>
         <source>German</source>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
     <message>
         <source>Spanish</source>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
     <message>
         <source>Italian</source>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
     <message>
         <source>Japanese</source>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
     <message>
         <source>Bulgarian</source>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
     <message>
         <source>Russian</source>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
     <message>
         <source>Stream</source>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
     <message>
         <source>stream</source>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
     <message>
         <source>Stream %1 of %2</source>
-        <translation type="unfinished"></translation>
+        <translation>Stream %1 de %2</translation>
     </message>
     <message>
         <source>Stream %1</source>
-        <translation type="unfinished"></translation>
+        <translation></translation>
+    </message>
+    <message>
+        <source>Sound Files</source>
+        <translation>Fichiers sonores</translation>
+    </message>
+    <message>
+        <source>All Files</source>
+        <translation>Tous les fichiers</translation>
     </message>
 </context>
 <context>
@@ -425,7 +433,7 @@
     </message>
     <message>
         <source>Undefined Format</source>
-        <translation type="unfinished"></translation>
+        <translation>Format Indéfini</translation>
     </message>
 </context>
 <context>
@@ -532,19 +540,19 @@
     <name>QOcenCheckableMessageBox</name>
     <message>
         <source>Warning</source>
-        <translation type="unfinished">Attention</translation>
+        <translation>Attention</translation>
     </message>
     <message>
         <source>Message box text</source>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
     <message>
         <source>Message box informative text</source>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
     <message>
         <source>Checkable option</source>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
 </context>
 <context>
@@ -859,45 +867,49 @@
     </message>
     <message>
         <source>Move cursor to record stop position</source>
-        <translation type="unfinished"></translation>
+        <translation>Déplacez le curseur sur la position d&apos;arrêt</translation>
+    </message>
+    <message>
+        <source>Options</source>
+        <translation>Options</translation>
     </message>
 </context>
 <context>
     <name>QOcenKeyBindings</name>
     <message>
         <source>Command</source>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
     <message>
         <source>Key</source>
-        <translation type="unfinished"></translation>
+        <translation>Clé</translation>
     </message>
     <message>
         <source>Restore to default (no shortcut)</source>
-        <translation type="unfinished"></translation>
+        <translation>Restaurer les paramètres par défaut (pas de raccourci)</translation>
     </message>
     <message>
         <source>Restore to default shortcut (&apos;%1&apos;)</source>
-        <translation type="unfinished"></translation>
+        <translation>Restaurer les raccourcis par défaut (&apos;%1&apos;)</translation>
     </message>
 </context>
 <context>
     <name>QOcenKeyBindingsPrefs</name>
     <message>
         <source>Form</source>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
     <message>
         <source>Key Bindings</source>
-        <translation type="unfinished"></translation>
+        <translation>Raccourcis clavier</translation>
     </message>
     <message>
         <source>Command</source>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
     <message>
         <source>Key</source>
-        <translation type="unfinished"></translation>
+        <translation>Clé</translation>
     </message>
 </context>
 <context>
@@ -1055,7 +1067,7 @@
     </message>
     <message>
         <source>Open all %1 files in this %2</source>
-        <translation>Ouvert tous les %1 fichiers en ce %2</translation>
+        <translation>Ouvrez tous les %1 fichiers en ce %2</translation>
     </message>
     <message>
         <source>and %1 other files</source>
@@ -1146,7 +1158,7 @@
     </message>
     <message>
         <source>Open all %1 files in this %2</source>
-        <translation>Ouvert tous les %1 fichiers en ce %2</translation>
+        <translation>Ouvrez tous les %1 fichiers en ce %2</translation>
     </message>
     <message>
         <source>and %1 other files</source>
@@ -1154,15 +1166,15 @@
     </message>
     <message>
         <source>Open both streams in this file</source>
-        <translation type="unfinished"></translation>
+        <translation>Ouvrez les deux streams dans ce fichier</translation>
     </message>
     <message>
         <source>Open all streams in this file</source>
-        <translation type="unfinished"></translation>
+        <translation>Ouvrez tous les streams dans ce fichier</translation>
     </message>
     <message>
         <source>Open all files in this directory</source>
-        <translation type="unfinished"></translation>
+        <translation>Ouvrez tous les fichiers dans ce dossier</translation>
     </message>
 </context>
 <context>
@@ -1426,7 +1438,7 @@
     </message>
     <message>
         <source>Format</source>
-        <translation type="unfinished"></translation>
+        <translation>Format</translation>
     </message>
 </context>
 <context>
