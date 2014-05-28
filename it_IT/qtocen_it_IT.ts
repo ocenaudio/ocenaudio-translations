@@ -155,11 +155,11 @@
     </message>
     <message>
         <source>Sound Files</source>
-        <translation type="unfinished">Files audio</translation>
+        <translation>Files audio</translation>
     </message>
     <message>
         <source>All Files</source>
-        <translation type="unfinished">Tutti i files</translation>
+        <translation>Tutti i files</translation>
     </message>
 </context>
 <context>
@@ -433,6 +433,14 @@
     </message>
     <message>
         <source>Undefined Format</source>
+        <translation>Non definito formato</translation>
+    </message>
+    <message>
+        <source>Detecting Dtmf</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Detect Dtmf</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -540,7 +548,7 @@
     <name>QOcenCheckableMessageBox</name>
     <message>
         <source>Warning</source>
-        <translation type="unfinished">Attenzione</translation>
+        <translation>Attenzione</translation>
     </message>
     <message>
         <source>Message box text</source>
@@ -897,7 +905,7 @@
     <name>QOcenKeyBindingsPrefs</name>
     <message>
         <source>Form</source>
-        <translation type="unfinished">Form</translation>
+        <translation>Form</translation>
     </message>
     <message>
         <source>Key Bindings</source>
@@ -1438,7 +1446,7 @@
     </message>
     <message>
         <source>Format</source>
-        <translation type="unfinished"></translation>
+        <translation>Formato</translation>
     </message>
 </context>
 <context>

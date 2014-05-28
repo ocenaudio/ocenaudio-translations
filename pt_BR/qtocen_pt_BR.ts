@@ -435,6 +435,14 @@
         <source>Change Metadata</source>
         <translation>Alteração de Metadados</translation>
     </message>
+    <message>
+        <source>Detecting Dtmf</source>
+        <translation>Detectando Dtmf</translation>
+    </message>
+    <message>
+        <source>Detect Dtmf</source>
+        <translation>Detectar Dtmf</translation>
+    </message>
 </context>
 <context>
     <name>QOcenAudioApplicationFilesModel</name>

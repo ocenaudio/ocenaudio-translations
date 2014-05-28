@@ -319,7 +319,7 @@
     </message>
     <message>
         <source>Mels</source>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
     <message>
         <source>Zoom Selection</source>
@@ -429,7 +429,7 @@
     </message>
     <message>
         <source>Frames</source>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
     <message>
         <source>Show File Folder...</source>
@@ -1237,6 +1237,18 @@
     </message>
     <message>
         <source>Show Markers Label</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Detect DTMF Tones</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Close File</source>
+        <translation type="unfinished">Chiudi file</translation>
+    </message>
+    <message>
+        <source>Close All Files</source>
         <translation type="unfinished"></translation>
     </message>
 </context>

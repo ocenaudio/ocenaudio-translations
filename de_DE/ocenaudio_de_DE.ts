@@ -1232,6 +1232,18 @@
         <source>Show Markers Label</source>
         <translation>Label-Marker Einblenden</translation>
     </message>
+    <message>
+        <source>Detect DTMF Tones</source>
+        <translation>Erkennung DTMF-Tönen</translation>
+    </message>
+    <message>
+        <source>Close File</source>
+        <translation>Datei schließen</translation>
+    </message>
+    <message>
+        <source>Close All Files</source>
+        <translation>Schließen alle Dateien</translation>
+    </message>
 </context>
 <context>
     <name>NavigatorDialog</name>

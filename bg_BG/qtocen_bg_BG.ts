@@ -435,6 +435,14 @@
         <source>Undefined Format</source>
         <translation type="unfinished"></translation>
     </message>
+    <message>
+        <source>Detecting Dtmf</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Detect Dtmf</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>QOcenAudioApplicationFilesModel</name>

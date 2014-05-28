@@ -1234,6 +1234,18 @@
         <source>Show Markers Label</source>
         <translation>Mostrar Rótulos de Marcadores</translation>
     </message>
+    <message>
+        <source>Detect DTMF Tones</source>
+        <translation>Detectar Tons DTMF</translation>
+    </message>
+    <message>
+        <source>Close File</source>
+        <translation>Fechar Arquivo</translation>
+    </message>
+    <message>
+        <source>Close All Files</source>
+        <translation>Fechar Todos os Arquivos</translation>
+    </message>
 </context>
 <context>
     <name>NavigatorDialog</name>

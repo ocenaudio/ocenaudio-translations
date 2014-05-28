@@ -1235,6 +1235,18 @@
         <source>Show Markers Label</source>
         <translation type="unfinished"></translation>
     </message>
+    <message>
+        <source>Detect DTMF Tones</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Close File</source>
+        <translation type="unfinished">Затвори файл</translation>
+    </message>
+    <message>
+        <source>Close All Files</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>NavigatorDialog</name>
