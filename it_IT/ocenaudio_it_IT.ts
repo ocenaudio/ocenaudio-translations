@@ -1251,6 +1251,98 @@
         <source>Close All Files</source>
         <translation type="unfinished"></translation>
     </message>
+    <message>
+        <source>Rescan Audio Devices</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Apple Bandpass Filter</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Apple Filter</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Apple Highpass Filter</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Apple High Shelf Filter</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Apple Lowpass Filter</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Apple Low Shelf Filter</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Apple Dynamics Processor</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Apple Peak Limiter</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Apple Multiband Compressor</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Apple Delay</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Apple Matrix Reverb</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Apple Sample Delay</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Apple Graphic Equalizer</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Apple Parametric Equalizer</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Apple N-Band Equalizer</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Apple Pitch</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Apple Distortion</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Apple Roger Beep</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Apple Net Send</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Apple AAC Encoder Round Trip</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Audio Units Effects</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Save Copy As</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>NavigatorDialog</name>

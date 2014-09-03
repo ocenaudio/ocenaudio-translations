@@ -1244,6 +1244,98 @@
         <source>Close All Files</source>
         <translation>Schließen alle Dateien</translation>
     </message>
+    <message>
+        <source>Rescan Audio Devices</source>
+        <translation>Rescan Audiogeräte</translation>
+    </message>
+    <message>
+        <source>Apple Bandpass Filter</source>
+        <translation></translation>
+    </message>
+    <message>
+        <source>Apple Filter</source>
+        <translation></translation>
+    </message>
+    <message>
+        <source>Apple Highpass Filter</source>
+        <translation></translation>
+    </message>
+    <message>
+        <source>Apple High Shelf Filter</source>
+        <translation></translation>
+    </message>
+    <message>
+        <source>Apple Lowpass Filter</source>
+        <translation></translation>
+    </message>
+    <message>
+        <source>Apple Low Shelf Filter</source>
+        <translation></translation>
+    </message>
+    <message>
+        <source>Apple Dynamics Processor</source>
+        <translation></translation>
+    </message>
+    <message>
+        <source>Apple Peak Limiter</source>
+        <translation></translation>
+    </message>
+    <message>
+        <source>Apple Multiband Compressor</source>
+        <translation></translation>
+    </message>
+    <message>
+        <source>Apple Delay</source>
+        <translation></translation>
+    </message>
+    <message>
+        <source>Apple Matrix Reverb</source>
+        <translation></translation>
+    </message>
+    <message>
+        <source>Apple Sample Delay</source>
+        <translation></translation>
+    </message>
+    <message>
+        <source>Apple Graphic Equalizer</source>
+        <translation></translation>
+    </message>
+    <message>
+        <source>Apple Parametric Equalizer</source>
+        <translation></translation>
+    </message>
+    <message>
+        <source>Apple N-Band Equalizer</source>
+        <translation></translation>
+    </message>
+    <message>
+        <source>Apple Pitch</source>
+        <translation></translation>
+    </message>
+    <message>
+        <source>Apple Distortion</source>
+        <translation></translation>
+    </message>
+    <message>
+        <source>Apple Roger Beep</source>
+        <translation></translation>
+    </message>
+    <message>
+        <source>Apple Net Send</source>
+        <translation></translation>
+    </message>
+    <message>
+        <source>Apple AAC Encoder Round Trip</source>
+        <translation></translation>
+    </message>
+    <message>
+        <source>Audio Units Effects</source>
+        <translation>Audio-Unit-Effekte</translation>
+    </message>
+    <message>
+        <source>Save Copy As</source>
+        <translation>Kopie speichern unter</translation>
+    </message>
 </context>
 <context>
     <name>NavigatorDialog</name>

@@ -503,17 +503,6 @@
     </message>
 </context>
 <context>
-    <name>QOcenAudioUnitWidget</name>
-    <message>
-        <source>VST Effect</source>
-        <translation>Effet VST</translation>
-    </message>
-    <message>
-        <source>Applying %1|%1</source>
-        <translation>En appliquant %1|%1</translation>
-    </message>
-</context>
-<context>
     <name>QOcenCanvas</name>
     <message>
         <source>Question</source>
@@ -826,6 +815,81 @@
         <source>Saved Presets</source>
         <translation>Préréglages enregistré</translation>
     </message>
+    <message>
+        <source>Save Preset</source>
+        <translation>Enregistrer le préréglage</translation>
+    </message>
+    <message>
+        <source>Manage Presets</source>
+        <translation>Gérer les préréglages</translation>
+    </message>
+    <message>
+        <source>Playback Loop</source>
+        <translation>Lecture en boucle</translation>
+    </message>
+    <message>
+        <source>Save Preset As</source>
+        <translation>Enregistrer le préréglage sous</translation>
+    </message>
+    <message>
+        <source>Preset Name</source>
+        <translation>Nom de le préréglage</translation>
+    </message>
+    <message>
+        <source>The name &quot;%1&quot; is already taken.</source>
+        <translation>Le nom &quot;%1&quot; est déjà pris.</translation>
+    </message>
+    <message>
+        <source>Do you want to choose another name or replace the previous saved preset?</source>
+        <translation>Voulez-vous choisir un autre nom ou remplacer le préréglage enregistré précédente?</translation>
+    </message>
+    <message>
+        <source>Replace</source>
+        <translation>Remplacer</translation>
+    </message>
+    <message>
+        <source>Choose Another Name</source>
+        <translation>Choisissez un autre nom</translation>
+    </message>
+</context>
+<context>
+    <name>QOcenFxManagePresetDialog</name>
+    <message>
+        <source>Manage Presets</source>
+        <translation>Gérer les préréglages</translation>
+    </message>
+    <message>
+        <source>Current Setting (before open preset manager)</source>
+        <translation>Réglage actuel (avant gestionnaire de préréglage ouvert)</translation>
+    </message>
+    <message>
+        <source>Setting 1</source>
+        <translation>Réglage 1</translation>
+    </message>
+    <message>
+        <source>Setting 2</source>
+        <translation>Réglage 2</translation>
+    </message>
+    <message>
+        <source>%1 Preset Manager</source>
+        <translation>Gestionnaire de préréglages %1</translation>
+    </message>
+    <message>
+        <source>Current Preset (user&apos;s changes)</source>
+        <translation>Préréglages courant (les changements de l&apos;utilisateur)</translation>
+    </message>
+    <message>
+        <source>Rename Preset</source>
+        <translation>Renommer préréglage</translation>
+    </message>
+    <message>
+        <source>The name &quot;%1&quot; is already taken.</source>
+        <translation>Le nom &quot;%1&quot; est déjà pris.</translation>
+    </message>
+    <message>
+        <source>Please choose another name.</source>
+        <translation>S&apos;il vous plaît choisir un autre nom.</translation>
+    </message>
 </context>
 <context>
     <name>QOcenGeneralPrefs</name>
@@ -880,6 +944,17 @@
     <message>
         <source>Options</source>
         <translation>Options</translation>
+    </message>
+</context>
+<context>
+    <name>QOcenGetTextDialog</name>
+    <message>
+        <source>Dialog</source>
+        <translation></translation>
+    </message>
+    <message>
+        <source>TextLabel</source>
+        <translation></translation>
     </message>
 </context>
 <context>
@@ -1151,41 +1226,6 @@
     </message>
 </context>
 <context>
-    <name>QOcenMainWindowRecentMenu</name>
-    <message>
-        <source>Recent Files</source>
-        <translation>Fichiers Récents</translation>
-    </message>
-    <message>
-        <source>Clear History</source>
-        <translation>Effacer l&apos;historique</translation>
-    </message>
-    <message>
-        <source>Open both files in this %1</source>
-        <translation>Ouvrez les deux fichiers dans ce %1</translation>
-    </message>
-    <message>
-        <source>Open all %1 files in this %2</source>
-        <translation>Ouvrez tous les %1 fichiers en ce %2</translation>
-    </message>
-    <message>
-        <source>and %1 other files</source>
-        <translation>et %1 d&apos;autres fichiers</translation>
-    </message>
-    <message>
-        <source>Open both streams in this file</source>
-        <translation>Ouvrez les deux streams dans ce fichier</translation>
-    </message>
-    <message>
-        <source>Open all streams in this file</source>
-        <translation>Ouvrez tous les streams dans ce fichier</translation>
-    </message>
-    <message>
-        <source>Open all files in this directory</source>
-        <translation>Ouvrez tous les fichiers dans ce dossier</translation>
-    </message>
-</context>
-<context>
     <name>QOcenMetadata</name>
     <message>
         <source>Title</source>
@@ -1337,16 +1377,20 @@
         <translation>Vérifiez que votre fichier a un format incorrect ou non pris en charge.</translation>
     </message>
     <message>
-        <source>File Not Found</source>
-        <translation>Fichier Introuvable</translation>
+        <source>No supported audio files found!</source>
+        <translation>Pas de fichiers audio supportés trouvé!</translation>
     </message>
     <message utf8="true">
-        <source>The file “%1” was not found.</source>
-        <translation>Le fichier &quot;%1&quot; n&apos;a pas été trouvé.</translation>
+        <source>The package “%1” does not contains any supported audio file.</source>
+        <translation>Le paquet &quot;%1&quot; ne contient pas de fichier audio pris en charge.</translation>
     </message>
     <message>
-        <source>Check if your filename is valid and you have permission to open it.</source>
-        <translation>Vérifiez si votre nom de fichier est valide et que vous avez la permission de l&apos;ouvrir.</translation>
+        <source>File not found!</source>
+        <translation>Fichier introuvable!</translation>
+    </message>
+    <message utf8="true">
+        <source>The file “%1” was not found. Check if your filename is valid and you have permission to open it.</source>
+        <translation>Le fichier &quot;%1&quot; n&apos;a pas été trouvé. Vérifiez si votre nom de fichier est valide et que vous avez la permission de l&apos;ouvrir.</translation>
     </message>
 </context>
 <context>
@@ -1428,6 +1472,41 @@
     <message>
         <source>Back</source>
         <translation>Retour</translation>
+    </message>
+</context>
+<context>
+    <name>QOcenRecentMenu</name>
+    <message>
+        <source>Recent Files</source>
+        <translation>Fichiers Récents</translation>
+    </message>
+    <message>
+        <source>Clear History</source>
+        <translation>Effacer l&apos;historique</translation>
+    </message>
+    <message>
+        <source>Open both streams in this file</source>
+        <translation>Ouvrez les deux streams dans ce fichier</translation>
+    </message>
+    <message>
+        <source>Open all streams in this file</source>
+        <translation>Ouvrez tous les streams dans ce fichier</translation>
+    </message>
+    <message>
+        <source>Open all files in this directory</source>
+        <translation>Ouvrez tous les fichiers dans ce dossier</translation>
+    </message>
+    <message>
+        <source>Open both files in this %1</source>
+        <translation>Ouvrez les deux fichiers dans ce %1</translation>
+    </message>
+    <message>
+        <source>Open all %1 files in this %2</source>
+        <translation>Ouvrez tous les %1 fichiers en ce %2</translation>
+    </message>
+    <message>
+        <source>and %1 other files</source>
+        <translation>et %1 d&apos;autres fichiers</translation>
     </message>
 </context>
 <context>

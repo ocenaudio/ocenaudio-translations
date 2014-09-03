@@ -503,17 +503,6 @@
     </message>
 </context>
 <context>
-    <name>QOcenAudioUnitWidget</name>
-    <message>
-        <source>VST Effect</source>
-        <translation type="unfinished">VST ефект</translation>
-    </message>
-    <message>
-        <source>Applying %1|%1</source>
-        <translation type="unfinished">Прилага %1|%1</translation>
-    </message>
-</context>
-<context>
     <name>QOcenCanvas</name>
     <message>
         <source>Question</source>
@@ -826,6 +815,81 @@
         <source>Saved Presets</source>
         <translation>Запазени настройки</translation>
     </message>
+    <message>
+        <source>Save Preset</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Manage Presets</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Playback Loop</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Save Preset As</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Preset Name</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>The name &quot;%1&quot; is already taken.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Do you want to choose another name or replace the previous saved preset?</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Replace</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Choose Another Name</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>QOcenFxManagePresetDialog</name>
+    <message>
+        <source>Manage Presets</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Current Setting (before open preset manager)</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Setting 1</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Setting 2</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>%1 Preset Manager</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Current Preset (user&apos;s changes)</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Rename Preset</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>The name &quot;%1&quot; is already taken.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Please choose another name.</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>QOcenGeneralPrefs</name>
@@ -879,6 +943,17 @@
     </message>
     <message>
         <source>Options</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>QOcenGetTextDialog</name>
+    <message>
+        <source>Dialog</source>
+        <translation type="unfinished">Диалог</translation>
+    </message>
+    <message>
+        <source>TextLabel</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -1151,41 +1226,6 @@
     </message>
 </context>
 <context>
-    <name>QOcenMainWindowRecentMenu</name>
-    <message>
-        <source>Clear History</source>
-        <translation>Изчисти историята</translation>
-    </message>
-    <message>
-        <source>Open both files in this %1</source>
-        <translation>Отвори и двата файла в този %1</translation>
-    </message>
-    <message>
-        <source>Open all %1 files in this %2</source>
-        <translation>Отвори всички %1 файла в този %2</translation>
-    </message>
-    <message>
-        <source>and %1 other files</source>
-        <translation>и %1 други файла</translation>
-    </message>
-    <message>
-        <source>Recent Files</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Open both streams in this file</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Open all streams in this file</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Open all files in this directory</source>
-        <translation type="unfinished"></translation>
-    </message>
-</context>
-<context>
     <name>QOcenMetadata</name>
     <message>
         <source>Title</source>
@@ -1337,15 +1377,19 @@
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>File Not Found</source>
+        <source>No supported audio files found!</source>
         <translation type="unfinished"></translation>
     </message>
     <message utf8="true">
-        <source>The file “%1” was not found.</source>
+        <source>The package “%1” does not contains any supported audio file.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Check if your filename is valid and you have permission to open it.</source>
+        <source>File not found!</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message utf8="true">
+        <source>The file “%1” was not found. Check if your filename is valid and you have permission to open it.</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -1428,6 +1472,41 @@
     <message>
         <source>Back</source>
         <translation>Обратно</translation>
+    </message>
+</context>
+<context>
+    <name>QOcenRecentMenu</name>
+    <message>
+        <source>Recent Files</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Clear History</source>
+        <translation type="unfinished">Изчисти историята</translation>
+    </message>
+    <message>
+        <source>Open both streams in this file</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Open all streams in this file</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Open all files in this directory</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Open both files in this %1</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Open all %1 files in this %2</source>
+        <translation type="unfinished">Отвори всички %1 файла в този %2</translation>
+    </message>
+    <message>
+        <source>and %1 other files</source>
+        <translation type="unfinished">и %1 други файла</translation>
     </message>
 </context>
 <context>
