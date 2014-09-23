@@ -1502,7 +1502,7 @@
     </message>
     <message>
         <source>Open all %1 files in this %2</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Открыть все %1 файлы в %2</translation>
     </message>
     <message>
         <source>and %1 other files</source>

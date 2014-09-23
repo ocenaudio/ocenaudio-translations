@@ -2462,6 +2462,53 @@ Click here to download it.</source>
     </message>
 </context>
 <context>
+    <name>QOcenCrashReportDialog</name>
+    <message>
+        <source>ocenaudio Crashed Previously</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>ocenaudio crashed previously</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Do you want to send details on the crash to ocenaudio&apos;s development team?</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>If you want, you can enter a few lines on what you did before ocenaudio crashed along with other helpful information: sample file, os crash report, screen shots, ...</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>If you agree to be contacted about this bug report enter your email below:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Attach File...</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Don&apos;t ask again</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Crash Report</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Send</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Don&apos;t Send</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Select File to Attach</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
     <name>QOcenCreateItunesRingtoneDialog</name>
     <message>
         <source>Create iTunes Ringtone</source>

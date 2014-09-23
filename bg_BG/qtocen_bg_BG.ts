@@ -1498,7 +1498,7 @@
     </message>
     <message>
         <source>Open both files in this %1</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Използвай и двата файла в %1</translation>
     </message>
     <message>
         <source>Open all %1 files in this %2</source>

@@ -2464,6 +2464,53 @@ Clique aqui para baixá-la.</translation>
     </message>
 </context>
 <context>
+    <name>QOcenCrashReportDialog</name>
+    <message>
+        <source>ocenaudio Crashed Previously</source>
+        <translation>Erro no ocenaudio anteriormente</translation>
+    </message>
+    <message>
+        <source>ocenaudio crashed previously</source>
+        <translation>Ocorreu um erro com o ocenaudio anteriormente</translation>
+    </message>
+    <message>
+        <source>Do you want to send details on the crash to ocenaudio&apos;s development team?</source>
+        <translation>Você deseja enviar detalhes do erro para o time de desenvolvimento do ocenaudio?</translation>
+    </message>
+    <message>
+        <source>If you want, you can enter a few lines on what you did before ocenaudio crashed along with other helpful information: sample file, os crash report, screen shots, ...</source>
+        <translation>Se desejar, você pode escrever algumas palavras sobre o que ocorreu anteriormente para o erro no ocenaudio junto com algumas informações úteis: arquivo de áudio, logs do sistema operacional, captura de tela, ...</translation>
+    </message>
+    <message>
+        <source>If you agree to be contacted about this bug report enter your email below:</source>
+        <translation>Se você desejar ser contactado sobre este erro coloque seu e-mail abaixo:</translation>
+    </message>
+    <message>
+        <source>Attach File...</source>
+        <translation>Anexar Arquivo...</translation>
+    </message>
+    <message>
+        <source>Don&apos;t ask again</source>
+        <translation>Não exibir novamente</translation>
+    </message>
+    <message>
+        <source>Crash Report</source>
+        <translation>Relatório de Erro</translation>
+    </message>
+    <message>
+        <source>Send</source>
+        <translation>Enviar</translation>
+    </message>
+    <message>
+        <source>Don&apos;t Send</source>
+        <translation>Não Enviar</translation>
+    </message>
+    <message>
+        <source>Select File to Attach</source>
+        <translation>Selecione Arquivo para Anexar</translation>
+    </message>
+</context>
+<context>
     <name>QOcenCreateItunesRingtoneDialog</name>
     <message>
         <source>Create iTunes Ringtone</source>
