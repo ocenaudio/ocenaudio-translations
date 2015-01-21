@@ -63,19 +63,19 @@
     </message>
     <message>
         <source>file</source>
-        <translation></translation>
+        <translation>fichier</translation>
     </message>
     <message>
         <source>remoteurl</source>
-        <translation></translation>
+        <translation>url distante</translation>
     </message>
     <message>
         <source>%1 in %2</source>
-        <translation></translation>
+        <translation>%1 dans %2</translation>
     </message>
     <message>
         <source>Unsupported Language</source>
-        <translation>Langue non pris en charge</translation>
+        <translation>Langue non prise en charge</translation>
     </message>
     <message>
         <source>Drop Files Here</source>
@@ -87,7 +87,7 @@
     </message>
     <message>
         <source>Aborting</source>
-        <translation></translation>
+        <translation>Annulation</translation>
     </message>
     <message>
         <source>32 bits</source>
@@ -174,15 +174,15 @@
     </message>
     <message>
         <source>This means Ocenaudio has been tampered, possibly making it less secure. The program cannot be executed in this state. It is necessary to reinstall the application in order to use it.</source>
-        <translation>Cela signifie que le ocenaudio était altéré, ce qui rend moins sûrs. Le programme ne peut pas fonctionner dans cet état. Vous devez réinstaller l&apos;application pour l&apos;utiliser.</translation>
+        <translation>Cela signifie qu'Ocenaudio a été altéré, le rendant moins sécurisé. Le programme ne peut pas fonctionner dans cet état. Vous devez réinstaller l&apos;application pour l&apos;utiliser.</translation>
     </message>
     <message>
         <source>New Sound Device Found</source>
-        <translation>Nouveau dispositif sonore trouvés</translation>
+        <translation>Nouveau dispositif sonore trouvé</translation>
     </message>
     <message>
         <source>build</source>
-        <translation>build</translation>
+        <translation>création</translation>
     </message>
     <message>
         <source>New Plugin Installed</source>
@@ -197,23 +197,23 @@
     </message>
     <message>
         <source>Opening %1</source>
-        <translation>Ouvrant %1</translation>
+        <translation>Ouvre %1</translation>
     </message>
     <message>
         <source>Saving %1</source>
-        <translation>Enregistrant %1</translation>
+        <translation>Enregistre %1</translation>
     </message>
     <message>
         <source>Ringtone created by ocenaudio</source>
-        <translation>Ringtone créer pour ocenaudio</translation>
+        <translation>Sonnerie créée pour ocenaudio</translation>
     </message>
     <message>
         <source>Creating iTunes Ringtone</source>
-        <translation>Création ringtone</translation>
+        <translation>Création sonnerie iTunes</translation>
     </message>
     <message>
         <source>Undoing</source>
-        <translation>Annulant</translation>
+        <translation>Annuler</translation>
     </message>
     <message>
         <source>Redoing</source>
@@ -221,7 +221,7 @@
     </message>
     <message>
         <source>Undefined</source>
-        <translation></translation>
+        <translation>Non défini</translation>
     </message>
     <message>
         <source>Where</source>
@@ -369,11 +369,11 @@
     </message>
     <message>
         <source>Adjust Sample Rate</source>
-        <translation>juster le taux d&apos;échantillonnage</translation>
+        <translation>ajuster le taux d&apos;échantillonnage</translation>
     </message>
     <message>
         <source>Remove all metadata</source>
-        <translation>Retirez toutes les métadonnées</translation>
+        <translation>Retirer toutes les métadonnées</translation>
     </message>
     <message>
         <source>marker %1</source>
@@ -405,7 +405,7 @@
     </message>
     <message>
         <source>Exporting Regions As</source>
-        <translation>Enregistrant la Région Sous</translation>
+        <translation>Enregistrer la Région Sous</translation>
     </message>
     <message>
         <source>Export As</source>
@@ -459,7 +459,7 @@
     </message>
     <message>
         <source>Duration</source>
-        <translation>Durrée</translation>
+        <translation>Durée</translation>
     </message>
 </context>
 <context>
@@ -514,7 +514,7 @@
     </message>
     <message>
         <source>Changes in region text will be lost if you discard.</source>
-        <translation>Les modifications apportées au texte de la région seront perdues si vous jetez.</translation>
+        <translation>Les modifications apportées au texte de la région seront perdues si vous les abandonnez.</translation>
     </message>
     <message>
         <source>Save</source>
@@ -522,7 +522,7 @@
     </message>
     <message>
         <source>Discard</source>
-        <translation>Jeter</translation>
+        <translation>Abandonner</translation>
     </message>
     <message>
         <source>Cancel</source>
@@ -1218,7 +1218,7 @@
     </message>
     <message>
         <source>Audio format not changed</source>
-        <translation>Format audio pas changé</translation>
+        <translation>Format audio inchangé</translation>
     </message>
     <message>
         <source>The audio signal has already the selected format!</source>
