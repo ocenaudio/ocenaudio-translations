@@ -12,7 +12,7 @@ The translation files can be edited using Qt Linguist from [Qt Project](http://q
 [http://qt-project.org/doc/qt-4.8/linguist-translators.html](http://qt-project.org/doc/qt-4.8/linguist-translators.html)).
 
 If you would like to add a new translation for ocenaudio please
-[submit a pull request](https://github.com/ocenaudio/ocenaudio-translations/pull/new/master) using the files inside **base** folder and renaming them as follows the
+[submit a pull request](https://github.com/ocenaudio/ocenaudio-translations/pull/new/master) using the files inside `**base**` folder and renaming them as follows the
 [ISO 639 'underscore' ISO 3166](http://www.localeplanet.com/icu/) format.
 
 If you have any questions, please write us in [http://www.ocenaudio.com.br/feedback](http://www.ocenaudio.com.br/feedback).
