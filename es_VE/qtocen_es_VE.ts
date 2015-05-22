@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!DOCTYPE TS>
-<TS version="2.0" language="en_US" sourcelanguage="es_VE">
+<TS version="2.0" language="es_VE" sourcelanguage="en">
 <context>
     <name>QAudioFormat</name>
     <message>
@@ -166,7 +166,7 @@
     <name>QOcenApplication</name>
     <message>
         <source>Regions Comment</source>
-        <translation>Comentario de regiones</translation>
+        <translation>Regiones de comentario</translation>
     </message>
     <message>
         <source>Invalid Code Signature</source>
@@ -182,7 +182,7 @@
     </message>
     <message>
         <source>build</source>
-        <translation>construir</translation>
+        <translation>build</translation>
     </message>
     <message>
         <source>New Plugin Installed</source>
@@ -281,11 +281,11 @@
     </message>
     <message>
         <source>Left</source>
-        <translation>Izquierda</translation>
+        <translation>Izquierdo</translation>
     </message>
     <message>
         <source>Right</source>
-        <translation>Derecha</translation>
+        <translation>Derecho</translation>
     </message>
     <message>
         <source>0</source>
@@ -301,7 +301,7 @@
     </message>
     <message>
         <source>%1 channel of</source>
-        <translation>%1 canal de</translation>
+        <translation>Canal %1 de</translation>
     </message>
     <message>
         <source>%1 combined with %2</source>
@@ -369,7 +369,7 @@
     </message>
     <message>
         <source>Channels Swap</source>
-        <translation>Intercambiar canales</translation>
+        <translation>Cambiar canales</translation>
     </message>
     <message>
         <source>Adjust Sample Rate</source>
@@ -443,6 +443,74 @@
         <source>Detect Dtmf</source>
         <translation>Detectar Dtmf</translation>
     </message>
+    <message>
+        <source>Add Marker</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Move Marker</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Import Regions</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Add Region</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Delete Region</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Undelete Region</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Delete Regions</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Convert Region to Loop</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Convert Loop to Region</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Merge Regions</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Change Region Comment</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Change Region Label</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Change Region Track</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Offset Region</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Change Region Begin</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Change Region End</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Resize Region</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>QOcenAudioApplicationFilesModel</name>
@@ -455,7 +523,7 @@
     <name>QOcenAudioDelegate</name>
     <message>
         <source>REC</source>
-        <translation>GRABAR</translation>
+        <translation></translation>
     </message>
     <message>
         <source>Duration</source>
@@ -562,6 +630,14 @@
         <source>The following files have unsaved changes</source>
         <translation>Los siguientes archivos tienen cambios no guardados</translation>
     </message>
+    <message>
+        <source>&amp;Save All</source>
+        <translation>&amp;Guardar Todo</translation>
+    </message>
+    <message>
+        <source>&amp;Save Selected</source>
+        <translation>&amp;Guardar Seleccionado</translation>
+    </message>
 </context>
 <context>
     <name>QOcenFTPDirListDialog</name>
@@ -594,7 +670,7 @@
     </message>
     <message>
         <source>Ftp Server</source>
-        <translation>Servidor Ftp</translation>
+        <translation>Servidor FTP</translation>
     </message>
     <message>
         <source>Profile Name</source>
@@ -793,7 +869,7 @@
     </message>
     <message>
         <source>bypass</source>
-        <translation type="unfinished">bypass</translation>
+        <translation>bypass</translation>
     </message>
     <message>
         <source>Default Settings</source>
@@ -872,7 +948,7 @@
     </message>
     <message>
         <source>%1 Preset Manager</source>
-        <translation>%1 Administrador de preajustes</translation>
+        <translation>Administrador de preajustes de %1</translation>
     </message>
     <message>
         <source>Current Preset (user&apos;s changes)</source>
@@ -903,11 +979,11 @@
     </message>
     <message>
         <source>Playback Device/Options</source>
-        <translation>Dispositivo de Reproducción/Opciones</translation>
+        <translation>Opciones de Dispositivo de Reproducción</translation>
     </message>
     <message>
         <source>Move cursor to playback stop position</source>
-        <translation>Mover cursor a la posición de parada de reproducción</translation>
+        <translation>Mover cursor a donde se detenga la reprucción</translation>
     </message>
     <message>
         <source>Loop playback on selected audio</source>
@@ -919,7 +995,7 @@
     </message>
     <message>
         <source>Record Device/Options</source>
-        <translation>Dispositivo de Grabación/Opciones</translation>
+        <translation>Opciones de Dispositivo de Grabación</translation>
     </message>
     <message>
         <source>Other Options</source>
@@ -939,7 +1015,7 @@
     </message>
     <message>
         <source>Move cursor to record stop position</source>
-        <translation>Mover cursor posición de parada de grabación</translation>
+        <translation>Dejar cursor donde se detenga la reprucción</translation>
     </message>
     <message>
         <source>Options</source>
@@ -984,7 +1060,7 @@
     </message>
     <message>
         <source>Key Bindings</source>
-        <translation>Vinculaciones claves</translation>
+        <translation>Atajos</translation>
     </message>
     <message>
         <source>Command</source>
@@ -1264,7 +1340,7 @@
     </message>
     <message>
         <source>Network OK</source>
-        <translation>Red buena</translation>
+        <translation>Con conectividad</translation>
     </message>
     <message>
         <source>Server:</source>
@@ -1544,7 +1620,7 @@
     </message>
     <message>
         <source>Number of Bins:</source>
-        <translation>Número de Bins:</translation>
+        <translation>División de frecuencia:</translation>
     </message>
     <message>
         <source>Window Type:</source>
@@ -1875,8 +1951,7 @@
     <message>
         <source>Enter the URL or path to a sound file on the Internet, your computer,
 or your network that you want to open:</source>
-        <translation>Introduzca URL o ruta a un archivo de sonido en Internet, su ordenador,
-o la red que desea abrir:</translation>
+        <translation>Introduzca URL o ruta a un archivo de sonido en Internet, su ordenador, o red que desea abrir:</translation>
     </message>
 </context>
 <context>

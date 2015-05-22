@@ -443,6 +443,74 @@
         <source>Detect Dtmf</source>
         <translation>Detectar Dtmf</translation>
     </message>
+    <message>
+        <source>Add Marker</source>
+        <translation>Adicionar Marcador</translation>
+    </message>
+    <message>
+        <source>Move Marker</source>
+        <translation>Mover Marcador</translation>
+    </message>
+    <message>
+        <source>Import Regions</source>
+        <translation>Importar Regiões</translation>
+    </message>
+    <message>
+        <source>Add Region</source>
+        <translation>Adicionar Região</translation>
+    </message>
+    <message>
+        <source>Delete Region</source>
+        <translation>Apagar Região</translation>
+    </message>
+    <message>
+        <source>Undelete Region</source>
+        <translation>Recuperar Região</translation>
+    </message>
+    <message>
+        <source>Delete Regions</source>
+        <translation>Apagar Regiões</translation>
+    </message>
+    <message>
+        <source>Convert Region to Loop</source>
+        <translation>Converter Região para Loop</translation>
+    </message>
+    <message>
+        <source>Convert Loop to Region</source>
+        <translation>Converter Loop para Região</translation>
+    </message>
+    <message>
+        <source>Merge Regions</source>
+        <translation>Mesclar Regiões</translation>
+    </message>
+    <message>
+        <source>Change Region Comment</source>
+        <translation>Alteração de Comentário da Região</translation>
+    </message>
+    <message>
+        <source>Change Region Label</source>
+        <translation>Alteração de Rótulo de Região</translation>
+    </message>
+    <message>
+        <source>Change Region Track</source>
+        <translation>Alteração de Trilha da Região</translation>
+    </message>
+    <message>
+        <source>Offset Region</source>
+        <translation>Deslocamento de Região</translation>
+    </message>
+    <message>
+        <source>Change Region Begin</source>
+        <translation>Alteração de Início de Região</translation>
+    </message>
+    <message>
+        <source>Change Region End</source>
+        <translation>Alteração de Fim de Região</translation>
+    </message>
+    <message>
+        <source>Resize Region</source>
+        <translation>Redimensionamento de Região</translation>
+    </message>
 </context>
 <context>
     <name>QOcenAudioApplicationFilesModel</name>
@@ -561,6 +629,14 @@
     <message>
         <source>The following files have unsaved changes</source>
         <translation>Os seguintes arquivos possuem alterações não salvas</translation>
+    </message>
+    <message>
+        <source>&amp;Save All</source>
+        <translation>&amp;Salvar Tudo</translation>
+    </message>
+    <message>
+        <source>&amp;Save Selected</source>
+        <translation>&amp;Salvar Selecionado</translation>
     </message>
 </context>
 <context>
@@ -954,7 +1030,7 @@
     </message>
     <message>
         <source>TextLabel</source>
-        <translation></translation>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>

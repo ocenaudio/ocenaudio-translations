@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!DOCTYPE TS>
-<TS version="2.0" language="en_US" sourcelanguage="es_VE">
+<TS version="2.0" language="es_VE" sourcelanguage="en">
 <context>
     <name>AdjustSampleRateDialog</name>
     <message>
         <source>Adjust Sample Rate</source>
-        <translation>Ajuste de frecuencia de muestreo</translation>
+        <translation>Ajustar tasa de muestreo</translation>
     </message>
     <message>
         <source>Sample Rate</source>
-        <translation>Frecuencia de muestreo</translation>
+        <translation>Tasa de muestreo</translation>
     </message>
     <message>
         <source>16000</source>
@@ -49,7 +49,7 @@
     </message>
     <message>
         <source>This setting only changes the value of the sample rate. This operation does not resample the signal.</source>
-        <translation>Este ajuste sólo cambia el valor de la frecuencia de muestreo. Esta operación no remuestrea la señal.</translation>
+        <translation>Este ajuste sólo cambia el valor de la tasa de muestreo. Esta operación no remuestrea la señal.</translation>
     </message>
 </context>
 <context>
@@ -119,7 +119,7 @@
     </message>
     <message>
         <source>Display Time Format</source>
-        <translation>Visualizar formato de tiempo</translation>
+        <translation>Mostrar formato de tiempo</translation>
     </message>
     <message>
         <source>Vertical Scale Format</source>
@@ -271,7 +271,7 @@
     </message>
     <message>
         <source>Adjust Sample Rate...</source>
-        <translation>Ajustar frecuencia de muestreo...</translation>
+        <translation>Ajustar tasa de muestreo...</translation>
     </message>
     <message>
         <source>Convert Sample Type...</source>
@@ -355,7 +355,7 @@
     </message>
     <message>
         <source>Reverse</source>
-        <translation>Inverso</translation>
+        <translation>Al Revés</translation>
     </message>
     <message>
         <source>Silence</source>
@@ -953,7 +953,7 @@
     </message>
     <message>
         <source>You have multiple selections. Do you want to save each selection to a separate file?</source>
-        <translation>Usted tiene varias selecciones. ¿Desea guardar cada selección en un archivo separado?</translation>
+        <translation>Usted tiene varias selecciones. ¿Guardar cada selección en un archivo separado?</translation>
     </message>
     <message>
         <source>Select &quot;separate&quot; to save each selection to a different file. If you select &quot;single&quot; all your selections will be appended and saved to a single file.</source>
@@ -1011,9 +1011,9 @@
         <source>%1</source>
         <translation>%1</translation>
     </message>
-    <message>
+    <message utf8="true">
         <source>Do you want to revert to the most recently saved version of the document “%1”?</source>
-        <translation>¿Desea volver a la última versión guardada del documento “%1”?</translation>
+        <translation>¿Volver a la última versión guardada del documento “%1”?</translation>
     </message>
     <message>
         <source>Your current changes will be lost.</source>
@@ -1045,7 +1045,7 @@
     </message>
     <message>
         <source>You are about to remove all metadata of this file. Are you sure you want to proceed?</source>
-        <translation>Estás a punto de eliminar todos los metadatos de este archivo. ¿Desea continuar?</translation>
+        <translation>Estás a punto de eliminar todos los metadatos de este archivo. ¿Continuar?</translation>
     </message>
     <message>
         <source>If you proceed all metadata informations (artist name, album name, artwork) will be removed from this file.</source>
@@ -1065,7 +1065,7 @@
     </message>
     <message>
         <source>You are about to split your audio by %1 parts. Are you sure you want to proceed?</source>
-        <translation>Estás a punto de dividir el audio en %1 partes. ¿Desea continuar?</translation>
+        <translation>Estás a punto de dividir el audio en %1 partes. ¿Continuar?</translation>
     </message>
     <message>
         <source>If you proceed this operation will generate %1 new audio files.</source>
@@ -1383,7 +1383,7 @@
     </message>
     <message>
         <source>Sample Rate</source>
-        <translation>Frecuencia de muestreo</translation>
+        <translation>Tasa de muestreo</translation>
     </message>
     <message>
         <source>16000</source>
@@ -1696,7 +1696,7 @@
     </message>
     <message>
         <source>In current version, ocenaudio uses DIRAC LE library that supports only one audio channel with sampling rate of 44100 Hz or 48000 Hz.</source>
-        <translation>En la versión actual, ocenaudio usa la biblioteca DIRAC LE que admite sólo un canal de audio con frecuencia de muestreo de 44100 Hz o 48000 Hz.</translation>
+        <translation>En la versión actual, ocenaudio usa la biblioteca DIRAC LE que admite sólo un canal de audio con tasa de muestreo de 44100 Hz o 48000 Hz.</translation>
     </message>
     <message>
         <source>Time and Pitch Adjust</source>
@@ -1905,7 +1905,7 @@
     </message>
     <message>
         <source>Number of Bins</source>
-        <translation>Número de bandejas</translation>
+        <translation>División de frecuencia</translation>
     </message>
     <message>
         <source>Scale Kind</source>
@@ -1937,7 +1937,7 @@
     </message>
     <message>
         <source>%1 Window | %2 bins</source>
-        <translation>%1 Ventana | %2 bandejas</translation>
+        <translation>Ventana %1 | %2 frecuencias</translation>
     </message>
     <message>
         <source>%1 Scale</source>
@@ -1988,7 +1988,7 @@
     </message>
     <message>
         <source>%1 dB/decade</source>
-        <translation>%1 dB/década</translation>
+        <translation>%1 dB/decaimiento</translation>
     </message>
     <message>
         <source>Applying Lowpass Filter</source>
@@ -2291,29 +2291,29 @@
         <source>No Gap</source>
         <translation>Sin diferencia</translation>
     </message>
-    <message>
+    <message utf8="true">
         <source>½ s Gap</source>
-        <translation>Diferencia de ½ s</translation>
+        <translation></translation>
     </message>
     <message>
         <source>1 s Gap</source>
-        <translation>Diferencia de 1 s</translation>
+        <translation></translation>
     </message>
     <message>
         <source>2 s Gap</source>
-        <translation>Diferencia de 2 s</translation>
+        <translation></translation>
     </message>
     <message>
         <source>3 s Gap</source>
-        <translation>Diferencia de 3 s</translation>
+        <translation></translation>
     </message>
     <message>
         <source>4 s Gap</source>
-        <translation>Diferencia de 4 s</translation>
+        <translation></translation>
     </message>
     <message>
         <source>5 s Gap</source>
-        <translation>Diferencia de 5 s</translation>
+        <translation></translation>
     </message>
     <message>
         <source>Lowest</source>
@@ -2398,7 +2398,7 @@
         <source>Version 2.6.0 (Build 2292)</source>
         <translation>Versión 2.6.0 (Build 2292)</translation>
     </message>
-    <message>
+    <message utf8="true">
         <source>© Copyright OcenAudio Team</source>
         <translation>© Copyright Equipo de OcenAudio</translation>
     </message>
@@ -2414,7 +2414,7 @@
         <source>Version 2.0.0.rc1 (Build 2292)</source>
         <translation>Versión 2.0.0.rc1 (Build 2292)</translation>
     </message>
-    <message>
+    <message utf8="true">
         <source>© Copyright ocenaudio Team</source>
         <translation>© Copyright equipo de ocenaudio</translation>
     </message>
@@ -2470,7 +2470,7 @@ Haga clic aquí para descargarla.</translation>
     </message>
     <message>
         <source>Do you want to send details on the crash to ocenaudio&apos;s development team?</source>
-        <translation>¿Desea enviar detalles sobre el error al equipo de desarrollo de ocenaudio?</translation>
+        <translation>¿Enviar detalles sobre el error al equipo de desarrollo de ocenaudio?</translation>
     </message>
     <message>
         <source>If you want, you can enter a few lines on what you did before ocenaudio crashed along with other helpful information: sample file, os crash report, screen shots, ...</source>
@@ -2531,29 +2531,29 @@ Haga clic aquí para descargarla.</translation>
         <source>No Gap</source>
         <translation>Sin diferencia</translation>
     </message>
-    <message>
+    <message utf8="true">
         <source>½ s Gap</source>
-        <translation>½ s de diferencia</translation>
+        <translation>Diferencia de ½ s</translation>
     </message>
     <message>
         <source>1 s Gap</source>
-        <translation>1 s de diferencia</translation>
+        <translation>Diferencia de 1 s</translation>
     </message>
     <message>
         <source>2 s Gap</source>
-        <translation>2 s de diferencia</translation>
+        <translation>Diferencia de 2 s</translation>
     </message>
     <message>
         <source>3 s Gap</source>
-        <translation>3 s de diferencia</translation>
+        <translation>Diferencia de 3 s</translation>
     </message>
     <message>
         <source>4 s Gap</source>
-        <translation>4 s de diferencia</translation>
+        <translation>Diferencia de 4 s</translation>
     </message>
     <message>
         <source>5 s Gap</source>
-        <translation>5 s de diferencia</translation>
+        <translation>Diferencia de 5 s</translation>
     </message>
 </context>
 <context>
@@ -2564,7 +2564,7 @@ Haga clic aquí para descargarla.</translation>
     </message>
     <message>
         <source>RAW</source>
-        <translation>En Bruto</translation>
+        <translation>Puro</translation>
     </message>
     <message>
         <source>Data Type:</source>
@@ -2578,7 +2578,7 @@ Haga clic aquí para descargarla.</translation>
         <source>A-Law companding PCM (G.711a)</source>
         <translation>A-Law companding PCM (G.711a)</translation>
     </message>
-    <message>
+    <message utf8="true">
         <source>μ-Law companding PCM (G.711u)</source>
         <translation>μ-Law companding PCM (G.711u)</translation>
     </message>
@@ -2628,15 +2628,15 @@ Haga clic aquí para descargarla.</translation>
     </message>
     <message>
         <source>Medium Low</source>
-        <translation>Medio Bajao</translation>
+        <translation>Medio Baja</translation>
     </message>
     <message>
         <source>Medium</source>
-        <translation>Medio</translation>
+        <translation>Mediana</translation>
     </message>
     <message>
         <source>Medium High</source>
-        <translation>Medio Alto</translation>
+        <translation>Medio Alta</translation>
     </message>
     <message>
         <source>High</source>
@@ -2644,11 +2644,11 @@ Haga clic aquí para descargarla.</translation>
     </message>
     <message>
         <source>Highest</source>
-        <translation>Mas alta</translation>
+        <translation>Más alta</translation>
     </message>
     <message>
         <source>Minimum Bit Rate:</source>
-        <translation>Tasa de bits mínima:</translation>
+        <translation>Tasa de Bits Mínima:</translation>
     </message>
     <message>
         <source>16 kbps</source>
@@ -2776,15 +2776,15 @@ Haga clic aquí para descargarla.</translation>
     </message>
     <message>
         <source>Constant Bit Rate (CBR)</source>
-        <translation>Tasa de bits constante (CBR)</translation>
+        <translation>Tasa de Bits Constante (CBR)</translation>
     </message>
     <message>
         <source>Limited Variable Bit Rate (ABR)</source>
-        <translation>Tasa de bits variable limitada (ABR)</translation>
+        <translation>Tasa de Bits Variable Limitada (ABR)</translation>
     </message>
     <message>
         <source>Maximum Bit Rate:</source>
-        <translation>Tasa de bits máxima:</translation>
+        <translation>Tasa de Bits Máxima:</translation>
     </message>
     <message>
         <source>Others</source>
@@ -2842,9 +2842,9 @@ Haga clic aquí para descargarla.</translation>
         <source>Question</source>
         <translation>Pregunta</translation>
     </message>
-    <message>
+    <message utf8="true">
         <source>“%1” already exists. Do you want to replace it?</source>
-        <translation>“%1” ya existe. ¿Desea reemplazarlo?</translation>
+        <translation>“%1” ya existe. ¿Reemplazarlo?</translation>
     </message>
     <message>
         <source>A audio file with the same name already exists in the selected folder. Replacing it will overwrite its current contents.</source>
@@ -2858,19 +2858,19 @@ Haga clic aquí para descargarla.</translation>
         <source>Cancel</source>
         <translation>Cancelar</translation>
     </message>
-    <message>
+    <message utf8="true">
         <source>Are you sure you want to use the “%1” extension?</source>
-        <translation>¿Realmente desea utilizar la extensión “%1” ?</translation>
+        <translation>¿Realmente desea usar la extensión “%1” ?</translation>
     </message>
-    <message>
+    <message utf8="true">
         <source>The default extension for the selected format is “%1”. If you choose a different extension, you might not be able to open the exported file.</source>
         <translation>La extensión por defecto para el formato seleccionado es “%1”. Si elige una extensión diferente, es posible que no pueda abrir el archivo exportado.</translation>
     </message>
-    <message>
+    <message utf8="true">
         <source>Keep “%1”</source>
         <translation>Mantener “%1”</translation>
     </message>
-    <message>
+    <message utf8="true">
         <source>Use “%1” instead</source>
         <translation>Usar “%1” en su lugar</translation>
     </message>
@@ -2883,7 +2883,7 @@ Haga clic aquí para descargarla.</translation>
     </message>
     <message>
         <source>Sample Rate</source>
-        <translation>Frecuencia de muestreo</translation>
+        <translation>Tasa de muestreo</translation>
     </message>
     <message>
         <source>16000</source>
@@ -2935,7 +2935,7 @@ Haga clic aquí para descargarla.</translation>
     </message>
     <message>
         <source>Swap L/R Channels</source>
-        <translation>Intercambiar canales I/D</translation>
+        <translation>Cambiar canales I/D</translation>
     </message>
     <message>
         <source>Left Mix:</source>
@@ -3097,7 +3097,7 @@ Aquí</translation>
     </message>
     <message>
         <source>Raw Sound Files</source>
-        <translation>Archivos de sonido en bruto</translation>
+        <translation>Archivos de sonido puro</translation>
     </message>
     <message>
         <source>Text Sound Files</source>
@@ -3227,7 +3227,7 @@ Aquí</translation>
     </message>
     <message>
         <source>Paste to New</source>
-        <translation>Pegado a nuevo</translation>
+        <translation>Pegar nuevo</translation>
     </message>
     <message>
         <source>Save As...</source>
@@ -3247,7 +3247,7 @@ Aquí</translation>
     </message>
     <message>
         <source>You are about to append %1 files in the selected audio. Are you sure you want to proceed?</source>
-        <translation>Vas a agregar %1 archivos en el audio seleccionado. ¿Realmente desea continuar?</translation>
+        <translation>Vas a agregar %1 archivos en el audio seleccionado. ¿Continuar?</translation>
     </message>
     <message>
         <source>This operation may take a long time.</source>
@@ -3522,7 +3522,7 @@ Aquí</translation>
     </message>
     <message>
         <source>Preview</source>
-        <translation>Previsualización</translation>
+        <translation>Vista previa</translation>
     </message>
     <message>
         <source>Generating %1 Noise</source>
@@ -3550,7 +3550,7 @@ Aquí</translation>
     </message>
     <message>
         <source>Stop Preview</source>
-        <translation>Detener previsualización</translation>
+        <translation>Detener vista previa</translation>
     </message>
 </context>
 <context>
@@ -3588,7 +3588,7 @@ Aquí</translation>
     </message>
     <message>
         <source>Raw Data Format</source>
-        <translation>Formato de dato en bruto</translation>
+        <translation>Formato de dato puro</translation>
     </message>
     <message>
         <source>Item1</source>
@@ -3604,7 +3604,7 @@ Aquí</translation>
     </message>
     <message>
         <source>Sample Rate</source>
-        <translation>Frecuencia de muestreo</translation>
+        <translation>Tasa de muestreo</translation>
     </message>
     <message>
         <source>48000</source>
@@ -3656,15 +3656,15 @@ Aquí</translation>
     </message>
     <message>
         <source>Use this configuration for next files having extension &apos;.dat&apos;</source>
-        <translation>Usar esta configuración para los próximos archivos con extensión &apos;.dat&apos;</translation>
+        <translation>Usar estos ajustes para los próximos archivos con extensión &apos;.dat&apos;</translation>
     </message>
     <message>
         <source>Raw Sound Format</source>
-        <translation>Formato de sonido en bruto</translation>
+        <translation>Formato de sonido puro</translation>
     </message>
     <message>
         <source>Preview</source>
-        <translation>Previsualización</translation>
+        <translation>Vista previa</translation>
     </message>
     <message>
         <source>Skip</source>
@@ -3672,15 +3672,15 @@ Aquí</translation>
     </message>
     <message>
         <source>Use this configuration for next files having extension &apos;.%1&apos;</source>
-        <translation>Usar esta configuración para los próximos archivos con extensión &apos;.%1&apos;</translation>
+        <translation>Usar estos ajustes para los próximos archivos con extensión &apos;.%1&apos;</translation>
     </message>
     <message>
         <source>Use this configuration for next files having no extension</source>
-        <translation>Usar esta configuración para los próximos archivos sin extensión</translation>
+        <translation>Usar estos ajustes para los próximos archivos sin extensión</translation>
     </message>
     <message>
         <source>Stop Preview</source>
-        <translation>Detener previsualización</translation>
+        <translation>Detener vista previa</translation>
     </message>
 </context>
 <context>
@@ -3711,7 +3711,7 @@ Aquí</translation>
     </message>
     <message>
         <source>Where:</source>
-        <translation>Dónde:</translation>
+        <translation>Ubicación:</translation>
     </message>
     <message>
         <source>File format:</source>
@@ -3719,11 +3719,11 @@ Aquí</translation>
     </message>
     <message>
         <source>Bit Rate:</source>
-        <translation>Tasa de bits:</translation>
+        <translation>Tasa de Bits:</translation>
     </message>
     <message>
         <source>Sample rate:</source>
-        <translation>Frecuencia de muestreo:</translation>
+        <translation>Tasa de muestreo:</translation>
     </message>
     <message>
         <source>Bits per sample:</source>
@@ -3859,11 +3859,11 @@ Aquí</translation>
     </message>
     <message>
         <source>Minimum Sample Value:</source>
-        <translation>Valor mínimo de la muestra:</translation>
+        <translation>Valor mínimo de muestra:</translation>
     </message>
     <message>
         <source>Maximum Sample Value:</source>
-        <translation>Valor máximo de la muestra:</translation>
+        <translation>Valor máximo de muestra:</translation>
     </message>
     <message>
         <source>Peak Amplitude:</source>
@@ -4019,7 +4019,7 @@ Aquí</translation>
         <source>16 bits - a-Law companding PCM (G.711a)</source>
         <translation>16 bits - a-Law companding PCM (G.711a)</translation>
     </message>
-    <message>
+    <message utf8="true">
         <source>16 bits - μ-Law companding PCM (G.711u)</source>
         <translation>16 bits - μ-Law companding PCM (G.711u)</translation>
     </message>
@@ -4135,7 +4135,7 @@ Aquí</translation>
         <source>16 bits - G.711.1 Mode 1 (a-law)</source>
         <translation>16 bits - G.711.1 Mode 1 (a-law)</translation>
     </message>
-    <message>
+    <message utf8="true">
         <source>16 bits - G.711.1 Mode 1 (μ-law)</source>
         <translation>16 bits - G.711.1 Mode 1 (μ-law)</translation>
     </message>
@@ -4143,7 +4143,7 @@ Aquí</translation>
         <source>16 bits - G.711.1 Mode 2 (a-law)</source>
         <translation>16 bits - G.711.1 Mode 2 (a-law)</translation>
     </message>
-    <message>
+    <message utf8="true">
         <source>16 bits - G.711.1 Mode 2 (μ-law)</source>
         <translation>16 bits - G.711.1 Mode 2 (μ-law)</translation>
     </message>
@@ -4151,7 +4151,7 @@ Aquí</translation>
         <source>16 bits - G.711.1 Mode 3 (a-law)</source>
         <translation>16 bits - G.711.1 Mode 3 (a-law)</translation>
     </message>
-    <message>
+    <message utf8="true">
         <source>16 bits - G.711.1 Mode 3 (μ-law)</source>
         <translation>16 bits - G.711.1 Mode 3 (μ-law)</translation>
     </message>
@@ -4159,7 +4159,7 @@ Aquí</translation>
         <source>16 bits - G.711.1 Mode 4 (a-law)</source>
         <translation>16 bits - G.711.1 Mode 4 (a-law)</translation>
     </message>
-    <message>
+    <message utf8="true">
         <source>16 bits - G.711.1 Mode 4 (μ-law)</source>
         <translation>16 bits - G.711.1 Mode 4 (μ-law)</translation>
     </message>
