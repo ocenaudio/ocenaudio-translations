@@ -309,7 +309,7 @@
     </message>
     <message>
         <source>Downmix of %1</source>
-        <translation></translation>
+        <translation>Mezcla de %1</translation>
     </message>
     <message>
         <source>Join of %1 and %2</source>
@@ -445,71 +445,71 @@
     </message>
     <message>
         <source>Add Marker</source>
-        <translation type="unfinished"></translation>
+        <translation>Añadir marcador</translation>
     </message>
     <message>
         <source>Move Marker</source>
-        <translation type="unfinished"></translation>
+        <translation>Mover marcador</translation>
     </message>
     <message>
         <source>Import Regions</source>
-        <translation type="unfinished"></translation>
+        <translation>Importar regiones</translation>
     </message>
     <message>
         <source>Add Region</source>
-        <translation type="unfinished"></translation>
+        <translation>Añadir región</translation>
     </message>
     <message>
         <source>Delete Region</source>
-        <translation type="unfinished"></translation>
+        <translation>Eliminar región</translation>
     </message>
     <message>
         <source>Undelete Region</source>
-        <translation type="unfinished"></translation>
+        <translation>Rehacer región</translation>
     </message>
     <message>
         <source>Delete Regions</source>
-        <translation type="unfinished"></translation>
+        <translation>Eliminar regiones</translation>
     </message>
     <message>
         <source>Convert Region to Loop</source>
-        <translation type="unfinished"></translation>
+        <translation>Convertir región en bucle</translation>
     </message>
     <message>
         <source>Convert Loop to Region</source>
-        <translation type="unfinished"></translation>
+        <translation>Convertir bucle en región</translation>
     </message>
     <message>
         <source>Merge Regions</source>
-        <translation type="unfinished"></translation>
+        <translation>Unir regiones</translation>
     </message>
     <message>
         <source>Change Region Comment</source>
-        <translation type="unfinished"></translation>
+        <translation>Cambiar comentario de región</translation>
     </message>
     <message>
         <source>Change Region Label</source>
-        <translation type="unfinished"></translation>
+        <translation>Cambiar etiqueta de región</translation>
     </message>
     <message>
         <source>Change Region Track</source>
-        <translation type="unfinished"></translation>
+        <translation>Cambiar pista de región</translation>
     </message>
     <message>
         <source>Offset Region</source>
-        <translation type="unfinished"></translation>
+        <translation>Región Offset</translation>
     </message>
     <message>
         <source>Change Region Begin</source>
-        <translation type="unfinished"></translation>
+        <translation>Cambiar inicio de región</translation>
     </message>
     <message>
         <source>Change Region End</source>
-        <translation type="unfinished"></translation>
+        <translation>Cambiar final de región</translation>
     </message>
     <message>
         <source>Resize Region</source>
-        <translation type="unfinished"></translation>
+        <translation>Reajustar región</translation>
     </message>
 </context>
 <context>
@@ -1692,7 +1692,7 @@
     </message>
     <message>
         <source>Inv. Linear Grayscale</source>
-        <translation type="unfinished">Inv. escala de grises lineal</translation>
+        <translation>Escala de grises lineal inversa</translation>
     </message>
     <message>
         <source>Linear Grayscale</source>
@@ -1704,7 +1704,7 @@
     </message>
     <message>
         <source>Inv. Grayscale</source>
-        <translation type="unfinished">Inv. escala de grises</translation>
+        <translation>Escala de grises inversa</translation>
     </message>
     <message>
         <source>Color</source>

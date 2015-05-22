@@ -174,7 +174,7 @@
     </message>
     <message>
         <source>This means Ocenaudio has been tampered, possibly making it less secure. The program cannot be executed in this state. It is necessary to reinstall the application in order to use it.</source>
-        <translation>Cela signifie qu'Ocenaudio a été altéré, le rendant moins sécurisé. Le programme ne peut pas fonctionner dans cet état. Vous devez réinstaller l&apos;application pour l&apos;utiliser.</translation>
+        <translation>Cela signifie qu&apos;Ocenaudio a été altéré, le rendant moins sécurisé. Le programme ne peut pas fonctionner dans cet état. Vous devez réinstaller l&apos;application pour l&apos;utiliser.</translation>
     </message>
     <message>
         <source>New Sound Device Found</source>
@@ -443,6 +443,74 @@
         <source>Detect Dtmf</source>
         <translation>Détecter DTMF</translation>
     </message>
+    <message>
+        <source>Add Marker</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Move Marker</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Import Regions</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Add Region</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Delete Region</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Undelete Region</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Delete Regions</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Convert Region to Loop</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Convert Loop to Region</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Merge Regions</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Change Region Comment</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Change Region Label</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Change Region Track</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Offset Region</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Change Region Begin</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Change Region End</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Resize Region</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>QOcenAudioApplicationFilesModel</name>
@@ -561,6 +629,14 @@
     <message>
         <source>The following files have unsaved changes</source>
         <translation>Les fichiers suivants ont des modifications pas enregistrées</translation>
+    </message>
+    <message>
+        <source>&amp;Save All</source>
+        <translation>&amp;Tout Enregistrer</translation>
+    </message>
+    <message>
+        <source>&amp;Save Selected</source>
+        <translation>&amp;Enregistrer Sélectionné</translation>
     </message>
 </context>
 <context>
