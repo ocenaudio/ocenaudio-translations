@@ -229,7 +229,7 @@
     </message>
     <message>
         <source>Where</source>
-        <translation>Donde</translation>
+        <translation>Ubicación</translation>
     </message>
     <message>
         <source>Copying</source>
@@ -1321,7 +1321,7 @@
     </message>
     <message>
         <source>Where</source>
-        <translation>Donde</translation>
+        <translation>Ubicación</translation>
     </message>
 </context>
 <context>
