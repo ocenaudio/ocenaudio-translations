@@ -3524,7 +3524,7 @@ Here</source>
     </message>
     <message>
         <source>Preview</source>
-        <translation>Предварителен преглед</translation>
+        <translation>Пусни преглед</translation>
     </message>
     <message>
         <source>Generating %1 Noise</source>
@@ -3666,7 +3666,7 @@ Here</source>
     </message>
     <message>
         <source>Preview</source>
-        <translation>Предварителен преглед</translation>
+        <translation>Пусни преглед</translation>
     </message>
     <message>
         <source>Skip</source>
