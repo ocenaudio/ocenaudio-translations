@@ -380,11 +380,11 @@
 </message>
 <message>
 <source>Hide Waveform Navigator</source>
-<translation>波形ナビゲータを非表示ranslation>
+<translation>波形ナビゲータを非表示</translation>
 </message>
 <message>
 <source>PlaceHolder</source>
-<translation>代替物<translation>
+<translation>代替物</translation>
 </message>
 <message>
 <source>Add Marker</source>
@@ -476,7 +476,7 @@
 </message>
 <message>
 <source>Select Audio From Regions</source>
-<translation>複数な領域からオーディオを選択から/translation>
+<translation>複数な領域からオーディオを選択から</translation>
 </message>
 <message>
 <source>Export Audio From Regions...</source>
@@ -885,7 +885,7 @@
 </message>
 <message>
 <source>Markers less than 10 ms apart are merged in the split process. You have %1 markers merged.</source>
-<translation>ファイルを分ける際、マーカーとマーカーの間が10ms以下の場合には、一つに纏まられます。一つのマーカーが纏まられました。<</translation>
+<translation>ファイルを分ける際、マーカーとマーカーの間が10ms以下の場合には、一つに纏まられます。一つのマーカーが纏まられました。</translation>
 </message>
 <message>
 <source>You are about to split your audio by %1 parts. Are you sure you want to proceed?</source>
@@ -1201,7 +1201,7 @@
 </message>
 <message>
 <source>Goto Previous Audio</source>
-<translation>前のオーディオに移動<</translation>
+<translation>前のオーディオに移動</translation>
 </message>
 <message>
 <source>Enable/Disable Loop Playback</source>
