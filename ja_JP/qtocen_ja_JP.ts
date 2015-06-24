@@ -139,23 +139,23 @@
 </message>
 <message>
 <source>Stream</source>
-<translation>ストリーム></translation>
+<translation>ストリーム&gt;</translation>
 </message>
 <message>
 <source>stream</source>
-<translation>ストリーム></translation>
+<translation>ストリーム&gt;</translation>
 </message>
 <message>
 <source>Stream %1 of %2</source>
-<translation>ストリーム　%2　の　%1></translation>
+<translation>ストリーム　%2　の　%1&gt;</translation>
 </message>
 <message>
 <source>Stream %1</source>
-<translation>ストリーム　%1></translation>
+<translation>ストリーム　%1&gt;</translation>
 </message>
 <message>
 <source>Sound Files</source>
-<translation>サウンドファイル></translation>
+<translation>サウンドファイル&gt;</translation>
 </message>
 <message>
 <source>All Files</source>
@@ -477,7 +477,7 @@
 </message>
 <message>
 <source>Convert Loop to Region</source>
-<translation>>ループを領域に化す</translation>
+<translation>&gt;ループを領域に化す</translation>
 </message>
 <message>
 <source>Merge Regions</source>
@@ -816,7 +816,7 @@
 </message>
 <message>
 <source>Connected to FTP server</source>
-<translation>FTPサーバーに接続しています/translation>
+<translation>FTPサーバーに接続しています</translation>
 </message>
 <message>
 <source>Connection refused. Please, check the server address, username and password.</source>
@@ -885,7 +885,7 @@
 </message>
 <message>
 <source>Built-in Presets</source>
-<translation><組み込みプリセット/translation>
+<translation>組み込みプリセット</translation>
 </message>
 <message>
 <source>Saved Presets</source>
@@ -1116,7 +1116,7 @@
 <source>An error was encountered while saving your sound file &quot;%1&quot;!</source>
 <translation>サウンドファイルを保存する時に、エラーが発生されました。</translation>
 </message>
-<message>
+<message utf8="both">
 <source>Your changes will be lost if you don&apos;t save them.</source>
 <translation>保存しないと、変更が失われます。</translation>
 </message>
@@ -1147,10 +1147,6 @@
 <message utf8="true">
 <source>Do you want to save the changes you made in the sound “%1”?</source>
 <translation>サウンド“%1”の変更を保存しますか。</translation>
-</message>
-<message utf8="true">
-<source>Your changes will be lost if you don&apos;t save them.</source>
-<translation>保存しないと、変更が失われます。</translation>
 </message>
 <message>
 <source>Save As...</source>
@@ -1450,7 +1446,7 @@
 </message>
 <message>
 <source>Check if your file have an incorrect or unsupported format.</source>
-<translation>正しくない、又は非対応のフォーマットがファイルに存在していない様、ご確認ください。/translation>
+<translation>正しくない、又は非対応のフォーマットがファイルに存在していない様、ご確認ください。</translation>
 </message>
 <message>
 <source>No supported audio files found!</source>
@@ -1659,7 +1655,6 @@
 <translation>狭帯域</translation>
 </message>
 <message>
-<source>Wide Band</source>
 <source>Wide Band</source>
 <translation>広帯域</translation>
 </message>
@@ -1983,7 +1978,7 @@ or your network that you want to open:</source>
 </message>
 <message>
 <source>Manufacturer:</source>
-<translation>製造業者</translation>
+<translation>製造業者:</translation>
 </message>
 </context>
 <context>
