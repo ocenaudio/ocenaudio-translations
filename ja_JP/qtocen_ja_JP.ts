@@ -32,11 +32,11 @@
 </message>
 <message>
 <source>%1 dB</source>
-<translation>%1 dB</translation>
+<translation></translation>
 </message>
 <message>
 <source>%1 %</source>
-<translation>%1 %</translation>
+<translation></translation>
 </message>
 </context>
 <context>
@@ -178,7 +178,7 @@
 </message>
 <message>
 <source>New Sound Device Found</source>
-<translation>新しいサウンドデバイスが検出されました。</translation>
+<translation>新しいサウンドデバイスが検出されました</translation>
 </message>
 <message>
 <source>build</source>
@@ -289,15 +289,15 @@
 </message>
 <message>
 <source>0</source>
-<translation>0</translation>
+<translation></translation>
 </message>
 <message>
 <source>L</source>
-<translation>L</translation>
+<comment>Left Channel</comment><translation type="unfinished"></translation>
 </message>
 <message>
 <source>R</source>
-<translation>R</translation>
+<comment>Right Channel</comment><translation type="unfinished"></translation>
 </message>
 <message>
 <source>%1 channel of</source>
@@ -835,11 +835,11 @@
 <name>QOcenFileFormat</name>
 <message>
 <source>Flac</source>
-<translation>Flac</translation>
+<translation></translation>
 </message>
 <message>
 <source>WavPack</source>
-<translation>WavPack</translation>
+<translation></translation>
 </message>
 <message>
 <source>Stream</source>
@@ -1266,7 +1266,7 @@
 </message>
 <message>
 <source>%1 Hz</source>
-<translation>%1 Hz</translation>
+<translation></translation>
 </message>
 <message>
 <source>Audio format not changed</source>
@@ -1344,7 +1344,7 @@
 </message>
 <message>
 <source>:</source>
-<translation>:</translation>
+<translation></translation>
 </message>
 <message>
 <source>Authentication</source>
@@ -1993,11 +1993,11 @@ or your network that you want to open:</source>
 </message>
 <message>
 <source>/Library/Audio/plugins/VST/delay.vst</source>
-<translation>/Library/Audio/plugins/VST/delay.vst</translation>
+<translation></translation>
 </message>
 <message>
 <source>/Library/Audio/plugins/VST/sampler.vst (crashed)</source>
-<translation>/Library/Audio/plugins/VST/sampler.vst (crashed)</translation>
+<translation></translation>
 </message>
 <message>
 <source>Enable All</source>
@@ -2052,7 +2052,7 @@ or your network that you want to open:</source>
 </message>
 <message>
 <source>VST</source>
-<translation>VST</translation>
+<translation></translation>
 </message>
 <message>
 <source>Select Directory</source>

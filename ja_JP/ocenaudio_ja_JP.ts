@@ -13,7 +13,7 @@
 </message>
 <message>
 <source>16000</source>
-<translation>16000</translation>
+<translation></translation>
 </message>
 <message>
 <source>Hz</source>
@@ -21,31 +21,31 @@
 </message>
 <message>
 <source>48000</source>
-<translation>48000</translation>
+<translation></translation>
 </message>
 <message>
 <source>44100</source>
-<translation>44100</translation>
+<translation></translation>
 </message>
 <message>
 <source>32000</source>
-<translation>32000</translation>
+<translation></translation>
 </message>
 <message>
 <source>22050</source>
-<translation>22050</translation>
+<translation></translation>
 </message>
 <message>
 <source>11025</source>
-<translation>11025</translation>
+<translation></translation>
 </message>
 <message>
 <source>8000</source>
-<translation>8000</translation>
+<translation></translation>
 </message>
 <message>
 <source>6000</source>
-<translation>6000</translation>
+<translation></translation>
 </message>
 <message>
 <source>This setting only changes the value of the sample rate. This operation does not resample the signal.</source>
@@ -444,7 +444,7 @@
 </message>
 <message>
 <source>Ctrl+Alt+Right</source>
-<translation>Ctrl+Alt+Right</translation>
+<translation></translation>
 </message>
 <message>
 <source>Previous Marker</source>
@@ -452,7 +452,7 @@
 </message>
 <message>
 <source>Ctrl+Alt+Left</source>
-<translation>Ctrl+Alt+Left</translation>
+<translation></translation>
 </message>
 <message>
 <source>Next Zero Crossing</source>
@@ -1305,7 +1305,7 @@
 </message>
 <message>
 <source>Apple N-Band Equalizer</source>
-<translation></translation>
+<translation type="unfinished"></translation>
 </message>
 <message>
 <source>Apple Pitch</source>
@@ -1344,7 +1344,7 @@
 </message>
 <message>
 <source>00:00:00.000</source>
-<translation>00:00:00.000</translation>
+<translation></translation>
 </message>
 <message>
 <source>View</source>
@@ -1387,7 +1387,7 @@
 </message>
 <message>
 <source>16000</source>
-<translation>16000</translation>
+<translation></translation>
 </message>
 <message>
 <source>Hz</source>
@@ -1395,31 +1395,31 @@
 </message>
 <message>
 <source>48000</source>
-<translation>48000</translation>
+<translation></translation>
 </message>
 <message>
 <source>44100</source>
-<translation>44100</translation>
+<translation></translation>
 </message>
 <message>
 <source>32000</source>
-<translation>32000</translation>
+<translation></translation>
 </message>
 <message>
 <source>22050</source>
-<translation>22050</translation>
+<translation></translation>
 </message>
 <message>
 <source>11025</source>
-<translation>11025</translation>
+<translation></translation>
 </message>
 <message>
 <source>8000</source>
-<translation>8000</translation>
+<translation></translation>
 </message>
 <message>
 <source>6000</source>
-<translation>6000</translation>
+<translation></translation>
 </message>
 <message>
 <source>Channels</source>
@@ -1439,7 +1439,7 @@
 </message>
 <message>
 <source>16</source>
-<translation>16</translation>
+<translation></translation>
 </message>
 <message>
 <source>bits</source>
@@ -1502,7 +1502,7 @@
 </message>
 <message>
 <source>-6</source>
-<translation>-6</translation>
+<translation></translation>
 </message>
 <message>
 <source>dB</source>
@@ -1541,7 +1541,7 @@
 </message>
 <message>
 <source>100.0 ms</source>
-<translation>100.0 ms</translation>
+<translation></translation>
 </message>
 <message>
 <source>Feedback</source>
@@ -1549,19 +1549,19 @@
 </message>
 <message>
 <source>-100%</source>
-<translation>-100%</translation>
+<translation></translation>
 </message>
 <message>
 <source>0</source>
-<translation>0</translation>
+<translation></translation>
 </message>
 <message>
 <source>100%</source>
-<translation>100%</translation>
+<translation></translation>
 </message>
 <message>
 <source>-100.0 %</source>
-<translation>-100.0 %</translation>
+<translation></translation>
 </message>
 <message>
 <source>Blend</source>
@@ -1577,7 +1577,7 @@
 </message>
 <message>
 <source>10,6 ms</source>
-<translation>10,6 ms</translation>
+<translation></translation>
 </message>
 <message>
 <source>Flanger</source>
@@ -1613,7 +1613,7 @@
 </message>
 <message>
 <source>100.0 %</source>
-<translation>100.0 %</translation>
+<translation></translation>
 </message>
 <message>
 <source>Reverb</source>
@@ -1629,7 +1629,7 @@
 </message>
 <message>
 <source>20.00 Hz</source>
-<translation>20.00 Hz</translation>
+<translation></translation>
 </message>
 <message>
 <source>Applying Delay</source>
@@ -1684,7 +1684,7 @@
 </message>
 <message>
 <source>DIRAC Time Stretch / Pitch Shift technology licensed from The DSP Dimension, http://www.dspdimension.com. DIRAC is (c) Stephan M. Bernsee</source>
-<translation>DIRAC Time Stretch / Pitch Shift technology licensed from The DSP Dimension, http://www.dspdimension.com. DIRAC is (c) Stephan M. Bernsee</translation>
+<translation></translation>
 </message>
 <message>
 <source>Information</source>
@@ -1696,7 +1696,7 @@
 </message>
 <message>
 <source>In current version, ocenaudio uses DIRAC LE library that supports only one audio channel with sampling rate of 44100 Hz or 48000 Hz.</source>
-<translation>Dans la version actuelle, ocenaudio utilise DIRAC LE bibliothèque qui prend en charge un seul canal audio avec un taux de 44100 Hz ou 48000 Hz échantillonnage.</translation>
+<translation type="unfinished"></translation>
 </message>
 <message>
 <source>Time and Pitch Adjust</source>
@@ -1708,7 +1708,7 @@
 </message>
 <message>
 <source>Dirac</source>
-<translation>Dirac</translation>
+<translation></translation>
 </message>
 </context>
 <context>
@@ -1735,7 +1735,7 @@
 </message>
 <message>
 <source>-20 dB</source>
-<translation>20 dB</translation>
+<translation></translation>
 </message>
 <message>
 <source>Ratio</source>
@@ -1743,7 +1743,7 @@
 </message>
 <message>
 <source>1.0</source>
-<translation>1.0</translation>
+<translation></translation>
 </message>
 <message>
 <source>Expander</source>
@@ -1751,7 +1751,7 @@
 </message>
 <message>
 <source>-30 dB</source>
-<translation>-30 dB</translation>
+<translation></translation>
 </message>
 <message>
 <source>Limiter</source>
@@ -1759,7 +1759,7 @@
 </message>
 <message>
 <source>-2dB</source>
-<translation>-2dB</translation>
+<translation></translation>
 </message>
 <message>
 <source>Noise Gate</source>
@@ -1767,7 +1767,7 @@
 </message>
 <message>
 <source>-60 dB</source>
-<translation>-60 dB</translation>
+<translation></translation>
 </message>
 <message>
 <source>Attack</source>
@@ -1783,7 +1783,7 @@
 </message>
 <message>
 <source>0.1 ms</source>
-<translation>0.1 ms</translation>
+<translation></translation>
 </message>
 <message>
 <source>Release</source>
@@ -1791,11 +1791,11 @@
 </message>
 <message>
 <source>5 ms</source>
-<translation>5 ms</translation>
+<translation></translation>
 </message>
 <message>
 <source>Gain</source>
-<translation>Gain</translation>
+<translation>増幅</translation>
 </message>
 <message>
 <source>-40 dB</source>
@@ -1811,58 +1811,58 @@
 </message>
 <message>
 <source>Dynamics Processing / %1</source>
-<translation>Traitement dynamique / %1</translation>
+<translation type="unfinished"></translation>
 </message>
 <message>
 <source>Dynamics Processing</source>
-<translation>Traitement dynamique</translation>
+<translation type="unfinished"></translation>
 </message>
 <message>
 <source>Applying Compressor</source>
-<translation>Appliquer compression</translation>
+<translation type="unfinished"></translation>
 </message>
 <message>
 <source>Applying Expansor</source>
-<translation>Appliquer expansion</translation>
+<translation type="unfinished"></translation>
 </message>
 <message>
 <source>Expansor</source>
-<translation>Expansion</translation>
+<translation type="unfinished"></translation>
 </message>
 <message>
 <source>Applying Limiter</source>
-<translation>Appliquer Limiteur</translation>
+<translation type="unfinished"></translation>
 </message>
 <message>
 <source>Applying Noise Gate</source>
-<translation>Applique planche du bruit</translation>
+<translation type="unfinished"></translation>
 </message>
 </context>
 <context>
 <name>QFadeDialog</name>
 <message>
 <source>Apply Fade</source>
-<translation>Appliquer fondu</translation>
+<translation type="unfinished"></translation>
 </message>
 <message>
 <source>Fade Options</source>
-<translation>Options de Fondu</translation>
+<translation type="unfinished"></translation>
 </message>
 <message>
 <source>Direction</source>
-<translation>Direction</translation>
+<translation type="unfinished"></translation>
 </message>
 <message>
 <source>Fade In</source>
-<translation>Fondre en ouverture</translation>
+<translation type="unfinished"></translation>
 </message>
 <message>
 <source>Fade Out</source>
-<translation>Fondre en fermeture</translation>
+<translation type="unfinished"></translation>
 </message>
 <message>
 <source>Curve</source>
-<translation>Courbe</translation>
+<translation type="unfinished"></translation>
 </message>
 <message>
 <source>Linear</source>
@@ -1870,85 +1870,85 @@
 </message>
 <message>
 <source>Cosine</source>
-<translation>Cosinus</translation>
+<translation type="unfinished"></translation>
 </message>
 <message>
 <source>Exponential</source>
-<translation>Exponentiel</translation>
+<translation type="unfinished"></translation>
 </message>
 <message>
 <source>Use this curve for all fade operations</source>
-<translation>Utilisez cette courbe pour toutes les opérations de fondu</translation>
+<translation type="unfinished"></translation>
 </message>
 <message>
 <source>S-Curve</source>
-<translation>S-Courbe</translation>
+<translation type="unfinished"></translation>
 </message>
 <message>
 <source>Logarithmic</source>
-<translation>Logarithmique</translation>
+<translation type="unfinished"></translation>
 </message>
 <message>
 <source>Applying %1 </source>
-<translation>Appliquer %1</translation>
+<translation type="unfinished"></translation>
 </message>
 </context>
 <context>
 <name>QFftAnalysisDialog</name>
 <message>
 <source>FFT Analysis</source>
-<translation>Analyseur FFT</translation>
+<translation type="unfinished"></translation>
 </message>
 <message>
 <source>Window Function</source>
-<translation>Fonction de fenêtrage</translation>
+<translation type="unfinished"></translation>
 </message>
 <message>
 <source>Number of Bins</source>
-<translation>Résolution spectrale</translation>
+<translation type="unfinished"></translation>
 </message>
 <message>
 <source>Scale Kind</source>
-<translation>Type d&apos;échelle</translation>
+<translation type="unfinished"></translation>
 </message>
 <message>
 <source>Other Options</source>
-<translation>Autres options</translation>
+<translation type="unfinished"></translation>
 </message>
 <message>
 <source>Follow Play Cursor</source>
-<translation>Suivez curseur de lecture</translation>
+<translation type="unfinished"></translation>
 </message>
 <message>
 <source>Separated channels view</source>
-<translation>Vue des canaux séparés</translation>
+<translation type="unfinished"></translation>
 </message>
 <message>
 <source>Show each audio channel on a separated view.</source>
-<translation>Montrez chaque canal audio sur une vue séparée.</translation>
+<translation type="unfinished"></translation>
 </message>
 <message>
 <source>Display Cursor Position</source>
-<translation>Afficher la position du curseur</translation>
+<translation type="unfinished"></translation>
 </message>
 <message>
 <source>Updating FFT ...</source>
-<translation>FFT mise à jour...</translation>
+<translation type="unfinished"></translation>
 </message>
 <message>
 <source>%1 Window | %2 bins</source>
-<translation>Fenêtre %1 | %2 bins</translation>
+<translation type="unfinished"></translation>
 </message>
 <message>
 <source>%1 Scale</source>
-<translation>%1 echelle</translation>
+<translation type="unfinished"></translation>
 </message>
 </context>
 <context>
 <name>QFilterWidget</name>
 <message>
 <source>Filter</source>
-<translation>Filtre</translation>
+<translation type="unfinished"></translation>
 </message>
 <message>
 <source>Lowpass</source>
@@ -1956,7 +1956,7 @@
 </message>
 <message>
 <source>Passband Limit</source>
-<translation>Limite de bande passante</translation>
+<translation type="unfinished"></translation>
 </message>
 <message>
 <source>10,6 ms</source>
@@ -1968,27 +1968,27 @@
 </message>
 <message>
 <source>Bandpass</source>
-<translation>Passe-bande</translation>
+<translation type="unfinished"></translation>
 </message>
 <message>
 <source>Passband Limits</source>
-<translation>Limite de bande passante</translation>
+<translation type="unfinished"></translation>
 </message>
 <message>
 <source>Bandstop</source>
-<translation>Coupe-filtre</translation>
+<translation type="unfinished"></translation>
 </message>
 <message>
 <source>Rolloff</source>
-<translation></translation>
+<translation type="unfinished"></translation>
 </message>
 <message>
 <source>Passband Atenuation</source>
-<translation>Atténuation en bande passante</translation>
+<translation type="unfinished"></translation>
 </message>
 <message>
 <source>%1 dB/decade</source>
-<translation></translation>
+<translation type="unfinished"></translation>
 </message>
 <message>
 <source>Applying Lowpass Filter</source>
@@ -2008,30 +2008,30 @@
 </message>
 <message>
 <source>Applying Bandpass Filter</source>
-<translation>Appliquer filter passe-bande</translation>
+<translation type="unfinished"></translation>
 </message>
 <message>
 <source>Bandpass Filter</source>
-<translation>filtre passe-bande</translation>
+<translation type="unfinished"></translation>
 </message>
 <message>
 <source>Applying Bandstop Filter</source>
-<translation>Appliquer coupe-filtre</translation>
+<translation type="unfinished"></translation>
 </message>
 <message>
 <source>Bandstop Filter</source>
-<translation>coupe-filtre</translation>
+<translation type="unfinished"></translation>
 </message>
 </context>
 <context>
 <name>QGainWidget</name>
 <message>
 <source>Gain</source>
-<translation>Gain</translation>
+<translation>増幅</translation>
 </message>
 <message>
 <source>Left</source>
-<translation>Gauche</translation>
+<translation type="unfinished"></translation>
 </message>
 <message>
 <source>-25.0</source>
@@ -2043,35 +2043,35 @@
 </message>
 <message>
 <source>Invert</source>
-<translation>Inverser</translation>
+<translation type="unfinished"></translation>
 </message>
 <message>
 <source>Right</source>
-<translation>Droite</translation>
+<translation type="unfinished"></translation>
 </message>
 <message>
 <source>Lock Left/Right Channels</source>
-<translation>Verrouillez des canaux gauche/droite</translation>
+<translation type="unfinished"></translation>
 </message>
 <message>
 <source>Normalize</source>
-<translation>Normaliser</translation>
+<translation type="unfinished"></translation>
 </message>
 <message>
 <source>Normalize to</source>
-<translation>Normaliser en</translation>
+<translation type="unfinished"></translation>
 </message>
 <message>
 <source>Remove DC before normalizing</source>
-<translation>Retirer DC avant la normalisation</translation>
+<translation type="unfinished"></translation>
 </message>
 <message>
 <source>Normalize Channels Independently</source>
-<translation>Normaliser canaux indépendamment</translation>
+<translation type="unfinished"></translation>
 </message>
 <message>
 <source>DC Offset</source>
-<translation>Décalage DC</translation>
+<translation type="unfinished"></translation>
 </message>
 <message>
 <source>%</source>
@@ -2079,43 +2079,43 @@
 </message>
 <message>
 <source>Gain Unit</source>
-<translation>Unité de gain</translation>
+<translation type="unfinished"></translation>
 </message>
 <message>
 <source>Percentual</source>
-<translation>Pourcentage</translation>
+<translation type="unfinished"></translation>
 </message>
 <message>
 <source>Decibels</source>
-<translation></translation>
+<translation type="unfinished"></translation>
 </message>
 <message>
 <source>Offset</source>
-<translation>Décalage</translation>
+<translation type="unfinished"></translation>
 </message>
 <message>
 <source>Change Gain</source>
-<translation>Changement de gain</translation>
+<translation type="unfinished"></translation>
 </message>
 <message>
 <source>Amplitude</source>
-<translation>Amplitude</translation>
+<translation type="unfinished"></translation>
 </message>
 <message>
 <source>Changing gain</source>
-<translation>Changement de gain</translation>
+<translation type="unfinished"></translation>
 </message>
 <message>
 <source>Normalizing</source>
-<translation>Normalisation</translation>
+<translation type="unfinished"></translation>
 </message>
 <message>
 <source>Changing DC offset</source>
-<translation>Décalage DC</translation>
+<translation type="unfinished"></translation>
 </message>
 <message>
 <source>Change DC Offset</source>
-<translation>Décalage DC</translation>
+<translation type="unfinished"></translation>
 </message>
 </context>
 <context>
@@ -2361,7 +2361,7 @@
 </message>
 <message utf8="true">
 <source>½ s Gap</source>
-<translation>2分の1秒隙間</translation>
+<translation>½分の1秒隙間</translation>
 </message>
 <message>
 <source>1 s Gap</source>
@@ -2425,7 +2425,7 @@
 </message>
 <message>
 <source>http://www.ocenaudio.com.br</source>
-<translation>http://www.ocenaudio.com.br</translation>
+<translation></translation>
 </message>
 </context>
 <context>
@@ -2534,7 +2534,7 @@ Click here to download it.</source>
 </message>
 <message utf8="true">
 <source>½ s Gap</source>
-<translation>2分の1秒隙間</translation>
+<translation>½分の1秒隙間</translation>
 </message>
 <message>
 <source>1 s Gap</source>
@@ -2574,11 +2574,11 @@ Click here to download it.</source>
 <message>
 <source>A-Law companding PCM (G.711a)</source>
 <oldsource>a-Law companding PCM (G.711a)</oldsource>
-<translation>A-Law companding PCM (G.711a)</translation>
+<translation type="unfinished"></translation>
 </message>
 <message utf8="true">
 <source>μ-Law companding PCM (G.711u)</source>
-<translation>μ-Law companding PCM (G.711u)</translation>
+<translation type="unfinished"></translation>
 </message>
 <message>
 <source>Precision:</source>
@@ -2586,7 +2586,7 @@ Click here to download it.</source>
 </message>
 <message>
 <source>MP3</source>
-<translation>MP3</translation>
+<translation></translation>
 </message>
 <message>
 <source>Use Variable Bit Rate Encoding (VBR)</source>
@@ -2598,15 +2598,15 @@ Click here to download it.</source>
 </message>
 <message>
 <source>RAW</source>
-<translation>RAW</translation>
+<translation></translation>
 </message>
 <message>
 <source>PCM Little-Endian (MSB/LSB) Intel</source>
-<translation>PCM Little-Endian (MSB/LSB) Intel</translation>
+<translation type="unfinished"></translation>
 </message>
 <message>
 <source>WAV</source>
-<translation>WAV</translation>
+<translation></translation>
 </message>
 <message>
 <source>Audio Format:</source>
@@ -2614,11 +2614,11 @@ Click here to download it.</source>
 </message>
 <message>
 <source>IMA ADPCM</source>
-<translation>IMA ADPCM</translation>
+<translation></translation>
 </message>
 <message>
 <source>CAF</source>
-<translation>CAF</translation>
+<translation></translation>
 </message>
 <message>
 <source>Lowest</source>
@@ -2654,67 +2654,67 @@ Click here to download it.</source>
 </message>
 <message>
 <source>16 kbps</source>
-<translation>16 kbps</translation>
+<translation></translation>
 </message>
 <message>
 <source>24 kbps</source>
-<translation>24 kbps</translation>
+<translation></translation>
 </message>
 <message>
 <source>32 kbps</source>
-<translation>32 kbps</translation>
+<translation></translation>
 </message>
 <message>
 <source>40 kbps</source>
-<translation>40 kbps</translation>
+<translation></translation>
 </message>
 <message>
 <source>48 kbps</source>
-<translation>48 kbps</translation>
+<translation></translation>
 </message>
 <message>
 <source>56 kbps</source>
-<translation>56 kbps</translation>
+<translation></translation>
 </message>
 <message>
 <source>64 kbps</source>
-<translation>64 kbps</translation>
+<translation></translation>
 </message>
 <message>
 <source>80 kbps</source>
-<translation>80 kbps</translation>
+<translation></translation>
 </message>
 <message>
 <source>96 kbps</source>
-<translation>96 kbps</translation>
+<translation></translation>
 </message>
 <message>
 <source>112 kbps</source>
-<translation>112 kbps</translation>
+<translation></translation>
 </message>
 <message>
 <source>128 kbps</source>
-<translation>128 kbps</translation>
+<translation></translation>
 </message>
 <message>
 <source>160 kbps</source>
-<translation>160 kbps</translation>
+<translation></translation>
 </message>
 <message>
 <source>192 kbps</source>
-<translation>192 kbps</translation>
+<translation></translation>
 </message>
 <message>
 <source>224 kbps</source>
-<translation>224 kbps</translation>
+<translation></translation>
 </message>
 <message>
 <source>256 kbps</source>
-<translation>256 kbps</translation>
+<translation></translation>
 </message>
 <message>
 <source>320 kbps</source>
-<translation>320 kbps</translation>
+<translation></translation>
 </message>
 <message>
 <source>Stereo Mode:</source>
@@ -2766,7 +2766,7 @@ Click here to download it.</source>
 </message>
 <message>
 <source>OGG</source>
-<translation>OGG</translation>
+<translation></translation>
 </message>
 <message>
 <source>Mode:</source>
@@ -2798,19 +2798,19 @@ Click here to download it.</source>
 </message>
 <message>
 <source>AIF</source>
-<translation>AIF</translation>
+<translation></translation>
 </message>
 <message>
 <source>MUSEPACK</source>
-<translation>MUSEPACK</translation>
+<translation></translation>
 </message>
 <message>
 <source>WAVPACK</source>
-<translation>WAVPACK</translation>
+<translation></translation>
 </message>
 <message>
 <source>FLAC</source>
-<translation>FLAC</translation>
+<translation></translation>
 </message>
 <message>
 <source>Filename</source>
@@ -2890,39 +2890,39 @@ Click here to download it.</source>
 </message>
 <message>
 <source>16000</source>
-<translation>16000</translation>
+<translation></translation>
 </message>
 <message>
 <source>Hz</source>
-<translation>Hz</translation>
+<translation></translation>
 </message>
 <message>
 <source>48000</source>
-<translation>48000</translation>
+<translation></translation>
 </message>
 <message>
 <source>44100</source>
-<translation>44100</translation>
+<translation></translation>
 </message>
 <message>
 <source>32000</source>
-<translation>32000</translation>
+<translation></translation>
 </message>
 <message>
 <source>22050</source>
-<translation>22050</translation>
+<translation></translation>
 </message>
 <message>
 <source>11025</source>
-<translation>11025</translation>
+<translation></translation>
 </message>
 <message>
 <source>8000</source>
-<translation>8000</translation>
+<translation></translation>
 </message>
 <message>
 <source>6000</source>
-<translation>6000</translation>
+<translation></translation>
 </message>
 <message>
 <source>Channels</source>
@@ -2946,7 +2946,7 @@ Click here to download it.</source>
 </message>
 <message>
 <source>50</source>
-<translation>50</translation>
+<translation></translation>
 </message>
 <message>
 <source>%</source>
@@ -2958,11 +2958,11 @@ Click here to download it.</source>
 </message>
 <message>
 <source>L</source>
-<translation>L</translation>
+<comment>Left Channel</comment><translation type="unfinished"></translation>
 </message>
 <message>
 <source>R</source>
-<translation>R</translation>
+<comment>Right Channel</comment><translation type="unfinished"></translation>
 </message>
 </context>
 <context>
@@ -3044,7 +3044,7 @@ Here</source>
 </message>
 <message>
 <source>100</source>
-<translation>100</translation>
+<translation></translation>
 </message>
 <message>
 <source>Invert</source>
@@ -3342,11 +3342,11 @@ Here</source>
 </message>
 <message>
 <source>300</source>
-<translation>300</translation>
+<translation></translation>
 </message>
 <message>
 <source>Hz</source>
-<translation>Hz</translation>
+<translation></translation>
 </message>
 <message>
 <source>End</source>
@@ -3386,7 +3386,7 @@ Here</source>
 </message>
 <message>
 <source>DTMF</source>
-<translation>DTMF</translation>
+<translation></translation>
 </message>
 <message>
 <source>DTMF Sequence (Valid chars: 123...90#*ABCD,)</source>
@@ -3398,39 +3398,39 @@ Here</source>
 </message>
 <message>
 <source>1</source>
-<translation>1</translation>
+<translation></translation>
 </message>
 <message>
 <source>2</source>
-<translation>2</translation>
+<translation></translation>
 </message>
 <message>
 <source>3</source>
-<translation>3</translation>
+<translation></translation>
 </message>
 <message>
 <source>A</source>
-<translation>A</translation>
+<translation></translation>
 </message>
 <message>
 <source>4</source>
-<translation>4</translation>
+<translation></translation>
 </message>
 <message>
 <source>5</source>
-<translation>5</translation>
+<translation></translation>
 </message>
 <message>
 <source>6</source>
-<translation>6</translation>
+<translation></translation>
 </message>
 <message>
 <source>B</source>
-<translation>B</translation>
+<translation></translation>
 </message>
 <message>
 <source>7</source>
-<translation>7</translation>
+<translation></translation>
 </message>
 <message>
 <source>8</source>
@@ -3438,27 +3438,27 @@ Here</source>
 </message>
 <message>
 <source>9</source>
-<translation>9</translation>
+<translation></translation>
 </message>
 <message>
 <source>C</source>
-<translation>C</translation>
+<translation></translation>
 </message>
 <message>
 <source>*</source>
-<translation>*</translation>
+<translation></translation>
 </message>
 <message>
 <source>0</source>
-<translation>0</translation>
+<translation></translation>
 </message>
 <message>
 <source>#</source>
-<translation>#</translation>
+<translation></translation>
 </message>
 <message>
 <source>D</source>
-<translation>D</translation>
+<translation></translation>
 </message>
 <message>
 <source>Code Duration</source>
@@ -3466,11 +3466,11 @@ Here</source>
 </message>
 <message>
 <source>100</source>
-<translation>100</translation>
+<translation></translation>
 </message>
 <message>
 <source>ms</source>
-<translation>ms</translation>
+<translation></translation>
 </message>
 <message>
 <source>Break Duration</source>
@@ -3478,7 +3478,7 @@ Here</source>
 </message>
 <message>
 <source>40</source>
-<translation>40</translation>
+<translation></translation>
 </message>
 <message>
 <source>Pause Duration</source>
@@ -3486,7 +3486,7 @@ Here</source>
 </message>
 <message>
 <source>500</source>
-<translation>500</translation>
+<translation></translation>
 </message>
 <message>
 <source>Fade Borders</source>
@@ -3502,11 +3502,11 @@ Here</source>
 </message>
 <message>
 <source>-6</source>
-<translation>-6</translation>
+<translation></translation>
 </message>
 <message>
 <source>dB</source>
-<translation>dB</translation>
+<translation></translation>
 </message>
 <message>
 <source>Duration</source>
@@ -3514,7 +3514,7 @@ Here</source>
 </message>
 <message>
 <source>10</source>
-<translation>10</translation>
+<translation></translation>
 </message>
 <message>
 <source>seconds</source>
@@ -3569,7 +3569,7 @@ Here</source>
 </message>
 <message>
 <source>10</source>
-<translation>10</translation>
+<translation></translation>
 </message>
 <message>
 <source>seconds</source>
@@ -3596,15 +3596,15 @@ Here</source>
 </message>
 <message>
 <source>Item1</source>
-<translation>Item1</translation>
+<translation></translation>
 </message>
 <message>
 <source>Item2</source>
-<translation>Item2</translation>
+<translation></translation>
 </message>
 <message>
 <source>-</source>
-<translation>-</translation>
+<translation></translation>
 </message>
 <message>
 <source>Sample Rate</source>
@@ -3612,39 +3612,39 @@ Here</source>
 </message>
 <message>
 <source>48000</source>
-<translation>48000</translation>
+<translation></translation>
 </message>
 <message>
 <source>44100</source>
-<translation>44100</translation>
+<translation></translation>
 </message>
 <message>
 <source>32000</source>
-<translation>32000</translation>
+<translation></translation>
 </message>
 <message>
 <source>22050</source>
-<translation>22050</translation>
+<translation></translation>
 </message>
 <message>
 <source>16000</source>
-<translation>16000</translation>
+<translation></translation>
 </message>
 <message>
 <source>11025</source>
-<translation>11025</translation>
+<translation></translation>
 </message>
 <message>
 <source>8000</source>
-<translation>8000</translation>
+<translation></translation>
 </message>
 <message>
 <source>6000</source>
-<translation>6000</translation>
+<translation></translation>
 </message>
 <message>
 <source>Hz</source>
-<translation>Hz</translation>
+<translation></translation>
 </message>
 <message>
 <source>Channels</source>
@@ -3695,7 +3695,7 @@ Here</source>
 </message>
 <message>
 <source>audio.aiff</source>
-<translation>audio.aiff</translation>
+<translation></translation>
 </message>
 <message>
 <source>Wav PCM File</source>
@@ -3703,7 +3703,7 @@ Here</source>
 </message>
 <message>
 <source>1:20:30</source>
-<translation>1:20:30</translation>
+<translation></translation>
 </message>
 <message>
 <source>General</source>
@@ -3755,11 +3755,11 @@ Here</source>
 </message>
 <message>
 <source>WAV PCM File</source>
-<translation>File.mp3</translation>
+<translation type="unfinished"></translation>
 </message>
 <message>
 <source>44100 Hz</source>
-<translation>44100 Hz</translation>
+<translation></translation>
 </message>
 <message>
 <source>16 bits</source>
@@ -3771,19 +3771,19 @@ Here</source>
 </message>
 <message>
 <source>01:20:30</source>
-<translation>01:20:30</translation>
+<translation></translation>
 </message>
 <message>
 <source>10293000</source>
-<translation>10293000</translation>
+<translation></translation>
 </message>
 <message>
 <source>12 MB</source>
-<translation>12 MB</translation>
+<translation></translation>
 </message>
 <message>
 <source>36 MB</source>
-<translation>36 MB</translation>
+<translation></translation>
 </message>
 <message>
 <source>/Users/ruijunior</source>
@@ -3795,7 +3795,7 @@ Here</source>
 </message>
 <message>
 <source>128 kbps</source>
-<translation>128 kbps</translation>
+<translation></translation>
 </message>
 <message>
 <source>Info</source>
@@ -3831,7 +3831,7 @@ Here</source>
 </message>
 <message>
 <source>Somebody Told Me</source>
-<translation>Somebody Told Me</translation>
+<translation></translation>
 </message>
 <message>
 <source>The Killers</source>
@@ -3903,27 +3903,27 @@ Here</source>
 </message>
 <message>
 <source>-1230</source>
-<translation>-1230</translation>
+<translation></translation>
 </message>
 <message>
 <source>32700</source>
-<translation>32700</translation>
+<translation></translation>
 </message>
 <message>
 <source>-3.57 dB</source>
-<translation>-3.57 dB</translation>
+<translation></translation>
 </message>
 <message>
 <source>0</source>
-<translation>0</translation>
+<translation></translation>
 </message>
 <message>
 <source>-0.004%</source>
-<translation>-0.004%</translation>
+<translation></translation>
 </message>
 <message>
 <source>-65.8 dB</source>
-<translation>-65.8 dB</translation>
+<translation></translation>
 </message>
 <message>
 <source>-2.4 dB</source>
@@ -3943,35 +3943,35 @@ Here</source>
 </message>
 <message>
 <source>-928</source>
-<translation>-928</translation>
+<translation></translation>
 </message>
 <message>
 <source>30000</source>
-<translation>30000</translation>
+<translation></translation>
 </message>
 <message>
 <source>-12.4 dB</source>
-<translation>-12.4 dB</translation>
+<translation></translation>
 </message>
 <message>
 <source>+0.02%</source>
-<translation>+0.02%</translation>
+<translation></translation>
 </message>
 <message>
 <source>-62.0 dB</source>
-<translation>-62.0 dB</translation>
+<translation></translation>
 </message>
 <message>
 <source>-3.2 dB</source>
-<translation>-3.2 dB</translation>
+<translation></translation>
 </message>
 <message>
 <source>-20.0 dB</source>
-<translation>-20.0 dB</translation>
+<translation></translation>
 </message>
 <message>
 <source>-19.8 dB</source>
-<translation>-19.8 dB</translation>
+<translation></translation>
 </message>
 <message>
 <source>Channel 2</source>
@@ -4223,8 +4223,8 @@ Here</source>
 <translation> ピクセル</translation>
 </message>
 <message>
-<source>高さ:</source>
-<translation>Hauter:</translation>
+<source>Height:</source>
+<translation>高さ:</translation>
 </message>
 <message>
 <source>Waveform</source>
