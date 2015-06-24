@@ -215,7 +215,7 @@
     </message>
     <message>
         <source>Save As...</source>
-        <translation>名前を付けて保存</translation>
+        <translation>名前を付けて保存...</translation>
     </message>
     <message>
         <source>Save Selection...</source>
@@ -777,11 +777,11 @@
     </message>
     <message>
         <source>Saving Selection As</source>
-        <translation>で選択されたサウンドを保存中...</translation>
+        <translation>で選択されたサウンドを保存中</translation>
     </message>
     <message>
         <source>You have multiple selections. Do you want to save each selection to a separate file?</source>
-        <translation>複数なアイテムが選択されています。各選択を別なファイルとして保存しますか。</translation>
+        <translation>複数なアイテムが選択されています。各選択を別なファイルとして保存しますか?</translation>
     </message>
     <message>
         <source>Select &quot;separate&quot; to save each selection to a different file. If you select &quot;single&quot; all your selections will be appended and saved to a single file.</source>
@@ -797,7 +797,7 @@
     </message>
     <message>
         <source>Save Each Selection Prefixed With ...</source>
-        <translation>...接頭辞で各選択を保存</translation>
+        <translation>接頭辞で各選択を保存...</translation>
     </message>
     <message>
         <source>Prefix With:</source>
@@ -885,7 +885,7 @@
     </message>
     <message>
         <source>Markers less than 10 ms apart are merged in the split process. You have %1 markers merged.</source>
-        <translation>ファイルを分ける際、マーカーとマーカーの間が10ms以下の場合には、一つに纏まられます。一つのマーカーが纏まられました。</translation>
+        <translation>ファイルを分ける際、マーカーとマーカーの間が10ms以下の場合には、一つに纏まられます。%1　マーカーが纏まられました。</translation>
     </message>
     <message>
         <source>You are about to split your audio by %1 parts. Are you sure you want to proceed?</source>
@@ -905,7 +905,7 @@
     </message>
     <message>
         <source>Invalid Regions Filename!</source>
-        <translation>無効な領域ファイルネーム</translation>
+        <translation>無効な領域ファイルネーム!</translation>
     </message>
     <message>
         <source>The regions file selected is not supported.</source>
@@ -941,11 +941,11 @@
     </message>
     <message>
         <source>The export file format is not compatible with the current audio format!</source>
-        <translation>書き出しファイルフォーマットは現在のオーディオフォーマットと非対応です。</translation>
+        <translation>書き出しファイルフォーマットは現在のオーディオフォーマットと非対応です!</translation>
     </message>
     <message>
         <source>The export file cannot be create on the destination path!</source>
-        <translation>書き出しファイルが移動先のパスで作成出来ません。</translation>
+        <translation>書き出しファイルが移動先のパスで作成出来ません!</translation>
     </message>
     <message>
         <source>Save Selections...</source>
@@ -1811,11 +1811,11 @@
     </message>
     <message>
         <source>Dynamics Processing / %1</source>
-        <translation type="unfinished"></translation>
+        <translation>ダイナミックス処理/ %1</translation>
     </message>
     <message>
         <source>Dynamics Processing</source>
-        <translation type="unfinished">ダイナミックス処理</translation>
+        <translation>ダイナミックス処理</translation>
     </message>
     <message>
         <source>Applying Compressor</source>
@@ -1854,11 +1854,11 @@
     </message>
     <message>
         <source>Fade In</source>
-        <translation type="unfinished">フェードイン</translation>
+        <translation>フェードイン</translation>
     </message>
     <message>
         <source>Fade Out</source>
-        <translation type="unfinished">フェードアウト</translation>
+        <translation>フェードアウト</translation>
     </message>
     <message>
         <source>Curve</source>
@@ -1890,14 +1890,14 @@
     </message>
     <message>
         <source>Applying %1 </source>
-        <translation type="unfinished"></translation>
+        <translation>%1 を適用中 </translation>
     </message>
 </context>
 <context>
     <name>QFftAnalysisDialog</name>
     <message>
         <source>FFT Analysis</source>
-        <translation type="unfinished">FFT解析</translation>
+        <translation>FFT解析</translation>
     </message>
     <message>
         <source>Window Function</source>
@@ -1948,7 +1948,7 @@
     <name>QFilterWidget</name>
     <message>
         <source>Filter</source>
-        <translation type="unfinished">フィルタ</translation>
+        <translation>フィルタ</translation>
     </message>
     <message>
         <source>Lowpass</source>
@@ -2031,7 +2031,7 @@
     </message>
     <message>
         <source>Left</source>
-        <translation type="unfinished">左</translation>
+        <translation>左</translation>
     </message>
     <message>
         <source>-25.0</source>
@@ -2047,7 +2047,7 @@
     </message>
     <message>
         <source>Right</source>
-        <translation type="unfinished">右</translation>
+        <translation>右</translation>
     </message>
     <message>
         <source>Lock Left/Right Channels</source>
@@ -2055,7 +2055,7 @@
     </message>
     <message>
         <source>Normalize</source>
-        <translation type="unfinished">正規化機</translation>
+        <translation>正規化機</translation>
     </message>
     <message>
         <source>Normalize to</source>
@@ -2087,7 +2087,7 @@
     </message>
     <message>
         <source>Decibels</source>
-        <translation type="unfinished">デシベル</translation>
+        <translation>デシベル</translation>
     </message>
     <message>
         <source>Offset</source>
@@ -2099,7 +2099,7 @@
     </message>
     <message>
         <source>Amplitude</source>
-        <translation type="unfinished">広さ</translation>
+        <translation>広さ</translation>
     </message>
     <message>
         <source>Changing gain</source>
@@ -2405,7 +2405,7 @@
     </message>
     <message>
         <source>All rights reserved.</source>
-        <translation>不許複製</translation>
+        <translation>不許複製。</translation>
     </message>
     <message>
         <source>Version 2.0.0.rc1 (Build 2292)</source>
@@ -2475,11 +2475,11 @@ Click here to download it.</source>
     </message>
     <message>
         <source>If you want, you can enter a few lines on what you did before ocenaudio crashed along with other helpful information: sample file, os crash report, screen shots, ...</source>
-        <translation>宜しければ、数文章でクラッシュが発生する迄　何をしたのかと明記して頂けると役に立つ可能性があります：例　サンプルファイル、OS クラッシュレポート、スクショ、等</translation>
+        <translation>宜しければ、数文章でクラッシュが発生する迄　何をしたのかと明記して頂けると役に立つ可能性があります：例　サンプルファイル、OS クラッシュレポート、スクショ、等...</translation>
     </message>
     <message>
         <source>If you agree to be contacted about this bug report enter your email below:</source>
-        <translation>当報告に関して、開発者に連絡されても宜しければ以下にメールアドを入力してください。</translation>
+        <translation>当報告に関して、開発者に連絡されても宜しければ以下にメールアドを入力してください:</translation>
     </message>
     <message>
         <source>Attach File...</source>

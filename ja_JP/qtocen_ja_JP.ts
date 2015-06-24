@@ -578,7 +578,7 @@
     </message>
     <message>
         <source>Do you really want to discard the changes made in this region?</source>
-        <translation>この領域の変更を削除してよろしいですか。</translation>
+        <translation>この領域の変更を削除してよろしいですか?</translation>
     </message>
     <message>
         <source>Changes in region text will be lost if you discard.</source>
@@ -598,7 +598,7 @@
     </message>
     <message>
         <source>You are about to delete %1 regions. Do you really want to do this?</source>
-        <translation>%1　の領域が削除されます。宜しいですか。</translation>
+        <translation>%1　の領域が削除されます。宜しいですか?</translation>
     </message>
 </context>
 <context>
@@ -1481,7 +1481,7 @@
     </message>
     <message>
         <source>To proceed with the installation it is necessary to first remove the currently installed version of this plugin.</source>
-        <translation>インストールするために、前もって現在のバージョンを削除する必要があります。、</translation>
+        <translation>インストールするために、前もって現在のバージョンを削除する必要があります。</translation>
     </message>
     <message>
         <source>The plugin &quot;%1&quot; is not compatible with your ocenaudio version.</source>
@@ -1593,7 +1593,7 @@
     </message>
     <message>
         <source>The selected format doesn&apos;t support regions and markers. Do you want to proceed without save regions?</source>
-        <translation>選択されたフォーマットが領域・マーカーは対応していません。領域を保存せずに、続行しても宜しいですか。</translation>
+        <translation>選択されたフォーマットが領域・マーカーは対応していません。領域を保存せずに、続行しても宜しいですか?</translation>
     </message>
     <message>
         <source>If you continue the saved file will not contain the regions created in this audio.</source>
