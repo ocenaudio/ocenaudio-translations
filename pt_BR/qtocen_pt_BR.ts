@@ -1,21 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!DOCTYPE TS>
-<TS version="2.0" language="pt_BR">
-<context>
-    <name>QAudioFormat</name>
-    <message>
-        <source>mono</source>
-        <translation>mono</translation>
-    </message>
-    <message>
-        <source>stereo</source>
-        <translation></translation>
-    </message>
-    <message>
-        <source>%1 bits</source>
-        <translation></translation>
-    </message>
-</context>
+<TS version="2.1" language="pt_BR">
 <context>
     <name>QAudioStatistics</name>
     <message>
@@ -70,32 +55,12 @@
         <translation>Idioma não suportado</translation>
     </message>
     <message>
-        <source>%2 by %1</source>
-        <translation>%2 by %1</translation>
-    </message>
-    <message>
-        <source>%1</source>
-        <translation></translation>
-    </message>
-    <message>
         <source>Drop Files Here</source>
         <translation>Arraste seus arquivos aqui</translation>
     </message>
     <message>
         <source>Waiting</source>
         <translation>Aguardando</translation>
-    </message>
-    <message>
-        <source>Aborting</source>
-        <translation></translation>
-    </message>
-    <message>
-        <source>32 bits</source>
-        <translation></translation>
-    </message>
-    <message>
-        <source>64 bits</source>
-        <translation></translation>
     </message>
     <message>
         <source>English</source>
@@ -161,36 +126,6 @@
         <source>All Files</source>
         <translation>Todos os Arquivos</translation>
     </message>
-</context>
-<context>
-    <name>QOcenApplication</name>
-    <message>
-        <source>Regions Comment</source>
-        <translation>Comentários da Região</translation>
-    </message>
-    <message>
-        <source>Invalid Code Signature</source>
-        <translation>Assinatura de Código Inválida</translation>
-    </message>
-    <message>
-        <source>This means Ocenaudio has been tampered, possibly making it less secure. The program cannot be executed in this state. It is necessary to reinstall the application in order to use it.</source>
-        <translation>Isto significa que o Ocenaudio foi possivelmente violado, tornando-o menos seguro. O programa não pode ser executado nesse estado. É necessário reinstalar o aplicativo a fim de usá-lo.</translation>
-    </message>
-    <message>
-        <source>New Sound Device Found</source>
-        <translation>Novo Dispositivo de Som Encontrado</translation>
-    </message>
-    <message>
-        <source>build</source>
-        <translation>build</translation>
-    </message>
-    <message>
-        <source>New Plugin Installed</source>
-        <translation>Novo Plugin Instalado</translation>
-    </message>
-</context>
-<context>
-    <name>QOcenAudio</name>
     <message>
         <source>Reverting to Saved</source>
         <translation>Revertendo para Salvo</translation>
@@ -232,16 +167,16 @@
         <translation>Localização</translation>
     </message>
     <message>
-        <source>Copying</source>
-        <translation>Copiando</translation>
-    </message>
-    <message>
         <source>Cutting</source>
         <translation>Cortando</translation>
     </message>
     <message>
         <source>Cut</source>
         <translation>Recorte</translation>
+    </message>
+    <message>
+        <source>Copying</source>
+        <translation>Copiando</translation>
     </message>
     <message>
         <source>Pasting</source>
@@ -304,6 +239,10 @@
         <translation>%1 canal de</translation>
     </message>
     <message>
+        <source>%1 combined with %2</source>
+        <translation>%1 combinado com %2</translation>
+    </message>
+    <message>
         <source>Downmix of %1</source>
         <translation>Downmix de %1</translation>
     </message>
@@ -318,10 +257,6 @@
     <message>
         <source>Join of %1, %2 and other %3 files</source>
         <translation>Concatenação de %1, %2 e outros %3 arquivos</translation>
-    </message>
-    <message>
-        <source>%1 combined with %2</source>
-        <translation>%1 combinado com %2</translation>
     </message>
     <message>
         <source>Reversing</source>
@@ -385,19 +320,31 @@
     </message>
     <message>
         <source>Create Region</source>
-        <translation>Criação de Região</translation>
+        <translation>Criar Região</translation>
     </message>
     <message>
         <source>Create Regions</source>
-        <translation>Criação de Regiões</translation>
+        <translation>Criar Regiões</translation>
     </message>
     <message>
         <source>New Region</source>
         <translation>Nova Região</translation>
     </message>
     <message>
+        <source>Detecting Dtmf</source>
+        <translation>Detectando Dtmf</translation>
+    </message>
+    <message>
+        <source>Detect Dtmf</source>
+        <translation>Detectar Dtmf</translation>
+    </message>
+    <message>
         <source>Save As</source>
         <translation>Salvar Como</translation>
+    </message>
+    <message>
+        <source>Export As</source>
+        <translation>Exportar como</translation>
     </message>
     <message>
         <source>Exporting Selection As</source>
@@ -412,8 +359,12 @@
         <translation>Exportando Região Como</translation>
     </message>
     <message>
-        <source>Export As</source>
-        <translation>Exportar como</translation>
+        <source>Paste Channel</source>
+        <translation>Colar Canal</translation>
+    </message>
+    <message>
+        <source>Paste From File</source>
+        <translation>Colar Arquivo</translation>
     </message>
     <message>
         <source>Paste Silence</source>
@@ -436,13 +387,71 @@
         <translation>Alteração de Metadados</translation>
     </message>
     <message>
-        <source>Detecting Dtmf</source>
-        <translation>Detectando Dtmf</translation>
+        <source>Record</source>
+        <translation>Gravação</translation>
     </message>
     <message>
-        <source>Detect Dtmf</source>
-        <translation>Detectar Dtmf</translation>
+        <source>m s e c</source>
+        <translation>m s e g</translation>
     </message>
+    <message>
+        <source>s e c</source>
+        <translation>s e g</translation>
+    </message>
+    <message>
+        <source>m i n</source>
+        <translation></translation>
+    </message>
+    <message>
+        <source>h r</source>
+        <translation></translation>
+    </message>
+    <message>
+        <source>s m p l</source>
+        <translation></translation>
+    </message>
+    <message>
+        <source>f r a m e s</source>
+        <translation></translation>
+    </message>
+    <message>
+        <source>Title</source>
+        <translation>Título</translation>
+    </message>
+    <message>
+        <source>Artist</source>
+        <translation>Artista</translation>
+    </message>
+    <message>
+        <source>Album</source>
+        <translation>Álbum</translation>
+    </message>
+    <message>
+        <source>Year</source>
+        <translation>Ano</translation>
+    </message>
+</context>
+<context>
+    <name>QOcenApplication</name>
+    <message>
+        <source>Regions Comment</source>
+        <translation>Comentários da Região</translation>
+    </message>
+    <message>
+        <source>New Sound Device Found</source>
+        <translation>Novo Dispositivo de Som Encontrado</translation>
+    </message>
+    <message>
+        <source>New Plugin Installed</source>
+        <translation>Novo Plugin Instalado</translation>
+    </message>
+    <message>
+        <source>ocenaudio Clipboard with %1 seconds in %2 %3</source>
+        <translation>Área de transferência do ocenaudio com %1 segundos de %2 %3</translation>
+    </message>
+</context>
+<context>
+    <name>QOcenAudio</name>
     <message>
         <source>Add Marker</source>
         <translation>Adicionar Marcador</translation>
@@ -513,18 +522,7 @@
     </message>
 </context>
 <context>
-    <name>QOcenAudioApplicationFilesModel</name>
-    <message>
-        <source>Connecting to Server ...</source>
-        <translation>Conectando ao servidor...</translation>
-    </message>
-</context>
-<context>
     <name>QOcenAudioDelegate</name>
-    <message>
-        <source>REC</source>
-        <translation></translation>
-    </message>
     <message>
         <source>Duration</source>
         <translation>Duração</translation>
@@ -550,13 +548,6 @@
     <message>
         <source>You can drop audio files, folders, archives, urls and playlists.</source>
         <translation>Você pode soltar arquivos de áudio, pastas, pacotes, urls e playlists.</translation>
-    </message>
-</context>
-<context>
-    <name>QOcenAudioRecorder</name>
-    <message>
-        <source>Record</source>
-        <translation>Gravação</translation>
     </message>
 </context>
 <context>
@@ -600,6 +591,14 @@
         <source>You are about to delete %1 regions. Do you really want to do this?</source>
         <translation>Você está prestes a apagar %1 regiões. Você realmente deseja fazer isso?</translation>
     </message>
+    <message>
+        <source>Waiting for cancellation</source>
+        <translation>Aguardando cancelamento</translation>
+    </message>
+    <message>
+        <source>Remaining</source>
+        <translation>Tempo restante</translation>
+    </message>
 </context>
 <context>
     <name>QOcenCheckableMessageBox</name>
@@ -640,213 +639,6 @@
     </message>
 </context>
 <context>
-    <name>QOcenFTPDirListDialog</name>
-    <message>
-        <source>Directory List</source>
-        <translation>Lista de Diretórios</translation>
-    </message>
-    <message>
-        <source>Directory</source>
-        <translation>Diretório</translation>
-    </message>
-    <message>
-        <source>/</source>
-        <translation></translation>
-    </message>
-    <message>
-        <source>data</source>
-        <translation></translation>
-    </message>
-    <message>
-        <source>Selected Path</source>
-        <translation>Caminho Selecionado</translation>
-    </message>
-</context>
-<context>
-    <name>QOcenFTPExportDialog</name>
-    <message>
-        <source>Export Audio using FTP</source>
-        <translation>Exportar áudio usando FTP</translation>
-    </message>
-    <message>
-        <source>Ftp Server</source>
-        <translation>Servidor FTP</translation>
-    </message>
-    <message>
-        <source>Profile Name</source>
-        <translation>Nome do perfil</translation>
-    </message>
-    <message>
-        <source>Address</source>
-        <translation>Endereço</translation>
-    </message>
-    <message>
-        <source>Port</source>
-        <translation>Porta</translation>
-    </message>
-    <message>
-        <source>Anonymous Login</source>
-        <translation>Login anônimo</translation>
-    </message>
-    <message>
-        <source>Username</source>
-        <translation>Nome de usuário</translation>
-    </message>
-    <message>
-        <source>Password</source>
-        <translation>Senha</translation>
-    </message>
-    <message>
-        <source>Server Path</source>
-        <translation>Caminho no Servidor</translation>
-    </message>
-    <message>
-        <source>...</source>
-        <translation></translation>
-    </message>
-    <message>
-        <source>File Info</source>
-        <translation>Informação do arquivo</translation>
-    </message>
-    <message>
-        <source>Filename</source>
-        <translation>Nome do Arquivo</translation>
-    </message>
-    <message>
-        <source>File Format</source>
-        <translation>Formato do arquivo</translation>
-    </message>
-    <message>
-        <source>Wav PCM (*.wav)</source>
-        <translation></translation>
-    </message>
-    <message>
-        <source>MP3 File Format Franna (*.mp3)</source>
-        <translation></translation>
-    </message>
-    <message>
-        <source>Upload only selection</source>
-        <translation>Upload somente da seleção</translation>
-    </message>
-    <message>
-        <source>Upload</source>
-        <translation></translation>
-    </message>
-    <message>
-        <source>Uploading audio</source>
-        <translation>Fazendo upload do áudio</translation>
-    </message>
-    <message>
-        <source>Cancel</source>
-        <translation>Cancelar</translation>
-    </message>
-    <message>
-        <source>Error</source>
-        <translation>Erro</translation>
-    </message>
-    <message>
-        <source>The upload process was failed.</source>
-        <translation>O processo de upload falhou.</translation>
-    </message>
-    <message>
-        <source>Upload Finished</source>
-        <translation>Upload concluído</translation>
-    </message>
-    <message>
-        <source>The file was successfully uploaded to your FTP server.</source>
-        <translation>O processo de upload do arquivo para o servidor FTP finalizou com sucesso.</translation>
-    </message>
-    <message>
-        <source>Warning</source>
-        <translation>Aviso</translation>
-    </message>
-    <message>
-        <source>The file %1 already exists in the FTP server.</source>
-        <translation>O arquivo %1 já existe no servidor FTP.</translation>
-    </message>
-</context>
-<context>
-    <name>QOcenFTPExportThread</name>
-    <message>
-        <source>Connecting to FTP server...</source>
-        <translation>Conectando ao servidor FTP...</translation>
-    </message>
-    <message>
-        <source>Connected to FTP server</source>
-        <translation>Conectado ao servidor FTP</translation>
-    </message>
-    <message>
-        <source>Connection refused. Please, check the server address, username and password.</source>
-        <translation>Conexão recusada. Favor conferir o nome do servidor, o nome de usuário e a senha.</translation>
-    </message>
-    <message>
-        <source>Fail to remove existing file!</source>
-        <translation>Falha ao remover arquivo existente!</translation>
-    </message>
-    <message>
-        <source>Preparing audio file to upload...</source>
-        <translation>Preparando arquivo de áudio para upload...</translation>
-    </message>
-    <message>
-        <source>Fail to prepare file!</source>
-        <translation>Falha na preparação do arquivo!</translation>
-    </message>
-    <message>
-        <source>Fail to prepare audio file!</source>
-        <translation>Falha na preparação do arquivo de áudio!</translation>
-    </message>
-    <message>
-        <source>Uploading audio file...</source>
-        <translation>Fazendo upload do arquivo de áudio...</translation>
-    </message>
-    <message>
-        <source>Upload finished</source>
-        <translation>Upload completo</translation>
-    </message>
-    <message>
-        <source>Disconnected</source>
-        <translation>Desconectado</translation>
-    </message>
-</context>
-<context>
-    <name>QOcenFTPListThread</name>
-    <message>
-        <source>Connecting to FTP server...</source>
-        <translation>Conectando ao servidor FTP...</translation>
-    </message>
-    <message>
-        <source>Connected to FTP server</source>
-        <translation>Conectado ao servidor FTP</translation>
-    </message>
-    <message>
-        <source>Connection refused. Please, check the server address, username and password.</source>
-        <translation>Conexão recusada. Favor conferir o nome do servidor, o nome de usuário e a senha.</translation>
-    </message>
-    <message>
-        <source>Listing...</source>
-        <translation>Listando...</translation>
-    </message>
-    <message>
-        <source>List finished</source>
-        <translation>Listagem concluída</translation>
-    </message>
-</context>
-<context>
-    <name>QOcenFileFormat</name>
-    <message>
-        <source>Flac</source>
-        <translation></translation>
-    </message>
-    <message>
-        <source>WavPack</source>
-        <translation></translation>
-    </message>
-    <message>
-        <source>Stream</source>
-        <translation></translation>
-    </message>
-</context>
-<context>
     <name>QOcenFileFormatPrivate</name>
     <message>
         <source>mono</source>
@@ -856,115 +648,9 @@
         <source>stereo</source>
         <translation>stereo</translation>
     </message>
-</context>
-<context>
-    <name>QOcenFxDialog</name>
     <message>
-        <source>Default Settings</source>
-        <translation>Configurações Padrão</translation>
-    </message>
-    <message>
-        <source>Close</source>
-        <translation>Fechar</translation>
-    </message>
-    <message>
-        <source>Apply</source>
-        <translation>Aplicar</translation>
-    </message>
-    <message>
-        <source>bypass</source>
-        <translation>bypass</translation>
-    </message>
-    <message>
-        <source>Last Used Settings</source>
-        <translation>Últimas Configurações Utilizadas</translation>
-    </message>
-    <message>
-        <source>Last Used Settings in this file</source>
-        <translation>Últimas Configurações Utilizadas neste Arquivo</translation>
-    </message>
-    <message>
-        <source>Built-in Presets</source>
-        <translation>Presets Inclusos</translation>
-    </message>
-    <message>
-        <source>Saved Presets</source>
-        <translation>Presets Salvos</translation>
-    </message>
-    <message>
-        <source>Save Preset</source>
-        <translation>Salvar Preset</translation>
-    </message>
-    <message>
-        <source>Manage Presets</source>
-        <translation>Gerenciar Presets</translation>
-    </message>
-    <message>
-        <source>Playback Loop</source>
-        <translation>Loop da Reprodução</translation>
-    </message>
-    <message>
-        <source>Save Preset As</source>
-        <translation>Salvar Preset Como</translation>
-    </message>
-    <message>
-        <source>Preset Name</source>
-        <translation>Nome do Preset</translation>
-    </message>
-    <message>
-        <source>The name &quot;%1&quot; is already taken.</source>
-        <translation>O nome &quot;%1&quot; já foi utilizado.</translation>
-    </message>
-    <message>
-        <source>Do you want to choose another name or replace the previous saved preset?</source>
-        <translation>Você gostaria de escolher outro nome ou trocar o preset salvo anteriormente?</translation>
-    </message>
-    <message>
-        <source>Replace</source>
-        <translation>Trocar</translation>
-    </message>
-    <message>
-        <source>Choose Another Name</source>
-        <translation>Escolher Outro Nome</translation>
-    </message>
-</context>
-<context>
-    <name>QOcenFxManagePresetDialog</name>
-    <message>
-        <source>Manage Presets</source>
-        <translation>Gerenciar Presets</translation>
-    </message>
-    <message>
-        <source>Current Setting (before open preset manager)</source>
-        <translation>Configuração Atual (antes de abrir o gerenciar de preset)</translation>
-    </message>
-    <message>
-        <source>Setting 1</source>
-        <translation>Configuração 1</translation>
-    </message>
-    <message>
-        <source>Setting 2</source>
-        <translation>Configuração 2</translation>
-    </message>
-    <message>
-        <source>%1 Preset Manager</source>
-        <translation>Gerenciador de Preset %1</translation>
-    </message>
-    <message>
-        <source>Current Preset (user&apos;s changes)</source>
-        <translation>Preset Atual (com mudanças do usuário)</translation>
-    </message>
-    <message>
-        <source>Rename Preset</source>
-        <translation>Renomear Preset</translation>
-    </message>
-    <message>
-        <source>The name &quot;%1&quot; is already taken.</source>
-        <translation>O nome &quot;%1&quot; já foi utilizado.</translation>
-    </message>
-    <message>
-        <source>Please choose another name.</source>
-        <translation>Por favor escolha outro nome.</translation>
+        <source>%1 channels</source>
+        <translation>%1 canais</translation>
     </message>
 </context>
 <context>
@@ -972,26 +658,6 @@
     <message>
         <source>Form</source>
         <translation>Formulário</translation>
-    </message>
-    <message>
-        <source>Playback Device/Options</source>
-        <translation>Dispositivo e Opções de Reprodução</translation>
-    </message>
-    <message>
-        <source>Loop playback on selected audio</source>
-        <translation>Repetir reprodução do audio selecionado</translation>
-    </message>
-    <message>
-        <source>Follow cursor during playback</source>
-        <translation>Seguir o cursor durante a reprodução</translation>
-    </message>
-    <message>
-        <source>Record Device/Options</source>
-        <translation>Dispositivo e Opções de Gravação</translation>
-    </message>
-    <message>
-        <source>Other Options</source>
-        <translation>Outras Opções</translation>
     </message>
     <message>
         <source>Automatically check for updates</source>
@@ -1006,20 +672,24 @@
         <translation>Geral</translation>
     </message>
     <message>
-        <source>System Default</source>
-        <translation>Padrão do Sistema</translation>
-    </message>
-    <message>
-        <source>Move cursor to playback stop position</source>
-        <translation>Mover o cursor para a posição de parada da reprodução</translation>
-    </message>
-    <message>
-        <source>Move cursor to record stop position</source>
-        <translation>Mover o cursor para a posição de parada da gravação</translation>
-    </message>
-    <message>
         <source>Options</source>
         <translation>Opções</translation>
+    </message>
+    <message>
+        <source>Color Scheme</source>
+        <translation>Esquema de Cores</translation>
+    </message>
+    <message>
+        <source>Classic</source>
+        <translation></translation>
+    </message>
+    <message>
+        <source>Light</source>
+        <translation></translation>
+    </message>
+    <message>
+        <source>Dark</source>
+        <translation></translation>
     </message>
 </context>
 <context>
@@ -1030,7 +700,7 @@
     </message>
     <message>
         <source>TextLabel</source>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
 </context>
 <context>
@@ -1124,7 +794,7 @@
         <source>Revert</source>
         <translation>Reverter</translation>
     </message>
-    <message utf8="true">
+    <message>
         <source>Do you want to save the changes you made in the sound “%1”?</source>
         <translation>Você gostaria de salvar as alterações feitas no arquivo “%1”?</translation>
     </message>
@@ -1144,7 +814,7 @@
         <source>If you continue, all comments, from this region, will be removed.</source>
         <translation>Se você prosseguir todos os comentários desta região serão removidos.</translation>
     </message>
-    <message utf8="true">
+    <message>
         <source>Your changes will be lost if you don’t save them.</source>
         <translation>Suas alterações serão perdidas se você não salvar.</translation>
     </message>
@@ -1175,18 +845,6 @@
     <message>
         <source>Save Sound As ...</source>
         <translation>Salvar Arquivo Como...</translation>
-    </message>
-    <message>
-        <source>The following file still has unsaved changes</source>
-        <translation>O arquivo abaixo ainda possue alterações não salvas</translation>
-    </message>
-    <message>
-        <source>The following file has unsaved changes</source>
-        <translation>O arquivo abaixo possue alterações não salvas</translation>
-    </message>
-    <message>
-        <source>The following files still have unsaved changes</source>
-        <translation>Os seguintes arquivos ainda possuem alterações não salvas</translation>
     </message>
     <message>
         <source>The following files have unsaved changes</source>
@@ -1221,32 +879,12 @@
         <translation>Re-Salvar</translation>
     </message>
     <message>
-        <source>An error was encountered while saving your sound file &quot;%1&quot;!</source>
-        <translation>Ocorreu um erro durante a operação de salvamento do arquivo &quot;%1&quot;!</translation>
-    </message>
-    <message>
-        <source>Your changes will be lost if you don&apos;t save them.</source>
-        <translation>Suas alterações serão perdidas se você não salvar.</translation>
-    </message>
-    <message>
         <source>Close</source>
         <translation>Fechar</translation>
     </message>
     <message>
         <source>The file for the sound that was at %1 has disappeared. The document has previously unsaved changes. Do you want to re-save the sound or close it?</source>
         <translation>O arquivo de audio %1 desapareceu. Entretanto, este audio possui alterações que nunca foram salvas. Você gostaria de re-salvar este arquivo ou fechá-lo?</translation>
-    </message>
-    <message>
-        <source>Open both files in this %1</source>
-        <translation>Abra ambos os arquivos %1</translation>
-    </message>
-    <message>
-        <source>Open all %1 files in this %2</source>
-        <translation>Abra todos os %1 arquivos %2</translation>
-    </message>
-    <message>
-        <source>and %1 other files</source>
-        <translation>e %1 outros arquivos</translation>
     </message>
     <message>
         <source>The current file&apos;s format does not support these settings. Do you want to make this changes anyway?</source>
@@ -1300,28 +938,49 @@
         <source>The audio signal has already the selected format!</source>
         <translation>O sinal de audio já está no formato selecionado!</translation>
     </message>
-</context>
-<context>
-    <name>QOcenMetadata</name>
     <message>
-        <source>Title</source>
-        <translation>Título</translation>
+        <source>Information</source>
+        <translation>Informações</translation>
     </message>
     <message>
-        <source>Artist</source>
-        <translation>Artista</translation>
+        <source>Pasting file %1</source>
+        <translation>Colar Arquivo %1</translation>
     </message>
     <message>
-        <source>Album</source>
-        <translation>Álbum</translation>
+        <source>Unsupported Format</source>
+        <translation>Formato Não Suportado</translation>
     </message>
     <message>
-        <source>Year</source>
-        <translation>Ano</translation>
+        <source>The maximum number of channels supported is %1 channels.</source>
+        <translation>O número de canais de canais de áudio suportados é %1.</translation>
     </message>
     <message>
-        <source>Where</source>
-        <translation>Localização</translation>
+        <source>The minimum sample rate supported is %1 Hz.</source>
+        <translation>A Taxa de Amostragem mínima suportada é %1 Hz.</translation>
+    </message>
+    <message>
+        <source>The maximum sample rate supported is %1 Hz.</source>
+        <translation>A Taxa de Amostragem máxima suportada é %1 Hz.</translation>
+    </message>
+    <message>
+        <source>Audio VST Check Failed</source>
+        <translation>Falha na verificação de VST</translation>
+    </message>
+    <message>
+        <source>An error occurred in the execution of VST plugin application. No VST plugin can be loaded in this condition.</source>
+        <translation>Ocorreu um erro na execução da aplicação de suporte a plugins VST. Nenhum plugin VST poderá ser carregado nesta condição.</translation>
+    </message>
+    <message>
+        <source>Audio not saved</source>
+        <translation>Áudio não salvo</translation>
+    </message>
+    <message>
+        <source>It was not possible to complete the save of file “%1” because the chosen container does not support metadata.</source>
+        <translation>Não foi possível concluir o salvamento do arquivo “%1” porque o formato escolhido não suporta metadados.</translation>
+    </message>
+    <message>
+        <source>An error was encountered while saving your sound file “%1”!</source>
+        <translation>Ocorreu um erro durante o salvamento do arquivo “%1”!</translation>
     </message>
 </context>
 <context>
@@ -1393,10 +1052,6 @@
         <translation>Analisando</translation>
     </message>
     <message>
-        <source>Opening file %1 of %2 in</source>
-        <translation>Abrindo arquivo %1 de %2 em</translation>
-    </message>
-    <message>
         <source>Opening &quot;%1&quot;</source>
         <translation>Abrindo &quot;%1&quot;</translation>
     </message>
@@ -1436,7 +1091,7 @@
         <source>Open File Error</source>
         <translation>Erro na abertura de arquivo</translation>
     </message>
-    <message utf8="true">
+    <message>
         <source>An error occurred while trying to open the file “%1”.</source>
         <translation>Ocorreu um erro durante a abertura do arquivo “%1”.</translation>
     </message>
@@ -1456,7 +1111,7 @@
         <source>No supported audio files found!</source>
         <translation>Nenhum arquivo de áudio suportado!</translation>
     </message>
-    <message utf8="true">
+    <message>
         <source>The package “%1” does not contains any supported audio file.</source>
         <translation>O pacote &quot;%1&quot; não contém arquivos de áudio suportados.</translation>
     </message>
@@ -1464,9 +1119,17 @@
         <source>File not found!</source>
         <translation>Arquivo não encontrado!</translation>
     </message>
-    <message utf8="true">
+    <message>
         <source>The file “%1” was not found. Check if your filename is valid and you have permission to open it.</source>
         <translation>O arquivo &quot;%1&quot; não foi encontrado. Verifique se o nome de arquivo é valído e se você tem permissão para abrí-lo.</translation>
+    </message>
+    <message>
+        <source>Analyzing files in %1 %2</source>
+        <translation>Analisando arquivos em %1 %2</translation>
+    </message>
+    <message>
+        <source>Analyzing files in %1</source>
+        <translation>Analisando arquivo em %1</translation>
     </message>
 </context>
 <context>
@@ -1523,9 +1186,6 @@
         <source>One or more errors were detected during the installation process. You can try again and if the error persists contact the ocenaudio team.</source>
         <translation>Um ou mais erros foram detectados durante o processo de instalação. Você pode tentar novamente e, se os erros persistirem, entre em contato com a equipe do ocenaudio.</translation>
     </message>
-</context>
-<context>
-    <name>QOcenPluginManagerData</name>
     <message>
         <source>Invalid Plugin Code Signature</source>
         <translation>Assinatura de Código de Plugin Inválida</translation>
@@ -1551,38 +1211,10 @@
     </message>
 </context>
 <context>
-    <name>QOcenRecentMenu</name>
+    <name>QOcenQuickOpenWidget</name>
     <message>
-        <source>Recent Files</source>
-        <translation>Arquivos Recentes</translation>
-    </message>
-    <message>
-        <source>Clear History</source>
-        <translation>Limpar Histórico</translation>
-    </message>
-    <message>
-        <source>Open both streams in this file</source>
-        <translation>Abrir ambas as faixas do arquivo</translation>
-    </message>
-    <message>
-        <source>Open all streams in this file</source>
-        <translation>Abrir todas as faixas do arquivo</translation>
-    </message>
-    <message>
-        <source>Open all files in this directory</source>
-        <translation>Abrir todos os arquivos do diretório</translation>
-    </message>
-    <message>
-        <source>Open both files in this %1</source>
-        <translation>Abra ambos os arquivos %1</translation>
-    </message>
-    <message>
-        <source>Open all %1 files in this %2</source>
-        <translation>Abra todos os %1 arquivos %2</translation>
-    </message>
-    <message>
-        <source>and %1 other files</source>
-        <translation>e %1 outros arquivos</translation>
+        <source>File or http address</source>
+        <translation>Arquivo ou endereço http</translation>
     </message>
 </context>
 <context>
@@ -1602,6 +1234,69 @@
     <message>
         <source>Format</source>
         <translation>Formato</translation>
+    </message>
+</context>
+<context>
+    <name>QOcenSoundPrefs</name>
+    <message>
+        <source>Form</source>
+        <translation>Formulário</translation>
+    </message>
+    <message>
+        <source>Playback Device/Options</source>
+        <translation>Dispositivo e Opções de Reprodução</translation>
+    </message>
+    <message>
+        <source>Options</source>
+        <translation>Opções</translation>
+    </message>
+    <message>
+        <source>Move cursor to playback stop position</source>
+        <translation>Mover o cursor para a posição de parada da reprodução</translation>
+    </message>
+    <message>
+        <source>Record Device/Options</source>
+        <translation>Dispositivo e Opções de Gravação</translation>
+    </message>
+    <message>
+        <source>Move cursor to record stop position</source>
+        <translation>Mover o cursor para a posição de parada da gravação</translation>
+    </message>
+    <message>
+        <source>Mixer Sample Rate</source>
+        <translation>Taxa de Amostragem do Mixer</translation>
+    </message>
+    <message>
+        <source>48000 Hz</source>
+        <translation></translation>
+    </message>
+    <message>
+        <source>44100 Hz</source>
+        <translation></translation>
+    </message>
+    <message>
+        <source>22050 Hz</source>
+        <translation></translation>
+    </message>
+    <message>
+        <source>Mixer Backend</source>
+        <translation>Backend do Mixer</translation>
+    </message>
+    <message>
+        <source>CoreAudio</source>
+        <translation></translation>
+    </message>
+    <message>
+        <source>Disabled</source>
+        <translation>Desabilitado</translation>
+    </message>
+    <message>
+        <source>Sound</source>
+        <translation>Som</translation>
+    </message>
+    <message>
+        <source>System Default</source>
+        <translation>Padrão do Sistema</translation>
     </message>
 </context>
 <context>
@@ -1729,59 +1424,59 @@
         <source>mil </source>
         <translation></translation>
     </message>
-    <message utf8="true">
+    <message>
         <source>milhão </source>
         <translation></translation>
     </message>
-    <message utf8="true">
+    <message>
         <source>bilhão </source>
         <translation></translation>
     </message>
-    <message utf8="true">
+    <message>
         <source>trilhão </source>
         <translation></translation>
     </message>
-    <message utf8="true">
+    <message>
         <source>quatrilhão </source>
         <translation></translation>
     </message>
-    <message utf8="true">
+    <message>
         <source>quintilhão </source>
         <translation></translation>
     </message>
-    <message utf8="true">
+    <message>
         <source>sextilhão </source>
         <translation></translation>
     </message>
-    <message utf8="true">
+    <message>
         <source>setilhão </source>
         <translation></translation>
     </message>
-    <message utf8="true">
+    <message>
         <source>milhões </source>
         <translation></translation>
     </message>
-    <message utf8="true">
+    <message>
         <source>bilhões </source>
         <translation></translation>
     </message>
-    <message utf8="true">
+    <message>
         <source>trilhões </source>
         <translation></translation>
     </message>
-    <message utf8="true">
+    <message>
         <source>quadrilhões </source>
         <translation></translation>
     </message>
-    <message utf8="true">
+    <message>
         <source>quintilhões </source>
         <translation></translation>
     </message>
-    <message utf8="true">
+    <message>
         <source>sextilhões </source>
         <translation></translation>
     </message>
-    <message utf8="true">
+    <message>
         <source>setilhões </source>
         <translation></translation>
     </message>
@@ -1913,7 +1608,7 @@
         <source>dois </source>
         <translation></translation>
     </message>
-    <message utf8="true">
+    <message>
         <source>três </source>
         <translation></translation>
     </message>
@@ -1940,128 +1635,6 @@
     <message>
         <source>nove </source>
         <translation></translation>
-    </message>
-</context>
-<context>
-    <name>QOcenUrlDialog</name>
-    <message>
-        <source>Dialog</source>
-        <translation></translation>
-    </message>
-    <message>
-        <source>Enter the URL or path to a sound file on the Internet, your computer,
-or your network that you want to open:</source>
-        <translation>Digite a URL ou caminho para um arquivo de som na Interner, seu computador,
-ou sua rede de trabalho que você deseje abrir:</translation>
-    </message>
-</context>
-<context>
-    <name>QOcenVSTWidget</name>
-    <message>
-        <source>VST Effect</source>
-        <translation></translation>
-    </message>
-    <message>
-        <source>Applying %1|%1</source>
-        <translation>Aplicando %1|%1</translation>
-    </message>
-    <message>
-        <source>Plugin crashed</source>
-        <translation></translation>
-    </message>
-    <message>
-        <source>The plugin %1 crashed and will be finalized.</source>
-        <translation>O plugin %1 deixou de funcionar e será encerrado.</translation>
-    </message>
-    <message>
-        <source>Ocenaudio was not affected by this crash and will continue running normally.</source>
-        <translation>Ocenaudio não foi afetada por este plugin e vai continuar funcionando normalmente.</translation>
-    </message>
-    <message>
-        <source>VST Effect:</source>
-        <translation></translation>
-    </message>
-    <message>
-        <source>Manufacturer:</source>
-        <translation>Desenvolvedor:</translation>
-    </message>
-</context>
-<context>
-    <name>QOcenVstList</name>
-    <message>
-        <source>Dialog</source>
-        <translation></translation>
-    </message>
-    <message>
-        <source>List of VST Plugins</source>
-        <translation>Lista de Plugins VST</translation>
-    </message>
-    <message>
-        <source>/Library/Audio/plugins/VST/delay.vst</source>
-        <translation></translation>
-    </message>
-    <message>
-        <source>/Library/Audio/plugins/VST/sampler.vst (crashed)</source>
-        <translation></translation>
-    </message>
-    <message>
-        <source>Enable All</source>
-        <translation>Habilitar todos</translation>
-    </message>
-    <message>
-        <source>Disable All</source>
-        <translation>Desabilitar todos</translation>
-    </message>
-    <message>
-        <source>Effects in Folder %1</source>
-        <translation>Efeitos na Pasta %1</translation>
-    </message>
-    <message>
-        <source>Crashed</source>
-        <translation></translation>
-    </message>
-    <message>
-        <source>Duplicated / Older Version</source>
-        <translation>Duplicado / Desatualizado</translation>
-    </message>
-    <message>
-        <source>Unsupported</source>
-        <translation>Não suportado</translation>
-    </message>
-    <message>
-        <source>Not Loaded</source>
-        <translation>Não Carregado</translation>
-    </message>
-</context>
-<context>
-    <name>QOcenVstPrefs</name>
-    <message>
-        <source>Form</source>
-        <translation>Formulário</translation>
-    </message>
-    <message>
-        <source>VST Search Path</source>
-        <translation>Caminhos de Procura VST</translation>
-    </message>
-    <message>
-        <source>+</source>
-        <translation></translation>
-    </message>
-    <message>
-        <source>-</source>
-        <translation></translation>
-    </message>
-    <message>
-        <source>VST</source>
-        <translation></translation>
-    </message>
-    <message>
-        <source>Select Directory</source>
-        <translation>Selecionar a Pasta</translation>
-    </message>
-    <message>
-        <source>Scanning Plugins</source>
-        <translation>Procurando Plugins</translation>
     </message>
 </context>
 </TS>

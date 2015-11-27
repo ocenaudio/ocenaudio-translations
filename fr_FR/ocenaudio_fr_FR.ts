@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!DOCTYPE TS>
-<TS version="2.0" language="fr_FR">
+<TS version="2.1" language="fr_FR">
 <context>
     <name>AdjustSampleRateDialog</name>
     <message>
@@ -53,42 +53,7 @@
     </message>
 </context>
 <context>
-    <name>MAC_APPLICATION_MENU</name>
-    <message>
-        <source>Services</source>
-        <translation>Services</translation>
-    </message>
-    <message>
-        <source>Hide %1</source>
-        <translation>Masquer %1</translation>
-    </message>
-    <message>
-        <source>Hide Others</source>
-        <translation>Masquer les autres</translation>
-    </message>
-    <message>
-        <source>Show All</source>
-        <translation>Tout afficher</translation>
-    </message>
-    <message>
-        <source>Preferences...</source>
-        <translation>Préférences...</translation>
-    </message>
-    <message>
-        <source>Quit %1</source>
-        <translation>Quitter %1</translation>
-    </message>
-    <message>
-        <source>About %1</source>
-        <translation>À propos de %1</translation>
-    </message>
-</context>
-<context>
     <name>MainWindow</name>
-    <message>
-        <source>toolBar</source>
-        <translation>Barre d&apos;outils</translation>
-    </message>
     <message>
         <source>&amp;File</source>
         <translation>&amp;Fichier</translation>
@@ -583,10 +548,6 @@
         <translation>Cacher la barre d&apos;outils</translation>
     </message>
     <message>
-        <source>Hide Navigator</source>
-        <translation>Cacher la navigation</translation>
-    </message>
-    <message>
         <source>Show Sidebar</source>
         <translation>Afficher la barre latérale</translation>
     </message>
@@ -732,298 +693,6 @@
         <translation>Sélection Export...</translation>
     </message>
     <message>
-        <source>New From Selection</source>
-        <translation>Nouvelle partir de la sélection</translation>
-    </message>
-    <message>
-        <source>About</source>
-        <translation>À propos</translation>
-    </message>
-    <message>
-        <source>Open Sound File</source>
-        <translation>Ouvrir fichier</translation>
-    </message>
-    <message>
-        <source>Save Sound Copy As ...</source>
-        <translation>Enregistrer une copie sous...</translation>
-    </message>
-    <message>
-        <source>Save Sound Selection As ...</source>
-        <translation>Enregistrer la sélection du son sous...</translation>
-    </message>
-    <message>
-        <source>Exporting As</source>
-        <translation>Exportation en tant</translation>
-    </message>
-    <message>
-        <source>Question</source>
-        <translation>Question</translation>
-    </message>
-    <message>
-        <source>&amp;Preferences...</source>
-        <translation>&amp;Préférences...</translation>
-    </message>
-    <message>
-        <source>Scanning VST Plugins</source>
-        <translation></translation>
-    </message>
-    <message>
-        <source>VST</source>
-        <translation></translation>
-    </message>
-    <message>
-        <source>Audio Unit</source>
-        <translation></translation>
-    </message>
-    <message>
-        <source>Saving Selection As</source>
-        <translation>Enregistrer la sélection sous</translation>
-    </message>
-    <message>
-        <source>You have multiple selections. Do you want to save each selection to a separate file?</source>
-        <translation>Vous avez plusieurs sélections. Vous souhaitez enregistrer chacune des sélections dans des fichiers séparés?</translation>
-    </message>
-    <message>
-        <source>Select &quot;separate&quot; to save each selection to a different file. If you select &quot;single&quot; all your selections will be appended and saved to a single file.</source>
-        <translation>Sélectionnez «séparée» pour sauver chaque sélection dans un fichier différent. Si vous choisissez «unifier», toutes les sélections sont enregistrées dans un fichier.</translation>
-    </message>
-    <message>
-        <source>Separate</source>
-        <translation>Séparée</translation>
-    </message>
-    <message>
-        <source>Single</source>
-        <translation>Unifier</translation>
-    </message>
-    <message>
-        <source>Save Each Selection Prefixed With ...</source>
-        <translation>Enregistrer chaque sélection préfixés par...</translation>
-    </message>
-    <message>
-        <source>Prefix With:</source>
-        <translation>Préfixer avec:</translation>
-    </message>
-    <message>
-        <source>Save Sound Selections As ...</source>
-        <translation>Enregistrer les sélections sous...</translation>
-    </message>
-    <message>
-        <source>Exporting Selection As</source>
-        <translation>Exportation de la sélection sous</translation>
-    </message>
-    <message>
-        <source>region</source>
-        <translation>région</translation>
-    </message>
-    <message>
-        <source>Exporting Regions As</source>
-        <translation>Exportation de région sous</translation>
-    </message>
-    <message>
-        <source>Information</source>
-        <translation>Information</translation>
-    </message>
-    <message>
-        <source>Maximum ringtone duration exceeded!</source>
-        <translation>Durée maximale du ringtone dépassé!</translation>
-    </message>
-    <message>
-        <source>The maximum duration of a ringtone to itunes is 30s. To proceed you must select or cut your audio up to 30s.</source>
-        <translation>La durée maximale d&apos;un ringtone vers iTunes est de 30s. Pour continuer, vous devez sélectionner ou de couper vos fichiers audio jusqu&apos;à 30s.</translation>
-    </message>
-    <message>
-        <source>%1</source>
-        <translation></translation>
-    </message>
-    <message utf8="true">
-        <source>Do you want to revert to the most recently saved version of the document “%1”?</source>
-        <translation>Voulez-vous revenir à la version la plus récente enregistrée du document &quot;%1&quot;?</translation>
-    </message>
-    <message>
-        <source>Your current changes will be lost.</source>
-        <translation>Vos modifications seront perdues.</translation>
-    </message>
-    <message>
-        <source>Revert</source>
-        <translation>Revenir</translation>
-    </message>
-    <message>
-        <source>Cancel</source>
-        <translation>Annuler</translation>
-    </message>
-    <message>
-        <source>Save Audio Screenshot</source>
-        <translation>Enregistrer audio capture</translation>
-    </message>
-    <message>
-        <source>Images (*.png *.xpm *.jpg)</source>
-        <translation></translation>
-    </message>
-    <message>
-        <source>Select Sound File</source>
-        <translation>Sélectionner un fichier sonore</translation>
-    </message>
-    <message>
-        <source>Attention</source>
-        <translation>Attention</translation>
-    </message>
-    <message>
-        <source>You are about to remove all metadata of this file. Are you sure you want to proceed?</source>
-        <translation>Vous êtes sur le point de supprimer toutes les métadonnées de ce fichier. Etes-vous sûr de vouloir continuer?</translation>
-    </message>
-    <message>
-        <source>If you proceed all metadata informations (artist name, album name, artwork) will be removed from this file.</source>
-        <translation>Si vous continuez toutes les informations de métadonnées (nom d&apos;artiste, nom d&apos;album, œuvres d&apos;art) seront retirés de ce fichier.</translation>
-    </message>
-    <message>
-        <source>Some markers will be merged because they are very close.</source>
-        <translation>Certains marqueurs seront fusionnés, car ils sont très proches.</translation>
-    </message>
-    <message>
-        <source>Markers less than 10 ms apart are merged in the split process. You have one marker merged.</source>
-        <translation>Marqueurs de moins de 10 ms à part sont fusionnés dans le processus de fractionnement. Vous avez un marqueur fusionné.</translation>
-    </message>
-    <message>
-        <source>Markers less than 10 ms apart are merged in the split process. You have %1 markers merged.</source>
-        <translation>Marqueurs de moins de 10 ms à part sont fusionnés dans le processus de fractionnement. Vous avez %1 marqueurs fusionné.</translation>
-    </message>
-    <message>
-        <source>You are about to split your audio by %1 parts. Are you sure you want to proceed?</source>
-        <translation>Vous êtes sur le point de diviser votre audio en %1 parties. Etes-vous sûr de vouloir continuer?</translation>
-    </message>
-    <message>
-        <source>If you proceed this operation will generate %1 new audio files.</source>
-        <translation>Si vous continuez cette opération va générer %1 nouveaux fichiers audio.</translation>
-    </message>
-    <message>
-        <source>Part %1 of </source>
-        <translation>Partie %1 de </translation>
-    </message>
-    <message>
-        <source>Error</source>
-        <translation></translation>
-    </message>
-    <message>
-        <source>Invalid Regions Filename!</source>
-        <translation>Nom incorrect des fichiers régions!</translation>
-    </message>
-    <message>
-        <source>The regions file selected is not supported.</source>
-        <translation>Le fichier sélectionné n&apos;est pas pris en charge.</translation>
-    </message>
-    <message>
-        <source>Generating Silence</source>
-        <translation>Générer le silence</translation>
-    </message>
-    <message>
-        <source>Silence Generation</source>
-        <translation>Génération de silence</translation>
-    </message>
-    <message>
-        <source>Applying Fade</source>
-        <translation>Appliquer fondre</translation>
-    </message>
-    <message>
-        <source>Hide Navigator Window</source>
-        <translation>Cacher la fenêtre de navigation</translation>
-    </message>
-    <message>
-        <source>Resume Playback</source>
-        <translation>Reprise la lecture</translation>
-    </message>
-    <message>
-        <source>Merge Regions</source>
-        <translation>Fusionner les régions</translation>
-    </message>
-    <message>
-        <source>Export Error</source>
-        <translation>Erreur de Exportation</translation>
-    </message>
-    <message>
-        <source>The export file format is not compatible with the current audio format!</source>
-        <translation>Le format de fichier d&apos;exportation n&apos;est pas compatible avec le format audio actuel!</translation>
-    </message>
-    <message>
-        <source>The export file cannot be create on the destination path!</source>
-        <translation>Le fichier d&apos;exportation ne peut être crée sur le chemin de destination!</translation>
-    </message>
-    <message>
-        <source>Save Selections...</source>
-        <translation>Enregistrer les sélections...</translation>
-    </message>
-    <message>
-        <source>Export Selections...</source>
-        <translation>Sélections Export...</translation>
-    </message>
-    <message>
-        <source>%1 %2</source>
-        <translation></translation>
-    </message>
-    <message>
-        <source>Create Regions</source>
-        <translation>Créer des régions</translation>
-    </message>
-    <message>
-        <source>Create Marker</source>
-        <translation>Créer Marqueur</translation>
-    </message>
-    <message>
-        <source>Show Toolbar</source>
-        <translation>Afficher la barre d&apos;outils</translation>
-    </message>
-    <message>
-        <source>Hide Sidebar</source>
-        <translation>Cacher la barre latérale</translation>
-    </message>
-    <message>
-        <source>Show Navigator</source>
-        <translation>Afficher la navigation</translation>
-    </message>
-    <message>
-        <source>Hide All</source>
-        <translation>Masquer Tout</translation>
-    </message>
-    <message>
-        <source>Hide Regions</source>
-        <translation>Masquer Régions</translation>
-    </message>
-    <message>
-        <source>Hide Loop</source>
-        <translation>Masquer Loop</translation>
-    </message>
-    <message>
-        <source>Hide Markers</source>
-        <translation>Masquer Marqueurs</translation>
-    </message>
-    <message>
-        <source>Hide Channels Id</source>
-        <translation>Masquer l&apos;identification des canaux</translation>
-    </message>
-    <message>
-        <source>Stop Recording</source>
-        <translation>Arrêter l&apos;enregistrement</translation>
-    </message>
-    <message>
-        <source>Stop and Move Cursor</source>
-        <translation>Arrêtez et déplacez le curseur</translation>
-    </message>
-    <message>
-        <source>Stop</source>
-        <translation>Stop</translation>
-    </message>
-    <message>
-        <source>Repeat %1</source>
-        <translation>Répéter %1</translation>
-    </message>
-    <message>
-        <source>Delete Marker</source>
-        <translation>Supprimer Marqueur</translation>
-    </message>
-    <message>
-        <source>Convert Region to Loop</source>
-        <translation>Convertir Région en Loop</translation>
-    </message>
-    <message>
         <source>Adjust Selection</source>
         <translation>Ajuster la Sélection</translation>
     </message>
@@ -1036,304 +705,28 @@
         <translation>Accrochage à Zéro Croix</translation>
     </message>
     <message>
-        <source>Delete Loop</source>
-        <translation>Supprimer Loop</translation>
-    </message>
-    <message>
-        <source>Delete Region</source>
-        <translation>Supprimer Région</translation>
-    </message>
-    <message>
-        <source>Convert Loop to Region</source>
-        <translation>Convertir Loop en Région</translation>
-    </message>
-    <message>
-        <source>Adjust Selections</source>
-        <translation>Ajuster les Sélections</translation>
-    </message>
-    <message>
         <source>Fade...</source>
         <translation></translation>
-    </message>
-    <message>
-        <source>File Menu</source>
-        <translation>Menu Fichier</translation>
-    </message>
-    <message>
-        <source>Edit Menu</source>
-        <translation>Menu Édition</translation>
-    </message>
-    <message>
-        <source>View Menu</source>
-        <translation>Menu Présentation</translation>
-    </message>
-    <message>
-        <source>Control Menu</source>
-        <translation>Menu Commandes</translation>
-    </message>
-    <message>
-        <source>Effects Menu</source>
-        <translation>Menu Effets</translation>
-    </message>
-    <message>
-        <source>VST Effects</source>
-        <translation>Effets VST</translation>
-    </message>
-    <message>
-        <source>Generate Menu</source>
-        <translation>Menu Génére</translation>
-    </message>
-    <message>
-        <source>Analyze Menu</source>
-        <translation>Menu Analyser</translation>
-    </message>
-    <message>
-        <source>Help Menu</source>
-        <translation>Menu Aide</translation>
-    </message>
-    <message>
-        <source>New From Clipboard</source>
-        <translation>Nouvelle de Presse-papiers</translation>
-    </message>
-    <message>
-        <source>Adjust Selection to Scale Tick</source>
-        <translation>Ajuster la sélection à graduation de l&apos;échelle</translation>
-    </message>
-    <message>
-        <source>Adjust Selection to Zero Cross</source>
-        <translation>Ajuster la sélection à croix zéro</translation>
-    </message>
-    <message>
-        <source>Create Marker/Region</source>
-        <translation>Créer Marqueur/Région</translation>
-    </message>
-    <message>
-        <source>Waveform and Spectral View</source>
-        <translation>Affichage de formes d’onde et spectral</translation>
-    </message>
-    <message>
-        <source>Display Time Format in Decimal</source>
-        <translation>Format de l&apos;affichage en temps</translation>
-    </message>
-    <message>
-        <source>Display Time Format in Samples</source>
-        <translation>Format de l&apos;affichage en échantillons</translation>
-    </message>
-    <message>
-        <source>Display Time Format in Frames</source>
-        <translation>Format de l&apos;affichage en cadres</translation>
-    </message>
-    <message>
-        <source>Vertical Scale in Sample Value</source>
-        <translation>Echelle verticale en valeur de l&apos;échantillon</translation>
-    </message>
-    <message>
-        <source>Vertical Scale Normalized</source>
-        <translation>Echelle verticale normalisée</translation>
-    </message>
-    <message>
-        <source>Vertical Scale Percentages</source>
-        <translation>Échelle verticale pourcentages</translation>
-    </message>
-    <message>
-        <source>Vertical Scale in Decibels</source>
-        <translation>Echelle verticale en décibels</translation>
-    </message>
-    <message>
-        <source>Spectral Scale in Mels</source>
-        <translation>Échelle spectrale à Mels</translation>
-    </message>
-    <message>
-        <source>Spectral Scale in Hz</source>
-        <translation>Échelle spectrale à Hz</translation>
-    </message>
-    <message>
-        <source>Show/Hide Regions</source>
-        <translation>Afficher/Masquer Régions</translation>
-    </message>
-    <message>
-        <source>Show/Hide Loops</source>
-        <translation>Afficher/Masquer Loops</translation>
-    </message>
-    <message>
-        <source>Show/Hide Markers</source>
-        <translation>Afficher/Masquer Marqueurs</translation>
-    </message>
-    <message>
-        <source>Show/Hide All Regions, Loops and Markers</source>
-        <translation>Afficher/Masquer tous le Régions, Loops et Marqueurs</translation>
-    </message>
-    <message>
-        <source>Show/Hide Toolbar</source>
-        <translation>Afficher/Masquer la barre d&apos;outils</translation>
-    </message>
-    <message>
-        <source>Show/Hide Sidebar</source>
-        <translation>Afficher/Masquer la barre latérale</translation>
-    </message>
-    <message>
-        <source>Show/Hide Navigator</source>
-        <translation>Afficher/Masquer la navigation</translation>
-    </message>
-    <message>
-        <source>Show/Hide Navigator Window</source>
-        <translation>Afficher/Masquer la fenêtre de navigation</translation>
-    </message>
-    <message>
-        <source>Show Full-size Level Meter</source>
-        <translation>Afficher/Masquer Full-size Level Meter</translation>
-    </message>
-    <message>
-        <source>Show Mini Level Meter</source>
-        <translation>Afficher/Masquer Mini Level Meter</translation>
-    </message>
-    <message>
-        <source>Hide Level Meter</source>
-        <translation>Masquer Level Meter</translation>
-    </message>
-    <message>
-        <source>Start/Stop Recording</source>
-        <translation>Lancer/Arrêter l&apos;enregistrement</translation>
-    </message>
-    <message>
-        <source>Goto Next Audio</source>
-        <translation>Aller audio suivant</translation>
-    </message>
-    <message>
-        <source>Goto Previous Audio</source>
-        <translation>Aller audio précédente</translation>
-    </message>
-    <message>
-        <source>Enable/Disable Loop Playback</source>
-        <translation>Activer/Désactiver la lecture en loop</translation>
-    </message>
-    <message>
-        <source>Move Cursor to Next Marker</source>
-        <translation>Déplacer le curseur au marqueur suivant</translation>
-    </message>
-    <message>
-        <source>Move Cursor to Previous Marker</source>
-        <translation>Déplacez le curseur au marqueur précédent</translation>
-    </message>
-    <message>
-        <source>Repeat Last Effect</source>
-        <translation>Répéter le dernier effet</translation>
     </message>
     <message>
         <source>Hide Markers Label</source>
         <translation>Masquer Marqueurs Étiquette</translation>
     </message>
     <message>
-        <source>Show/Hide Markers Label</source>
-        <translation>Afficher/Masquer Marqueurs Étiquette</translation>
-    </message>
-    <message>
-        <source>Show Markers Label</source>
-        <translation>Afficher Marqueurs Étiquette</translation>
-    </message>
-    <message>
         <source>Detect DTMF Tones</source>
         <translation>Détecter DTMF</translation>
-    </message>
-    <message>
-        <source>Close File</source>
-        <translation>Fermer le fichier</translation>
-    </message>
-    <message>
-        <source>Close All Files</source>
-        <translation>Fermer tous les fichiers</translation>
     </message>
     <message>
         <source>Rescan Audio Devices</source>
         <translation>Revérifier les périphériques audio</translation>
     </message>
     <message>
-        <source>Apple Bandpass Filter</source>
+        <source>Meta+Space</source>
         <translation></translation>
     </message>
     <message>
-        <source>Apple Filter</source>
-        <translation></translation>
-    </message>
-    <message>
-        <source>Apple Highpass Filter</source>
-        <translation></translation>
-    </message>
-    <message>
-        <source>Apple High Shelf Filter</source>
-        <translation></translation>
-    </message>
-    <message>
-        <source>Apple Lowpass Filter</source>
-        <translation></translation>
-    </message>
-    <message>
-        <source>Apple Low Shelf Filter</source>
-        <translation></translation>
-    </message>
-    <message>
-        <source>Apple Dynamics Processor</source>
-        <translation></translation>
-    </message>
-    <message>
-        <source>Apple Peak Limiter</source>
-        <translation></translation>
-    </message>
-    <message>
-        <source>Apple Multiband Compressor</source>
-        <translation></translation>
-    </message>
-    <message>
-        <source>Apple Delay</source>
-        <translation></translation>
-    </message>
-    <message>
-        <source>Apple Matrix Reverb</source>
-        <translation></translation>
-    </message>
-    <message>
-        <source>Apple Sample Delay</source>
-        <translation></translation>
-    </message>
-    <message>
-        <source>Apple Graphic Equalizer</source>
-        <translation></translation>
-    </message>
-    <message>
-        <source>Apple Parametric Equalizer</source>
-        <translation></translation>
-    </message>
-    <message>
-        <source>Apple N-Band Equalizer</source>
-        <translation></translation>
-    </message>
-    <message>
-        <source>Apple Pitch</source>
-        <translation></translation>
-    </message>
-    <message>
-        <source>Apple Distortion</source>
-        <translation></translation>
-    </message>
-    <message>
-        <source>Apple Roger Beep</source>
-        <translation></translation>
-    </message>
-    <message>
-        <source>Apple Net Send</source>
-        <translation></translation>
-    </message>
-    <message>
-        <source>Apple AAC Encoder Round Trip</source>
-        <translation></translation>
-    </message>
-    <message>
-        <source>Audio Units Effects</source>
-        <translation>Effets Audio Units</translation>
-    </message>
-    <message>
-        <source>Save Copy As</source>
-        <translation>Enregistrer une copie sous</translation>
+        <source>Send Crash Report...</source>
+        <translation>Envoyer rapport de problème...</translation>
     </message>
 </context>
 <context>
@@ -1373,85 +766,6 @@
     <message>
         <source>Cursor</source>
         <translation>Cursor</translation>
-    </message>
-</context>
-<context>
-    <name>NewAudioDlg</name>
-    <message>
-        <source>New Audio ...</source>
-        <translation>Nouveau audio...</translation>
-    </message>
-    <message>
-        <source>Sample Rate</source>
-        <translation>Taux d&apos;échantillonnage</translation>
-    </message>
-    <message>
-        <source>16000</source>
-        <translation></translation>
-    </message>
-    <message>
-        <source>Hz</source>
-        <translation></translation>
-    </message>
-    <message>
-        <source>48000</source>
-        <translation></translation>
-    </message>
-    <message>
-        <source>44100</source>
-        <translation></translation>
-    </message>
-    <message>
-        <source>32000</source>
-        <translation></translation>
-    </message>
-    <message>
-        <source>22050</source>
-        <translation></translation>
-    </message>
-    <message>
-        <source>11025</source>
-        <translation></translation>
-    </message>
-    <message>
-        <source>8000</source>
-        <translation></translation>
-    </message>
-    <message>
-        <source>6000</source>
-        <translation></translation>
-    </message>
-    <message>
-        <source>Channels</source>
-        <translation>Canaux</translation>
-    </message>
-    <message>
-        <source>Mono</source>
-        <translation>Mono</translation>
-    </message>
-    <message>
-        <source>Stereo</source>
-        <translation>Stéréo</translation>
-    </message>
-    <message>
-        <source>Resolution</source>
-        <translation>Résolution</translation>
-    </message>
-    <message>
-        <source>16</source>
-        <translation></translation>
-    </message>
-    <message>
-        <source>bits</source>
-        <translation></translation>
-    </message>
-    <message>
-        <source>8</source>
-        <translation></translation>
-    </message>
-    <message>
-        <source>32</source>
-        <translation></translation>
     </message>
 </context>
 <context>
@@ -1894,57 +1208,6 @@
     </message>
 </context>
 <context>
-    <name>QFftAnalysisDialog</name>
-    <message>
-        <source>FFT Analysis</source>
-        <translation>Analyseur FFT</translation>
-    </message>
-    <message>
-        <source>Window Function</source>
-        <translation>Fonction de fenêtrage</translation>
-    </message>
-    <message>
-        <source>Number of Bins</source>
-        <translation>Résolution spectrale</translation>
-    </message>
-    <message>
-        <source>Scale Kind</source>
-        <translation>Type d&apos;échelle</translation>
-    </message>
-    <message>
-        <source>Other Options</source>
-        <translation>Autres options</translation>
-    </message>
-    <message>
-        <source>Follow Play Cursor</source>
-        <translation>Suivez curseur de lecture</translation>
-    </message>
-    <message>
-        <source>Separated channels view</source>
-        <translation>Vue des canaux séparés</translation>
-    </message>
-    <message>
-        <source>Show each audio channel on a separated view.</source>
-        <translation>Montrez chaque canal audio sur une vue séparée.</translation>
-    </message>
-    <message>
-        <source>Display Cursor Position</source>
-        <translation>Afficher la position du curseur</translation>
-    </message>
-    <message>
-        <source>Updating FFT ...</source>
-        <translation>FFT mise à jour...</translation>
-    </message>
-    <message>
-        <source>%1 Window | %2 bins</source>
-        <translation>Fenêtre %1 | %2 bins</translation>
-    </message>
-    <message>
-        <source>%1 Scale</source>
-        <translation>%1 echelle</translation>
-    </message>
-</context>
-<context>
     <name>QFilterWidget</name>
     <message>
         <source>Filter</source>
@@ -2359,7 +1622,7 @@
         <source>No Gap</source>
         <translation>Pas d&apos;écart</translation>
     </message>
-    <message utf8="true">
+    <message>
         <source>½ s Gap</source>
         <translation>½ s d&apos;écart</translation>
     </message>
@@ -2383,6 +1646,103 @@
         <source>5 s Gap</source>
         <translation>5 s d&apos;écart</translation>
     </message>
+    <message>
+        <source>Preview</source>
+        <translation>Prévisualization</translation>
+    </message>
+    <message>
+        <source>bins</source>
+        <translation></translation>
+    </message>
+    <message>
+        <source>Window Function</source>
+        <translation>Fonction de fenêtrage</translation>
+    </message>
+    <message>
+        <source>Number of Bins</source>
+        <translation>Résolution spectrale</translation>
+    </message>
+    <message>
+        <source>Scale Kind</source>
+        <translation>Type d&apos;échelle</translation>
+    </message>
+    <message>
+        <source>Other Options</source>
+        <translation>Autres options</translation>
+    </message>
+    <message>
+        <source>Follow Play Cursor</source>
+        <translation>Suivez curseur de lecture</translation>
+    </message>
+    <message>
+        <source>Separated channels view</source>
+        <translation>Vue des canaux séparés</translation>
+    </message>
+    <message>
+        <source>Show each audio channel on a separated view.</source>
+        <translation>Montrez chaque canal audio sur une vue séparée.</translation>
+    </message>
+    <message>
+        <source>Display Cursor Position</source>
+        <translation>Afficher la position du curseur</translation>
+    </message>
+    <message>
+        <source>%1 Scale</source>
+        <comment>Ex: Linear Scale (Dont remove %1)</comment>
+        <translation>%1 echelle</translation>
+    </message>
+    <message>
+        <source>Drop Artwork Here</source>
+        <translation>Dérouler Création Ici</translation>
+    </message>
+    <message>
+        <source>Minimum Sample Value</source>
+        <translation>Valeur d’échantillon minimale</translation>
+    </message>
+    <message>
+        <source>Maximum Sample Value</source>
+        <translation>Valeur d’échantillon maximale</translation>
+    </message>
+    <message>
+        <source>Peak Amplitude</source>
+        <translation>Amplitude Pic</translation>
+    </message>
+    <message>
+        <source>Possible Clipped Samples</source>
+        <translation>Echantillons écrêtés possibles</translation>
+    </message>
+    <message>
+        <source>DC Offset</source>
+        <translation>Décalage DC</translation>
+    </message>
+    <message>
+        <source>Minimum RMS Power</source>
+        <translation>Amplitude RMS minimale</translation>
+    </message>
+    <message>
+        <source>Maximum RMS Power</source>
+        <translation>Amplitude RMS maximale</translation>
+    </message>
+    <message>
+        <source>Average RMS Power</source>
+        <translation>Amplitude RMS moyenne</translation>
+    </message>
+    <message>
+        <source>Total RMS Power</source>
+        <translation>Amplitude RMS totale</translation>
+    </message>
+    <message>
+        <source>Channel %1</source>
+        <translation>Canal %1</translation>
+    </message>
+    <message>
+        <source>Skip</source>
+        <translation>Sauter</translation>
+    </message>
+    <message>
+        <source>Custom</source>
+        <translation>Personnalisé</translation>
+    </message>
 </context>
 <context>
     <name>QOcenAboutDialog</name>
@@ -2398,7 +1758,7 @@
         <source>Version 2.6.0 (Build 2292)</source>
         <translation></translation>
     </message>
-    <message utf8="true">
+    <message>
         <source>© Copyright OcenAudio Team</source>
         <oldsource>© Copyright 2011 OcenAudio Team</oldsource>
         <translation>© Copyright OcenAudio Team</translation>
@@ -2411,7 +1771,7 @@
         <source>Version 2.0.0.rc1 (Build 2292)</source>
         <translation></translation>
     </message>
-    <message utf8="true">
+    <message>
         <source>© Copyright ocenaudio Team</source>
         <translation></translation>
     </message>
@@ -2429,33 +1789,236 @@
     </message>
 </context>
 <context>
-    <name>QOcenAudioApplication</name>
+    <name>QOcenAudioFftAnalysisDialog</name>
     <message>
-        <source>Stay Updated with ocenaudio!</source>
-        <translation>Restez à jour avec ocenaudio!</translation>
+        <source>FFT Analysis</source>
+        <translation>Analyseur FFT</translation>
     </message>
     <message>
-        <source>A new version might be available.
-Click here and check!</source>
-        <translation>Une nouvelle version pourrait être disponible.
-Cliquez ici et vérifiez!</translation>
+        <source>%1 Window | %2 %3</source>
+        <translation>Fenêtre de %1 | %2 %3</translation>
     </message>
     <message>
-        <source>New release available</source>
-        <translation>Nouvelle version disponible</translation>
+        <source>Updating FFT ...</source>
+        <translation>Mise à jour de la FFT ...</translation>
+    </message>
+</context>
+<context>
+    <name>QOcenAudioPropertiesDialog</name>
+    <message>
+        <source>Audio Properties</source>
+        <translation>Propriétés Audio</translation>
     </message>
     <message>
-        <source>A new ocenaudio version is available.
-Click here to download it.</source>
-        <translation>Une nouvelle version de ocenaudio disponibles.
-Cliquez ici pour le télécharger.</translation>
-    </message>
-    <message>
-        <source>Welcome to ocenaudio!</source>
+        <source>Song Name longo para ver o que pode acontecer</source>
         <translation></translation>
     </message>
     <message>
-        <source>Thanks for trying this wonderfull application. Enjoy your experience!</source>
+        <source>Artist</source>
+        <translation>Artiste</translation>
+    </message>
+    <message>
+        <source>Album</source>
+        <translation>Album</translation>
+    </message>
+    <message>
+        <source>General</source>
+        <translation>Générale</translation>
+    </message>
+    <message>
+        <source>File Name</source>
+        <translation>Nom de fichier</translation>
+    </message>
+    <message>
+        <source>filename.mp4</source>
+        <translation></translation>
+    </message>
+    <message>
+        <source>File Container</source>
+        <translation>Format de fichier</translation>
+    </message>
+    <message>
+        <source>MP4</source>
+        <translation>MP4</translation>
+    </message>
+    <message>
+        <source>Audio Codec</source>
+        <translation>Codec Audio</translation>
+    </message>
+    <message>
+        <source>AAC Low Complexity</source>
+        <translation></translation>
+    </message>
+    <message>
+        <source>Encoded With</source>
+        <translation>Codé avec</translation>
+    </message>
+    <message>
+        <source>LAME3.99</source>
+        <translation></translation>
+    </message>
+    <message>
+        <source>Bit Rate</source>
+        <translation>Débit</translation>
+    </message>
+    <message>
+        <source>192 kbps</source>
+        <translation></translation>
+    </message>
+    <message>
+        <source>Sample Rate</source>
+        <translation>Taux d&apos;échantillonnage</translation>
+    </message>
+    <message>
+        <source>44100 Hz</source>
+        <translation></translation>
+    </message>
+    <message>
+        <source>Channels</source>
+        <translation>Canaux</translation>
+    </message>
+    <message>
+        <source>stereo</source>
+        <translation>stéréo</translation>
+    </message>
+    <message>
+        <source>Resolution</source>
+        <translation>Résolution</translation>
+    </message>
+    <message>
+        <source>16 bits</source>
+        <translation></translation>
+    </message>
+    <message>
+        <source>Duration</source>
+        <translation>Durrée</translation>
+    </message>
+    <message>
+        <source>26 seconds</source>
+        <translation></translation>
+    </message>
+    <message>
+        <source>Number of Samples</source>
+        <translation>Nombre d&apos;échantillons</translation>
+    </message>
+    <message>
+        <source>192900</source>
+        <translation></translation>
+    </message>
+    <message>
+        <source>Size on Memory</source>
+        <translation>Taille sur la memoire</translation>
+    </message>
+    <message>
+        <source>100 Kb</source>
+        <translation></translation>
+    </message>
+    <message>
+        <source>Size on Disk</source>
+        <translation>Taille sur le disque</translation>
+    </message>
+    <message>
+        <source>192 Kb</source>
+        <translation></translation>
+    </message>
+    <message>
+        <source>Modification Date</source>
+        <translation>Date de modification</translation>
+    </message>
+    <message>
+        <source>12/09/2014 23:00</source>
+        <translation></translation>
+    </message>
+    <message>
+        <source>Location</source>
+        <translation>Lieu</translation>
+    </message>
+    <message>
+        <source>/Users/ruijunior/Music/iTunes/iTunes Media/Music/Enanitos Verdes/Unknown Album/Lamento Boliviano.aif</source>
+        <translation></translation>
+    </message>
+    <message>
+        <source>Details</source>
+        <translation>Détails</translation>
+    </message>
+    <message>
+        <source>Song Name</source>
+        <translation>Nom du Morceau</translation>
+    </message>
+    <message>
+        <source>Album Artist</source>
+        <translation>Artiste de l&apos;album</translation>
+    </message>
+    <message>
+        <source>Composer</source>
+        <translation>Compositeur</translation>
+    </message>
+    <message>
+        <source>Grouping</source>
+        <translation>Regroupement</translation>
+    </message>
+    <message>
+        <source>Genre</source>
+        <translation>Genre</translation>
+    </message>
+    <message>
+        <source>Year</source>
+        <translation>Année</translation>
+    </message>
+    <message>
+        <source>Disk Number</source>
+        <translation>Número de Disque</translation>
+    </message>
+    <message>
+        <source>of</source>
+        <translation>sur</translation>
+    </message>
+    <message>
+        <source>Track</source>
+        <translation>Piste</translation>
+    </message>
+    <message>
+        <source>bpm</source>
+        <translation></translation>
+    </message>
+    <message>
+        <source>Keywords</source>
+        <translation>Mots clés</translation>
+    </message>
+    <message>
+        <source>Comments</source>
+        <translation>Commentaires</translation>
+    </message>
+    <message>
+        <source>Artwork</source>
+        <translation>Illustration</translation>
+    </message>
+    <message>
+        <source>Album Artwork</source>
+        <translation>Illustration d&apos;Album</translation>
+    </message>
+    <message>
+        <source>PNG / 256 x 256</source>
+        <translation></translation>
+    </message>
+    <message>
+        <source>Change Artwork...</source>
+        <translation>Changer...</translation>
+    </message>
+    <message>
+        <source>Markers</source>
+        <translation>Marqueurs</translation>
+    </message>
+    <message>
+        <source>Statistics</source>
+        <translation>Statistiques</translation>
+    </message>
+    <message>
+        <source>Select Artwork</source>
+        <translation>Sélectionner l&apos;Illustration</translation>
+    </message>
+    <message>
+        <source>Images (*.png *.jpg *.bmp)</source>
         <translation></translation>
     </message>
 </context>
@@ -2532,7 +2095,7 @@ Cliquez ici pour le télécharger.</translation>
         <source>No Gap</source>
         <translation>Pas d&apos;écart</translation>
     </message>
-    <message utf8="true">
+    <message>
         <source>½ s Gap</source>
         <translation>½ s d&apos;écart</translation>
     </message>
@@ -2576,7 +2139,7 @@ Cliquez ici pour le télécharger.</translation>
         <oldsource>a-Law companding PCM (G.711a)</oldsource>
         <translation></translation>
     </message>
-    <message utf8="true">
+    <message>
         <source>μ-Law companding PCM (G.711u)</source>
         <translation></translation>
     </message>
@@ -2845,7 +2408,7 @@ Cliquez ici pour le télécharger.</translation>
         <source>Question</source>
         <translation>Question</translation>
     </message>
-    <message utf8="true">
+    <message>
         <source>“%1” already exists. Do you want to replace it?</source>
         <translation>“%1” existe déjà. Voulez-vous le remplacer?</translation>
     </message>
@@ -2861,19 +2424,19 @@ Cliquez ici pour le télécharger.</translation>
         <source>Cancel</source>
         <translation>Annuler</translation>
     </message>
-    <message utf8="true">
+    <message>
         <source>Are you sure you want to use the “%1” extension?</source>
         <translation>Etes-vous sûr que vous voulez utiliser la extension “%1”?</translation>
     </message>
-    <message utf8="true">
+    <message>
         <source>The default extension for the selected format is “%1”. If you choose a different extension, you might not be able to open the exported file.</source>
         <translation>L&apos;extension par défaut pour le format choisi est “%1”. Si vous choisissez une extension différente, vous pourriez ne pas être capable d&apos;ouvrir le fichier exporté.</translation>
     </message>
-    <message utf8="true">
+    <message>
         <source>Keep “%1”</source>
         <translation>Gardez “%1”</translation>
     </message>
-    <message utf8="true">
+    <message>
         <source>Use “%1” instead</source>
         <translation>Utilisez “%1” au lieu</translation>
     </message>
@@ -2966,73 +2529,6 @@ Cliquez ici pour le télécharger.</translation>
     </message>
 </context>
 <context>
-    <name>QOcenMetaDataEditorDialog</name>
-    <message>
-        <source>Name</source>
-        <translation>Nom</translation>
-    </message>
-    <message>
-        <source>Artist</source>
-        <translation>Artiste</translation>
-    </message>
-    <message>
-        <source>Album</source>
-        <translation>Album</translation>
-    </message>
-    <message>
-        <source>Genre</source>
-        <translation>Genre</translation>
-    </message>
-    <message>
-        <source>Rock</source>
-        <translation></translation>
-    </message>
-    <message>
-        <source>Year</source>
-        <translation>Année</translation>
-    </message>
-    <message>
-        <source>Track Number</source>
-        <translation>Nº du piste</translation>
-    </message>
-    <message>
-        <source> of </source>
-        <translation> sur </translation>
-    </message>
-    <message>
-        <source>Disc Number</source>
-        <translation>Nº du disque</translation>
-    </message>
-    <message>
-        <source>Artwork</source>
-        <translation>Illustration</translation>
-    </message>
-    <message>
-        <source>Change Artwork...</source>
-        <translation>Changer...</translation>
-    </message>
-    <message>
-        <source>Metadata Editor</source>
-        <translation>Editeur de Métadonnés</translation>
-    </message>
-    <message>
-        <source>Drop
-Artwork
-Here</source>
-        <translation>Déposer
-Illustration
-Ici</translation>
-    </message>
-    <message>
-        <source>Select Artwork</source>
-        <translation>Sélectionner l&apos;Illustration</translation>
-    </message>
-    <message>
-        <source>Images (*.png *.xpm *.jpg)</source>
-        <translation>Images (*.png *.xpm *.jpg)</translation>
-    </message>
-</context>
-<context>
     <name>QOcenMixPasteDialog</name>
     <message>
         <source>Paste Special</source>
@@ -3094,29 +2590,99 @@ Ici</translation>
         <source>From Generator</source>
         <translation>Du générateur</translation>
     </message>
+</context>
+<context>
+    <name>QOcenNewAudioDialog</name>
     <message>
-        <source>Sound Files</source>
+        <source>New Audio ...</source>
+        <translation>Nouveau audio...</translation>
+    </message>
+    <message>
+        <source>Sample Rate</source>
+        <translation>Taux d&apos;échantillonnage</translation>
+    </message>
+    <message>
+        <source>44.1 kHz</source>
         <translation></translation>
     </message>
     <message>
-        <source>Raw Sound Files</source>
+        <source>48 kHz</source>
         <translation></translation>
     </message>
     <message>
-        <source>Text Sound Files</source>
+        <source>Other</source>
+        <translation>Autre</translation>
+    </message>
+    <message>
+        <source>8 kHz</source>
         <translation></translation>
     </message>
     <message>
-        <source>All Files</source>
+        <source>11025 Hz</source>
         <translation></translation>
     </message>
     <message>
-        <source>Select Sound File</source>
+        <source>16 kHz</source>
         <translation></translation>
     </message>
     <message>
-        <source>File %1</source>
+        <source>Custom</source>
+        <translation>Personnalisé</translation>
+    </message>
+    <message>
+        <source>Channels</source>
+        <translation>Canaux</translation>
+    </message>
+    <message>
+        <source>Mono</source>
+        <translation>Mono</translation>
+    </message>
+    <message>
+        <source>Stereo</source>
+        <translation>Stéréo</translation>
+    </message>
+    <message>
+        <source>Multichannel</source>
         <translation></translation>
+    </message>
+    <message>
+        <source>3 channels</source>
+        <translation>3 canaux</translation>
+    </message>
+    <message>
+        <source>4 channels</source>
+        <translation>4 canaux</translation>
+    </message>
+    <message>
+        <source>5 channels</source>
+        <translation>5 canaux</translation>
+    </message>
+    <message>
+        <source>6 channels</source>
+        <translation>6 canaux</translation>
+    </message>
+    <message>
+        <source>7 channels</source>
+        <translation>7 canaux</translation>
+    </message>
+    <message>
+        <source>8 channels</source>
+        <translation>8 canaux</translation>
+    </message>
+    <message>
+        <source>44100 Hz</source>
+        <translation></translation>
+    </message>
+    <message>
+        <source>48000 Hz</source>
+        <translation></translation>
+    </message>
+</context>
+<context>
+    <name>QOcenNewAudioDialog::Data</name>
+    <message>
+        <source>Custom</source>
+        <translation>Personnalisé</translation>
     </message>
 </context>
 <context>
@@ -3552,10 +3118,6 @@ Ici</translation>
         <source>DTMF Generation</source>
         <translation>génération du DTMF</translation>
     </message>
-    <message>
-        <source>Stop Preview</source>
-        <translation>Stop prévisualization</translation>
-    </message>
 </context>
 <context>
     <name>QSilenceGeneratorDialog</name>
@@ -3683,8 +3245,28 @@ Ici</translation>
         <translation>Utilisez cette configuration pour les fichiers suivants n&apos;ayant pas l&apos;extension</translation>
     </message>
     <message>
-        <source>Stop Preview</source>
-        <translation>Stop prévisualization</translation>
+        <source>3 channels</source>
+        <translation>3 canaux</translation>
+    </message>
+    <message>
+        <source>4 channels</source>
+        <translation>4 canaux</translation>
+    </message>
+    <message>
+        <source>5 channels</source>
+        <translation>5 canaux</translation>
+    </message>
+    <message>
+        <source>6 channels</source>
+        <translation>6 canaux</translation>
+    </message>
+    <message>
+        <source>Custom</source>
+        <translation>Personnalisé</translation>
+    </message>
+    <message>
+        <source>%1 channels</source>
+        <translation>%1 canaux</translation>
     </message>
 </context>
 <context>
@@ -4023,7 +3605,7 @@ Ici</translation>
         <source>16 bits - a-Law companding PCM (G.711a)</source>
         <translation></translation>
     </message>
-    <message utf8="true">
+    <message>
         <source>16 bits - μ-Law companding PCM (G.711u)</source>
         <translation></translation>
     </message>
@@ -4139,7 +3721,7 @@ Ici</translation>
         <source>16 bits - G.711.1 Mode 1 (a-law)</source>
         <translation></translation>
     </message>
-    <message utf8="true">
+    <message>
         <source>16 bits - G.711.1 Mode 1 (μ-law)</source>
         <translation></translation>
     </message>
@@ -4147,7 +3729,7 @@ Ici</translation>
         <source>16 bits - G.711.1 Mode 2 (a-law)</source>
         <translation></translation>
     </message>
-    <message utf8="true">
+    <message>
         <source>16 bits - G.711.1 Mode 2 (μ-law)</source>
         <translation></translation>
     </message>
@@ -4155,7 +3737,7 @@ Ici</translation>
         <source>16 bits - G.711.1 Mode 3 (a-law)</source>
         <translation></translation>
     </message>
-    <message utf8="true">
+    <message>
         <source>16 bits - G.711.1 Mode 3 (μ-law)</source>
         <translation></translation>
     </message>
@@ -4163,7 +3745,7 @@ Ici</translation>
         <source>16 bits - G.711.1 Mode 4 (a-law)</source>
         <translation></translation>
     </message>
-    <message utf8="true">
+    <message>
         <source>16 bits - G.711.1 Mode 4 (μ-law)</source>
         <translation></translation>
     </message>

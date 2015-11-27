@@ -1,21 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!DOCTYPE TS>
-<TS version="2.0" language="cs_CZ">
-<context>
-    <name>QAudioFormat</name>
-    <message>
-        <source>mono</source>
-        <translation>mono</translation>
-    </message>
-    <message>
-        <source>stereo</source>
-        <translation>stereo</translation>
-    </message>
-    <message>
-        <source>%1 bits</source>
-        <translation>%1 bits</translation>
-    </message>
-</context>
+<TS version="2.1" language="cs_CZ">
 <context>
     <name>QAudioStatistics</name>
     <message>
@@ -42,24 +27,12 @@
 <context>
     <name>QObject</name>
     <message>
-        <source>Aborting</source>
-        <translation>Rušení</translation>
-    </message>
-    <message>
         <source>Waiting</source>
         <translation>Čekej</translation>
     </message>
     <message>
         <source>Drop Files Here</source>
         <translation>Přesunout soubory sem</translation>
-    </message>
-    <message>
-        <source>%2 by %1</source>
-        <translation>%2 od %1</translation>
-    </message>
-    <message>
-        <source>%1</source>
-        <translation></translation>
     </message>
     <message>
         <source>playlist</source>
@@ -88,14 +61,6 @@
     <message>
         <source>Unsupported Language</source>
         <translation>Nepodporovaný jazyk</translation>
-    </message>
-    <message>
-        <source>32 bits</source>
-        <translation>32bitů</translation>
-    </message>
-    <message>
-        <source>64 bits</source>
-        <translation>64bitů</translation>
     </message>
     <message>
         <source>English</source>
@@ -161,159 +126,133 @@
         <source>All Files</source>
         <translation type="unfinished">Všechny soubory</translation>
     </message>
-</context>
-<context>
-    <name>QOcenApplication</name>
-    <message>
-        <source>Regions Comment</source>
-        <translation>Oblast - komentář</translation>
-    </message>
-    <message>
-        <source>Invalid Code Signature</source>
-        <translation>Neplatný podpis</translation>
-    </message>
-    <message>
-        <source>This means Ocenaudio has been tampered, possibly making it less secure. The program cannot be executed in this state. It is necessary to reinstall the application in order to use it.</source>
-        <translation>To znamená, že s Ocenaudio bylo manipulováno, případně dělat to méně bezpečné. Program nemůže být proveden v tomto stavu. Je třeba přeinstalovat aplikaci, aby mohla být používána.</translation>
-    </message>
-    <message>
-        <source>New Sound Device Found</source>
-        <translation>Nneexistuje nové zvukové zařízení</translation>
-    </message>
-    <message>
-        <source>build</source>
-        <translation>buduj</translation>
-    </message>
-    <message>
-        <source>New Plugin Installed</source>
-        <translation>Nový plugin nainstalován</translation>
-    </message>
-</context>
-<context>
-    <name>QOcenAudio</name>
     <message>
         <source>Reverting to Saved</source>
-        <translation>Návrat k uložené</translation>
+        <translation type="unfinished">Návrat k uložené</translation>
     </message>
     <message>
         <source>Opening %1</source>
-        <translation>Otevření %1</translation>
+        <translation type="unfinished">Otevření %1</translation>
     </message>
     <message>
         <source>Saving %1</source>
-        <translation>Ukládání %1</translation>
+        <translation type="unfinished">Ukládání %1</translation>
     </message>
     <message>
         <source>Ringtone created by ocenaudio</source>
-        <translation>Zvonění vytvořeno v Ocenaudio</translation>
+        <translation type="unfinished">Zvonění vytvořeno v Ocenaudio</translation>
     </message>
     <message>
         <source>Creating iTunes Ringtone</source>
-        <translation>Vytvoř iTunes vyzvánění</translation>
+        <translation type="unfinished">Vytvoř iTunes vyzvánění</translation>
     </message>
     <message>
         <source>Undoing</source>
-        <translation>Vracení</translation>
+        <translation type="unfinished">Vracení</translation>
     </message>
     <message>
         <source>Redoing</source>
-        <translation>předělání</translation>
+        <translation type="unfinished">předělání</translation>
     </message>
     <message>
         <source>Undefined</source>
-        <translation>Nedefinovaný</translation>
+        <translation type="unfinished">Nedefinovaný</translation>
+    </message>
+    <message>
+        <source>Undefined Format</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Where</source>
-        <translation>kde</translation>
-    </message>
-    <message>
-        <source>Copying</source>
-        <translation>Kopírování</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Cutting</source>
-        <translation>Střihni</translation>
+        <translation type="unfinished">Střihni</translation>
     </message>
     <message>
         <source>Cut</source>
-        <translation>Střih</translation>
+        <translation type="unfinished">Střih</translation>
+    </message>
+    <message>
+        <source>Copying</source>
+        <translation type="unfinished">Kopírování</translation>
     </message>
     <message>
         <source>Pasting</source>
-        <translation>Vkládání</translation>
+        <translation type="unfinished">Vkládání</translation>
     </message>
     <message>
         <source>Paste</source>
-        <translation>Vlož</translation>
+        <translation type="unfinished">Vlož</translation>
     </message>
     <message>
         <source>Deleting</source>
-        <translation>Smazání</translation>
+        <translation type="unfinished">Smazání</translation>
     </message>
     <message>
         <source>Delete</source>
-        <translation>Smaž</translation>
+        <translation type="unfinished">Smaž</translation>
     </message>
     <message>
         <source>Trimming</source>
-        <translation>Odstřižení</translation>
+        <translation type="unfinished">Odstřižení</translation>
     </message>
     <message>
         <source>Trim</source>
-        <translation>Ustřihnout</translation>
+        <translation type="unfinished">Ustřihnout</translation>
     </message>
     <message>
         <source>Mix pasting</source>
-        <translation>Vkládání Mixu</translation>
+        <translation type="unfinished">Vkládání Mixu</translation>
     </message>
     <message>
         <source>Mix Paste</source>
-        <translation>Vlož Mix</translation>
+        <translation type="unfinished">Vlož Mix</translation>
     </message>
     <message>
         <source>Mono</source>
-        <translation>mono</translation>
+        <translation type="unfinished">mono</translation>
     </message>
     <message>
         <source>Left</source>
-        <translation>Levý</translation>
+        <translation type="unfinished">Levý</translation>
     </message>
     <message>
         <source>Right</source>
-        <translation>Pravý</translation>
+        <translation type="unfinished">Pravý</translation>
     </message>
     <message>
         <source>0</source>
-        <translation></translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>L</source>
-        <translation></translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>R</source>
-        <translation></translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>%1 channel of</source>
-        <translation>%1 kanál z</translation>
+        <translation type="unfinished">%1 kanál z</translation>
     </message>
     <message>
         <source>%1 combined with %2</source>
-        <translation>%1 v kombinaci s %2</translation>
+        <translation type="unfinished">%1 v kombinaci s %2</translation>
     </message>
     <message>
         <source>Downmix of %1</source>
-        <translation>Downmixof %1</translation>
+        <translation type="unfinished">Downmixof %1</translation>
     </message>
     <message>
         <source>Join of %1 and %2</source>
-        <translation>Připojte %1 a %2</translation>
+        <translation type="unfinished">Připojte %1 a %2</translation>
     </message>
     <message>
         <source>Join of %1, %2 and %3</source>
-        <translation>Připojte se na %1, %2 a %3</translation>
+        <translation type="unfinished">Připojte se na %1, %2 a %3</translation>
     </message>
     <message>
         <source>Join of %1, %2 and other %3 files</source>
@@ -321,119 +260,75 @@
     </message>
     <message>
         <source>Reversing</source>
-        <translation>Obrácení</translation>
+        <translation type="unfinished">Obrácení</translation>
     </message>
     <message>
         <source>Reverse</source>
-        <translation>Obrácení</translation>
+        <translation type="unfinished">Obrácení</translation>
     </message>
     <message>
         <source>Inverting</source>
-        <translation>Obrácený</translation>
+        <translation type="unfinished">Obrácený</translation>
     </message>
     <message>
         <source>Invert</source>
-        <translation>Obrátit</translation>
+        <translation type="unfinished">Obrátit</translation>
     </message>
     <message>
         <source>Silencing</source>
-        <translation>Ztišení</translation>
+        <translation type="unfinished">Ztišení</translation>
     </message>
     <message>
         <source>Silence</source>
-        <translation>ticho</translation>
+        <translation type="unfinished">ticho</translation>
     </message>
     <message>
         <source>Removing DC</source>
-        <translation>Vjjímání DC</translation>
+        <translation type="unfinished">Vjjímání DC</translation>
     </message>
     <message>
         <source>Remove DC</source>
-        <translation>vyjmi DC</translation>
+        <translation type="unfinished">vyjmi DC</translation>
     </message>
     <message>
         <source>Normalize</source>
-        <translation>normalizovat</translation>
+        <translation type="unfinished">Normalizovat</translation>
     </message>
     <message>
         <source>Changing Audio Format</source>
-        <translation>Změna audio formátu</translation>
+        <translation type="unfinished">Změna audio formátu</translation>
     </message>
     <message>
         <source>Change Audio Format</source>
-        <translation>Změň audio formát</translation>
+        <translation type="unfinished">Změň audio formát</translation>
     </message>
     <message>
         <source>Channels Swap</source>
-        <translation>Swap kanály</translation>
+        <translation type="unfinished">Swap kanály</translation>
     </message>
     <message>
         <source>Adjust Sample Rate</source>
-        <translation>Nastav vzorkovací frekvenci</translation>
+        <translation type="unfinished">Nastav vzorkovací frekvenci</translation>
     </message>
     <message>
         <source>Remove all metadata</source>
-        <translation>Vyjmi všechna metadata</translation>
+        <translation type="unfinished">Vyjmi všechna metadata</translation>
     </message>
     <message>
         <source>marker %1</source>
-        <translation>značka %1</translation>
+        <translation type="unfinished">značka %1</translation>
     </message>
     <message>
         <source>Create Region</source>
-        <translation>Vytvoř oblast</translation>
+        <translation type="unfinished">Vytvoř oblast</translation>
     </message>
     <message>
         <source>Create Regions</source>
-        <translation>Vytvoř oblast</translation>
+        <translation type="unfinished">Vytvoř oblast</translation>
     </message>
     <message>
         <source>New Region</source>
-        <translation>Nová oblast</translation>
-    </message>
-    <message>
-        <source>Save As</source>
-        <translation>Uložit jako</translation>
-    </message>
-    <message>
-        <source>Exporting Selection As</source>
-        <translation>Export výběru</translation>
-    </message>
-    <message>
-        <source>Exporting Region As</source>
-        <translation>Export oblasti</translation>
-    </message>
-    <message>
-        <source>Exporting Regions As</source>
-        <translation>Export oblastí</translation>
-    </message>
-    <message>
-        <source>Export As</source>
-        <translation>Export do</translation>
-    </message>
-    <message>
-        <source>Paste Silence</source>
-        <translation>Vlož ticho</translation>
-    </message>
-    <message>
-        <source>Append Audio</source>
-        <translation>Otevři nahrávku</translation>
-    </message>
-    <message>
-        <source>Append Silence</source>
-        <translation>Připoj ticho</translation>
-    </message>
-    <message>
-        <source>Append From File</source>
-        <translation>Připoj ze souboru</translation>
-    </message>
-    <message>
-        <source>Change Metadata</source>
-        <translation>Změň Metadata</translation>
-    </message>
-    <message>
-        <source>Undefined Format</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Nová oblast</translation>
     </message>
     <message>
         <source>Detecting Dtmf</source>
@@ -443,6 +338,120 @@
         <source>Detect Dtmf</source>
         <translation type="unfinished"></translation>
     </message>
+    <message>
+        <source>Save As</source>
+        <translation type="unfinished">Uložit jako</translation>
+    </message>
+    <message>
+        <source>Export As</source>
+        <translation type="unfinished">Export do</translation>
+    </message>
+    <message>
+        <source>Exporting Selection As</source>
+        <translation type="unfinished">Export výběru</translation>
+    </message>
+    <message>
+        <source>Exporting Region As</source>
+        <translation type="unfinished">Export oblasti</translation>
+    </message>
+    <message>
+        <source>Exporting Regions As</source>
+        <translation type="unfinished">Export oblastí</translation>
+    </message>
+    <message>
+        <source>Paste Channel</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Paste From File</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Paste Silence</source>
+        <translation type="unfinished">Vlož ticho</translation>
+    </message>
+    <message>
+        <source>Append Audio</source>
+        <translation type="unfinished">Otevři nahrávku</translation>
+    </message>
+    <message>
+        <source>Append Silence</source>
+        <translation type="unfinished">Připoj ticho</translation>
+    </message>
+    <message>
+        <source>Append From File</source>
+        <translation type="unfinished">Připoj ze souboru</translation>
+    </message>
+    <message>
+        <source>Change Metadata</source>
+        <translation type="unfinished">Změň Metadata</translation>
+    </message>
+    <message>
+        <source>Record</source>
+        <translation type="unfinished">záznam</translation>
+    </message>
+    <message>
+        <source>m s e c</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>s e c</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>m i n</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>h r</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>s m p l</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>f r a m e s</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Title</source>
+        <translation type="unfinished">Název</translation>
+    </message>
+    <message>
+        <source>Artist</source>
+        <translation type="unfinished">Umělec</translation>
+    </message>
+    <message>
+        <source>Album</source>
+        <translation type="unfinished">Album</translation>
+    </message>
+    <message>
+        <source>Year</source>
+        <translation type="unfinished">Rok</translation>
+    </message>
+</context>
+<context>
+    <name>QOcenApplication</name>
+    <message>
+        <source>Regions Comment</source>
+        <translation>Oblast - komentář</translation>
+    </message>
+    <message>
+        <source>New Sound Device Found</source>
+        <translation>Nneexistuje nové zvukové zařízení</translation>
+    </message>
+    <message>
+        <source>New Plugin Installed</source>
+        <translation>Nový plugin nainstalován</translation>
+    </message>
+    <message>
+        <source>ocenaudio Clipboard with %1 seconds in %2 %3</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>QOcenAudio</name>
     <message>
         <source>Add Marker</source>
         <translation type="unfinished"></translation>
@@ -513,18 +522,7 @@
     </message>
 </context>
 <context>
-    <name>QOcenAudioApplicationFilesModel</name>
-    <message>
-        <source>Connecting to Server ...</source>
-        <translation>Připojení k serveru …</translation>
-    </message>
-</context>
-<context>
     <name>QOcenAudioDelegate</name>
-    <message>
-        <source>REC</source>
-        <translation>Nahrávání</translation>
-    </message>
     <message>
         <source>Duration</source>
         <translation>Trvání</translation>
@@ -550,13 +548,6 @@
     <message>
         <source>You can drop audio files, folders, archives, urls and playlists.</source>
         <translation>Můžete přetáhnout zvukové soubory, složky, archivy, URL a seznamy skladeb.</translation>
-    </message>
-</context>
-<context>
-    <name>QOcenAudioRecorder</name>
-    <message>
-        <source>Record</source>
-        <translation>záznam</translation>
     </message>
 </context>
 <context>
@@ -600,6 +591,14 @@
         <source>You are about to delete %1 regions. Do you really want to do this?</source>
         <translation>Chystáte se smazat %1 oblast. Opravdu to chcete udělat?</translation>
     </message>
+    <message>
+        <source>Waiting for cancellation</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Remaining</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>QOcenCheckableMessageBox</name>
@@ -640,213 +639,6 @@
     </message>
 </context>
 <context>
-    <name>QOcenFTPDirListDialog</name>
-    <message>
-        <source>Directory List</source>
-        <translation>Seznam adresářů</translation>
-    </message>
-    <message>
-        <source>Directory</source>
-        <translation>Adresář</translation>
-    </message>
-    <message>
-        <source>/</source>
-        <translation></translation>
-    </message>
-    <message>
-        <source>data</source>
-        <translation>data</translation>
-    </message>
-    <message>
-        <source>Selected Path</source>
-        <translation>Vybraná cesta</translation>
-    </message>
-</context>
-<context>
-    <name>QOcenFTPExportDialog</name>
-    <message>
-        <source>Export Audio using FTP</source>
-        <translation>Export zvuku pomocí FTP</translation>
-    </message>
-    <message>
-        <source>Ftp Server</source>
-        <translation>FTP Server</translation>
-    </message>
-    <message>
-        <source>Profile Name</source>
-        <translation>Jméno profilu</translation>
-    </message>
-    <message>
-        <source>Address</source>
-        <translation>Adresa</translation>
-    </message>
-    <message>
-        <source>Port</source>
-        <translation>Port</translation>
-    </message>
-    <message>
-        <source>Anonymous Login</source>
-        <translation>Anonymní přihlášení</translation>
-    </message>
-    <message>
-        <source>Username</source>
-        <translation>Uživatelské jméno</translation>
-    </message>
-    <message>
-        <source>Password</source>
-        <translation>Heslo</translation>
-    </message>
-    <message>
-        <source>Server Path</source>
-        <translation>Server Path</translation>
-    </message>
-    <message>
-        <source>...</source>
-        <translation></translation>
-    </message>
-    <message>
-        <source>File Info</source>
-        <translation>Info</translation>
-    </message>
-    <message>
-        <source>Filename</source>
-        <translation>Jméno souboru</translation>
-    </message>
-    <message>
-        <source>File Format</source>
-        <translation>Formát souboru</translation>
-    </message>
-    <message>
-        <source>Wav PCM (*.wav)</source>
-        <translation></translation>
-    </message>
-    <message>
-        <source>MP3 File Format Franna (*.mp3)</source>
-        <translation></translation>
-    </message>
-    <message>
-        <source>Upload only selection</source>
-        <translation>Nahrávání pouze vybrané</translation>
-    </message>
-    <message>
-        <source>Upload</source>
-        <translation>Nahrát</translation>
-    </message>
-    <message>
-        <source>Uploading audio</source>
-        <translation>Nahrávání zvuku</translation>
-    </message>
-    <message>
-        <source>Cancel</source>
-        <translation>Zrušit</translation>
-    </message>
-    <message>
-        <source>Error</source>
-        <translation>Chyba</translation>
-    </message>
-    <message>
-        <source>The upload process was failed.</source>
-        <translation>Proces nahrávání se nezdařil.</translation>
-    </message>
-    <message>
-        <source>Upload Finished</source>
-        <translation>Nahrávání ukončeno</translation>
-    </message>
-    <message>
-        <source>The file was successfully uploaded to your FTP server.</source>
-        <translation>Soubor byl úspěšně nahrán na FTP server.</translation>
-    </message>
-    <message>
-        <source>Warning</source>
-        <translation>Varování</translation>
-    </message>
-    <message>
-        <source>The file %1 already exists in the FTP server.</source>
-        <translation>Soubor %1 již existuje na serveru FTP.</translation>
-    </message>
-</context>
-<context>
-    <name>QOcenFTPExportThread</name>
-    <message>
-        <source>Connecting to FTP server...</source>
-        <translation>Připojení k FTP serveru …</translation>
-    </message>
-    <message>
-        <source>Connected to FTP server</source>
-        <translation>Připojení k FTP serveru</translation>
-    </message>
-    <message>
-        <source>Connection refused. Please, check the server address, username and password.</source>
-        <translation>Spojení odmítnuto. Prosím, podívejte se na adresu serveru, uživatelské jméno a heslo.</translation>
-    </message>
-    <message>
-        <source>Preparing audio file to upload...</source>
-        <translation>Příprava zvukového souboru pro nnahrání...</translation>
-    </message>
-    <message>
-        <source>Fail to prepare file!</source>
-        <translation>Nepodařilo se připravit soubor!</translation>
-    </message>
-    <message>
-        <source>Fail to prepare audio file!</source>
-        <translation>Nepodařilo se připravit audio soubor!</translation>
-    </message>
-    <message>
-        <source>Fail to remove existing file!</source>
-        <translation>Nepodařilo se odstranit existující soubor!</translation>
-    </message>
-    <message>
-        <source>Uploading audio file...</source>
-        <translation>Nahhrávání zvukového souboru...</translation>
-    </message>
-    <message>
-        <source>Upload finished</source>
-        <translation>Nahrávání ukončeno</translation>
-    </message>
-    <message>
-        <source>Disconnected</source>
-        <translation>Odpojený</translation>
-    </message>
-</context>
-<context>
-    <name>QOcenFTPListThread</name>
-    <message>
-        <source>Connecting to FTP server...</source>
-        <translation>Připojení k FTP serveru …</translation>
-    </message>
-    <message>
-        <source>Connected to FTP server</source>
-        <translation>Připojení k FTP serveru</translation>
-    </message>
-    <message>
-        <source>Connection refused. Please, check the server address, username and password.</source>
-        <translation>Spojení odmítnuto. Prosím, podívejte se na adresu serveru, uživatelské jméno a heslo.</translation>
-    </message>
-    <message>
-        <source>Listing...</source>
-        <translation>Výpis ...</translation>
-    </message>
-    <message>
-        <source>List finished</source>
-        <translation>Seznam dokončen</translation>
-    </message>
-</context>
-<context>
-    <name>QOcenFileFormat</name>
-    <message>
-        <source>Flac</source>
-        <translation></translation>
-    </message>
-    <message>
-        <source>WavPack</source>
-        <translation></translation>
-    </message>
-    <message>
-        <source>Stream</source>
-        <translation>proud</translation>
-    </message>
-</context>
-<context>
     <name>QOcenFileFormatPrivate</name>
     <message>
         <source>mono</source>
@@ -856,114 +648,8 @@
         <source>stereo</source>
         <translation>stereo</translation>
     </message>
-</context>
-<context>
-    <name>QOcenFxDialog</name>
     <message>
-        <source>Close</source>
-        <translation>Zavřít</translation>
-    </message>
-    <message>
-        <source>Apply</source>
-        <translation>Použij</translation>
-    </message>
-    <message>
-        <source>bypass</source>
-        <translation>vyhnout se</translation>
-    </message>
-    <message>
-        <source>Default Settings</source>
-        <translation>Základní nastavení</translation>
-    </message>
-    <message>
-        <source>Last Used Settings</source>
-        <translation>Poslední použité nastavení</translation>
-    </message>
-    <message>
-        <source>Last Used Settings in this file</source>
-        <translation>Poslední Použité nastavení v tomto souboru</translation>
-    </message>
-    <message>
-        <source>Built-in Presets</source>
-        <translation>Vestavěné předvolby</translation>
-    </message>
-    <message>
-        <source>Saved Presets</source>
-        <translation>Uložené předvolby</translation>
-    </message>
-    <message>
-        <source>Save Preset</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Manage Presets</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Playback Loop</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Save Preset As</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Preset Name</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>The name &quot;%1&quot; is already taken.</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Do you want to choose another name or replace the previous saved preset?</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Replace</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Choose Another Name</source>
-        <translation type="unfinished"></translation>
-    </message>
-</context>
-<context>
-    <name>QOcenFxManagePresetDialog</name>
-    <message>
-        <source>Manage Presets</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Current Setting (before open preset manager)</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Setting 1</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Setting 2</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>%1 Preset Manager</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Current Preset (user&apos;s changes)</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Rename Preset</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>The name &quot;%1&quot; is already taken.</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Please choose another name.</source>
+        <source>%1 channels</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -978,30 +664,6 @@
         <translation>Jazyk</translation>
     </message>
     <message>
-        <source>Playback Device/Options</source>
-        <translation>Přehrávací zařízení / Možnosti</translation>
-    </message>
-    <message>
-        <source>Move cursor to playback stop position</source>
-        <translation>Přesuňte kurzor na pozici zastavení přehrávání</translation>
-    </message>
-    <message>
-        <source>Loop playback on selected audio</source>
-        <translation>Přehrávání smyčky vybraného zvuku</translation>
-    </message>
-    <message>
-        <source>Follow cursor during playback</source>
-        <translation>Postup kurzoru během přehrávání</translation>
-    </message>
-    <message>
-        <source>Record Device/Options</source>
-        <translation>Záznamové zařízení / Možnosti</translation>
-    </message>
-    <message>
-        <source>Other Options</source>
-        <translation>Další možnosti</translation>
-    </message>
-    <message>
         <source>Automatically check for updates</source>
         <translation>Automaciky kontroluj aktualizace</translation>
     </message>
@@ -1010,15 +672,23 @@
         <translation>Obecné</translation>
     </message>
     <message>
-        <source>System Default</source>
-        <translation>Výchozí nastavení systému</translation>
-    </message>
-    <message>
-        <source>Move cursor to record stop position</source>
+        <source>Options</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Options</source>
+        <source>Color Scheme</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Classic</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Light</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Dark</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -1113,28 +783,8 @@
         <translation>Varování</translation>
     </message>
     <message>
-        <source>An error was encountered while saving your sound file &quot;%1&quot;!</source>
-        <translation>Došlo k chybě při ukládání zvukového souboru &quot;%1&quot;!</translation>
-    </message>
-    <message>
-        <source>Your changes will be lost if you don&apos;t save them.</source>
-        <translation>Vaše změny budou ztraceny, pokud je nechcete uložit.</translation>
-    </message>
-    <message>
         <source>Save Sound As ...</source>
         <translation>Uložit zvouk jako...</translation>
-    </message>
-    <message>
-        <source>The following file still has unsaved changes</source>
-        <translation>Následující soubory mají ještě neuložené změny</translation>
-    </message>
-    <message>
-        <source>The following file has unsaved changes</source>
-        <translation>Následující soubor obsahuje neuložené změny</translation>
-    </message>
-    <message>
-        <source>The following files still have unsaved changes</source>
-        <translation>Následující soubory mají ještě neuložené změny</translation>
     </message>
     <message>
         <source>The following files have unsaved changes</source>
@@ -1144,11 +794,11 @@
         <source>Question</source>
         <translation>otázka</translation>
     </message>
-    <message utf8="true">
+    <message>
         <source>Do you want to save the changes you made in the sound “%1”?</source>
         <translation>Chcete uložit změny, které jste provedli ve zvuku “%1”?</translation>
     </message>
-    <message utf8="true">
+    <message>
         <source>Your changes will be lost if you don’t save them.</source>
         <translation>Vaše změny budou ztraceny, pokud je nechcete uložit.</translation>
     </message>
@@ -1221,18 +871,6 @@
         <translation type="unfinished">Soubor pro zvuk, který byl v %1. zmizel. Tento dokument má již dříve neuložené změny. Chcete oddělit-uložit zvuk nebo zavřít?</translation>
     </message>
     <message>
-        <source>Open both files in this %1</source>
-        <translation>Otevřete oba soubory v tomto %1</translation>
-    </message>
-    <message>
-        <source>Open all %1 files in this %2</source>
-        <translation>Otevřete všechny %1 soubory v tomto %2</translation>
-    </message>
-    <message>
-        <source>and %1 other files</source>
-        <translation>a %1 ostatní soubory</translation>
-    </message>
-    <message>
         <source>The current file&apos;s format does not support these settings. Do you want to make this changes anyway?</source>
         <translation type="unfinished"></translation>
     </message>
@@ -1300,28 +938,49 @@
         <source>This is an unrecoverable error and ocenaudio must quit. This issue might happen if your main disk is running out of free space.</source>
         <translation type="unfinished"></translation>
     </message>
-</context>
-<context>
-    <name>QOcenMetadata</name>
     <message>
-        <source>Title</source>
-        <translation>Název</translation>
+        <source>Information</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Artist</source>
-        <translation>Umělec</translation>
+        <source>Pasting file %1</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Album</source>
-        <translation>Album</translation>
+        <source>Unsupported Format</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Year</source>
-        <translation>Rok</translation>
+        <source>The maximum number of channels supported is %1 channels.</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Where</source>
-        <translation>Kde</translation>
+        <source>The minimum sample rate supported is %1 Hz.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>The maximum sample rate supported is %1 Hz.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Audio VST Check Failed</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>An error occurred in the execution of VST plugin application. No VST plugin can be loaded in this condition.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Audio not saved</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>It was not possible to complete the save of file “%1” because the chosen container does not support metadata.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>An error was encountered while saving your sound file “%1”!</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -1393,10 +1052,6 @@
         <translation>Snímání</translation>
     </message>
     <message>
-        <source>Opening file %1 of %2 in</source>
-        <translation type="unfinished">Otevření souboru %1 z %2 v</translation>
-    </message>
-    <message>
         <source>Opening &quot;%1&quot;</source>
         <translation>Otevření &quot;%1&quot;</translation>
     </message>
@@ -1436,7 +1091,7 @@
         <source>Open File Error</source>
         <translation>Chyba otevírání souboru</translation>
     </message>
-    <message utf8="true">
+    <message>
         <source>An error occurred while trying to open the file “%1”.</source>
         <translation>Došlo k chybě při pokusu otevřít soubor “%1”.</translation>
     </message>
@@ -1456,7 +1111,7 @@
         <source>No supported audio files found!</source>
         <translation type="unfinished"></translation>
     </message>
-    <message utf8="true">
+    <message>
         <source>The package “%1” does not contains any supported audio file.</source>
         <translation type="unfinished"></translation>
     </message>
@@ -1464,8 +1119,16 @@
         <source>File not found!</source>
         <translation type="unfinished"></translation>
     </message>
-    <message utf8="true">
+    <message>
         <source>The file “%1” was not found. Check if your filename is valid and you have permission to open it.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Analyzing files in %1 %2</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Analyzing files in %1</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -1523,16 +1186,13 @@
         <source>One or more errors were detected during the installation process. You can try again and if the error persists contact the ocenaudio team.</source>
         <translation>Jedena nebo více chyb byly zjištěny během procesu instalace. Můžete to zkusit znovu a pokud chyba přetrvává, kontaktujte tým ocenaudio.</translation>
     </message>
-</context>
-<context>
-    <name>QOcenPluginManagerData</name>
     <message>
         <source>Invalid Plugin Code Signature</source>
-        <translation>Neplatný plugin podpis</translation>
+        <translation type="unfinished">Neplatný plugin podpis</translation>
     </message>
     <message>
         <source>This means %1 plugin has been tampered, possibly making it less secure. The plugin cannot be loaded in this state. It is necessary to reinstall the %1 plugin in order to use it.</source>
-        <translation>To znamená, že modul %1 byl zfalšován, bude pracovat méně bezpečně. Plugin může být načten v tomto stavu. Je třeba nainstalovat zásuvný modul %1, aby mohl být používán.</translation>
+        <translation type="unfinished">To znamená, že modul %1 byl zfalšován, bude pracovat méně bezpečně. Plugin může být načten v tomto stavu. Je třeba nainstalovat zásuvný modul %1, aby mohl být používán.</translation>
     </message>
 </context>
 <context>
@@ -1551,38 +1211,10 @@
     </message>
 </context>
 <context>
-    <name>QOcenRecentMenu</name>
+    <name>QOcenQuickOpenWidget</name>
     <message>
-        <source>Recent Files</source>
-        <translation type="unfinished">Nové soubory</translation>
-    </message>
-    <message>
-        <source>Clear History</source>
-        <translation type="unfinished">Vymaž historii</translation>
-    </message>
-    <message>
-        <source>Open both streams in this file</source>
+        <source>File or http address</source>
         <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Open all streams in this file</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Open all files in this directory</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Open both files in this %1</source>
-        <translation type="unfinished">Otevřete oba soubory v tomto %1</translation>
-    </message>
-    <message>
-        <source>Open all %1 files in this %2</source>
-        <translation type="unfinished">Otevřete všechny %1 soubory v tomto %2</translation>
-    </message>
-    <message>
-        <source>and %1 other files</source>
-        <translation type="unfinished">a %1 ostatní soubory</translation>
     </message>
 </context>
 <context>
@@ -1602,6 +1234,69 @@
     <message>
         <source>Format</source>
         <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>QOcenSoundPrefs</name>
+    <message>
+        <source>Form</source>
+        <translation type="unfinished">Form</translation>
+    </message>
+    <message>
+        <source>Playback Device/Options</source>
+        <translation type="unfinished">Přehrávací zařízení / Možnosti</translation>
+    </message>
+    <message>
+        <source>Options</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Move cursor to playback stop position</source>
+        <translation type="unfinished">Přesuňte kurzor na pozici zastavení přehrávání</translation>
+    </message>
+    <message>
+        <source>Record Device/Options</source>
+        <translation type="unfinished">Záznamové zařízení / Možnosti</translation>
+    </message>
+    <message>
+        <source>Move cursor to record stop position</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Mixer Sample Rate</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>48000 Hz</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>44100 Hz</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>22050 Hz</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Mixer Backend</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>CoreAudio</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Disabled</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Sound</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>System Default</source>
+        <translation type="unfinished">Výchozí nastavení systému</translation>
     </message>
 </context>
 <context>
@@ -1729,59 +1424,59 @@
         <source>mil </source>
         <translation></translation>
     </message>
-    <message utf8="true">
+    <message>
         <source>milhão </source>
         <translation></translation>
     </message>
-    <message utf8="true">
+    <message>
         <source>bilhão </source>
         <translation></translation>
     </message>
-    <message utf8="true">
+    <message>
         <source>trilhão </source>
         <translation></translation>
     </message>
-    <message utf8="true">
+    <message>
         <source>quatrilhão </source>
         <translation></translation>
     </message>
-    <message utf8="true">
+    <message>
         <source>quintilhão </source>
         <translation></translation>
     </message>
-    <message utf8="true">
+    <message>
         <source>sextilhão </source>
         <translation></translation>
     </message>
-    <message utf8="true">
+    <message>
         <source>setilhão </source>
         <translation></translation>
     </message>
-    <message utf8="true">
+    <message>
         <source>milhões </source>
         <translation></translation>
     </message>
-    <message utf8="true">
+    <message>
         <source>bilhões </source>
         <translation></translation>
     </message>
-    <message utf8="true">
+    <message>
         <source>trilhões </source>
         <translation></translation>
     </message>
-    <message utf8="true">
+    <message>
         <source>quadrilhões </source>
         <translation></translation>
     </message>
-    <message utf8="true">
+    <message>
         <source>quintilhões </source>
         <translation></translation>
     </message>
-    <message utf8="true">
+    <message>
         <source>sextilhões </source>
         <translation></translation>
     </message>
-    <message utf8="true">
+    <message>
         <source>setilhões </source>
         <translation></translation>
     </message>
@@ -1913,7 +1608,7 @@
         <source>dois </source>
         <translation></translation>
     </message>
-    <message utf8="true">
+    <message>
         <source>três </source>
         <translation></translation>
     </message>
@@ -1940,127 +1635,6 @@
     <message>
         <source>nove </source>
         <translation></translation>
-    </message>
-</context>
-<context>
-    <name>QOcenUrlDialog</name>
-    <message>
-        <source>Dialog</source>
-        <translation>Dialog</translation>
-    </message>
-    <message>
-        <source>Enter the URL or path to a sound file on the Internet, your computer,
-or your network that you want to open:</source>
-        <translation type="unfinished"></translation>
-    </message>
-</context>
-<context>
-    <name>QOcenVSTWidget</name>
-    <message>
-        <source>VST Effect</source>
-        <translation>VSTEffect</translation>
-    </message>
-    <message>
-        <source>Applying %1|%1</source>
-        <translation>Použij %1|%1</translation>
-    </message>
-    <message>
-        <source>Plugin crashed</source>
-        <translation>Plugin havaroval</translation>
-    </message>
-    <message>
-        <source>The plugin %1 crashed and will be finalized.</source>
-        <translation>Plugin %1 havaroval a bude ukončen.</translation>
-    </message>
-    <message>
-        <source>Ocenaudio was not affected by this crash and will continue running normally.</source>
-        <translation>Ocenaudio nebyl ovlivněn touto havárii a bude pokračovat normálně.</translation>
-    </message>
-    <message>
-        <source>VST Effect:</source>
-        <translation>VSTEffect:</translation>
-    </message>
-    <message>
-        <source>Manufacturer:</source>
-        <translation>Výrobce:</translation>
-    </message>
-</context>
-<context>
-    <name>QOcenVstList</name>
-    <message>
-        <source>Dialog</source>
-        <translation>Dialog</translation>
-    </message>
-    <message>
-        <source>List of VST Plugins</source>
-        <translation>Seznam VST Plugins</translation>
-    </message>
-    <message>
-        <source>/Library/Audio/plugins/VST/delay.vst</source>
-        <translation></translation>
-    </message>
-    <message>
-        <source>/Library/Audio/plugins/VST/sampler.vst (crashed)</source>
-        <translation>/Library/Audio/plugins/VST/sampler.vst (havaroval)</translation>
-    </message>
-    <message>
-        <source>Enable All</source>
-        <translation>Povol vše</translation>
-    </message>
-    <message>
-        <source>Disable All</source>
-        <translation>Zakázat vše</translation>
-    </message>
-    <message>
-        <source>Effects in Folder %1</source>
-        <translation>Účinky na složku %1</translation>
-    </message>
-    <message>
-        <source>Crashed</source>
-        <translation>Havaroval</translation>
-    </message>
-    <message>
-        <source>Duplicated / Older Version</source>
-        <translation>Duplicitní / Starší verze</translation>
-    </message>
-    <message>
-        <source>Unsupported</source>
-        <translation>Nepodporovaný</translation>
-    </message>
-    <message>
-        <source>Not Loaded</source>
-        <translation>Není načteno</translation>
-    </message>
-</context>
-<context>
-    <name>QOcenVstPrefs</name>
-    <message>
-        <source>Form</source>
-        <translation></translation>
-    </message>
-    <message>
-        <source>VST Search Path</source>
-        <translation>VST vyhledávací cesta</translation>
-    </message>
-    <message>
-        <source>+</source>
-        <translation></translation>
-    </message>
-    <message>
-        <source>-</source>
-        <translation></translation>
-    </message>
-    <message>
-        <source>Scanning Plugins</source>
-        <translation>Hledám pluginy</translation>
-    </message>
-    <message>
-        <source>VST</source>
-        <translation>VST</translation>
-    </message>
-    <message>
-        <source>Select Directory</source>
-        <translation>Vybber adresář</translation>
     </message>
 </context>
 </TS>
