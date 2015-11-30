@@ -68,7 +68,7 @@
     </message>
     <message>
         <source>Portuguese</source>
-        <translation>Portugisisch</translation>
+        <translation>Portugiesisch</translation>
     </message>
     <message>
         <source>French</source>
