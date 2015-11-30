@@ -52,7 +52,7 @@
     </message>
     <message>
         <source>remoteurl</source>
-        <translation>entfernte Adresse</translation>
+        <translation>Entfernte Adresse</translation>
     </message>
     <message>
         <source>%1 in %2</source>
@@ -60,19 +60,19 @@
     </message>
     <message>
         <source>Unsupported Language</source>
-        <translation>Nicht Unterstützte Sprache</translation>
+        <translation>Nicht unterstützte Sprache</translation>
     </message>
     <message>
         <source>English</source>
-        <translation></translation>
+        <translation>Englisch</translation>
     </message>
     <message>
         <source>Portuguese</source>
-        <translation></translation>
+        <translation>Portugisisch</translation>
     </message>
     <message>
         <source>French</source>
-        <translation></translation>
+        <translation>Französisch</translation>
     </message>
     <message>
         <source>Hindi</source>
@@ -80,27 +80,27 @@
     </message>
     <message>
         <source>German</source>
-        <translation></translation>
+        <translation>Deutsch</translation>
     </message>
     <message>
         <source>Spanish</source>
-        <translation></translation>
+        <translation>Spanisch</translation>
     </message>
     <message>
         <source>Italian</source>
-        <translation></translation>
+        <translation>Italienisch</translation>
     </message>
     <message>
         <source>Japanese</source>
-        <translation></translation>
+        <translation>Japanisch</translation>
     </message>
     <message>
         <source>Bulgarian</source>
-        <translation></translation>
+        <translation>Bulgarisch</translation>
     </message>
     <message>
         <source>Russian</source>
-        <translation></translation>
+        <translation>Russisch</translation>
     </message>
     <message>
         <source>Stream</source>
@@ -128,307 +128,307 @@
     </message>
     <message>
         <source>Reverting to Saved</source>
-        <translation type="unfinished">Neu laden</translation>
+        <translation>Neu laden</translation>
     </message>
     <message>
         <source>Opening %1</source>
-        <translation type="unfinished">Öffne %1</translation>
+        <translation>Öffne %1</translation>
     </message>
     <message>
         <source>Saving %1</source>
-        <translation type="unfinished">Speichere %1</translation>
+        <translation>Speichere %1</translation>
     </message>
     <message>
         <source>Ringtone created by ocenaudio</source>
-        <translation type="unfinished">Klingelton erstellt mit Ocenaudio</translation>
+        <translation>Klingelton erstellt mit Ocenaudio</translation>
     </message>
     <message>
         <source>Creating iTunes Ringtone</source>
-        <translation type="unfinished">Erstelle iTunes Klingelton</translation>
+        <translation>Erstelle iTunes Klingelton</translation>
     </message>
     <message>
         <source>Undoing</source>
-        <translation type="unfinished">Rückgängig</translation>
+        <translation>Rückgängig</translation>
     </message>
     <message>
         <source>Redoing</source>
-        <translation type="unfinished">Wiederherstellen</translation>
+        <translation>Wiederherstellen</translation>
     </message>
     <message>
         <source>Undefined</source>
-        <translation type="unfinished">Unbestimmt</translation>
+        <translation>Unbestimmt</translation>
     </message>
     <message>
         <source>Undefined Format</source>
-        <translation type="unfinished">Unbestimmt Format</translation>
+        <translation>Unbestimmtes Format</translation>
     </message>
     <message>
         <source>Where</source>
-        <translation type="unfinished">Ort</translation>
+        <translation>Ort</translation>
     </message>
     <message>
         <source>Cutting</source>
-        <translation type="unfinished">Schneide</translation>
+        <translation>Ausschneiden</translation>
     </message>
     <message>
         <source>Cut</source>
-        <translation type="unfinished">Ausschneiden</translation>
+        <translation>Ausschneiden</translation>
     </message>
     <message>
         <source>Copying</source>
-        <translation type="unfinished">Kopiere</translation>
+        <translation>Kopiere</translation>
     </message>
     <message>
         <source>Pasting</source>
-        <translation type="unfinished">Einfügen</translation>
+        <translation>Einfügen</translation>
     </message>
     <message>
         <source>Paste</source>
-        <translation type="unfinished">Einfügen</translation>
+        <translation>Einfügen</translation>
     </message>
     <message>
         <source>Deleting</source>
-        <translation type="unfinished">Lösche</translation>
+        <translation>Lösche</translation>
     </message>
     <message>
         <source>Delete</source>
-        <translation type="unfinished">Löschen</translation>
+        <translation>Löschen</translation>
     </message>
     <message>
         <source>Trimming</source>
-        <translation type="unfinished">Zuschneiden</translation>
+        <translation>Zuschneiden</translation>
     </message>
     <message>
         <source>Trim</source>
-        <translation type="unfinished">Zuschneiden</translation>
+        <translation>Zuschneiden</translation>
     </message>
     <message>
         <source>Mix pasting</source>
-        <translation type="unfinished">Einfügen und Mischen</translation>
+        <translation>Einfügen und Mischen</translation>
     </message>
     <message>
         <source>Mix Paste</source>
-        <translation type="unfinished">Einfügen und Mischen</translation>
+        <translation>Einfügen und Mischen</translation>
     </message>
     <message>
         <source>Mono</source>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
     <message>
         <source>Left</source>
-        <translation type="unfinished">Links</translation>
+        <translation>Links</translation>
     </message>
     <message>
         <source>Right</source>
-        <translation type="unfinished">Rechts</translation>
+        <translation>Rechts</translation>
     </message>
     <message>
         <source>0</source>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
     <message>
         <source>L</source>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
     <message>
         <source>R</source>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
     <message>
         <source>%1 channel of</source>
-        <translation type="unfinished">Kanal %1 von</translation>
+        <translation>Kanal %1 von</translation>
     </message>
     <message>
         <source>%1 combined with %2</source>
-        <translation type="unfinished">%1 verbunden mit %2</translation>
+        <translation>%1 verbunden mit %2</translation>
     </message>
     <message>
         <source>Downmix of %1</source>
-        <translation type="unfinished">Downmix von %1</translation>
+        <translation>Downmix von %1</translation>
     </message>
     <message>
         <source>Join of %1 and %2</source>
-        <translation type="unfinished">Verknüpfung von %1 und %2</translation>
+        <translation>Verknüpfung von %1 und %2</translation>
     </message>
     <message>
         <source>Join of %1, %2 and %3</source>
-        <translation type="unfinished">Verknüpfung von %1, %2 und %3</translation>
+        <translation>Verknüpfung von %1, %2 und %3</translation>
     </message>
     <message>
         <source>Join of %1, %2 and other %3 files</source>
-        <translation type="unfinished">Verknüpfung von %1, %2 und anderen %3 Dateien</translation>
+        <translation>Verknüpfung von %1, %2 und anderen %3 Dateien</translation>
     </message>
     <message>
         <source>Reversing</source>
-        <translation type="unfinished">Rückwärts</translation>
+        <translation>Rückwärts</translation>
     </message>
     <message>
         <source>Reverse</source>
-        <translation type="unfinished">Rückwärts</translation>
+        <translation>Rückwärts</translation>
     </message>
     <message>
         <source>Inverting</source>
-        <translation type="unfinished">Umkehren</translation>
+        <translation>Umkehren</translation>
     </message>
     <message>
         <source>Invert</source>
-        <translation type="unfinished">Umkehren</translation>
+        <translation>Umkehren</translation>
     </message>
     <message>
         <source>Silencing</source>
-        <translation type="unfinished">Stille</translation>
+        <translation>Stille</translation>
     </message>
     <message>
         <source>Silence</source>
-        <translation type="unfinished">Stille</translation>
+        <translation>Stille</translation>
     </message>
     <message>
         <source>Removing DC</source>
-        <translation type="unfinished">Entferne DC</translation>
+        <translation>Entferne DC</translation>
     </message>
     <message>
         <source>Remove DC</source>
-        <translation type="unfinished">Entferne DC</translation>
+        <translation>Entferne DC</translation>
     </message>
     <message>
         <source>Normalize</source>
-        <translation type="unfinished">Normalisieren</translation>
+        <translation>Normalisieren</translation>
     </message>
     <message>
         <source>Changing Audio Format</source>
-        <translation type="unfinished">Audio Format ändern</translation>
+        <translation>Audio Format ändern</translation>
     </message>
     <message>
         <source>Change Audio Format</source>
-        <translation type="unfinished">Audio Format ändern</translation>
+        <translation>Audio Format ändern</translation>
     </message>
     <message>
         <source>Channels Swap</source>
-        <translation type="unfinished">Kanäle tauschen</translation>
+        <translation>Kanäle tauschen</translation>
     </message>
     <message>
         <source>Adjust Sample Rate</source>
-        <translation type="unfinished">Samplerate einstellen</translation>
+        <translation>Samplerate einstellen</translation>
     </message>
     <message>
         <source>Remove all metadata</source>
-        <translation type="unfinished">Alle Metadaten entfernen</translation>
+        <translation>Alle Metadaten entfernen</translation>
     </message>
     <message>
         <source>marker %1</source>
-        <translation type="unfinished">Marker %1</translation>
+        <translation>Marker %1</translation>
     </message>
     <message>
         <source>Create Region</source>
-        <translation type="unfinished">Region erzeugen</translation>
+        <translation>Region erzeugen</translation>
     </message>
     <message>
         <source>Create Regions</source>
-        <translation type="unfinished">Regionen erzeugen</translation>
+        <translation>Regionen erzeugen</translation>
     </message>
     <message>
         <source>New Region</source>
-        <translation type="unfinished">Neue Region</translation>
+        <translation>Neue Region</translation>
     </message>
     <message>
         <source>Detecting Dtmf</source>
-        <translation type="unfinished">Erkennen Dtmf</translation>
+        <translation>DTMF erkennen</translation>
     </message>
     <message>
         <source>Detect Dtmf</source>
-        <translation type="unfinished">Erkennen Dtmf</translation>
+        <translation>DTMF erkennen</translation>
     </message>
     <message>
         <source>Save As</source>
-        <translation type="unfinished">Speichern unter</translation>
+        <translation>Speichern unter</translation>
     </message>
     <message>
         <source>Export As</source>
-        <translation type="unfinished">Exportieren als</translation>
+        <translation>Exportieren als</translation>
     </message>
     <message>
         <source>Exporting Selection As</source>
-        <translation type="unfinished">Auswahl exportieren als</translation>
+        <translation>Auswahl exportieren als</translation>
     </message>
     <message>
         <source>Exporting Region As</source>
-        <translation type="unfinished">Region exportieren als</translation>
+        <translation>Region exportieren als</translation>
     </message>
     <message>
         <source>Exporting Regions As</source>
-        <translation type="unfinished">Regionen exportieren als</translation>
+        <translation>Regionen exportieren als</translation>
     </message>
     <message>
         <source>Paste Channel</source>
-        <translation type="unfinished"></translation>
+        <translation>Kanal einfügen</translation>
     </message>
     <message>
         <source>Paste From File</source>
-        <translation type="unfinished"></translation>
+        <translation>Einfügen von Datei</translation>
     </message>
     <message>
         <source>Paste Silence</source>
-        <translation type="unfinished">Stille einfügen</translation>
+        <translation>Stille einfügen</translation>
     </message>
     <message>
         <source>Append Audio</source>
-        <translation type="unfinished">Audio anhängen</translation>
+        <translation>Audio anhängen</translation>
     </message>
     <message>
         <source>Append Silence</source>
-        <translation type="unfinished">Stille anhängen</translation>
+        <translation>Stille anhängen</translation>
     </message>
     <message>
         <source>Append From File</source>
-        <translation type="unfinished">Anhängen aus Datei</translation>
+        <translation>Anhängen aus Datei</translation>
     </message>
     <message>
         <source>Change Metadata</source>
-        <translation type="unfinished">Metadaten ändern</translation>
+        <translation>Metadaten ändern</translation>
     </message>
     <message>
         <source>Record</source>
-        <translation type="unfinished">Aufnahme</translation>
+        <translation>Aufnahme</translation>
     </message>
     <message>
         <source>m s e c</source>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
     <message>
         <source>s e c</source>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
     <message>
         <source>m i n</source>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
     <message>
         <source>h r</source>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
     <message>
         <source>s m p l</source>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
     <message>
         <source>f r a m e s</source>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
     <message>
         <source>Title</source>
-        <translation type="unfinished">Titel</translation>
+        <translation>Titel</translation>
     </message>
     <message>
         <source>Artist</source>
-        <translation type="unfinished">Künstler</translation>
+        <translation>Künstler</translation>
     </message>
     <message>
         <source>Album</source>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
     <message>
         <source>Year</source>
-        <translation type="unfinished">Jahr</translation>
+        <translation>Jahr</translation>
     </message>
 </context>
 <context>
@@ -443,11 +443,11 @@
     </message>
     <message>
         <source>New Plugin Installed</source>
-        <translation>New Plugin Installiert</translation>
+        <translation>Neues Plugin Installiert</translation>
     </message>
     <message>
         <source>ocenaudio Clipboard with %1 seconds in %2 %3</source>
-        <translation type="unfinished"></translation>
+        <translation>Ocenaudio Zwischenablage mit %1 Sekunden in %2 %3</translation>
     </message>
 </context>
 <context>
@@ -458,35 +458,35 @@
     </message>
     <message>
         <source>Move Marker</source>
-        <translation>Verschiebe den Marker</translation>
+        <translation>Marker verschieben</translation>
     </message>
     <message>
         <source>Import Regions</source>
-        <translation>Regionen Importieren</translation>
+        <translation>Regionen importieren</translation>
     </message>
     <message>
         <source>Add Region</source>
-        <translation>Region Hinzufügen</translation>
+        <translation>Region hinzufügen</translation>
     </message>
     <message>
         <source>Delete Region</source>
-        <translation>Region Löschen</translation>
+        <translation>Region löschen</translation>
     </message>
     <message>
         <source>Undelete Region</source>
-        <translation>Erholen Region</translation>
+        <translation>Region wiederherstellen</translation>
     </message>
     <message>
         <source>Delete Regions</source>
-        <translation>Regionen Löschen</translation>
+        <translation>Regionen löschen</translation>
     </message>
     <message>
         <source>Convert Region to Loop</source>
-        <translation>Konvertieren Region zu Loop</translation>
+        <translation>Region zu Schleife konvertieren</translation>
     </message>
     <message>
         <source>Convert Loop to Region</source>
-        <translation>Konvertieren Loop zu Region</translation>
+        <translation>Schleife zu Region konvertieren</translation>
     </message>
     <message>
         <source>Merge Regions</source>
@@ -494,7 +494,7 @@
     </message>
     <message>
         <source>Change Region Comment</source>
-        <translation>Region-Kommentare Ändern</translation>
+        <translation>Region-Kommentar ändern</translation>
     </message>
     <message>
         <source>Change Region Label</source>
@@ -593,11 +593,11 @@
     </message>
     <message>
         <source>Waiting for cancellation</source>
-        <translation type="unfinished"></translation>
+        <translation>Warten auf Abbruch</translation>
     </message>
     <message>
         <source>Remaining</source>
-        <translation type="unfinished"></translation>
+        <translation>Verbleibend</translation>
     </message>
 </context>
 <context>
@@ -608,15 +608,15 @@
     </message>
     <message>
         <source>Message box text</source>
-        <translation>Meldungsfeld text</translation>
+        <translation>Meldungsfenster Text</translation>
     </message>
     <message>
         <source>Message box informative text</source>
-        <translation>Meldungsfeld informativer text</translation>
+        <translation>Meldungsfenster informativer Text</translation>
     </message>
     <message>
         <source>Checkable option</source>
-        <translation>Überprüfbar Option</translation>
+        <translation>Ankreuzbare Option</translation>
     </message>
 </context>
 <context>
@@ -650,7 +650,7 @@
     </message>
     <message>
         <source>%1 channels</source>
-        <translation type="unfinished"></translation>
+        <translation>%1 Kanäle</translation>
     </message>
 </context>
 <context>
@@ -665,7 +665,7 @@
     </message>
     <message>
         <source>Automatically check for updates</source>
-        <translation>Suche automatisch nach Updates</translation>
+        <translation>Suche automatisch nach Aktualisierungen</translation>
     </message>
     <message>
         <source>General</source>
@@ -677,19 +677,19 @@
     </message>
     <message>
         <source>Color Scheme</source>
-        <translation type="unfinished"></translation>
+        <translation>Farbschema</translation>
     </message>
     <message>
         <source>Classic</source>
-        <translation type="unfinished"></translation>
+        <translation>Klassisch</translation>
     </message>
     <message>
         <source>Light</source>
-        <translation type="unfinished"></translation>
+        <translation>Hell</translation>
     </message>
     <message>
         <source>Dark</source>
-        <translation type="unfinished"></translation>
+        <translation>Dunkel</translation>
     </message>
 </context>
 <context>
@@ -707,19 +707,19 @@
     <name>QOcenKeyBindings</name>
     <message>
         <source>Command</source>
-        <translation>Funktion</translation>
+        <translation>Kommando</translation>
     </message>
     <message>
         <source>Key</source>
-        <translation>Tasten</translation>
+        <translation>Taste</translation>
     </message>
     <message>
         <source>Restore to default (no shortcut)</source>
-        <translation>Werkseinstellung herstellen (keine Tasten)</translation>
+        <translation>Standard wiederherstellen (keine Tastenkombination)</translation>
     </message>
     <message>
         <source>Restore to default shortcut (&apos;%1&apos;)</source>
-        <translation>Werkseinstellung herstellen (&apos;%1&apos;)</translation>
+        <translation>Standard-Tastenkombination wiederherstellen (&apos;%1&apos;)</translation>
     </message>
 </context>
 <context>
@@ -730,15 +730,15 @@
     </message>
     <message>
         <source>Key Bindings</source>
-        <translation>Tastenkombination</translation>
+        <translation>Tastenkombinationen</translation>
     </message>
     <message>
         <source>Command</source>
-        <translation>Funktion</translation>
+        <translation>Kommando</translation>
     </message>
     <message>
         <source>Key</source>
-        <translation>Tasten</translation>
+        <translation>Taste</translation>
     </message>
 </context>
 <context>
@@ -872,7 +872,7 @@
     </message>
     <message>
         <source>The current file&apos;s format does not support these settings. Do you want to make this changes anyway?</source>
-        <translation>Das aktuelle Dateiformat unterstütz ndie Einstellungen nicht. Wollen Sie trotzdem diese Änderungen vornehmen?</translation>
+        <translation>Das aktuelle Dateiformat unterstütz diese Einstellungen nicht. Wollen Sie trotzdem diese Änderungen vornehmen?</translation>
     </message>
     <message>
         <source>If you proceed, you will have to save the file with a different format.</source>
@@ -880,7 +880,7 @@
     </message>
     <message>
         <source>The current file&apos;s format does not support regions and/or markers. Do you want to create this region anyway?</source>
-        <translation>Die aktuelle Datei-Format nicht unterstützt Regionen und/oder Markierungen. Möchten Sie diese Region ohnehin zu schaffen?</translation>
+        <translation>Das aktuelle Datei-Format unterstützt keine Regionen und/oder Markierungen. Möchten Sie diese Region trotzdem anlegen?</translation>
     </message>
     <message>
         <source>You are about to undo past the last point this sound was saved. Do you want to do this?</source>
@@ -920,11 +920,11 @@
     </message>
     <message>
         <source>The conversion from region to loop will discard comments. You want to proceed?</source>
-        <translation>Die Konvertierung einer Region zu einem Loop entfernt die Beschreibung. Wollen Sie fortfahren?</translation>
+        <translation>Die Konvertierung einer Region zu einer Schleife entfernt die Beschreibung. Wollen Sie fortfahren?</translation>
     </message>
     <message>
         <source>If you continue, all comments, from this region, will be removed.</source>
-        <translation>Wenn Sie weitermachen, wird die Beschreibung dieser Region entfernt.</translation>
+        <translation>Wenn Sie fortfahren, wird die Beschreibung dieser Region entfernt.</translation>
     </message>
     <message>
         <source>Fatal Error</source>
@@ -932,55 +932,55 @@
     </message>
     <message>
         <source>An error occured while writing temporary data to disk!</source>
-        <translation>Beim Schreiben von temporären Daten auf der Festplatte ist ein Fehler aufgetreten!</translation>
+        <translation>Beim Schreiben von temporären Dateienn auf die Festplatte ist ein Fehler aufgetreten!</translation>
     </message>
     <message>
         <source>This is an unrecoverable error and ocenaudio must quit. This issue might happen if your main disk is running out of free space.</source>
-        <translation>Dies ist ein nicht behebbarer Fehler und ocenaudio müssen beenden. Dieses Problem kann auftreten, wenn Ihr Haupt Platte aus freien Raum läuft.</translation>
+        <translation>Dies ist ein nicht behebbarer Fehler und Ocenaudio muss beendet werden. Dieses Fehler kann auftreten, wenn Ihre Festplatte voll ist.</translation>
     </message>
     <message>
         <source>Information</source>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
     <message>
         <source>Pasting file %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Datei %1 einfügen</translation>
     </message>
     <message>
         <source>Unsupported Format</source>
-        <translation type="unfinished"></translation>
+        <translation>Nicht unterstütztes Format</translation>
     </message>
     <message>
         <source>The maximum number of channels supported is %1 channels.</source>
-        <translation type="unfinished"></translation>
+        <translation>Es werden maximal %1 Kanäle unterstützt.</translation>
     </message>
     <message>
         <source>The minimum sample rate supported is %1 Hz.</source>
-        <translation type="unfinished"></translation>
+        <translation>Die minimale unterstütze Samplerate ist %1 Hz.</translation>
     </message>
     <message>
         <source>The maximum sample rate supported is %1 Hz.</source>
-        <translation type="unfinished"></translation>
+        <translation>Die maximale unterstütze Samplerate ist %1 Hz.</translation>
     </message>
     <message>
         <source>Audio VST Check Failed</source>
-        <translation type="unfinished"></translation>
+        <translation>Audio VST Prüfung fehlgeschlagen</translation>
     </message>
     <message>
         <source>An error occurred in the execution of VST plugin application. No VST plugin can be loaded in this condition.</source>
-        <translation type="unfinished"></translation>
+        <translation>Ein Fehler ereignete sich beim Ausführen des VST Plugins. VST Plugins können nicht geladen werden.</translation>
     </message>
     <message>
         <source>Audio not saved</source>
-        <translation type="unfinished"></translation>
+        <translation>Audio nicht gespeichert</translation>
     </message>
     <message>
         <source>It was not possible to complete the save of file “%1” because the chosen container does not support metadata.</source>
-        <translation type="unfinished"></translation>
+        <translation>Die Datei %1 konnte nicht gespeichert werden, da der gewählte Container keine Metadaten unterstützt.</translation>
     </message>
     <message>
         <source>An error was encountered while saving your sound file “%1”!</source>
-        <translation type="unfinished"></translation>
+        <translation>Ein Fehler ereignete sich beim Speichern der Audiodatei &quot;%1&quot;!</translation>
     </message>
 </context>
 <context>
@@ -1031,11 +1031,11 @@
     </message>
     <message>
         <source>Checking connectivity</source>
-        <translation>Überprüfen Konnektivität</translation>
+        <translation>Verbindung überprüfen</translation>
     </message>
     <message>
         <source>No connectivity</source>
-        <translation>Keine Konnektivität</translation>
+        <translation>Keine Verbindung</translation>
     </message>
 </context>
 <context>
@@ -1049,7 +1049,7 @@
     <name>QOcenOpenFile</name>
     <message>
         <source>Probing</source>
-        <translation>Sondieren</translation>
+        <translation>Testen</translation>
     </message>
     <message>
         <source>Opening &quot;%1&quot;</source>
@@ -1093,7 +1093,7 @@
     </message>
     <message>
         <source>An error occurred while trying to open the file “%1”.</source>
-        <translation>Ein Fehler trat auf beim Versuch, die Datei &quot;%1&quot; zu öffnen.</translation>
+        <translation>Ein Fehler trat auf bei Öffnen der Datei &quot;%1&quot;.</translation>
     </message>
     <message>
         <source>Apparently your file is empty.</source>
@@ -1113,7 +1113,7 @@
     </message>
     <message>
         <source>The package “%1” does not contains any supported audio file.</source>
-        <translation>Das Paket &quot;%1&quot; nicht enthält alle unterstützten Audio-Datei.</translation>
+        <translation>Das Paket &quot;%1&quot; enthält keine unterstützten Audio-Dateien.</translation>
     </message>
     <message>
         <source>File not found!</source>
@@ -1121,15 +1121,15 @@
     </message>
     <message>
         <source>The file “%1” was not found. Check if your filename is valid and you have permission to open it.</source>
-        <translation>Die Datei &quot;%1&quot; wurde nicht gefunden. Prüfen Sie, ob der Dateiname gültig ist und Sie die Erlaubnis, es zu öffnen.</translation>
+        <translation>Die Datei &quot;%1&quot; wurde nicht gefunden. Prüfen Sie, ob der Dateiname gültig ist und Sie die Rechte zum Öffnen der Datei haben.</translation>
     </message>
     <message>
         <source>Analyzing files in %1 %2</source>
-        <translation type="unfinished"></translation>
+        <translation>Analysiere Dateien in %1 %2</translation>
     </message>
     <message>
         <source>Analyzing files in %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Analysiere Dateien in %1</translation>
     </message>
 </context>
 <context>
@@ -1140,19 +1140,19 @@
     </message>
     <message>
         <source>The plugin &quot;%1&quot; is already installed on your system.</source>
-        <translation>Das Plugin &quot;%1&quot; ist bereits auf Ihrem System installiert ist.</translation>
+        <translation>Das Plugin &quot;%1&quot; ist bereits installiert.</translation>
     </message>
     <message>
         <source>To proceed with the installation it is necessary to first remove the currently installed version of this plugin.</source>
-        <translation>Um mit der Installation fortzufahren ist es notwendig, zunächst die aktuell installierte Version des Plugins deinstallieren.</translation>
+        <translation>Um mit der Installation fortzufahren ist es notwendig, zunächst die aktuell installierte Version des Plugins zu deinstallieren.</translation>
     </message>
     <message>
         <source>The plugin &quot;%1&quot; is not compatible with your ocenaudio version.</source>
-        <translation>Das Plugin &quot;%1&quot; ist nicht kompatibel mit Ihrem ocenaudio Version.</translation>
+        <translation>Das Plugin &quot;%1&quot; ist nicht kompatibel mit Ihrer Ocenaudio Version.</translation>
     </message>
     <message>
         <source>To proceed with the installation it is necessary to first update ocenaudio.</source>
-        <translation>Um mit der Installation muss zuerst Update ocenaudio ist fortzufahren.</translation>
+        <translation>Um mit der Installation fortzufahren muss zuerst Ocenaudio aktualisiert werden.</translation>
     </message>
     <message>
         <source>Question</source>
@@ -1160,11 +1160,11 @@
     </message>
     <message>
         <source>Do you want to proceed with the installation of the plugin &quot;%1&quot;?</source>
-        <translation>Wollen Sie mit der Installation des Plugins &quot;%1&quot; vorgehen?</translation>
+        <translation>Wollen Sie mit der Installation des Plugins &quot;%1&quot; fortfahren?</translation>
     </message>
     <message>
         <source>If you proceed ocenaudio will check the integrity, install and load the selected plugin package.</source>
-        <translation>Wenn Sie fortfahren ocenaudio die Integrität überprüfen, installieren und laden Sie das Plugin-Paket ausgewählt.</translation>
+        <translation>Wenn Sie fortfahren, überprüft, installiert und lädft Ocenaudio das Plugin-Paket.</translation>
     </message>
     <message>
         <source>Error</source>
@@ -1172,27 +1172,27 @@
     </message>
     <message>
         <source>The verification process has detected errors in the &quot;%1&quot; plugin package.</source>
-        <translation>Die Überprüfung hat Fehler in der &quot;%1&quot;-Plugin-Paket festgestellt.</translation>
+        <translation>Die Überprüfung hat Fehler im-Plugin-Paket &quot;%1&quot; festgestellt.</translation>
     </message>
     <message>
         <source>The verification process has detected one or more inconsistency in this package. Therefore this installation process was interrupted.</source>
-        <translation>Der Überprüfungsprozess eine oder mehrere Inkonsistenz in diesem Paket detektiert. Daher wurde diese Installationsprozess unterbrochen.</translation>
+        <translation>Die Überprüfung dieses Packets hat eine oder mehrere Inkonsistenzen entdeckt. Daher wurde die Installation abgebrochen.</translation>
     </message>
     <message>
         <source>Unable to install the plugin &quot;%1&quot;.</source>
-        <translation>Die &quot;%1&quot;-Plugin unfähig installieren.</translation>
+        <translation>Das Plugin &quot;%1&quot; kann nicht installiert werden.</translation>
     </message>
     <message>
         <source>One or more errors were detected during the installation process. You can try again and if the error persists contact the ocenaudio team.</source>
-        <translation>Einen oder mehrere Fehler wurden während des Installationsprozesses detektiert. Sie können versuchen, und wenn der Fehler weiterhin auftritt, wenden Sie sich ocenaudio Team.</translation>
+        <translation>Ein oder mehrere Fehler traten während der Installation auf. Sie können es nochmal versuchen und wenn der Fehler weiterhin auftritt, wenden Sie sich an das Ocenaudio Team.</translation>
     </message>
     <message>
         <source>Invalid Plugin Code Signature</source>
-        <translation type="unfinished">Ungültige Plugin Code Signatur</translation>
+        <translation>Ungültige Plugin Code Signatur</translation>
     </message>
     <message>
         <source>This means %1 plugin has been tampered, possibly making it less secure. The plugin cannot be loaded in this state. It is necessary to reinstall the %1 plugin in order to use it.</source>
-        <translation type="unfinished">Dies bedeutet, daß das %1 Plugin manipuliert wurde, um es möglicherweise unsicherer zu machen. Das Plugin kann in diesem Zustand nicht geladen werden. Sie müssen das Plugin %1 neu installieren.</translation>
+        <translation>Dies bedeutet, dass das %1 Plugin manipuliert wurde, um es möglicherweise unsicherer zu machen. Das Plugin kann in diesem Zustand nicht geladen werden. Sie müssen das Plugin %1 neu installieren.</translation>
     </message>
 </context>
 <context>
@@ -1214,7 +1214,7 @@
     <name>QOcenQuickOpenWidget</name>
     <message>
         <source>File or http address</source>
-        <translation type="unfinished"></translation>
+        <translation>Datei- oder HTTP-Adresse</translation>
     </message>
 </context>
 <context>
@@ -1225,11 +1225,11 @@
     </message>
     <message>
         <source>The selected format doesn&apos;t support regions and markers. Do you want to proceed without save regions?</source>
-        <translation>Das gewählte Format nicht unterstützt Regionen und Marker. Wollen Sie ohne speichern Regionen vorgehen?</translation>
+        <translation>Das gewählte Format unterstützt keine Regionen und Marker. Wollen Sie fortfahren, ohne die Regionen zu speichern?</translation>
     </message>
     <message>
         <source>If you continue the saved file will not contain the regions created in this audio.</source>
-        <translation>Wenn Sie weiterhin die gespeicherte Datei enthält nicht die Regionen in diesem Audio erstellt.</translation>
+        <translation>Wenn Sie fortfahren, wird die gespeicherte Datei keine Regionen enthalten.</translation>
     </message>
     <message>
         <source>Format</source>
@@ -1240,63 +1240,63 @@
     <name>QOcenSoundPrefs</name>
     <message>
         <source>Form</source>
-        <translation type="unfinished">Formular</translation>
+        <translation>Formular</translation>
     </message>
     <message>
         <source>Playback Device/Options</source>
-        <translation type="unfinished">Wiedergabegerät/Einstellungen</translation>
+        <translation>Wiedergabegerät/Einstellungen</translation>
     </message>
     <message>
         <source>Options</source>
-        <translation type="unfinished">Optionen</translation>
+        <translation>Optionen</translation>
     </message>
     <message>
         <source>Move cursor to playback stop position</source>
-        <translation type="unfinished">Verschiebe Zeiger zur Wiedergabe Stop-Position</translation>
+        <translation>Verschiebe Zeiger zur Wiedergabe Stop-Position</translation>
     </message>
     <message>
         <source>Record Device/Options</source>
-        <translation type="unfinished">Aufnahmegerät/Einstellungen</translation>
+        <translation>Aufnahmegerät/Einstellungen</translation>
     </message>
     <message>
         <source>Move cursor to record stop position</source>
-        <translation type="unfinished">Verschiebe Zeiger zur Aufnahme Stop-Position</translation>
+        <translation>Verschiebe Zeiger zur Aufnahme Stop-Position</translation>
     </message>
     <message>
         <source>Mixer Sample Rate</source>
-        <translation type="unfinished"></translation>
+        <translation>Mixer Samplerate</translation>
     </message>
     <message>
         <source>48000 Hz</source>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
     <message>
         <source>44100 Hz</source>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
     <message>
         <source>22050 Hz</source>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
     <message>
         <source>Mixer Backend</source>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
     <message>
         <source>CoreAudio</source>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
     <message>
         <source>Disabled</source>
-        <translation type="unfinished"></translation>
+        <translation>Deaktiviert</translation>
     </message>
     <message>
         <source>Sound</source>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
     <message>
         <source>System Default</source>
-        <translation type="unfinished">Systemstandard</translation>
+        <translation>Systemstandard</translation>
     </message>
 </context>
 <context>
