@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!DOCTYPE TS>
-<TS version="2.0" language="de_DE">
+<TS version="2.1" language="de_DE">
 <context>
     <name>AdjustSampleRateDialog</name>
     <message>
@@ -96,7 +96,7 @@
     </message>
     <message>
         <source>Zoom</source>
-        <translation></translation>
+        <translation>Vergrößerung</translation>
     </message>
     <message>
         <source>Extra Tracks</source>
@@ -165,7 +165,7 @@
     </message>
     <message>
         <source>Move Cursor</source>
-        <translation>Verschiebe den Cursor</translation>
+        <translation>Zeiger verschieben</translation>
     </message>
     <message>
         <source>New...</source>
@@ -293,11 +293,11 @@
     </message>
     <message>
         <source>Zoom In</source>
-        <translation>Einzoomen - Vergrößern</translation>
+        <translation>Vergrößern</translation>
     </message>
     <message>
         <source>Zoom Out</source>
-        <translation>Auszoomen - Verkleinern</translation>
+        <translation>Verkleinern</translation>
     </message>
     <message>
         <source>Zoom Out Full</source>
@@ -305,15 +305,15 @@
     </message>
     <message>
         <source>Vertical Zoom In</source>
-        <translation>Vertikal einzoomen - Vergrößern</translation>
+        <translation>Vertikal vergrößern</translation>
     </message>
     <message>
         <source>Vertical Zoom Out</source>
-        <translation>Vertikal auszoomen - Verkleinern</translation>
+        <translation>Vertikal verkleinern</translation>
     </message>
     <message>
         <source>Restore Vertical Zoom</source>
-        <translation>Vertikal Zoom zurücksetzen</translation>
+        <translation>Vertikale Vergrößerung zurücksetzen</translation>
     </message>
     <message>
         <source>Sound Properties...</source>
@@ -370,7 +370,7 @@
     </message>
     <message>
         <source>Preferences</source>
-        <translation></translation>
+        <translation>Einstellungen</translation>
     </message>
     <message>
         <source>Record</source>
@@ -434,7 +434,7 @@
     </message>
     <message>
         <source>Show Navigator Window</source>
-        <translation>Fenster Navigator einblenden</translation>
+        <translation>Navigatorfenster anzeigen</translation>
     </message>
     <message>
         <source>Dirac LE</source>
@@ -442,7 +442,7 @@
     </message>
     <message>
         <source>Split Audio at Markers</source>
-        <translation>Teilen Audio auf Marker</translation>
+        <translation>Audio an Markern teilen</translation>
     </message>
     <message>
         <source>Goto Preview Marker</source>
@@ -450,7 +450,7 @@
     </message>
     <message>
         <source>Next Marker</source>
-        <translation>Weiter Marker</translation>
+        <translation>Nächster Marker</translation>
     </message>
     <message>
         <source>Ctrl+Alt+Right</source>
@@ -458,7 +458,7 @@
     </message>
     <message>
         <source>Previous Marker</source>
-        <translation>Zurück Marker</translation>
+        <translation>Vorheriger Marker</translation>
     </message>
     <message>
         <source>Ctrl+Alt+Left</source>
@@ -466,11 +466,11 @@
     </message>
     <message>
         <source>Next Zero Crossing</source>
-        <translation>Nächsten Nulldurchgang</translation>
+        <translation>Nächster Nulldurchgang</translation>
     </message>
     <message>
         <source>Prev Zero Crossing</source>
-        <translation>Zurück Nulldurchgang</translation>
+        <translation>Vorheriger Nulldurchgang</translation>
     </message>
     <message>
         <source>Fade...</source>
@@ -583,7 +583,7 @@
     </message>
     <message>
         <source>Noise Gate...</source>
-        <translation>Gate...</translation>
+        <translation>Noise Gate...</translation>
     </message>
     <message>
         <source>Normalize</source>
@@ -591,11 +591,11 @@
     </message>
     <message>
         <source>Sample Delay...</source>
-        <translation></translation>
+        <translation>Sample Versatz...</translation>
     </message>
     <message>
         <source>Loop</source>
-        <translation></translation>
+        <translation>Schleife</translation>
     </message>
     <message>
         <source>Mute Left Channel</source>
@@ -667,7 +667,7 @@
     </message>
     <message>
         <source>Show Channels Id</source>
-        <translation>Kanal Id einblenden</translation>
+        <translation>Kanal ID einblenden</translation>
     </message>
     <message>
         <source>Repeat ___ Effect</source>
@@ -715,19 +715,19 @@
     </message>
     <message>
         <source>Detect DTMF Tones</source>
-        <translation>Erkennung DTMF-Tönen</translation>
+        <translation>DTMF-Tönen erkennen</translation>
     </message>
     <message>
         <source>Rescan Audio Devices</source>
-        <translation>Rescan Audiogeräte</translation>
+        <translation>Audiogeräte erneut suchen</translation>
     </message>
     <message>
         <source>Meta+Space</source>
-        <translation></translation>
+        <translation>Meta+Leertaste</translation>
     </message>
     <message>
         <source>Send Crash Report...</source>
-        <translation type="unfinished"></translation>
+        <translation>Absturzbericht senden...</translation>
     </message>
 </context>
 <context>
@@ -766,7 +766,7 @@
     </message>
     <message>
         <source>Cursor</source>
-        <translation>Cursor</translation>
+        <translation>Zeiger</translation>
     </message>
 </context>
 <context>
@@ -844,15 +844,15 @@
     </message>
     <message>
         <source>Delay</source>
-        <translation></translation>
+        <translation>Verzögerung</translation>
     </message>
     <message>
         <source>Short</source>
-        <translation>Kurz</translation>
+        <translation>kurz</translation>
     </message>
     <message>
         <source>Long</source>
-        <translation>Lang</translation>
+        <translation>lang</translation>
     </message>
     <message>
         <source>100.0 ms</source>
@@ -860,7 +860,7 @@
     </message>
     <message>
         <source>Feedback</source>
-        <translation></translation>
+        <translation>Rückkopplung</translation>
     </message>
     <message>
         <source>-100%</source>
@@ -880,15 +880,15 @@
     </message>
     <message>
         <source>Blend</source>
-        <translation></translation>
+        <translation>Mischung</translation>
     </message>
     <message>
         <source>Dry</source>
-        <translation></translation>
+        <translation>trocken</translation>
     </message>
     <message>
         <source>Wet</source>
-        <translation></translation>
+        <translation>nass</translation>
     </message>
     <message>
         <source>10,6 ms</source>
@@ -896,35 +896,35 @@
     </message>
     <message>
         <source>Flanger</source>
-        <translation></translation>
+        <translation>Flanger</translation>
     </message>
     <message>
         <source>Depth</source>
-        <translation></translation>
+        <translation>Tiefe</translation>
     </message>
     <message>
         <source>Shallow</source>
-        <translation></translation>
+        <translation>flach</translation>
     </message>
     <message>
         <source>Deep</source>
-        <translation></translation>
+        <translation>tief</translation>
     </message>
     <message>
         <source>Slow</source>
-        <translation></translation>
+        <translation>langsam</translation>
     </message>
     <message>
         <source>Fast</source>
-        <translation></translation>
+        <translation>schnell</translation>
     </message>
     <message>
         <source>Speed</source>
-        <translation></translation>
+        <translation>Geschwindigkeit</translation>
     </message>
     <message>
         <source>Chorus</source>
-        <translation></translation>
+        <translation>Chorus</translation>
     </message>
     <message>
         <source>100.0 %</source>
@@ -932,15 +932,15 @@
     </message>
     <message>
         <source>Reverb</source>
-        <translation></translation>
+        <translation>Hall</translation>
     </message>
     <message>
         <source>Decay</source>
-        <translation></translation>
+        <translation>Abklingzeit</translation>
     </message>
     <message>
         <source>Vibrato</source>
-        <translation></translation>
+        <translation>Vibrato</translation>
     </message>
     <message>
         <source>20.00 Hz</source>
@@ -983,7 +983,7 @@
     </message>
     <message>
         <source>percent</source>
-        <translation>prozent</translation>
+        <translation>Prozent</translation>
     </message>
     <message>
         <source>Pitch Shift</source>
@@ -995,11 +995,11 @@
     </message>
     <message>
         <source>semitones</source>
-        <translation>halbtöne</translation>
+        <translation>Halbtöne</translation>
     </message>
     <message>
         <source>DIRAC Time Stretch / Pitch Shift technology licensed from The DSP Dimension, http://www.dspdimension.com. DIRAC is (c) Stephan M. Bernsee</source>
-        <translation></translation>
+        <translation>DIRAC Time Stretch / Pitch Shift Technologie lizensiert von DSP Dimension, http://www.dspdimension.com. DIRAC is (c) Stephan M. Bernsee</translation>
     </message>
     <message>
         <source>Information</source>
@@ -1007,11 +1007,11 @@
     </message>
     <message>
         <source>This effect is not available for the current audio format.</source>
-        <translation>Die Effekt ist nicht für den aktuellen Audio-Format verfügbar.</translation>
+        <translation>Dieser Effekt ist nicht für das aktuelle Audioformat verfügbar.</translation>
     </message>
     <message>
         <source>In current version, ocenaudio uses DIRAC LE library that supports only one audio channel with sampling rate of 44100 Hz or 48000 Hz.</source>
-        <translation>In der aktuellen Version nutzt ocenaudio DIRAC LE-Bibliothek, die nur einen Audiokanal mit Sampling-Rate von 44100 Hz oder 48000 Hz unterstützt.</translation>
+        <translation>In der aktuellen Version nutzt Ocenaudio die DIRAC LE-Bibliothek, die nur einen Audiokanal mit Samplingraten von 44100 Hz oder 48000 Hz unterstützt.</translation>
     </message>
     <message>
         <source>Time and Pitch Adjust</source>
@@ -1038,15 +1038,15 @@
     </message>
     <message>
         <source>Threshold</source>
-        <translation></translation>
+        <translation>Schwelle</translation>
     </message>
     <message>
         <source>Low</source>
-        <translation></translation>
+        <translation>niedrig</translation>
     </message>
     <message>
         <source>High</source>
-        <translation></translation>
+        <translation>hoch</translation>
     </message>
     <message>
         <source>-20 dB</source>
@@ -1054,7 +1054,7 @@
     </message>
     <message>
         <source>Ratio</source>
-        <translation></translation>
+        <translation>Verhältnis</translation>
     </message>
     <message>
         <source>1.0</source>
@@ -1078,7 +1078,7 @@
     </message>
     <message>
         <source>Noise Gate</source>
-        <translation>Gate</translation>
+        <translation>Noise Gate</translation>
     </message>
     <message>
         <source>-60 dB</source>
@@ -1086,15 +1086,15 @@
     </message>
     <message>
         <source>Attack</source>
-        <translation></translation>
+        <translation>Ansprechzeit</translation>
     </message>
     <message>
         <source>Fast</source>
-        <translation></translation>
+        <translation>schnell</translation>
     </message>
     <message>
         <source>Slow</source>
-        <translation></translation>
+        <translation>langsam</translation>
     </message>
     <message>
         <source>0.1 ms</source>
@@ -1102,7 +1102,7 @@
     </message>
     <message>
         <source>Release</source>
-        <translation></translation>
+        <translation>Abklingzeit</translation>
     </message>
     <message>
         <source>5 ms</source>
@@ -1110,7 +1110,7 @@
     </message>
     <message>
         <source>Gain</source>
-        <translation></translation>
+        <translation>Pegel</translation>
     </message>
     <message>
         <source>-40 dB</source>
@@ -1150,7 +1150,7 @@
     </message>
     <message>
         <source>Applying Noise Gate</source>
-        <translation>Gate anwenden</translation>
+        <translation>Noise Gate anwenden</translation>
     </message>
 </context>
 <context>
@@ -1193,7 +1193,7 @@
     </message>
     <message>
         <source>Use this curve for all fade operations</source>
-        <translation>Diese Kurve für alle Blenden-Operationen</translation>
+        <translation>Diese Kurve für alle Blenden-nutzen</translation>
     </message>
     <message>
         <source>S-Curve</source>
@@ -1542,11 +1542,11 @@
     </message>
     <message>
         <source>V shape</source>
-        <translation></translation>
+        <translation>V Form</translation>
     </message>
     <message>
         <source>Inverted V shape</source>
-        <translation></translation>
+        <translation>Invertierte V Form</translation>
     </message>
 </context>
 <context>
@@ -1589,7 +1589,7 @@
     </message>
     <message>
         <source>Medium Low</source>
-        <translation>Mittlere-Niedrig</translation>
+        <translation>Mittel-Niedrig</translation>
     </message>
     <message>
         <source>Medium</source>
@@ -1597,7 +1597,7 @@
     </message>
     <message>
         <source>Medium High</source>
-        <translation>Mittlere-Hoch</translation>
+        <translation>Mittel-Hoch</translation>
     </message>
     <message>
         <source>High</source>
@@ -1649,111 +1649,111 @@
     </message>
     <message>
         <source>Preview</source>
-        <translation type="unfinished"></translation>
+        <translation>Vorhören</translation>
     </message>
     <message>
         <source>bins</source>
-        <translation type="unfinished"></translation>
+        <translation>Blöcke</translation>
     </message>
     <message>
         <source>Window Function</source>
-        <translation type="unfinished">Fensterfunktion</translation>
+        <translation>Fensterfunktion</translation>
     </message>
     <message>
         <source>Number of Bins</source>
-        <translation type="unfinished">Blöcke</translation>
+        <translation>Blöcke</translation>
     </message>
     <message>
         <source>Scale Kind</source>
-        <translation type="unfinished">Skala</translation>
+        <translation>Skala</translation>
     </message>
     <message>
         <source>Other Options</source>
-        <translation type="unfinished">Andere Optionen</translation>
+        <translation>Andere Optionen</translation>
     </message>
     <message>
         <source>Follow Play Cursor</source>
-        <translation type="unfinished">Folge Wiedergabe</translation>
+        <translation>Folge Wiedergabe</translation>
     </message>
     <message>
         <source>Separated channels view</source>
-        <translation type="unfinished">Kanäle getrennt anzeigen</translation>
+        <translation>Kanäle getrennt anzeigen</translation>
     </message>
     <message>
         <source>Show each audio channel on a separated view.</source>
-        <translation type="unfinished">Zeige jeden Kanal in einer eigenen Ansicht.</translation>
+        <translation>Zeige jeden Kanal in einer eigenen Ansicht.</translation>
     </message>
     <message>
         <source>Display Cursor Position</source>
-        <translation type="unfinished">Zeige Cursor Position</translation>
+        <translation>Zeigerposition anzeigen</translation>
     </message>
     <message>
         <source>%1 Scale</source>
         <comment>Ex: Linear Scale (Dont remove %1)</comment>
-        <translation type="unfinished">%1 Skala</translation>
+        <translation>%1 Skala</translation>
     </message>
     <message>
         <source>Drop Artwork Here</source>
-        <translation type="unfinished"></translation>
+        <translation>Bild hierher ziehen</translation>
     </message>
     <message>
         <source>Minimum Sample Value</source>
-        <translation type="unfinished"></translation>
+        <translation>Minimaler Sample-Wert</translation>
     </message>
     <message>
         <source>Maximum Sample Value</source>
-        <translation type="unfinished"></translation>
+        <translation>Maximaler Sample-Wert</translation>
     </message>
     <message>
         <source>Peak Amplitude</source>
-        <translation type="unfinished"></translation>
+        <translation>Spitzenpegel</translation>
     </message>
     <message>
         <source>Possible Clipped Samples</source>
-        <translation type="unfinished"></translation>
+        <translation>Mögliche abgeschnittene Samples</translation>
     </message>
     <message>
         <source>DC Offset</source>
-        <translation type="unfinished"></translation>
+        <translation>DC Offset</translation>
     </message>
     <message>
         <source>Minimum RMS Power</source>
-        <translation type="unfinished"></translation>
+        <translation>Minimale RMS-Leistung</translation>
     </message>
     <message>
         <source>Maximum RMS Power</source>
-        <translation type="unfinished"></translation>
+        <translation>Maximale RMS-Leistung</translation>
     </message>
     <message>
         <source>Average RMS Power</source>
-        <translation type="unfinished"></translation>
+        <translation>Mittlere RMS-Leistung</translation>
     </message>
     <message>
         <source>Total RMS Power</source>
-        <translation type="unfinished"></translation>
+        <translation>Gesamt RMS-Leistung</translation>
     </message>
     <message>
         <source>Channel %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Kanal %1</translation>
     </message>
     <message>
         <source>Skip</source>
-        <translation type="unfinished">Überspringen</translation>
+        <translation>Überspringen</translation>
     </message>
     <message>
         <source>Custom</source>
-        <translation type="unfinished"></translation>
+        <translation>Benutzerdefiniert</translation>
     </message>
 </context>
 <context>
     <name>QOcenAboutDialog</name>
     <message>
         <source>About</source>
-        <translation>Über</translation>
+        <translation>Info</translation>
     </message>
     <message>
         <source>ocenaudio</source>
-        <translation>ocenaudio</translation>
+        <translation>Ocenaudio</translation>
     </message>
     <message>
         <source>Version 2.6.0 (Build 2292)</source>
@@ -1792,269 +1792,269 @@
     <name>QOcenAudioFftAnalysisDialog</name>
     <message>
         <source>FFT Analysis</source>
-        <translation type="unfinished">FFT Analyse</translation>
+        <translation>FFT Analyse</translation>
     </message>
     <message>
         <source>%1 Window | %2 %3</source>
-        <translation type="unfinished"></translation>
+        <translation>%1 Fenster | %2 %3</translation>
     </message>
     <message>
         <source>Updating FFT ...</source>
-        <translation type="unfinished">Aktualisiere FFT ...</translation>
+        <translation>Aktualisiere FFT ...</translation>
     </message>
 </context>
 <context>
     <name>QOcenAudioPropertiesDialog</name>
     <message>
         <source>Audio Properties</source>
-        <translation type="unfinished"></translation>
+        <translation>Audioeigenschaften</translation>
     </message>
     <message>
         <source>Song Name longo para ver o que pode acontecer</source>
-        <translation type="unfinished"></translation>
+        <translation>Langer Titel als Vorschau</translation>
     </message>
     <message>
         <source>Artist</source>
-        <translation type="unfinished">Künstler</translation>
+        <translation>Künstler</translation>
     </message>
     <message>
         <source>Album</source>
-        <translation type="unfinished"></translation>
+        <translation>Album</translation>
     </message>
     <message>
         <source>General</source>
-        <translation type="unfinished">Allgemein</translation>
+        <translation>Allgemein</translation>
     </message>
     <message>
         <source>File Name</source>
-        <translation type="unfinished"></translation>
+        <translation>Dateiname</translation>
     </message>
     <message>
         <source>filename.mp4</source>
-        <translation type="unfinished"></translation>
+        <translation>Dateiname.mp4</translation>
     </message>
     <message>
         <source>File Container</source>
-        <translation type="unfinished"></translation>
+        <translation>Dateicontainer</translation>
     </message>
     <message>
         <source>MP4</source>
-        <translation type="unfinished"></translation>
+        <translation>MP4</translation>
     </message>
     <message>
         <source>Audio Codec</source>
-        <translation type="unfinished"></translation>
+        <translation>Audio-Codec</translation>
     </message>
     <message>
         <source>AAC Low Complexity</source>
-        <translation type="unfinished"></translation>
+        <translation>AAC Geringe Komplexität</translation>
     </message>
     <message>
         <source>Encoded With</source>
-        <translation type="unfinished"></translation>
+        <translation>Encodiert mit</translation>
     </message>
     <message>
         <source>LAME3.99</source>
-        <translation type="unfinished"></translation>
+        <translation>LAME3.99</translation>
     </message>
     <message>
         <source>Bit Rate</source>
-        <translation type="unfinished"></translation>
+        <translation>Bitrate</translation>
     </message>
     <message>
         <source>192 kbps</source>
-        <translation type="unfinished"></translation>
+        <translation>192 kbps</translation>
     </message>
     <message>
         <source>Sample Rate</source>
-        <translation type="unfinished">Samplerate</translation>
+        <translation>Samplerate</translation>
     </message>
     <message>
         <source>44100 Hz</source>
-        <translation type="unfinished"></translation>
+        <translation>44100 Hz</translation>
     </message>
     <message>
         <source>Channels</source>
-        <translation type="unfinished">Kanäle</translation>
+        <translation>Kanäle</translation>
     </message>
     <message>
         <source>stereo</source>
-        <translation type="unfinished">Stereo</translation>
+        <translation>Stereo</translation>
     </message>
     <message>
         <source>Resolution</source>
-        <translation type="unfinished">Auflösung</translation>
+        <translation>Auflösung</translation>
     </message>
     <message>
         <source>16 bits</source>
-        <translation type="unfinished"></translation>
+        <translation>16 Bit</translation>
     </message>
     <message>
         <source>Duration</source>
-        <translation type="unfinished">Länge</translation>
+        <translation>Länge</translation>
     </message>
     <message>
         <source>26 seconds</source>
-        <translation type="unfinished"></translation>
+        <translation>26 Sekunden</translation>
     </message>
     <message>
         <source>Number of Samples</source>
-        <translation type="unfinished"></translation>
+        <translation>Anzahl der Samples</translation>
     </message>
     <message>
         <source>192900</source>
-        <translation type="unfinished"></translation>
+        <translation>192900</translation>
     </message>
     <message>
         <source>Size on Memory</source>
-        <translation type="unfinished"></translation>
+        <translation>Größe im Speicher</translation>
     </message>
     <message>
         <source>100 Kb</source>
-        <translation type="unfinished"></translation>
+        <translation>100 Kb</translation>
     </message>
     <message>
         <source>Size on Disk</source>
-        <translation type="unfinished"></translation>
+        <translation>Größe auf Festplatte</translation>
     </message>
     <message>
         <source>192 Kb</source>
-        <translation type="unfinished"></translation>
+        <translation>192 Kb</translation>
     </message>
     <message>
         <source>Modification Date</source>
-        <translation type="unfinished"></translation>
+        <translation>Änderungsdatum</translation>
     </message>
     <message>
         <source>12/09/2014 23:00</source>
-        <translation type="unfinished"></translation>
+        <translation>09.12.2014 23:00</translation>
     </message>
     <message>
         <source>Location</source>
-        <translation type="unfinished"></translation>
+        <translation>Ort</translation>
     </message>
     <message>
         <source>/Users/ruijunior/Music/iTunes/iTunes Media/Music/Enanitos Verdes/Unknown Album/Lamento Boliviano.aif</source>
-        <translation type="unfinished"></translation>
+        <translation>/Users/ruijunior/Music/iTunes/iTunes Media/Music/Enanitos Verdes/Unknown Album/Lamento Boliviano.aif</translation>
     </message>
     <message>
         <source>Details</source>
-        <translation type="unfinished"></translation>
+        <translation>Details</translation>
     </message>
     <message>
         <source>Song Name</source>
-        <translation type="unfinished"></translation>
+        <translation>Songname</translation>
     </message>
     <message>
         <source>Album Artist</source>
-        <translation type="unfinished"></translation>
+        <translation>Albumkünstler</translation>
     </message>
     <message>
         <source>Composer</source>
-        <translation type="unfinished"></translation>
+        <translation>Komponist</translation>
     </message>
     <message>
         <source>Grouping</source>
-        <translation type="unfinished"></translation>
+        <translation>Gruppe</translation>
     </message>
     <message>
         <source>Genre</source>
-        <translation type="unfinished"></translation>
+        <translation>Genre</translation>
     </message>
     <message>
         <source>Year</source>
-        <translation type="unfinished">Jahr</translation>
+        <translation>Jahr</translation>
     </message>
     <message>
         <source>Disk Number</source>
-        <translation type="unfinished"></translation>
+        <translation>Disk-Nummer</translation>
     </message>
     <message>
         <source>of</source>
-        <translation type="unfinished"></translation>
+        <translation>von</translation>
     </message>
     <message>
         <source>Track</source>
-        <translation type="unfinished"></translation>
+        <translation>Track</translation>
     </message>
     <message>
         <source>bpm</source>
-        <translation type="unfinished"></translation>
+        <translation>BPM</translation>
     </message>
     <message>
         <source>Keywords</source>
-        <translation type="unfinished"></translation>
+        <translation>Schlüsselwörter</translation>
     </message>
     <message>
         <source>Comments</source>
-        <translation type="unfinished"></translation>
+        <translation>Kommentare</translation>
     </message>
     <message>
         <source>Artwork</source>
-        <translation type="unfinished">Bild</translation>
+        <translation>Bild</translation>
     </message>
     <message>
         <source>Album Artwork</source>
-        <translation type="unfinished"></translation>
+        <translation>Albumbild</translation>
     </message>
     <message>
         <source>PNG / 256 x 256</source>
-        <translation type="unfinished"></translation>
+        <translation>PNG / 256 x 256</translation>
     </message>
     <message>
         <source>Change Artwork...</source>
-        <translation type="unfinished">Bild ändern...</translation>
+        <translation>Bild ändern...</translation>
     </message>
     <message>
         <source>Markers</source>
-        <translation type="unfinished"></translation>
+        <translation>Marker</translation>
     </message>
     <message>
         <source>Statistics</source>
-        <translation type="unfinished">Statistiken</translation>
+        <translation>Statistiken</translation>
     </message>
     <message>
         <source>Select Artwork</source>
-        <translation type="unfinished">Bild wählen</translation>
+        <translation>Bild wählen</translation>
     </message>
     <message>
         <source>Images (*.png *.jpg *.bmp)</source>
-        <translation type="unfinished"></translation>
+        <translation>Bilder (*.png *.jpg *.bmp)</translation>
     </message>
 </context>
 <context>
     <name>QOcenCrashReportDialog</name>
     <message>
         <source>ocenaudio Crashed Previously</source>
-        <translation>ocenaudio zuvor abgestürzt</translation>
+        <translation>Ocenaudio ist kürzlich abgestürzt</translation>
     </message>
     <message>
         <source>ocenaudio crashed previously</source>
-        <translation>ocenaudio zuvor abgestürzt</translation>
+        <translation>Ocenaudio ist kürzlich abgestürzt</translation>
     </message>
     <message>
         <source>Do you want to send details on the crash to ocenaudio&apos;s development team?</source>
-        <translation>Möchten Sie weitere Details zu dem Absturz senden, um Entwicklungsteam ocenaudio wollen?</translation>
+        <translation>Möchten Sie Details zu dem Absturz an die Entwickler senden?</translation>
     </message>
     <message>
         <source>If you want, you can enter a few lines on what you did before ocenaudio crashed along with other helpful information: sample file, os crash report, screen shots, ...</source>
-        <translation>Wenn Sie möchten, können Sie ein paar Zeilen auf, was Sie taten, bevor ocenaudio stürzte zusammen mit anderen hilfreichen Informationen ein: Beispieldatei, Betriebssystem Crash-Bericht, Screenshots, ...</translation>
+        <translation>Wenn Sie wollen, können Sie ein paar Zeilen darüber schreiben, was Sie taten, bevor Ocenaudio abstürzte, zusammen mit anderen hilfreichen Informationen wie Beispieldatei, Absturbericht des Betriebssystems, Bildschirmfotos...</translation>
     </message>
     <message>
         <source>If you agree to be contacted about this bug report enter your email below:</source>
-        <translation>Eingeben, wenn Sie damit einverstanden, über dieses Fehlerbericht kontaktiert werden Ihre E-Mail unter:</translation>
+        <translation>Wenn Sie einverstanden sind, zu diesem Fehlerbericht kontaktiert zu werden, geben Sie Ihre E-Mail-Adresse ein:</translation>
     </message>
     <message>
         <source>Attach File...</source>
-        <translation>Datei Anhängen...</translation>
+        <translation>Datei anhängen...</translation>
     </message>
     <message>
         <source>Don&apos;t ask again</source>
-        <translation>Nicht mehr anzeigen</translation>
+        <translation>Nicht mehr nachfragen</translation>
     </message>
     <message>
         <source>Crash Report</source>
-        <translation>Crash-Bericht</translation>
+        <translation>Absturzbericht</translation>
     </message>
     <message>
         <source>Send</source>
@@ -2062,11 +2062,11 @@
     </message>
     <message>
         <source>Don&apos;t Send</source>
-        <translation>Nicht Senden</translation>
+        <translation>Nicht senden</translation>
     </message>
     <message>
         <source>Select File to Attach</source>
-        <translation>Wählen Sie Datei anhängen</translation>
+        <translation>Anzufügende Datei auswählen</translation>
     </message>
 </context>
 <context>
@@ -2192,7 +2192,7 @@
     </message>
     <message>
         <source>Medium Low</source>
-        <translation>Mittlere-Niedrig</translation>
+        <translation>Mittel-Niedrig</translation>
     </message>
     <message>
         <source>Medium</source>
@@ -2200,7 +2200,7 @@
     </message>
     <message>
         <source>Medium High</source>
-        <translation>Mittlere-Hoch</translation>
+        <translation>Mittel-Hoch</translation>
     </message>
     <message>
         <source>High</source>
@@ -2593,94 +2593,94 @@
     <name>QOcenNewAudioDialog</name>
     <message>
         <source>New Audio ...</source>
-        <translation type="unfinished">Neue Audiospur...</translation>
+        <translation>Neue Audiospur...</translation>
     </message>
     <message>
         <source>Sample Rate</source>
-        <translation type="unfinished">Samplerate</translation>
+        <translation>Samplerate</translation>
     </message>
     <message>
         <source>44.1 kHz</source>
-        <translation type="unfinished"></translation>
+        <translation>44.1 kHz</translation>
     </message>
     <message>
         <source>48 kHz</source>
-        <translation type="unfinished"></translation>
+        <translation>48 kHz</translation>
     </message>
     <message>
         <source>Other</source>
-        <translation type="unfinished"></translation>
+        <translation>Andere</translation>
     </message>
     <message>
         <source>8 kHz</source>
-        <translation type="unfinished"></translation>
+        <translation>8 kHz</translation>
     </message>
     <message>
         <source>11025 Hz</source>
-        <translation type="unfinished"></translation>
+        <translation>11025 Hz</translation>
     </message>
     <message>
         <source>16 kHz</source>
-        <translation type="unfinished"></translation>
+        <translation>16 kHz</translation>
     </message>
     <message>
         <source>Custom</source>
-        <translation type="unfinished"></translation>
+        <translation>Benutzerdefiniert</translation>
     </message>
     <message>
         <source>Channels</source>
-        <translation type="unfinished">Kanäle</translation>
+        <translation>Kanäle</translation>
     </message>
     <message>
         <source>Mono</source>
-        <translation type="unfinished"></translation>
+        <translation>Mono</translation>
     </message>
     <message>
         <source>Stereo</source>
-        <translation type="unfinished"></translation>
+        <translation>Stereo</translation>
     </message>
     <message>
         <source>Multichannel</source>
-        <translation type="unfinished"></translation>
+        <translation>Mehrkanalig</translation>
     </message>
     <message>
         <source>3 channels</source>
-        <translation type="unfinished"></translation>
+        <translation>3 Kanäle</translation>
     </message>
     <message>
         <source>4 channels</source>
-        <translation type="unfinished"></translation>
+        <translation>4 Kanäle</translation>
     </message>
     <message>
         <source>5 channels</source>
-        <translation type="unfinished"></translation>
+        <translation>5 Kanäle</translation>
     </message>
     <message>
         <source>6 channels</source>
-        <translation type="unfinished"></translation>
+        <translation>6 Kanäle</translation>
     </message>
     <message>
         <source>7 channels</source>
-        <translation type="unfinished"></translation>
+        <translation>5 Kanäle</translation>
     </message>
     <message>
         <source>8 channels</source>
-        <translation type="unfinished"></translation>
+        <translation>8 Kanäle</translation>
     </message>
     <message>
         <source>44100 Hz</source>
-        <translation type="unfinished"></translation>
+        <translation>44100 Hz</translation>
     </message>
     <message>
         <source>48000 Hz</source>
-        <translation type="unfinished"></translation>
+        <translation>48000 Hz</translation>
     </message>
 </context>
 <context>
     <name>QOcenNewAudioDialog::Data</name>
     <message>
         <source>Custom</source>
-        <translation type="unfinished"></translation>
+        <translation>Benutzerdefiniert</translation>
     </message>
 </context>
 <context>
@@ -3148,11 +3148,11 @@
     </message>
     <message>
         <source>/Users/ruijunior/teste/arquivos de audio/arquivo.pcm</source>
-        <translation></translation>
+        <translation>/Users/ruijunior/teste/arquivos de audio/arquivo.pcm</translation>
     </message>
     <message>
         <source>Raw Data Format</source>
-        <translation></translation>
+        <translation>Raw Datenformat</translation>
     </message>
     <message>
         <source>Item1</source>
@@ -3240,31 +3240,31 @@
     </message>
     <message>
         <source>Use this configuration for next files having no extension</source>
-        <translation>Benutze diese Einstellungen für Dateien mit ohne Endung</translation>
+        <translation>Benutze diese Einstellungen für Dateien ohne Endung</translation>
     </message>
     <message>
         <source>3 channels</source>
-        <translation type="unfinished"></translation>
+        <translation>3 Kanäle</translation>
     </message>
     <message>
         <source>4 channels</source>
-        <translation type="unfinished"></translation>
+        <translation>4 Kanäle</translation>
     </message>
     <message>
         <source>5 channels</source>
-        <translation type="unfinished"></translation>
+        <translation>5 Kanäle</translation>
     </message>
     <message>
         <source>6 channels</source>
-        <translation type="unfinished"></translation>
+        <translation>6 Kanäle</translation>
     </message>
     <message>
         <source>Custom</source>
-        <translation type="unfinished"></translation>
+        <translation>Benutzerdefiniert</translation>
     </message>
     <message>
         <source>%1 channels</source>
-        <translation type="unfinished"></translation>
+        <translation>%1 Kanäle</translation>
     </message>
 </context>
 <context>
