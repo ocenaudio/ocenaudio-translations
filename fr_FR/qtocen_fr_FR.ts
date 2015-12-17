@@ -308,7 +308,7 @@
     </message>
     <message>
         <source>Adjust Sample Rate</source>
-        <translation>Ajuster le taux d&apos;échantillonnage</translation>
+        <translation>ajuster le taux d&apos;échantillonnage</translation>
     </message>
     <message>
         <source>Remove all metadata</source>
@@ -316,7 +316,7 @@
     </message>
     <message>
         <source>marker %1</source>
-        <translation>Marqueur %1</translation>
+        <translation>marqueur %1</translation>
     </message>
     <message>
         <source>Create Region</source>
@@ -360,11 +360,11 @@
     </message>
     <message>
         <source>Paste Channel</source>
-        <translation>Coller canal</translation>
+        <translation>Coller Canaux</translation>
     </message>
     <message>
         <source>Paste From File</source>
-        <translation>Coller fichier</translation>
+        <translation>Coller du Fichier</translation>
     </message>
     <message>
         <source>Paste Silence</source>
@@ -384,7 +384,7 @@
     </message>
     <message>
         <source>Change Metadata</source>
-        <translation>Le changement de métadonnées</translation>
+        <translation>le changement de métadonnées</translation>
     </message>
     <message>
         <source>Record</source>
@@ -413,6 +413,18 @@
     <message>
         <source>f r a m e s</source>
         <translation></translation>
+    </message>
+    <message>
+        <source>mono</source>
+        <translation>mono</translation>
+    </message>
+    <message>
+        <source>stereo</source>
+        <translation>stéréo</translation>
+    </message>
+    <message>
+        <source>%1 channels</source>
+        <translation>%1 canaux</translation>
     </message>
     <message>
         <source>Title</source>
@@ -447,78 +459,78 @@
     </message>
     <message>
         <source>ocenaudio Clipboard with %1 seconds in %2 %3</source>
-        <translation>Clipboard ocenaudio avec %1 secondes dans %2 %3</translation>
+        <translation>ocenaudio Clipboard avec %1 secondes dans %2 %3</translation>
     </message>
 </context>
 <context>
     <name>QOcenAudio</name>
     <message>
         <source>Add Marker</source>
-        <translation>Ajouter marqueur</translation>
+        <translation>Ajouter Marqueur</translation>
     </message>
     <message>
         <source>Move Marker</source>
-        <translation>Déplacez marqueur</translation>
+        <translation>Déplacer Marqueur</translation>
     </message>
     <message>
         <source>Import Regions</source>
-        <translation>Importation de régions</translation>
+        <translation>Régions à l&apos;importation</translation>
     </message>
     <message>
         <source>Add Region</source>
-        <translation>Ajouter région</translation>
+        <translation>Ajouter Régions</translation>
     </message>
     <message>
         <source>Delete Region</source>
-        <translation>Supprimer région</translation>
+        <translation>Supprimer Région</translation>
     </message>
     <message>
         <source>Undelete Region</source>
-        <translation>Récupérer région</translation>
+        <translation>Undelete Région</translation>
     </message>
     <message>
         <source>Delete Regions</source>
-        <translation>Supprimer régions</translation>
+        <translation>Supprimer Régions</translation>
     </message>
     <message>
         <source>Convert Region to Loop</source>
-        <translation></translation>
+        <translation>Convertir région pour boucle</translation>
     </message>
     <message>
         <source>Convert Loop to Region</source>
-        <translation></translation>
+        <translation>Convertir boucle pour région</translation>
     </message>
     <message>
         <source>Merge Regions</source>
-        <translation>Fusionner régions</translation>
+        <translation>Fusionner Régions</translation>
     </message>
     <message>
         <source>Change Region Comment</source>
-        <translation>Changer de région commentaire</translation>
+        <translation>Changer commentaire de région</translation>
     </message>
     <message>
         <source>Change Region Label</source>
-        <translation>Changer de région étiquette</translation>
+        <translation>Changer étiquette de région</translation>
     </message>
     <message>
         <source>Change Region Track</source>
-        <translation>Changer de région piste</translation>
+        <translation>Changer piste de région</translation>
     </message>
     <message>
         <source>Offset Region</source>
-        <translation>Offset région</translation>
+        <translation>Offset Région</translation>
     </message>
     <message>
         <source>Change Region Begin</source>
-        <translation></translation>
+        <translation>Chnage commence de région</translation>
     </message>
     <message>
         <source>Change Region End</source>
-        <translation></translation>
+        <translation>Chnage fin de région</translation>
     </message>
     <message>
         <source>Resize Region</source>
-        <translation></translation>
+        <translation>Redimensionner Région</translation>
     </message>
 </context>
 <context>
@@ -597,7 +609,7 @@
     </message>
     <message>
         <source>Remaining</source>
-        <translation>Temps restant</translation>
+        <translation>Temps Restant</translation>
     </message>
 </context>
 <context>
@@ -639,21 +651,6 @@
     </message>
 </context>
 <context>
-    <name>QOcenFileFormatPrivate</name>
-    <message>
-        <source>mono</source>
-        <translation>mono</translation>
-    </message>
-    <message>
-        <source>stereo</source>
-        <translation>stéréo</translation>
-    </message>
-    <message>
-        <source>%1 channels</source>
-        <translation>%1 canaux</translation>
-    </message>
-</context>
-<context>
     <name>QOcenGeneralPrefs</name>
     <message>
         <source>Form</source>
@@ -681,15 +678,15 @@
     </message>
     <message>
         <source>Classic</source>
-        <translation></translation>
+        <translation>Classique</translation>
     </message>
     <message>
         <source>Light</source>
-        <translation></translation>
+        <translation>Blanc</translation>
     </message>
     <message>
         <source>Dark</source>
-        <translation></translation>
+        <translation>Noir</translation>
     </message>
 </context>
 <context>
@@ -796,7 +793,7 @@
     </message>
     <message>
         <source>&amp;Cancel</source>
-        <translation>Annuler</translation>
+        <translation>&amp;Annuler</translation>
     </message>
     <message>
         <source>Your changes will be lost if you don’t save them.</source>
@@ -964,23 +961,23 @@
     </message>
     <message>
         <source>Audio VST Check Failed</source>
-        <translation>Chèque VST échoué</translation>
+        <translation>VST Audio: Échec de la vérification</translation>
     </message>
     <message>
         <source>An error occurred in the execution of VST plugin application. No VST plugin can be loaded in this condition.</source>
-        <translation>Une erreur est survenue dans l&apos;exécution de l&apos;application de plug-in VST. Pas de plug-in VST peut être chargé dans cet état.</translation>
+        <translation>Une erreur est survenue dans l&apos;exécution de l&apos;application plug-in VST. Pas de plug-in VST peut être chargé dans cet état.</translation>
     </message>
     <message>
         <source>Audio not saved</source>
         <translation>Audio pas enregistré</translation>
     </message>
     <message>
-        <source>It was not possible to complete the save of file “%1” because the chosen container does not support metadata.</source>
-        <translation>Il n&apos;a pas été possible de terminer l&apos;enregistrement de fichier “%1” car le conteneur choisi ne supporte pas les métadonnées.</translation>
+        <source>An error was encountered while saving your sound file “%1”!</source>
+        <translation>Une erreur est survenue lors de l&apos;enregistrement de votre fichier son “%1”!</translation>
     </message>
     <message>
-        <source>An error was encountered while saving your sound file “%1”!</source>
-        <translation>Une erreur est survenue lors de l&apos;enregistrement de votre fichier “%1”!</translation>
+        <source>It was not possible to complete the save of file “%1” because the chosen container does not support metadata.</source>
+        <translation>Il n&apos;a pas été possible de terminer l&apos;enregistrement de fichier “%1” car le conteneur choisi ne supporte pas les métadonnées.</translation>
     </message>
 </context>
 <context>
@@ -1264,7 +1261,7 @@
     </message>
     <message>
         <source>Mixer Sample Rate</source>
-        <translation>Taux d&apos;échantillonnage du Mixer</translation>
+        <translation>Taux d&apos;échantillonnage Mixer</translation>
     </message>
     <message>
         <source>48000 Hz</source>
@@ -1280,11 +1277,11 @@
     </message>
     <message>
         <source>Mixer Backend</source>
-        <translation></translation>
+        <translation>Mixer Backend</translation>
     </message>
     <message>
         <source>CoreAudio</source>
-        <translation></translation>
+        <translation>CoreAudio</translation>
     </message>
     <message>
         <source>Disabled</source>

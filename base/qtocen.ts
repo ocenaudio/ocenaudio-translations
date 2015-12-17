@@ -415,6 +415,18 @@
         <translation type="unfinished"></translation>
     </message>
     <message>
+        <source>mono</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>stereo</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>%1 channels</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Title</source>
         <translation type="unfinished"></translation>
     </message>
@@ -635,21 +647,6 @@
     </message>
     <message>
         <source>&amp;Save Selected</source>
-        <translation type="unfinished"></translation>
-    </message>
-</context>
-<context>
-    <name>QOcenFileFormatPrivate</name>
-    <message>
-        <source>mono</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>stereo</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>%1 channels</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -975,11 +972,11 @@
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>It was not possible to complete the save of file “%1” because the chosen container does not support metadata.</source>
+        <source>An error was encountered while saving your sound file “%1”!</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>An error was encountered while saving your sound file “%1”!</source>
+        <source>It was not possible to complete the save of file “%1” because the chosen container does not support metadata.</source>
         <translation type="unfinished"></translation>
     </message>
 </context>

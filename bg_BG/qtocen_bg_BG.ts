@@ -104,7 +104,7 @@
     </message>
     <message>
         <source>Stream</source>
-        <translation type="unfinished">Поток</translation>
+        <translation>Поток</translation>
     </message>
     <message>
         <source>stream</source>
@@ -120,43 +120,43 @@
     </message>
     <message>
         <source>Sound Files</source>
-        <translation type="unfinished">Аудио файлове</translation>
+        <translation>Аудио файлове</translation>
     </message>
     <message>
         <source>All Files</source>
-        <translation type="unfinished">Всички файлове</translation>
+        <translation>Всички файлове</translation>
     </message>
     <message>
         <source>Reverting to Saved</source>
-        <translation type="unfinished">Възвръща към предишен запазен вариант</translation>
+        <translation>Възвръща към предишен запазен вариант</translation>
     </message>
     <message>
         <source>Opening %1</source>
-        <translation type="unfinished">Отваря %1</translation>
+        <translation>Отваря %1</translation>
     </message>
     <message>
         <source>Saving %1</source>
-        <translation type="unfinished">Запазва %1</translation>
+        <translation>Запазва %1</translation>
     </message>
     <message>
         <source>Ringtone created by ocenaudio</source>
-        <translation type="unfinished">Тон за звънене създаден в ocenaudio</translation>
+        <translation>Тон за звънене създаден в ocenaudio</translation>
     </message>
     <message>
         <source>Creating iTunes Ringtone</source>
-        <translation type="unfinished">Създава iTunes тон за звънене</translation>
+        <translation>Създава iTunes тон за звънене</translation>
     </message>
     <message>
         <source>Undoing</source>
-        <translation type="unfinished">Отменя</translation>
+        <translation>Отменя</translation>
     </message>
     <message>
         <source>Redoing</source>
-        <translation type="unfinished">Прилага отново</translation>
+        <translation>Прилага отново</translation>
     </message>
     <message>
         <source>Undefined</source>
-        <translation type="unfinished">Недефинирано</translation>
+        <translation>Недефинирано</translation>
     </message>
     <message>
         <source>Undefined Format</source>
@@ -164,171 +164,171 @@
     </message>
     <message>
         <source>Where</source>
-        <translation type="unfinished">Къде</translation>
+        <translation>Къде</translation>
     </message>
     <message>
         <source>Cutting</source>
-        <translation type="unfinished">Изрязва</translation>
+        <translation>Изрязва</translation>
     </message>
     <message>
         <source>Cut</source>
-        <translation type="unfinished">Реже</translation>
+        <translation>Реже</translation>
     </message>
     <message>
         <source>Copying</source>
-        <translation type="unfinished">Копира</translation>
+        <translation>Копира</translation>
     </message>
     <message>
         <source>Pasting</source>
-        <translation type="unfinished">Поставя</translation>
+        <translation>Поставя</translation>
     </message>
     <message>
         <source>Paste</source>
-        <translation type="unfinished">Поставя</translation>
+        <translation>Поставя</translation>
     </message>
     <message>
         <source>Deleting</source>
-        <translation type="unfinished">Трие</translation>
+        <translation>Трие</translation>
     </message>
     <message>
         <source>Delete</source>
-        <translation type="unfinished">Изтрива</translation>
+        <translation>Изтрива</translation>
     </message>
     <message>
         <source>Trimming</source>
-        <translation type="unfinished">Подкастря</translation>
+        <translation>Подкастря</translation>
     </message>
     <message>
         <source>Trim</source>
-        <translation type="unfinished">Подкастря</translation>
+        <translation>Подкастря</translation>
     </message>
     <message>
         <source>Mix pasting</source>
-        <translation type="unfinished">Поставя смесено</translation>
+        <translation>Поставя смесено</translation>
     </message>
     <message>
         <source>Mix Paste</source>
-        <translation type="unfinished">Поставя смесено</translation>
+        <translation>Поставя смесено</translation>
     </message>
     <message>
         <source>Mono</source>
-        <translation type="unfinished">Моно</translation>
+        <translation>Моно</translation>
     </message>
     <message>
         <source>Left</source>
-        <translation type="unfinished">Ляв</translation>
+        <translation>Ляв</translation>
     </message>
     <message>
         <source>Right</source>
-        <translation type="unfinished">Десен</translation>
+        <translation>Десен</translation>
     </message>
     <message>
         <source>0</source>
-        <translation type="unfinished">0</translation>
+        <translation>0</translation>
     </message>
     <message>
         <source>L</source>
-        <translation type="unfinished">Л</translation>
+        <translation>Л</translation>
     </message>
     <message>
         <source>R</source>
-        <translation type="unfinished">Д</translation>
+        <translation>Д</translation>
     </message>
     <message>
         <source>%1 channel of</source>
-        <translation type="unfinished">%1 канал от</translation>
+        <translation>%1 канал от</translation>
     </message>
     <message>
         <source>%1 combined with %2</source>
-        <translation type="unfinished">%1 комбиниран с %2</translation>
+        <translation>%1 комбиниран с %2</translation>
     </message>
     <message>
         <source>Downmix of %1</source>
-        <translation type="unfinished">Downmix of %1</translation>
+        <translation>Downmix of %1</translation>
     </message>
     <message>
         <source>Join of %1 and %2</source>
-        <translation type="unfinished">Обединяване на %1 и %2</translation>
+        <translation>Обединяване на %1 и %2</translation>
     </message>
     <message>
         <source>Join of %1, %2 and %3</source>
-        <translation type="unfinished">Обединяване на %1, %2 и %3</translation>
+        <translation>Обединяване на %1, %2 и %3</translation>
     </message>
     <message>
         <source>Join of %1, %2 and other %3 files</source>
-        <translation type="unfinished">Обединяване на %1, %2 и други %3 файла</translation>
+        <translation>Обединяване на %1, %2 и други %3 файла</translation>
     </message>
     <message>
         <source>Reversing</source>
-        <translation type="unfinished">Обръща</translation>
+        <translation>Обръща</translation>
     </message>
     <message>
         <source>Reverse</source>
-        <translation type="unfinished">Обърни</translation>
+        <translation>Обърни</translation>
     </message>
     <message>
         <source>Inverting</source>
-        <translation type="unfinished">Инвертира</translation>
+        <translation>Инвертира</translation>
     </message>
     <message>
         <source>Invert</source>
-        <translation type="unfinished">Инвертирай</translation>
+        <translation>Инвертирай</translation>
     </message>
     <message>
         <source>Silencing</source>
-        <translation type="unfinished">Тишина</translation>
+        <translation>Тишина</translation>
     </message>
     <message>
         <source>Silence</source>
-        <translation type="unfinished">Тишина</translation>
+        <translation>Тишина</translation>
     </message>
     <message>
         <source>Removing DC</source>
-        <translation type="unfinished">Премахва DC</translation>
+        <translation>Премахва DC</translation>
     </message>
     <message>
         <source>Remove DC</source>
-        <translation type="unfinished">Премахни DC</translation>
+        <translation>Премахни DC</translation>
     </message>
     <message>
         <source>Normalize</source>
-        <translation type="unfinished">Нормализиране</translation>
+        <translation>Нормализиране</translation>
     </message>
     <message>
         <source>Changing Audio Format</source>
-        <translation type="unfinished">Променя Аудио Формат</translation>
+        <translation>Променя Аудио Формат</translation>
     </message>
     <message>
         <source>Change Audio Format</source>
-        <translation type="unfinished">Промени Аудио Формат</translation>
+        <translation>Промени Аудио Формат</translation>
     </message>
     <message>
         <source>Channels Swap</source>
-        <translation type="unfinished">Размени канали</translation>
+        <translation>Размени канали</translation>
     </message>
     <message>
         <source>Adjust Sample Rate</source>
-        <translation type="unfinished">Задай семплираща честота</translation>
+        <translation>Задай семплираща честота</translation>
     </message>
     <message>
         <source>Remove all metadata</source>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
     <message>
         <source>marker %1</source>
-        <translation type="unfinished">маркер %1</translation>
+        <translation>маркер %1</translation>
     </message>
     <message>
         <source>Create Region</source>
-        <translation type="unfinished">Създай регион</translation>
+        <translation>Създай регион</translation>
     </message>
     <message>
         <source>Create Regions</source>
-        <translation type="unfinished">Създай региони</translation>
+        <translation>Създай региони</translation>
     </message>
     <message>
         <source>New Region</source>
-        <translation type="unfinished">Нов регион</translation>
+        <translation>Нов регион</translation>
     </message>
     <message>
         <source>Detecting Dtmf</source>
@@ -340,23 +340,23 @@
     </message>
     <message>
         <source>Save As</source>
-        <translation type="unfinished">Запази като</translation>
+        <translation>Запази като</translation>
     </message>
     <message>
         <source>Export As</source>
-        <translation type="unfinished">Експортира като</translation>
+        <translation>Експортира като</translation>
     </message>
     <message>
         <source>Exporting Selection As</source>
-        <translation type="unfinished">Експортира селекцията като</translation>
+        <translation>Експортира селекцията като</translation>
     </message>
     <message>
         <source>Exporting Region As</source>
-        <translation type="unfinished">Експортира региона като</translation>
+        <translation>Експортира региона като</translation>
     </message>
     <message>
         <source>Exporting Regions As</source>
-        <translation type="unfinished">Експортира регионите като</translation>
+        <translation>Експортира регионите като</translation>
     </message>
     <message>
         <source>Paste Channel</source>
@@ -368,67 +368,79 @@
     </message>
     <message>
         <source>Paste Silence</source>
-        <translation type="unfinished">Постави тишина</translation>
+        <translation>Постави тишина</translation>
     </message>
     <message>
         <source>Append Audio</source>
-        <translation type="unfinished">Добави аудио</translation>
+        <translation>Добави аудио</translation>
     </message>
     <message>
         <source>Append Silence</source>
-        <translation type="unfinished">Добавя тишина</translation>
+        <translation>Добавя тишина</translation>
     </message>
     <message>
         <source>Append From File</source>
-        <translation type="unfinished">Добавя от файл</translation>
+        <translation>Добавя от файл</translation>
     </message>
     <message>
         <source>Change Metadata</source>
-        <translation type="unfinished">Промени метаинформация</translation>
+        <translation>Промени метаинформация</translation>
     </message>
     <message>
         <source>Record</source>
-        <translation type="unfinished">Запис</translation>
+        <translation>Запис</translation>
     </message>
     <message>
         <source>m s e c</source>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
     <message>
         <source>s e c</source>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
     <message>
         <source>m i n</source>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
     <message>
         <source>h r</source>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
     <message>
         <source>s m p l</source>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
     <message>
         <source>f r a m e s</source>
+        <translation></translation>
+    </message>
+    <message>
+        <source>mono</source>
+        <translation>моно</translation>
+    </message>
+    <message>
+        <source>stereo</source>
+        <translation>стерео</translation>
+    </message>
+    <message>
+        <source>%1 channels</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Title</source>
-        <translation type="unfinished">Заглавие</translation>
+        <translation>Заглавие</translation>
     </message>
     <message>
         <source>Artist</source>
-        <translation type="unfinished">Артист</translation>
+        <translation>Артист</translation>
     </message>
     <message>
         <source>Album</source>
-        <translation type="unfinished">Албум</translation>
+        <translation>Албум</translation>
     </message>
     <message>
         <source>Year</source>
-        <translation type="unfinished">Година</translation>
+        <translation>Година</translation>
     </message>
 </context>
 <context>
@@ -604,7 +616,7 @@
     <name>QOcenCheckableMessageBox</name>
     <message>
         <source>Warning</source>
-        <translation type="unfinished">Предупреждение</translation>
+        <translation>Предупреждение</translation>
     </message>
     <message>
         <source>Message box text</source>
@@ -635,21 +647,6 @@
     </message>
     <message>
         <source>&amp;Save Selected</source>
-        <translation type="unfinished"></translation>
-    </message>
-</context>
-<context>
-    <name>QOcenFileFormatPrivate</name>
-    <message>
-        <source>mono</source>
-        <translation>моно</translation>
-    </message>
-    <message>
-        <source>stereo</source>
-        <translation>стерео</translation>
-    </message>
-    <message>
-        <source>%1 channels</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -696,11 +693,11 @@
     <name>QOcenGetTextDialog</name>
     <message>
         <source>Dialog</source>
-        <translation type="unfinished">Диалог</translation>
+        <translation>Диалог</translation>
     </message>
     <message>
         <source>TextLabel</source>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
 </context>
 <context>
@@ -726,7 +723,7 @@
     <name>QOcenKeyBindingsPrefs</name>
     <message>
         <source>Form</source>
-        <translation type="unfinished">Форма</translation>
+        <translation>Форма</translation>
     </message>
     <message>
         <source>Key Bindings</source>
@@ -975,11 +972,11 @@
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>It was not possible to complete the save of file “%1” because the chosen container does not support metadata.</source>
+        <source>An error was encountered while saving your sound file “%1”!</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>An error was encountered while saving your sound file “%1”!</source>
+        <source>It was not possible to complete the save of file “%1” because the chosen container does not support metadata.</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -1136,7 +1133,7 @@
     <name>QOcenPluginManager</name>
     <message>
         <source>Warning</source>
-        <translation type="unfinished">Предупреждение</translation>
+        <translation>Предупреждение</translation>
     </message>
     <message>
         <source>The plugin &quot;%1&quot; is already installed on your system.</source>
@@ -1156,7 +1153,7 @@
     </message>
     <message>
         <source>Question</source>
-        <translation type="unfinished">Въпрос</translation>
+        <translation>Въпрос</translation>
     </message>
     <message>
         <source>Do you want to proceed with the installation of the plugin &quot;%1&quot;?</source>
@@ -1168,7 +1165,7 @@
     </message>
     <message>
         <source>Error</source>
-        <translation type="unfinished">Грешка</translation>
+        <translation>Грешка</translation>
     </message>
     <message>
         <source>The verification process has detected errors in the &quot;%1&quot; plugin package.</source>
@@ -1188,11 +1185,11 @@
     </message>
     <message>
         <source>Invalid Plugin Code Signature</source>
-        <translation type="unfinished">Невалидна сигнатура на кода на плъгина</translation>
+        <translation>Невалидна сигнатура на кода на плъгина</translation>
     </message>
     <message>
         <source>This means %1 plugin has been tampered, possibly making it less secure. The plugin cannot be loaded in this state. It is necessary to reinstall the %1 plugin in order to use it.</source>
-        <translation type="unfinished">Това означава че %1 плъгина е модифициран, правейки го не-безопасен. Плъгина не може да се зареди в това състояние..Трябва да преинсталирате %1 плъгина за да го използвате.</translation>
+        <translation>Това означава че %1 плъгина е модифициран, правейки го не-безопасен. Плъгина не може да се зареди в това състояние..Трябва да преинсталирате %1 плъгина за да го използвате.</translation>
     </message>
 </context>
 <context>
@@ -1240,11 +1237,11 @@
     <name>QOcenSoundPrefs</name>
     <message>
         <source>Form</source>
-        <translation type="unfinished">Форма</translation>
+        <translation>Форма</translation>
     </message>
     <message>
         <source>Playback Device/Options</source>
-        <translation type="unfinished">Устройство за просвирване/Опции</translation>
+        <translation>Устройство за просвирване/Опции</translation>
     </message>
     <message>
         <source>Options</source>
@@ -1252,11 +1249,11 @@
     </message>
     <message>
         <source>Move cursor to playback stop position</source>
-        <translation type="unfinished">Премести курсора в позицията, където е спряло просвирването</translation>
+        <translation>Премести курсора в позицията, където е спряло просвирването</translation>
     </message>
     <message>
         <source>Record Device/Options</source>
-        <translation type="unfinished">Устройство за запис/Опции</translation>
+        <translation>Устройство за запис/Опции</translation>
     </message>
     <message>
         <source>Move cursor to record stop position</source>
@@ -1296,7 +1293,7 @@
     </message>
     <message>
         <source>System Default</source>
-        <translation type="unfinished">Ппо подразбиране за системата</translation>
+        <translation>Ппо подразбиране за системата</translation>
     </message>
 </context>
 <context>

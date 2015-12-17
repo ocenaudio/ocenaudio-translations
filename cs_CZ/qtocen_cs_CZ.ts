@@ -104,11 +104,11 @@
     </message>
     <message>
         <source>Stream</source>
-        <translation type="unfinished">proud</translation>
+        <translation>Proud</translation>
     </message>
     <message>
         <source>stream</source>
-        <translation type="unfinished"></translation>
+        <translation>proud</translation>
     </message>
     <message>
         <source>Stream %1 of %2</source>
@@ -120,43 +120,43 @@
     </message>
     <message>
         <source>Sound Files</source>
-        <translation type="unfinished">Zvukové soubory</translation>
+        <translation>Zvukové soubory</translation>
     </message>
     <message>
         <source>All Files</source>
-        <translation type="unfinished">Všechny soubory</translation>
+        <translation>Všechny soubory</translation>
     </message>
     <message>
         <source>Reverting to Saved</source>
-        <translation type="unfinished">Návrat k uložené</translation>
+        <translation>Návrat k uložené</translation>
     </message>
     <message>
         <source>Opening %1</source>
-        <translation type="unfinished">Otevření %1</translation>
+        <translation>Otevření %1</translation>
     </message>
     <message>
         <source>Saving %1</source>
-        <translation type="unfinished">Ukládání %1</translation>
+        <translation>Ukládání %1</translation>
     </message>
     <message>
         <source>Ringtone created by ocenaudio</source>
-        <translation type="unfinished">Zvonění vytvořeno v Ocenaudio</translation>
+        <translation>Zvonění vytvořeno v Ocenaudio</translation>
     </message>
     <message>
         <source>Creating iTunes Ringtone</source>
-        <translation type="unfinished">Vytvoř iTunes vyzvánění</translation>
+        <translation>Vytvoř iTunes vyzvánění</translation>
     </message>
     <message>
         <source>Undoing</source>
-        <translation type="unfinished">Vracení</translation>
+        <translation>Vracení</translation>
     </message>
     <message>
         <source>Redoing</source>
-        <translation type="unfinished">předělání</translation>
+        <translation>předělání</translation>
     </message>
     <message>
         <source>Undefined</source>
-        <translation type="unfinished">Nedefinovaný</translation>
+        <translation>Nedefinovaný</translation>
     </message>
     <message>
         <source>Undefined Format</source>
@@ -164,171 +164,171 @@
     </message>
     <message>
         <source>Where</source>
-        <translation type="unfinished"></translation>
+        <translation>Kde</translation>
     </message>
     <message>
         <source>Cutting</source>
-        <translation type="unfinished">Střihni</translation>
+        <translation>Střihni</translation>
     </message>
     <message>
         <source>Cut</source>
-        <translation type="unfinished">Střih</translation>
+        <translation>Střih</translation>
     </message>
     <message>
         <source>Copying</source>
-        <translation type="unfinished">Kopírování</translation>
+        <translation>Kopírování</translation>
     </message>
     <message>
         <source>Pasting</source>
-        <translation type="unfinished">Vkládání</translation>
+        <translation>Vkládání</translation>
     </message>
     <message>
         <source>Paste</source>
-        <translation type="unfinished">Vlož</translation>
+        <translation>Vlož</translation>
     </message>
     <message>
         <source>Deleting</source>
-        <translation type="unfinished">Smazání</translation>
+        <translation>Smazání</translation>
     </message>
     <message>
         <source>Delete</source>
-        <translation type="unfinished">Smaž</translation>
+        <translation>Smaž</translation>
     </message>
     <message>
         <source>Trimming</source>
-        <translation type="unfinished">Odstřižení</translation>
+        <translation>Odstřižení</translation>
     </message>
     <message>
         <source>Trim</source>
-        <translation type="unfinished">Ustřihnout</translation>
+        <translation>Ustřihnout</translation>
     </message>
     <message>
         <source>Mix pasting</source>
-        <translation type="unfinished">Vkládání Mixu</translation>
+        <translation>Vkládání Mixu</translation>
     </message>
     <message>
         <source>Mix Paste</source>
-        <translation type="unfinished">Vlož Mix</translation>
+        <translation>Vlož Mix</translation>
     </message>
     <message>
         <source>Mono</source>
-        <translation type="unfinished">mono</translation>
+        <translation>mono</translation>
     </message>
     <message>
         <source>Left</source>
-        <translation type="unfinished">Levý</translation>
+        <translation>Levý</translation>
     </message>
     <message>
         <source>Right</source>
-        <translation type="unfinished">Pravý</translation>
+        <translation>Pravý</translation>
     </message>
     <message>
         <source>0</source>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
     <message>
         <source>L</source>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
     <message>
         <source>R</source>
-        <translation type="unfinished"></translation>
+        <translation>P</translation>
     </message>
     <message>
         <source>%1 channel of</source>
-        <translation type="unfinished">%1 kanál z</translation>
+        <translation>%1 kanál z</translation>
     </message>
     <message>
         <source>%1 combined with %2</source>
-        <translation type="unfinished">%1 v kombinaci s %2</translation>
+        <translation>%1 v kombinaci s %2</translation>
     </message>
     <message>
         <source>Downmix of %1</source>
-        <translation type="unfinished">Downmixof %1</translation>
+        <translation>Downmixof %1</translation>
     </message>
     <message>
         <source>Join of %1 and %2</source>
-        <translation type="unfinished">Připojte %1 a %2</translation>
+        <translation>Připojte %1 a %2</translation>
     </message>
     <message>
         <source>Join of %1, %2 and %3</source>
-        <translation type="unfinished">Připojte se na %1, %2 a %3</translation>
+        <translation>Připojte se na %1, %2 a %3</translation>
     </message>
     <message>
         <source>Join of %1, %2 and other %3 files</source>
-        <translation type="unfinished">Připojte %1, %2 a další %3 soubor</translation>
+        <translation>Připojte %1, %2 a další %3 soubor</translation>
     </message>
     <message>
         <source>Reversing</source>
-        <translation type="unfinished">Obrácení</translation>
+        <translation>Obrácení</translation>
     </message>
     <message>
         <source>Reverse</source>
-        <translation type="unfinished">Obrácení</translation>
+        <translation>Obrácení</translation>
     </message>
     <message>
         <source>Inverting</source>
-        <translation type="unfinished">Obrácený</translation>
+        <translation>Obrácený</translation>
     </message>
     <message>
         <source>Invert</source>
-        <translation type="unfinished">Obrátit</translation>
+        <translation>Obrátit</translation>
     </message>
     <message>
         <source>Silencing</source>
-        <translation type="unfinished">Ztišení</translation>
+        <translation>Ztišení</translation>
     </message>
     <message>
         <source>Silence</source>
-        <translation type="unfinished">ticho</translation>
+        <translation>ticho</translation>
     </message>
     <message>
         <source>Removing DC</source>
-        <translation type="unfinished">Vjjímání DC</translation>
+        <translation>Vjjímání DC</translation>
     </message>
     <message>
         <source>Remove DC</source>
-        <translation type="unfinished">vyjmi DC</translation>
+        <translation>vyjmi DC</translation>
     </message>
     <message>
         <source>Normalize</source>
-        <translation type="unfinished">Normalizovat</translation>
+        <translation>Normalizovat</translation>
     </message>
     <message>
         <source>Changing Audio Format</source>
-        <translation type="unfinished">Změna audio formátu</translation>
+        <translation>Změna audio formátu</translation>
     </message>
     <message>
         <source>Change Audio Format</source>
-        <translation type="unfinished">Změň audio formát</translation>
+        <translation>Změň audio formát</translation>
     </message>
     <message>
         <source>Channels Swap</source>
-        <translation type="unfinished">Swap kanály</translation>
+        <translation>Swap kanály</translation>
     </message>
     <message>
         <source>Adjust Sample Rate</source>
-        <translation type="unfinished">Nastav vzorkovací frekvenci</translation>
+        <translation>Nastav vzorkovací frekvenci</translation>
     </message>
     <message>
         <source>Remove all metadata</source>
-        <translation type="unfinished">Vyjmi všechna metadata</translation>
+        <translation>Vyjmi všechna metadata</translation>
     </message>
     <message>
         <source>marker %1</source>
-        <translation type="unfinished">značka %1</translation>
+        <translation>značka %1</translation>
     </message>
     <message>
         <source>Create Region</source>
-        <translation type="unfinished">Vytvoř oblast</translation>
+        <translation>Vytvoř oblast</translation>
     </message>
     <message>
         <source>Create Regions</source>
-        <translation type="unfinished">Vytvoř oblast</translation>
+        <translation>Vytvoř oblast</translation>
     </message>
     <message>
         <source>New Region</source>
-        <translation type="unfinished">Nová oblast</translation>
+        <translation>Nová oblast</translation>
     </message>
     <message>
         <source>Detecting Dtmf</source>
@@ -340,23 +340,23 @@
     </message>
     <message>
         <source>Save As</source>
-        <translation type="unfinished">Uložit jako</translation>
+        <translation>Uložit jako</translation>
     </message>
     <message>
         <source>Export As</source>
-        <translation type="unfinished">Export do</translation>
+        <translation>Export do</translation>
     </message>
     <message>
         <source>Exporting Selection As</source>
-        <translation type="unfinished">Export výběru</translation>
+        <translation>Export výběru</translation>
     </message>
     <message>
         <source>Exporting Region As</source>
-        <translation type="unfinished">Export oblasti</translation>
+        <translation>Export oblasti</translation>
     </message>
     <message>
         <source>Exporting Regions As</source>
-        <translation type="unfinished">Export oblastí</translation>
+        <translation>Export oblastí</translation>
     </message>
     <message>
         <source>Paste Channel</source>
@@ -368,67 +368,79 @@
     </message>
     <message>
         <source>Paste Silence</source>
-        <translation type="unfinished">Vlož ticho</translation>
+        <translation>Vlož ticho</translation>
     </message>
     <message>
         <source>Append Audio</source>
-        <translation type="unfinished">Otevři nahrávku</translation>
+        <translation>Otevři nahrávku</translation>
     </message>
     <message>
         <source>Append Silence</source>
-        <translation type="unfinished">Připoj ticho</translation>
+        <translation>Připoj ticho</translation>
     </message>
     <message>
         <source>Append From File</source>
-        <translation type="unfinished">Připoj ze souboru</translation>
+        <translation>Připoj ze souboru</translation>
     </message>
     <message>
         <source>Change Metadata</source>
-        <translation type="unfinished">Změň Metadata</translation>
+        <translation>Změň Metadata</translation>
     </message>
     <message>
         <source>Record</source>
-        <translation type="unfinished">záznam</translation>
+        <translation>záznam</translation>
     </message>
     <message>
         <source>m s e c</source>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
     <message>
         <source>s e c</source>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
     <message>
         <source>m i n</source>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
     <message>
         <source>h r</source>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
     <message>
         <source>s m p l</source>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
     <message>
         <source>f r a m e s</source>
+        <translation></translation>
+    </message>
+    <message>
+        <source>mono</source>
+        <translation>mono</translation>
+    </message>
+    <message>
+        <source>stereo</source>
+        <translation>stereo</translation>
+    </message>
+    <message>
+        <source>%1 channels</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Title</source>
-        <translation type="unfinished">Název</translation>
+        <translation>Název</translation>
     </message>
     <message>
         <source>Artist</source>
-        <translation type="unfinished">Umělec</translation>
+        <translation>Umělec</translation>
     </message>
     <message>
         <source>Album</source>
-        <translation type="unfinished">Album</translation>
+        <translation>Album</translation>
     </message>
     <message>
         <source>Year</source>
-        <translation type="unfinished">Rok</translation>
+        <translation>Rok</translation>
     </message>
 </context>
 <context>
@@ -604,7 +616,7 @@
     <name>QOcenCheckableMessageBox</name>
     <message>
         <source>Warning</source>
-        <translation type="unfinished">Varování</translation>
+        <translation>Varování</translation>
     </message>
     <message>
         <source>Message box text</source>
@@ -639,21 +651,6 @@
     </message>
 </context>
 <context>
-    <name>QOcenFileFormatPrivate</name>
-    <message>
-        <source>mono</source>
-        <translation>mono</translation>
-    </message>
-    <message>
-        <source>stereo</source>
-        <translation>stereo</translation>
-    </message>
-    <message>
-        <source>%1 channels</source>
-        <translation type="unfinished"></translation>
-    </message>
-</context>
-<context>
     <name>QOcenGeneralPrefs</name>
     <message>
         <source>Form</source>
@@ -673,7 +670,7 @@
     </message>
     <message>
         <source>Options</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Možnosti</translation>
     </message>
     <message>
         <source>Color Scheme</source>
@@ -696,7 +693,7 @@
     <name>QOcenGetTextDialog</name>
     <message>
         <source>Dialog</source>
-        <translation type="unfinished">Dialog</translation>
+        <translation>Dialog</translation>
     </message>
     <message>
         <source>TextLabel</source>
@@ -836,7 +833,7 @@
     </message>
     <message>
         <source>The file for the sound at %1 has been modified by another application.  There are also unsaved changes in ocenaudio.  Do you want to keep the ocenaudio version or revert to the version on disk?</source>
-        <translation type="unfinished">Soubor pro zvuk, který byl v %1. zmizel. Chcete oddělit - uložit zvuk nebo zavřít?</translation>
+        <translation>Soubor pro zvuk, který byl v %1. zmizel. Chcete oddělit - uložit zvuk nebo zavřít?</translation>
     </message>
     <message>
         <source>Keep ocenaudio Version</source>
@@ -848,11 +845,11 @@
     </message>
     <message>
         <source>The file for the sound that was at %1 is now empty. Do you want to re-save the sound or close it?</source>
-        <translation type="unfinished">Soubor pro zvuk, který byl na %1 je nyní prázdný. Chcete oddělit - uložit zvuk nebo zavřít?</translation>
+        <translation>Soubor pro zvuk, který byl na %1 je nyní prázdný. Chcete oddělit - uložit zvuk nebo zavřít?</translation>
     </message>
     <message>
         <source>The file for the sound that was at %1 is now corrupted. Do you want to re-save the sound or close it?</source>
-        <translation type="unfinished">Soubor pro zvuk, který byl na %1 je nyní poškozen. Chcete oddělit - uložit zvuk nebo zavřít?</translation>
+        <translation>Soubor pro zvuk, který byl na %1 je nyní poškozen. Chcete oddělit - uložit zvuk nebo zavřít?</translation>
     </message>
     <message>
         <source>Re-Save</source>
@@ -868,7 +865,7 @@
     </message>
     <message>
         <source>The file for the sound that was at %1 has disappeared. The document has previously unsaved changes. Do you want to re-save the sound or close it?</source>
-        <translation type="unfinished">Soubor pro zvuk, který byl v %1. zmizel. Tento dokument má již dříve neuložené změny. Chcete oddělit-uložit zvuk nebo zavřít?</translation>
+        <translation>Soubor pro zvuk, který byl v %1. zmizel. Tento dokument má již dříve neuložené změny. Chcete oddělit-uložit zvuk nebo zavřít?</translation>
     </message>
     <message>
         <source>The current file&apos;s format does not support these settings. Do you want to make this changes anyway?</source>
@@ -975,11 +972,11 @@
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>It was not possible to complete the save of file “%1” because the chosen container does not support metadata.</source>
+        <source>An error was encountered while saving your sound file “%1”!</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>An error was encountered while saving your sound file “%1”!</source>
+        <source>It was not possible to complete the save of file “%1” because the chosen container does not support metadata.</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -1188,11 +1185,11 @@
     </message>
     <message>
         <source>Invalid Plugin Code Signature</source>
-        <translation type="unfinished">Neplatný plugin podpis</translation>
+        <translation>Neplatný plugin podpis</translation>
     </message>
     <message>
         <source>This means %1 plugin has been tampered, possibly making it less secure. The plugin cannot be loaded in this state. It is necessary to reinstall the %1 plugin in order to use it.</source>
-        <translation type="unfinished">To znamená, že modul %1 byl zfalšován, bude pracovat méně bezpečně. Plugin může být načten v tomto stavu. Je třeba nainstalovat zásuvný modul %1, aby mohl být používán.</translation>
+        <translation>To znamená, že modul %1 byl zfalšován, bude pracovat méně bezpečně. Plugin může být načten v tomto stavu. Je třeba nainstalovat zásuvný modul %1, aby mohl být používán.</translation>
     </message>
 </context>
 <context>
@@ -1240,23 +1237,23 @@
     <name>QOcenSoundPrefs</name>
     <message>
         <source>Form</source>
-        <translation type="unfinished">Form</translation>
+        <translation>Form</translation>
     </message>
     <message>
         <source>Playback Device/Options</source>
-        <translation type="unfinished">Přehrávací zařízení / Možnosti</translation>
+        <translation>Přehrávací zařízení / Možnosti</translation>
     </message>
     <message>
         <source>Options</source>
-        <translation type="unfinished"></translation>
+        <translation>Možnosti</translation>
     </message>
     <message>
         <source>Move cursor to playback stop position</source>
-        <translation type="unfinished">Přesuňte kurzor na pozici zastavení přehrávání</translation>
+        <translation>Přesuňte kurzor na pozici zastavení přehrávání</translation>
     </message>
     <message>
         <source>Record Device/Options</source>
-        <translation type="unfinished">Záznamové zařízení / Možnosti</translation>
+        <translation>Záznamové zařízení / Možnosti</translation>
     </message>
     <message>
         <source>Move cursor to record stop position</source>
@@ -1268,15 +1265,15 @@
     </message>
     <message>
         <source>48000 Hz</source>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
     <message>
         <source>44100 Hz</source>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
     <message>
         <source>22050 Hz</source>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
     <message>
         <source>Mixer Backend</source>
@@ -1296,7 +1293,7 @@
     </message>
     <message>
         <source>System Default</source>
-        <translation type="unfinished">Výchozí nastavení systému</translation>
+        <translation>Výchozí nastavení systému</translation>
     </message>
 </context>
 <context>

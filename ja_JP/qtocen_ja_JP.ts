@@ -128,103 +128,103 @@
     </message>
     <message>
         <source>Reverting to Saved</source>
-        <translation type="unfinished">保存データに復帰中</translation>
+        <translation>保存データに復帰中</translation>
     </message>
     <message>
         <source>Opening %1</source>
-        <translation type="unfinished">%1　を開いています</translation>
+        <translation>%1　を開いています</translation>
     </message>
     <message>
         <source>Saving %1</source>
-        <translation type="unfinished">%1　を保存しています</translation>
+        <translation>%1　を保存しています</translation>
     </message>
     <message>
         <source>Ringtone created by ocenaudio</source>
-        <translation type="unfinished">オセンオーディオに着メロ作成されました</translation>
+        <translation>オセンオーディオに着メロ作成されました</translation>
     </message>
     <message>
         <source>Creating iTunes Ringtone</source>
-        <translation type="unfinished">iTunes用着メロ作成しています</translation>
+        <translation>iTunes用着メロ作成しています</translation>
     </message>
     <message>
         <source>Undoing</source>
-        <translation type="unfinished">元に戻っています</translation>
+        <translation>元に戻っています</translation>
     </message>
     <message>
         <source>Redoing</source>
-        <translation type="unfinished">やり直しています</translation>
+        <translation>やり直しています</translation>
     </message>
     <message>
         <source>Undefined</source>
-        <translation type="unfinished">定義されていない</translation>
+        <translation>定義されていない</translation>
     </message>
     <message>
         <source>Undefined Format</source>
-        <translation type="unfinished">定義されていないフォーマット</translation>
+        <translation>定義されていないフォーマット</translation>
     </message>
     <message>
         <source>Where</source>
-        <translation type="unfinished">場所</translation>
+        <translation>場所</translation>
     </message>
     <message>
         <source>Cutting</source>
-        <translation type="unfinished">切り取り中</translation>
+        <translation>切り取り中</translation>
     </message>
     <message>
         <source>Cut</source>
-        <translation type="unfinished">切り取り</translation>
+        <translation>切り取り</translation>
     </message>
     <message>
         <source>Copying</source>
-        <translation type="unfinished">コピー中</translation>
+        <translation>コピー中</translation>
     </message>
     <message>
         <source>Pasting</source>
-        <translation type="unfinished">貼り付け中</translation>
+        <translation>貼り付け中</translation>
     </message>
     <message>
         <source>Paste</source>
-        <translation type="unfinished">貼り付け</translation>
+        <translation>貼り付け</translation>
     </message>
     <message>
         <source>Deleting</source>
-        <translation type="unfinished">削除中</translation>
+        <translation>削除中</translation>
     </message>
     <message>
         <source>Delete</source>
-        <translation type="unfinished">削除</translation>
+        <translation>削除</translation>
     </message>
     <message>
         <source>Trimming</source>
-        <translation type="unfinished">刈込中</translation>
+        <translation>刈込中</translation>
     </message>
     <message>
         <source>Trim</source>
-        <translation type="unfinished">刈り込む</translation>
+        <translation>刈り込む</translation>
     </message>
     <message>
         <source>Mix pasting</source>
-        <translation type="unfinished">雑貼り付け中</translation>
+        <translation>雑貼り付け中</translation>
     </message>
     <message>
         <source>Mix Paste</source>
-        <translation type="unfinished">雑貼り付け</translation>
+        <translation>雑貼り付け</translation>
     </message>
     <message>
         <source>Mono</source>
-        <translation type="unfinished">モノラル</translation>
+        <translation>モノラル</translation>
     </message>
     <message>
         <source>Left</source>
-        <translation type="unfinished">左</translation>
+        <translation>左</translation>
     </message>
     <message>
         <source>Right</source>
-        <translation type="unfinished">右</translation>
+        <translation>右</translation>
     </message>
     <message>
         <source>0</source>
-        <translation type="unfinished">100% {0?}</translation>
+        <translation>100% {0?}</translation>
     </message>
     <message>
         <source>L</source>
@@ -236,127 +236,127 @@
     </message>
     <message>
         <source>%1 channel of</source>
-        <translation type="unfinished">%1　のチャンネル</translation>
+        <translation>%1　のチャンネル</translation>
     </message>
     <message>
         <source>%1 combined with %2</source>
-        <translation type="unfinished">%1 を　%2　に合体</translation>
+        <translation>%1 を　%2　に合体</translation>
     </message>
     <message>
         <source>Downmix of %1</source>
-        <translation type="unfinished">ダウンミックス</translation>
+        <translation>%1　のダウンミックス</translation>
     </message>
     <message>
         <source>Join of %1 and %2</source>
-        <translation type="unfinished">%1 、　%2　の結合</translation>
+        <translation>%1 、　%2　の結合</translation>
     </message>
     <message>
         <source>Join of %1, %2 and %3</source>
-        <translation type="unfinished">%1　、 %2　、　%3　の結合</translation>
+        <translation>%1　、 %2　、　%3　の結合</translation>
     </message>
     <message>
         <source>Join of %1, %2 and other %3 files</source>
-        <translation type="unfinished">%1　、 %2　、　他の　%3　ファイル　の結合</translation>
+        <translation>%1　、 %2　、　他の　%3　ファイル　の結合</translation>
     </message>
     <message>
         <source>Reversing</source>
-        <translation type="unfinished">逆にしています</translation>
+        <translation>逆にしています</translation>
     </message>
     <message>
         <source>Reverse</source>
-        <translation type="unfinished">逆にする</translation>
+        <translation>逆にする</translation>
     </message>
     <message>
         <source>Inverting</source>
-        <translation type="unfinished">転倒しています</translation>
+        <translation>転倒しています</translation>
     </message>
     <message>
         <source>Invert</source>
-        <translation type="unfinished">転倒する</translation>
+        <translation>転倒する</translation>
     </message>
     <message>
         <source>Silencing</source>
-        <translation type="unfinished">無音にしています</translation>
+        <translation>無音にしています</translation>
     </message>
     <message>
         <source>Silence</source>
-        <translation type="unfinished">無音にする</translation>
+        <translation>無音にする</translation>
     </message>
     <message>
         <source>Removing DC</source>
-        <translation type="unfinished">DCを省いています</translation>
+        <translation>DCを省いています</translation>
     </message>
     <message>
         <source>Remove DC</source>
-        <translation type="unfinished">DCを省く</translation>
+        <translation>DCを省く</translation>
     </message>
     <message>
         <source>Normalize</source>
-        <translation type="unfinished">正規化する</translation>
+        <translation>正規化する</translation>
     </message>
     <message>
         <source>Changing Audio Format</source>
-        <translation type="unfinished">オーディオフォーマット変更中</translation>
+        <translation>オーディオフォーマット変更中</translation>
     </message>
     <message>
         <source>Change Audio Format</source>
-        <translation type="unfinished">オーディオフォーマット変更</translation>
+        <translation>オーディオフォーマット変更</translation>
     </message>
     <message>
         <source>Channels Swap</source>
-        <translation type="unfinished">チャンネルを逆にする</translation>
+        <translation>チャンネルを逆にする</translation>
     </message>
     <message>
         <source>Adjust Sample Rate</source>
-        <translation type="unfinished">サンプルレートを調整</translation>
+        <translation>サンプルレートを調整</translation>
     </message>
     <message>
         <source>Remove all metadata</source>
-        <translation type="unfinished">全メタデータを削除</translation>
+        <translation>全メタデータを削除</translation>
     </message>
     <message>
         <source>marker %1</source>
-        <translation type="unfinished">マーカー　%1</translation>
+        <translation>マーカー　%1</translation>
     </message>
     <message>
         <source>Create Region</source>
-        <translation type="unfinished">領域を作成</translation>
+        <translation>領域を作成</translation>
     </message>
     <message>
         <source>Create Regions</source>
-        <translation type="unfinished">複数な領域を作成</translation>
+        <translation>複数な領域を作成</translation>
     </message>
     <message>
         <source>New Region</source>
-        <translation type="unfinished">新領域</translation>
+        <translation>新領域</translation>
     </message>
     <message>
         <source>Detecting Dtmf</source>
-        <translation type="unfinished">Dtmfを検出中</translation>
+        <translation>Dtmfを検出中</translation>
     </message>
     <message>
         <source>Detect Dtmf</source>
-        <translation type="unfinished">Dtmfを検出</translation>
+        <translation>Dtmfを検出</translation>
     </message>
     <message>
         <source>Save As</source>
-        <translation type="unfinished">名前を付けて保存</translation>
+        <translation>名前を付けて保存</translation>
     </message>
     <message>
         <source>Export As</source>
-        <translation type="unfinished">「x」として書き出す</translation>
+        <translation>「x」として書き出す</translation>
     </message>
     <message>
         <source>Exporting Selection As</source>
-        <translation type="unfinished">選択を書き出す</translation>
+        <translation>選択を書き出す</translation>
     </message>
     <message>
         <source>Exporting Region As</source>
-        <translation type="unfinished">領域を「x」として書き出す</translation>
+        <translation>領域を「x」として書き出す</translation>
     </message>
     <message>
         <source>Exporting Regions As</source>
-        <translation type="unfinished">複数な領域を「x」として書き出す</translation>
+        <translation>複数な領域を「x」として書き出す</translation>
     </message>
     <message>
         <source>Paste Channel</source>
@@ -368,67 +368,79 @@
     </message>
     <message>
         <source>Paste Silence</source>
-        <translation type="unfinished">無音を貼り付け</translation>
+        <translation>無音を貼り付け</translation>
     </message>
     <message>
         <source>Append Audio</source>
-        <translation type="unfinished">オーディオを加える</translation>
+        <translation>オーディオを加える</translation>
     </message>
     <message>
         <source>Append Silence</source>
-        <translation type="unfinished">無音を加える</translation>
+        <translation>無音を加える</translation>
     </message>
     <message>
         <source>Append From File</source>
-        <translation type="unfinished">ファイルから加える</translation>
+        <translation>ファイルから加える</translation>
     </message>
     <message>
         <source>Change Metadata</source>
-        <translation type="unfinished">メタデータを変更</translation>
+        <translation>メタデータを変更</translation>
     </message>
     <message>
         <source>Record</source>
-        <translation type="unfinished">録音</translation>
+        <translation>録音</translation>
     </message>
     <message>
         <source>m s e c</source>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
     <message>
         <source>s e c</source>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
     <message>
         <source>m i n</source>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
     <message>
         <source>h r</source>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
     <message>
         <source>s m p l</source>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
     <message>
         <source>f r a m e s</source>
+        <translation></translation>
+    </message>
+    <message>
+        <source>mono</source>
+        <translation>モノラル</translation>
+    </message>
+    <message>
+        <source>stereo</source>
+        <translation>ステレオ</translation>
+    </message>
+    <message>
+        <source>%1 channels</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Title</source>
-        <translation type="unfinished">タイトル</translation>
+        <translation>タイトル</translation>
     </message>
     <message>
         <source>Artist</source>
-        <translation type="unfinished">アーティスト</translation>
+        <translation>アーティスト</translation>
     </message>
     <message>
         <source>Album</source>
-        <translation type="unfinished">アルバム</translation>
+        <translation>アルバム</translation>
     </message>
     <message>
         <source>Year</source>
-        <translation type="unfinished">年</translation>
+        <translation>年</translation>
     </message>
 </context>
 <context>
@@ -636,21 +648,6 @@
     <message>
         <source>&amp;Save Selected</source>
         <translation>選択された物を保存</translation>
-    </message>
-</context>
-<context>
-    <name>QOcenFileFormatPrivate</name>
-    <message>
-        <source>mono</source>
-        <translation>モノラル</translation>
-    </message>
-    <message>
-        <source>stereo</source>
-        <translation>ステレオ</translation>
-    </message>
-    <message>
-        <source>%1 channels</source>
-        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -975,11 +972,11 @@
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>It was not possible to complete the save of file “%1” because the chosen container does not support metadata.</source>
+        <source>An error was encountered while saving your sound file “%1”!</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>An error was encountered while saving your sound file “%1”!</source>
+        <source>It was not possible to complete the save of file “%1” because the chosen container does not support metadata.</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -1188,11 +1185,11 @@
     </message>
     <message>
         <source>Invalid Plugin Code Signature</source>
-        <translation type="unfinished">無効ななプラグインコード</translation>
+        <translation>無効ななプラグインコード</translation>
     </message>
     <message>
         <source>This means %1 plugin has been tampered, possibly making it less secure. The plugin cannot be loaded in this state. It is necessary to reinstall the %1 plugin in order to use it.</source>
-        <translation type="unfinished">%1 のプラグインが干渉された為、若干不安全である可能性があります。この状態でプラグインをロードする事は不可能です。%1 のプラグインを利用するために、再インストールする必要があります。、若干不安全である可能性があります。</translation>
+        <translation>%1 のプラグインが干渉された為、若干不安全である可能性があります。この状態でプラグインをロードする事は不可能です。%1 のプラグインを利用するために、再インストールする必要があります。、若干不安全である可能性があります。</translation>
     </message>
 </context>
 <context>
@@ -1240,27 +1237,27 @@
     <name>QOcenSoundPrefs</name>
     <message>
         <source>Form</source>
-        <translation type="unfinished">フォーム</translation>
+        <translation>フォーム</translation>
     </message>
     <message>
         <source>Playback Device/Options</source>
-        <translation type="unfinished">再生デバイス</translation>
+        <translation>再生デバイス</translation>
     </message>
     <message>
         <source>Options</source>
-        <translation type="unfinished">オプション</translation>
+        <translation>オプション</translation>
     </message>
     <message>
         <source>Move cursor to playback stop position</source>
-        <translation type="unfinished">再生停止場所にカーソルを動かす</translation>
+        <translation>再生停止場所にカーソルを動かす</translation>
     </message>
     <message>
         <source>Record Device/Options</source>
-        <translation type="unfinished">録音デバイス/オプション</translation>
+        <translation>録音デバイス/オプション</translation>
     </message>
     <message>
         <source>Move cursor to record stop position</source>
-        <translation type="unfinished">録音停止場所にカーソルを動かす</translation>
+        <translation>録音停止場所にカーソルを動かす</translation>
     </message>
     <message>
         <source>Mixer Sample Rate</source>
@@ -1268,15 +1265,15 @@
     </message>
     <message>
         <source>48000 Hz</source>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
     <message>
         <source>44100 Hz</source>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
     <message>
         <source>22050 Hz</source>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
     <message>
         <source>Mixer Backend</source>
@@ -1296,7 +1293,7 @@
     </message>
     <message>
         <source>System Default</source>
-        <translation type="unfinished">システムデフォルト</translation>
+        <translation>システムデフォルト</translation>
     </message>
 </context>
 <context>

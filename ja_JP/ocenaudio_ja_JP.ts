@@ -53,6 +53,37 @@
     </message>
 </context>
 <context>
+    <name>MAC_APPLICATION_MENU</name>
+    <message>
+        <source>Services</source>
+        <translation>功労</translation>
+    </message>
+    <message>
+        <source>Hide %1</source>
+        <translation>%1を非表示</translation>
+    </message>
+    <message>
+        <source>Hide Others</source>
+        <translation>他のを非表示</translation>
+    </message>
+    <message>
+        <source>Show All</source>
+        <translation>全て表示</translation>
+    </message>
+    <message>
+        <source>Preferences...</source>
+        <translation>詳細設定...</translation>
+    </message>
+    <message>
+        <source>Quit %1</source>
+        <translation>%1 を辞める</translation>
+    </message>
+    <message>
+        <source>About %1</source>
+        <translation>%1　について</translation>
+    </message>
+</context>
+<context>
     <name>MainWindow</name>
     <message>
         <source>&amp;File</source>
@@ -472,10 +503,6 @@
         <translation>FTP書き出し...</translation>
     </message>
     <message>
-        <source>Preferences</source>
-        <translation></translation>
-    </message>
-    <message>
         <source>ocenaudio</source>
         <translation>オセンオーディオ</translation>
     </message>
@@ -722,7 +749,7 @@
     </message>
     <message>
         <source>Meta+Space</source>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
     <message>
         <source>Send Crash Report...</source>
@@ -1283,7 +1310,7 @@
     </message>
     <message>
         <source>Bandstop Filter</source>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
 </context>
 <context>
@@ -1334,7 +1361,7 @@
     </message>
     <message>
         <source>DC Offset</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">DCオフセット</translation>
     </message>
     <message>
         <source>%</source>
@@ -1647,8 +1674,16 @@
         <translation>5秒隙間</translation>
     </message>
     <message>
+        <source>32 bits</source>
+        <translation type="unfinished">16 ビット {32 ?}</translation>
+    </message>
+    <message>
+        <source>64 bits</source>
+        <translation type="unfinished">16 ビット {64 ?}</translation>
+    </message>
+    <message>
         <source>Preview</source>
-        <translation type="unfinished">プレビュー</translation>
+        <translation>プレビュー</translation>
     </message>
     <message>
         <source>bins</source>
@@ -1693,43 +1728,45 @@
     </message>
     <message>
         <source>Drop Artwork Here</source>
-        <translation type="unfinished"></translation>
+        <translation>アートワークを
+ここに
+ドロップ</translation>
     </message>
     <message>
         <source>Minimum Sample Value</source>
-        <translation type="unfinished"></translation>
+        <translation>最少サンプル値</translation>
     </message>
     <message>
         <source>Maximum Sample Value</source>
-        <translation type="unfinished"></translation>
+        <translation>最大サンプル値</translation>
     </message>
     <message>
         <source>Peak Amplitude</source>
-        <translation type="unfinished"></translation>
+        <translation>振幅のピーク</translation>
     </message>
     <message>
         <source>Possible Clipped Samples</source>
-        <translation type="unfinished"></translation>
+        <translation>クリップされかねたサンプル</translation>
     </message>
     <message>
         <source>DC Offset</source>
-        <translation type="unfinished"></translation>
+        <translation>DCオフセット</translation>
     </message>
     <message>
         <source>Minimum RMS Power</source>
-        <translation type="unfinished"></translation>
+        <translation>最少ＲＭＰパワー</translation>
     </message>
     <message>
         <source>Maximum RMS Power</source>
-        <translation type="unfinished"></translation>
+        <translation>最大ＲＭＰパワー</translation>
     </message>
     <message>
         <source>Average RMS Power</source>
-        <translation type="unfinished"></translation>
+        <translation>平均ＲＭＰパワー</translation>
     </message>
     <message>
         <source>Total RMS Power</source>
-        <translation type="unfinished"></translation>
+        <translation>合計ＲＭＰパワー</translation>
     </message>
     <message>
         <source>Channel %1</source>
@@ -1737,7 +1774,7 @@
     </message>
     <message>
         <source>Skip</source>
-        <translation type="unfinished">スキップ</translation>
+        <translation>スキップ</translation>
     </message>
     <message>
         <source>Custom</source>
@@ -1789,10 +1826,33 @@
     </message>
 </context>
 <context>
+    <name>QOcenAudioApplication</name>
+    <message>
+        <source>Stay Updated with ocenaudio!</source>
+        <translation>オセンオーディオを更新しましょう！</translation>
+    </message>
+    <message>
+        <source>A new version might be available.
+Click here and check!</source>
+        <translation>新しいバージョンは有る可能性がある。
+ここにて確認してください！</translation>
+    </message>
+    <message>
+        <source>New release available</source>
+        <translation>最新バージョン利用可能</translation>
+    </message>
+    <message>
+        <source>A new ocenaudio version is available.
+Click here to download it.</source>
+        <translation>新しいオセンオーディオのバージョンがあります。
+ダウンロードするに、ここにクリックして下さい。</translation>
+    </message>
+</context>
+<context>
     <name>QOcenAudioFftAnalysisDialog</name>
     <message>
         <source>FFT Analysis</source>
-        <translation type="unfinished">FFT解析</translation>
+        <translation>FFT解析</translation>
     </message>
     <message>
         <source>%1 Window | %2 %3</source>
@@ -1804,34 +1864,725 @@
     </message>
 </context>
 <context>
+    <name>QOcenAudioMainWindow</name>
+    <message>
+        <source>About</source>
+        <translation>バージョン情報</translation>
+    </message>
+    <message>
+        <source>Preferences</source>
+        <translation>詳細設定</translation>
+    </message>
+    <message>
+        <source>Scanning VST Plugins</source>
+        <translation>VSTプラグインスキャン中</translation>
+    </message>
+    <message>
+        <source>VST</source>
+        <translation>VST</translation>
+    </message>
+    <message>
+        <source>Apple Bandpass Filter</source>
+        <translation>Appleバンドパスフィルター</translation>
+    </message>
+    <message>
+        <source>Apple Filter</source>
+        <translation>Appleフィルター</translation>
+    </message>
+    <message>
+        <source>Apple Highpass Filter</source>
+        <translation>Apple高域フィルタ</translation>
+    </message>
+    <message>
+        <source>Apple High Shelf Filter</source>
+        <translation>Appleハイシェルフフィルタ</translation>
+    </message>
+    <message>
+        <source>Apple Lowpass Filter</source>
+        <translation>Apple低域通過フィルタ</translation>
+    </message>
+    <message>
+        <source>Apple Low Shelf Filter</source>
+        <translation>Appleローシェルフフィルタ</translation>
+    </message>
+    <message>
+        <source>Apple Dynamics Processor</source>
+        <translation>Appleダイナミクス処理装置</translation>
+    </message>
+    <message>
+        <source>Apple Peak Limiter</source>
+        <translation>Appleピークリミッタ</translation>
+    </message>
+    <message>
+        <source>Apple Multiband Compressor</source>
+        <translation>多帯域圧縮響</translation>
+    </message>
+    <message>
+        <source>Apple Delay</source>
+        <translation>Apple遅延</translation>
+    </message>
+    <message>
+        <source>Apple Matrix Reverb</source>
+        <translation>Apple行列残響</translation>
+    </message>
+    <message>
+        <source>Apple Sample Delay</source>
+        <translation>Appleサンプル遅延</translation>
+    </message>
+    <message>
+        <source>Apple Graphic Equalizer</source>
+        <translation>Appleグラフィック等化</translation>
+    </message>
+    <message>
+        <source>Apple Parametric Equalizer</source>
+        <translation>Appleパラメトリック等化</translation>
+    </message>
+    <message>
+        <source>Apple N-Band Equalizer</source>
+        <translation></translation>
+    </message>
+    <message>
+        <source>Apple Pitch</source>
+        <translation>Apple音の高さ</translation>
+    </message>
+    <message>
+        <source>Apple New Pitch</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Apple Distortion</source>
+        <translation>Apple歪み</translation>
+    </message>
+    <message>
+        <source>Apple Roger Beep</source>
+        <translation>Appleロジャービープ</translation>
+    </message>
+    <message>
+        <source>Apple Net Send</source>
+        <translation>Appleネット送信</translation>
+    </message>
+    <message>
+        <source>Apple AAC Encoder Round Trip</source>
+        <translation>AppleAACエンコードラウンドトリップ</translation>
+    </message>
+    <message>
+        <source>Audio Unit</source>
+        <translation>オーディオ単位</translation>
+    </message>
+    <message>
+        <source>File Menu</source>
+        <translation>ファイルメニュー</translation>
+    </message>
+    <message>
+        <source>Edit Menu</source>
+        <translation>編集メニュー</translation>
+    </message>
+    <message>
+        <source>View Menu</source>
+        <translation>表示メニュー</translation>
+    </message>
+    <message>
+        <source>Control Menu</source>
+        <translation>コントロールメニュー</translation>
+    </message>
+    <message>
+        <source>Effects Menu</source>
+        <translation>エフェクトメニュー</translation>
+    </message>
+    <message>
+        <source>VST Effects</source>
+        <translation>VSTエフェクト</translation>
+    </message>
+    <message>
+        <source>Audio Units Effects</source>
+        <translation>オーディオ単位のエフェクト</translation>
+    </message>
+    <message>
+        <source>Generate Menu</source>
+        <translation>生成メニュー</translation>
+    </message>
+    <message>
+        <source>Analyze Menu</source>
+        <translation>解析メニュー</translation>
+    </message>
+    <message>
+        <source>Help Menu</source>
+        <translation>ヘルプメニュー</translation>
+    </message>
+    <message>
+        <source>New From Selection</source>
+        <translation>選択から新しく作成</translation>
+    </message>
+    <message>
+        <source>New From Clipboard</source>
+        <translation>クリップボードから新作</translation>
+    </message>
+    <message>
+        <source>Close File</source>
+        <translation>ファイルを閉じる</translation>
+    </message>
+    <message>
+        <source>Close All Files</source>
+        <translation>全ファイルを閉じる</translation>
+    </message>
+    <message>
+        <source>Adjust Selection to Scale Tick</source>
+        <translation>選択をスケールのティックに合わせる</translation>
+    </message>
+    <message>
+        <source>Adjust Selection to Zero Cross</source>
+        <translation>選択を零交差に合わせる</translation>
+    </message>
+    <message>
+        <source>Create Marker/Region</source>
+        <translation>マーカー・領域を作成</translation>
+    </message>
+    <message>
+        <source>Waveform and Spectral View</source>
+        <translation>波形と分光ビュー</translation>
+    </message>
+    <message>
+        <source>Display Time Format in Decimal</source>
+        <translation>時刻型を少数で表示</translation>
+    </message>
+    <message>
+        <source>Display Time Format in Samples</source>
+        <translation>時刻型をサンプルで表示</translation>
+    </message>
+    <message>
+        <source>Display Time Format in Frames</source>
+        <translation>時刻型をフレームで表示</translation>
+    </message>
+    <message>
+        <source>Vertical Scale in Sample Value</source>
+        <translation>サンプル値の縦大きさ</translation>
+    </message>
+    <message>
+        <source>Vertical Scale Normalized</source>
+        <translation>正規化済の縦方向スケール</translation>
+    </message>
+    <message>
+        <source>Vertical Scale Percentages</source>
+        <translation>縦方向スケールの比率</translation>
+    </message>
+    <message>
+        <source>Vertical Scale in Decibels</source>
+        <translation>少数で縦方向スケール</translation>
+    </message>
+    <message>
+        <source>Spectral Scale in Mels</source>
+        <translation>メルスで分光のスケール</translation>
+    </message>
+    <message>
+        <source>Spectral Scale in Hz</source>
+        <translation>Hzで分光のスケール</translation>
+    </message>
+    <message>
+        <source>Show/Hide Regions</source>
+        <translation>領域を表示・非表示</translation>
+    </message>
+    <message>
+        <source>Show/Hide Loops</source>
+        <translation>ループを表示・非表示</translation>
+    </message>
+    <message>
+        <source>Show/Hide Markers</source>
+        <translation>マーカーを表示・非表示</translation>
+    </message>
+    <message>
+        <source>Show/Hide All Regions, Loops and Markers</source>
+        <translation>全領域、ループ、マーカーを表示・非表示</translation>
+    </message>
+    <message>
+        <source>Show/Hide Markers Label</source>
+        <translation>マーカーラベルを表示・非表示</translation>
+    </message>
+    <message>
+        <source>Show/Hide Toolbar</source>
+        <translation>ツールバーを表示・非表示</translation>
+    </message>
+    <message>
+        <source>Show/Hide Sidebar</source>
+        <translation>サイドバーを表示・非表示</translation>
+    </message>
+    <message>
+        <source>Show/Hide Navigator</source>
+        <translation>ナビゲータを表示・非表示</translation>
+    </message>
+    <message>
+        <source>Show/Hide Navigator Window</source>
+        <translation>ナビゲータウィンドーを表示・非表示</translation>
+    </message>
+    <message>
+        <source>Show Full-size Level Meter</source>
+        <translation>現尺レベルメーターを表示・非表示</translation>
+    </message>
+    <message>
+        <source>Show Mini Level Meter</source>
+        <translation>省型レベルメーターを表示・非表示</translation>
+    </message>
+    <message>
+        <source>Hide Level Meter</source>
+        <translation>レベルメーターを非表示</translation>
+    </message>
+    <message>
+        <source>Start/Stop Recording</source>
+        <translation>録音を再生・停止</translation>
+    </message>
+    <message>
+        <source>Goto Next Audio</source>
+        <translation>次のオーディオに移動</translation>
+    </message>
+    <message>
+        <source>Goto Previous Audio</source>
+        <translation>前のオーディオに移動</translation>
+    </message>
+    <message>
+        <source>Enable/Disable Loop Playback</source>
+        <translation>ループ再生を有効・無効にする</translation>
+    </message>
+    <message>
+        <source>Move Cursor to Next Marker</source>
+        <translation>カーソルを次のマーカーに移動</translation>
+    </message>
+    <message>
+        <source>Move Cursor to Previous Marker</source>
+        <translation>前のマーカーにカーソルを移動</translation>
+    </message>
+    <message>
+        <source>Repeat Last Effect</source>
+        <translation>最後のエフェクトを繰り返す</translation>
+    </message>
+    <message>
+        <source>Send Crash Report</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Save Sound Copy As ...</source>
+        <translation>名前を付けて、サウンドのコピーを保存...</translation>
+    </message>
+    <message>
+        <source>Save Copy As</source>
+        <translation>名前を付けて、コピーを保存</translation>
+    </message>
+    <message>
+        <source>Save Sound Selection As ...</source>
+        <translation>名前を付けて、選択されたサウンドを保存...</translation>
+    </message>
+    <message>
+        <source>Saving Selection As</source>
+        <translation>で選択されたサウンドを保存中</translation>
+    </message>
+    <message>
+        <source>Question</source>
+        <translation>質問</translation>
+    </message>
+    <message>
+        <source>You have multiple selections. Do you want to save each selection to a separate file?</source>
+        <translation>複数なアイテムが選択されています。各選択を別なファイルとして保存しますか?</translation>
+    </message>
+    <message>
+        <source>Select &quot;separate&quot; to save each selection to a different file. If you select &quot;single&quot; all your selections will be appended and saved to a single file.</source>
+        <translation>別なファイルとして保存するには、&quot;別々&quot;にして下さい。&quot;合体&quot;を選択すると、全ての選択が合体され、一つのファイルとして保存されます。</translation>
+    </message>
+    <message>
+        <source>Separate</source>
+        <translation>別々</translation>
+    </message>
+    <message>
+        <source>Single</source>
+        <translation>合体</translation>
+    </message>
+    <message>
+        <source>Save Each Selection Prefixed With ...</source>
+        <translation>接頭辞で各選択を保存...</translation>
+    </message>
+    <message>
+        <source>Prefix With:</source>
+        <translation>続き接頭辞を付ける：</translation>
+    </message>
+    <message>
+        <source>Save Sound Selections As ...</source>
+        <translation>名前を付けて、サウンドの選択を保存...</translation>
+    </message>
+    <message>
+        <source>Exporting As</source>
+        <translation>名前を付けて、書き出す</translation>
+    </message>
+    <message>
+        <source>Exporting Selection As</source>
+        <translation>以下の名前で選択を書き出し中</translation>
+    </message>
+    <message>
+        <source>region</source>
+        <translation>領域</translation>
+    </message>
+    <message>
+        <source>Exporting Regions As</source>
+        <translation>以下の名前で領域を書き出し中</translation>
+    </message>
+    <message>
+        <source>Information</source>
+        <translation>情報</translation>
+    </message>
+    <message>
+        <source>Maximum ringtone duration exceeded!</source>
+        <translation>着メロの最大長さ擢んでいます！</translation>
+    </message>
+    <message>
+        <source>The maximum duration of a ringtone to itunes is 30s. To proceed you must select or cut your audio up to 30s.</source>
+        <translation>itunesで着メロの最大長さは30秒に限られています。続行するに、着メロファイルを30秒以下に調整下さい。</translation>
+    </message>
+    <message>
+        <source>%1</source>
+        <translation>%1</translation>
+    </message>
+    <message>
+        <source>Do you want to revert to the most recently saved version of the document “%1”?</source>
+        <translation>一番最近の“%1”に復帰しますか？</translation>
+    </message>
+    <message>
+        <source>Your current changes will be lost.</source>
+        <translation>現在の変更が失われます。</translation>
+    </message>
+    <message>
+        <source>Revert</source>
+        <translation>復帰する</translation>
+    </message>
+    <message>
+        <source>Cancel</source>
+        <translation>取り消す</translation>
+    </message>
+    <message>
+        <source>Save Audio Screenshot</source>
+        <translation>オーディオのスクショを保存</translation>
+    </message>
+    <message>
+        <source>Images (*.png *.xpm *.jpg)</source>
+        <translation>(*.png *.xpm *.jpg)の画像</translation>
+    </message>
+    <message>
+        <source>Select Sound File</source>
+        <translation>サウンドファイルを選択</translation>
+    </message>
+    <message>
+        <source>Attention</source>
+        <translation>ご注意</translation>
+    </message>
+    <message>
+        <source>You are about to remove all metadata of this file. Are you sure you want to proceed?</source>
+        <translation>このファイルの全てのメタデータが省かれます。宜しいですか？</translation>
+    </message>
+    <message>
+        <source>If you proceed all metadata informations (artist name, album name, artwork) will be removed from this file.</source>
+        <translation>全てのメタデータ情報（アーティストの名前、アルバム名、アートワーク）がこのファイルから省かれます。</translation>
+    </message>
+    <message>
+        <source>Some markers will be merged because they are very close.</source>
+        <translation>あるマーカーが近すぎるので、一つにマージされます。</translation>
+    </message>
+    <message>
+        <source>Markers less than 10 ms apart are merged in the split process. You have one marker merged.</source>
+        <translation>ファイルを分ける際、マーカーとマーカーの間が10ms以下の場合には、一つに纏まられます。一つのマーカーが纏まられました。</translation>
+    </message>
+    <message>
+        <source>Markers less than 10 ms apart are merged in the split process. You have %1 markers merged.</source>
+        <translation>ファイルを分ける際、マーカーとマーカーの間が10ms以下の場合には、一つに纏まられます。%1　マーカーが纏まられました。</translation>
+    </message>
+    <message>
+        <source>You are about to split your audio by %1 parts. Are you sure you want to proceed?</source>
+        <translation>オーディオが　%1　部分に分けられます。宜しいですか？</translation>
+    </message>
+    <message>
+        <source>If you proceed this operation will generate %1 new audio files.</source>
+        <translation>続行すると、%1　の新ファイルが作成されます。</translation>
+    </message>
+    <message>
+        <source>Part %1 of </source>
+        <translation>の　%1　部</translation>
+    </message>
+    <message>
+        <source>Error</source>
+        <translation>エラー</translation>
+    </message>
+    <message>
+        <source>Invalid Regions Filename!</source>
+        <translation>無効な領域ファイルネーム!</translation>
+    </message>
+    <message>
+        <source>The regions file selected is not supported.</source>
+        <translation>選択された領域のファイルは対応していません。</translation>
+    </message>
+    <message>
+        <source>Generating Silence</source>
+        <translation>無音を生成中</translation>
+    </message>
+    <message>
+        <source>Silence Generation</source>
+        <translation>無音生成</translation>
+    </message>
+    <message>
+        <source>Applying Fade</source>
+        <translation>フェードを適用中</translation>
+    </message>
+    <message>
+        <source>Fade In</source>
+        <translation>フェードイン</translation>
+    </message>
+    <message>
+        <source>Fade Out</source>
+        <translation>フェードアウト</translation>
+    </message>
+    <message>
+        <source>Save Selections...</source>
+        <translation>選択を保存...</translation>
+    </message>
+    <message>
+        <source>Save Selection...</source>
+        <translation>選択を保存...</translation>
+    </message>
+    <message>
+        <source>Export Selections...</source>
+        <translation>選択を書き出す...</translation>
+    </message>
+    <message>
+        <source>Export Selection...</source>
+        <translation>選択を書き出す...</translation>
+    </message>
+    <message>
+        <source>%1 %2</source>
+        <translation>%1 %2</translation>
+    </message>
+    <message>
+        <source>Undo</source>
+        <translation>元に戻す</translation>
+    </message>
+    <message>
+        <source>Redo</source>
+        <translation>やり直し</translation>
+    </message>
+    <message>
+        <source>Create Regions</source>
+        <translation>領域を作成</translation>
+    </message>
+    <message>
+        <source>Create Region</source>
+        <translation>領域を作成</translation>
+    </message>
+    <message>
+        <source>Create Marker</source>
+        <translation>マーカーを作成</translation>
+    </message>
+    <message>
+        <source>Hide Toolbar</source>
+        <translation>ツールバーを非表示</translation>
+    </message>
+    <message>
+        <source>Show Toolbar</source>
+        <translation>ツールバーを表示</translation>
+    </message>
+    <message>
+        <source>Hide Sidebar</source>
+        <translation>サイドバーを非表示</translation>
+    </message>
+    <message>
+        <source>Show Sidebar</source>
+        <translation>サイドバーを表示</translation>
+    </message>
+    <message>
+        <source>Hide Navigator</source>
+        <translation>ナビゲータを非表示</translation>
+    </message>
+    <message>
+        <source>Show Navigator</source>
+        <translation>ナビゲータを表示</translation>
+    </message>
+    <message>
+        <source>Hide Navigator Window</source>
+        <translation>ナビゲータウィンドーを非表示</translation>
+    </message>
+    <message>
+        <source>Show Navigator Window</source>
+        <translation>ナビゲータウィンドーを表示</translation>
+    </message>
+    <message>
+        <source>Hide All</source>
+        <translation>全てを非表示</translation>
+    </message>
+    <message>
+        <source>Show All</source>
+        <translation>全て表示</translation>
+    </message>
+    <message>
+        <source>Hide Regions</source>
+        <translation>領域を非表示</translation>
+    </message>
+    <message>
+        <source>Show Regions</source>
+        <translation>領域を表示</translation>
+    </message>
+    <message>
+        <source>Hide Loop</source>
+        <translation>ループを非表示</translation>
+    </message>
+    <message>
+        <source>Show Loops</source>
+        <translation>ループを表示</translation>
+    </message>
+    <message>
+        <source>Hide Markers</source>
+        <translation>マーカーを非表示</translation>
+    </message>
+    <message>
+        <source>Show Markers</source>
+        <translation>マーカーを表示</translation>
+    </message>
+    <message>
+        <source>Hide Markers Label</source>
+        <translation>マーカーラベルを非表示</translation>
+    </message>
+    <message>
+        <source>Show Markers Label</source>
+        <translation>マーカーのラベルを表示</translation>
+    </message>
+    <message>
+        <source>Hide Channels Id</source>
+        <translation>チャンネルのＩＤを非表示</translation>
+    </message>
+    <message>
+        <source>Show Channels Id</source>
+        <translation>チャンネルIDを表示する</translation>
+    </message>
+    <message>
+        <source>Stop Recording</source>
+        <translation>録音を停止</translation>
+    </message>
+    <message>
+        <source>Record</source>
+        <translation>録音</translation>
+    </message>
+    <message>
+        <source>Resume Playback</source>
+        <translation>再生をレジューム</translation>
+    </message>
+    <message>
+        <source>Stop and Move Cursor</source>
+        <translation>カーソルを停止して、移動</translation>
+    </message>
+    <message>
+        <source>Stop</source>
+        <translation>停止</translation>
+    </message>
+    <message>
+        <source>Play and Select</source>
+        <translation>再生と選択</translation>
+    </message>
+    <message>
+        <source>Play</source>
+        <translation>再生</translation>
+    </message>
+    <message>
+        <source>Repeat %1</source>
+        <translation>%1　を繰り返す</translation>
+    </message>
+    <message>
+        <source>&amp;Edit</source>
+        <translation>&amp;編集</translation>
+    </message>
+    <message>
+        <source>Copy</source>
+        <translation>コピー</translation>
+    </message>
+    <message>
+        <source>Cut</source>
+        <translation>切り取り</translation>
+    </message>
+    <message>
+        <source>Paste</source>
+        <translation>貼り付け</translation>
+    </message>
+    <message>
+        <source>Delete Marker</source>
+        <translation>マーカーを削除</translation>
+    </message>
+    <message>
+        <source>Convert Region to Loop</source>
+        <translation>領域をループに化す</translation>
+    </message>
+    <message>
+        <source>Merge Regions</source>
+        <translation>領域をマージ</translation>
+    </message>
+    <message>
+        <source>Adjust Selection</source>
+        <translation>選択を調整</translation>
+    </message>
+    <message>
+        <source>Snap to Scale Tick</source>
+        <translation>スケールのティックにスナップ</translation>
+    </message>
+    <message>
+        <source>Snap to Zero Cross</source>
+        <translation>零交差にスナップ</translation>
+    </message>
+    <message>
+        <source>Delete Loop</source>
+        <translation>ループを削除</translation>
+    </message>
+    <message>
+        <source>Delete Region</source>
+        <translation>領域を削除</translation>
+    </message>
+    <message>
+        <source>Convert Loop to Region</source>
+        <translation>ループを領域に化す</translation>
+    </message>
+    <message>
+        <source>Adjust Selections</source>
+        <translation>選択を調整</translation>
+    </message>
+    <message>
+        <source>Export Error</source>
+        <translation>エラーを書き出す</translation>
+    </message>
+    <message>
+        <source>The export file format is not compatible with the current audio format!</source>
+        <translation>書き出しファイルフォーマットは現在のオーディオフォーマットと非対応です!</translation>
+    </message>
+    <message>
+        <source>The export file cannot be create on the destination path!</source>
+        <translation>書き出しファイルが移動先のパスで作成出来ません!</translation>
+    </message>
+</context>
+<context>
     <name>QOcenAudioPropertiesDialog</name>
     <message>
         <source>Audio Properties</source>
-        <translation type="unfinished"></translation>
+        <translation>サウンドプロパティ</translation>
     </message>
     <message>
         <source>Song Name longo para ver o que pode acontecer</source>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
     <message>
         <source>Artist</source>
-        <translation type="unfinished">アーティスト</translation>
+        <translation>アーティスト</translation>
     </message>
     <message>
         <source>Album</source>
-        <translation type="unfinished">アルバム</translation>
+        <translation>アルバム</translation>
     </message>
     <message>
         <source>General</source>
-        <translation type="unfinished">一般</translation>
+        <translation>一般</translation>
     </message>
     <message>
         <source>File Name</source>
-        <translation type="unfinished"></translation>
+        <translation>ファイルの名前</translation>
     </message>
     <message>
         <source>filename.mp4</source>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
     <message>
         <source>File Container</source>
@@ -1839,7 +2590,7 @@
     </message>
     <message>
         <source>MP4</source>
-        <translation type="unfinished">MP4</translation>
+        <translation></translation>
     </message>
     <message>
         <source>Audio Codec</source>
@@ -1855,43 +2606,43 @@
     </message>
     <message>
         <source>LAME3.99</source>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
     <message>
         <source>Bit Rate</source>
-        <translation type="unfinished"></translation>
+        <translation>ビットレート</translation>
     </message>
     <message>
         <source>192 kbps</source>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
     <message>
         <source>Sample Rate</source>
-        <translation type="unfinished">サンプルレート</translation>
+        <translation>サンプルレート</translation>
     </message>
     <message>
         <source>44100 Hz</source>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
     <message>
         <source>Channels</source>
-        <translation type="unfinished">チャンネル</translation>
+        <translation>チャンネル</translation>
     </message>
     <message>
         <source>stereo</source>
-        <translation type="unfinished">ステレオ</translation>
+        <translation>ステレオ</translation>
     </message>
     <message>
         <source>Resolution</source>
-        <translation type="unfinished">解像度</translation>
+        <translation>解像度</translation>
     </message>
     <message>
         <source>16 bits</source>
-        <translation type="unfinished">16 ビット</translation>
+        <translation>16 ビット</translation>
     </message>
     <message>
         <source>Duration</source>
-        <translation type="unfinished">長さ</translation>
+        <translation>長さ</translation>
     </message>
     <message>
         <source>26 seconds</source>
@@ -1899,27 +2650,27 @@
     </message>
     <message>
         <source>Number of Samples</source>
-        <translation type="unfinished"></translation>
+        <translation>サンプルの数</translation>
     </message>
     <message>
         <source>192900</source>
-        <translation type="unfinished">192900</translation>
+        <translation></translation>
     </message>
     <message>
         <source>Size on Memory</source>
-        <translation type="unfinished"></translation>
+        <translation>メモリーにてのサイズ</translation>
     </message>
     <message>
         <source>100 Kb</source>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
     <message>
         <source>Size on Disk</source>
-        <translation type="unfinished"></translation>
+        <translation>ディスクにてのサイズ</translation>
     </message>
     <message>
         <source>192 Kb</source>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
     <message>
         <source>Modification Date</source>
@@ -1927,7 +2678,7 @@
     </message>
     <message>
         <source>12/09/2014 23:00</source>
-        <translation type="unfinished">12/09/2014 23:00</translation>
+        <translation></translation>
     </message>
     <message>
         <source>Location</source>
@@ -1935,7 +2686,7 @@
     </message>
     <message>
         <source>/Users/ruijunior/Music/iTunes/iTunes Media/Music/Enanitos Verdes/Unknown Album/Lamento Boliviano.aif</source>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
     <message>
         <source>Details</source>
@@ -1959,23 +2710,23 @@
     </message>
     <message>
         <source>Genre</source>
-        <translation type="unfinished">ジャンル</translation>
+        <translation>ジャンル</translation>
     </message>
     <message>
         <source>Year</source>
-        <translation type="unfinished">年</translation>
+        <translation>年</translation>
     </message>
     <message>
         <source>Disk Number</source>
-        <translation type="unfinished"></translation>
+        <translation>ディスク番号</translation>
     </message>
     <message>
         <source>of</source>
-        <translation type="unfinished"></translation>
+        <translation>の</translation>
     </message>
     <message>
         <source>Track</source>
-        <translation type="unfinished"></translation>
+        <translation>トラック</translation>
     </message>
     <message>
         <source>bpm</source>
@@ -1991,7 +2742,7 @@
     </message>
     <message>
         <source>Artwork</source>
-        <translation type="unfinished">アートワーク</translation>
+        <translation>アートワーク</translation>
     </message>
     <message>
         <source>Album Artwork</source>
@@ -1999,11 +2750,11 @@
     </message>
     <message>
         <source>PNG / 256 x 256</source>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
     <message>
         <source>Change Artwork...</source>
-        <translation type="unfinished">アートワーク変更...</translation>
+        <translation>アートワーク変更...</translation>
     </message>
     <message>
         <source>Markers</source>
@@ -2011,15 +2762,15 @@
     </message>
     <message>
         <source>Statistics</source>
-        <translation type="unfinished">統計</translation>
+        <translation>統計</translation>
     </message>
     <message>
         <source>Select Artwork</source>
-        <translation type="unfinished">アートワークを選択</translation>
+        <translation>アートワークを選択</translation>
     </message>
     <message>
         <source>Images (*.png *.jpg *.bmp)</source>
-        <translation type="unfinished"></translation>
+        <translation>(*.png *.jpg *.bmp)の画像</translation>
     </message>
 </context>
 <context>
@@ -2442,6 +3193,198 @@
     </message>
 </context>
 <context>
+    <name>QOcenFTPDirListDialog</name>
+    <message>
+        <source>Directory List</source>
+        <translation>ディレクトリリスト</translation>
+    </message>
+    <message>
+        <source>Directory</source>
+        <translation>ディレクトリ</translation>
+    </message>
+    <message>
+        <source>/</source>
+        <translation></translation>
+    </message>
+    <message>
+        <source>data</source>
+        <translation>データ</translation>
+    </message>
+    <message>
+        <source>Selected Path</source>
+        <translation>選択されたパス</translation>
+    </message>
+</context>
+<context>
+    <name>QOcenFTPExportDialog</name>
+    <message>
+        <source>Export Audio using FTP</source>
+        <translation>FTPでオーディオを書き出す</translation>
+    </message>
+    <message>
+        <source>Ftp Server</source>
+        <translation>FTPサーバー</translation>
+    </message>
+    <message>
+        <source>Profile Name</source>
+        <translation>プロフィール名</translation>
+    </message>
+    <message>
+        <source>Address</source>
+        <translation>アドレス</translation>
+    </message>
+    <message>
+        <source>Port</source>
+        <translation>ポート</translation>
+    </message>
+    <message>
+        <source>Anonymous Login</source>
+        <translation>無名のログイン</translation>
+    </message>
+    <message>
+        <source>Username</source>
+        <translation>ユーザ名</translation>
+    </message>
+    <message>
+        <source>Password</source>
+        <translation>パスワード</translation>
+    </message>
+    <message>
+        <source>Server Path</source>
+        <translation>サーバーパス</translation>
+    </message>
+    <message>
+        <source>...</source>
+        <translation></translation>
+    </message>
+    <message>
+        <source>File Info</source>
+        <translation>ファイル情報</translation>
+    </message>
+    <message>
+        <source>Filename</source>
+        <translation>ファイル名</translation>
+    </message>
+    <message>
+        <source>File Format</source>
+        <translation>ファイルフォーマット</translation>
+    </message>
+    <message>
+        <source>Wav PCM (*.wav)</source>
+        <translation></translation>
+    </message>
+    <message>
+        <source>MP3 File Format Franna (*.mp3)</source>
+        <translation>MP3 ファイルフォーマット Franna (*.mp3)</translation>
+    </message>
+    <message>
+        <source>Upload only selection</source>
+        <translation>選択された物のみアップロードする</translation>
+    </message>
+    <message>
+        <source>Upload</source>
+        <translation>アップロードする</translation>
+    </message>
+    <message>
+        <source>Uploading audio</source>
+        <translation>オーディオをアップロードしています</translation>
+    </message>
+    <message>
+        <source>Cancel</source>
+        <translation>取り消す</translation>
+    </message>
+    <message>
+        <source>Error</source>
+        <translation>エラー</translation>
+    </message>
+    <message>
+        <source>The upload process was failed.</source>
+        <translation>アップロードが失敗されました。</translation>
+    </message>
+    <message>
+        <source>Upload Finished</source>
+        <translation>アップロード完了</translation>
+    </message>
+    <message>
+        <source>The file was successfully uploaded to your FTP server.</source>
+        <translation>FTPサーバーに、ファイル無事にアップロードされました。</translation>
+    </message>
+    <message>
+        <source>Warning</source>
+        <translation>警告</translation>
+    </message>
+    <message>
+        <source>The file %1 already exists in the FTP server.</source>
+        <translation>ファイル　%1　が　既に　FTPサーバーに格納しています。</translation>
+    </message>
+</context>
+<context>
+    <name>QOcenFTPExportThread</name>
+    <message>
+        <source>Connecting to FTP server...</source>
+        <translation>FTPサーバーに接続中...</translation>
+    </message>
+    <message>
+        <source>Connected to FTP server</source>
+        <translation>FTPサーバーに接続しています</translation>
+    </message>
+    <message>
+        <source>Connection refused. Please, check the server address, username and password.</source>
+        <translation>接続が断れました。サーバーのアドレス、ユーザ名、パスワードを確認して下さい。</translation>
+    </message>
+    <message>
+        <source>Preparing audio file to upload...</source>
+        <translation>アップロードするに、オーディオファイルを準備中...</translation>
+    </message>
+    <message>
+        <source>Fail to prepare file!</source>
+        <translation>ファイルを準備するに失敗されました！</translation>
+    </message>
+    <message>
+        <source>Fail to prepare audio file!</source>
+        <translation>オーディオファイルを準備するに失敗されました！</translation>
+    </message>
+    <message>
+        <source>Fail to remove existing file!</source>
+        <translation>既存のファイル省くに失敗されました！</translation>
+    </message>
+    <message>
+        <source>Uploading audio file...</source>
+        <translation>オーディオファイルをアップロード中...</translation>
+    </message>
+    <message>
+        <source>Upload finished</source>
+        <translation>アップロード完了</translation>
+    </message>
+    <message>
+        <source>Disconnected</source>
+        <translation>切断されました</translation>
+    </message>
+</context>
+<context>
+    <name>QOcenFTPListThread</name>
+    <message>
+        <source>Connecting to FTP server...</source>
+        <translation>FTPサーバーに接続中...</translation>
+    </message>
+    <message>
+        <source>Connected to FTP server</source>
+        <translation>FTPサーバーに接続しています</translation>
+    </message>
+    <message>
+        <source>Connection refused. Please, check the server address, username and password.</source>
+        <translation>接続が断れました。サーバーのアドレス、ユーザ名、パスワードを確認して下さい。</translation>
+    </message>
+    <message>
+        <source>Listing...</source>
+        <translation>列挙中...</translation>
+    </message>
+    <message>
+        <source>List finished</source>
+        <translation>列挙作成されました</translation>
+    </message>
+</context>
+<context>
     <name>QOcenFormatSamplesDialog</name>
     <message>
         <source>Convert Audio Format</source>
@@ -2529,6 +3472,116 @@
     </message>
 </context>
 <context>
+    <name>QOcenFxDialog</name>
+    <message>
+        <source>Close</source>
+        <translation>閉じる</translation>
+    </message>
+    <message>
+        <source>Apply</source>
+        <translation>適用</translation>
+    </message>
+    <message>
+        <source>bypass</source>
+        <translation>バイパス</translation>
+    </message>
+    <message>
+        <source>Save Preset</source>
+        <translation>プリセット保存</translation>
+    </message>
+    <message>
+        <source>Manage Presets</source>
+        <translation>プリセット管理</translation>
+    </message>
+    <message>
+        <source>Playback Loop</source>
+        <translation>再生ループ</translation>
+    </message>
+    <message>
+        <source>Default Settings</source>
+        <translation>デフォルト設定</translation>
+    </message>
+    <message>
+        <source>Last Used Settings</source>
+        <translation>最後に利用された設定</translation>
+    </message>
+    <message>
+        <source>Last Used Settings in this file</source>
+        <translation>このファイルの最後に利用された設定</translation>
+    </message>
+    <message>
+        <source>Built-in Presets</source>
+        <translation>組み込みプリセット</translation>
+    </message>
+    <message>
+        <source>Saved Presets</source>
+        <translation>保存されたプリセット</translation>
+    </message>
+    <message>
+        <source>Save Preset As</source>
+        <translation>名前を付けてプリセットを保存</translation>
+    </message>
+    <message>
+        <source>Preset Name</source>
+        <translation>プリセットの名前</translation>
+    </message>
+    <message>
+        <source>The name &quot;%1&quot; is already taken.</source>
+        <translation>&quot;%1&quot; 名前のプリセットは既に使われています。</translation>
+    </message>
+    <message>
+        <source>Do you want to choose another name or replace the previous saved preset?</source>
+        <translation>他の名前を選択するか、既存のプリセットを上書きしますか？</translation>
+    </message>
+    <message>
+        <source>Replace</source>
+        <translation>取り換える</translation>
+    </message>
+    <message>
+        <source>Choose Another Name</source>
+        <translation>他の名を選択</translation>
+    </message>
+</context>
+<context>
+    <name>QOcenFxManagePresetDialog</name>
+    <message>
+        <source>Manage Presets</source>
+        <translation>プリセット管理</translation>
+    </message>
+    <message>
+        <source>Current Setting (before open preset manager)</source>
+        <translation>現在の設定（プリセット管理を開く前）</translation>
+    </message>
+    <message>
+        <source>Setting 1</source>
+        <translation>設定1</translation>
+    </message>
+    <message>
+        <source>Setting 2</source>
+        <translation>設定2</translation>
+    </message>
+    <message>
+        <source>%1 Preset Manager</source>
+        <translation>%1プリセットマネージャー</translation>
+    </message>
+    <message>
+        <source>Current Preset (user&apos;s changes)</source>
+        <translation>現在のプリセット（使用者の変更）</translation>
+    </message>
+    <message>
+        <source>Rename Preset</source>
+        <translation>プリセットの名前を変更</translation>
+    </message>
+    <message>
+        <source>The name &quot;%1&quot; is already taken.</source>
+        <translation>&quot;%1&quot; 名前のプリセットは既に使われています。</translation>
+    </message>
+    <message>
+        <source>Please choose another name.</source>
+        <translation>他の名前を入力して下さい。</translation>
+    </message>
+</context>
+<context>
     <name>QOcenMixPasteDialog</name>
     <message>
         <source>Paste Special</source>
@@ -2595,35 +3648,35 @@
     <name>QOcenNewAudioDialog</name>
     <message>
         <source>New Audio ...</source>
-        <translation type="unfinished">新オーディオ...</translation>
+        <translation>新オーディオ...</translation>
     </message>
     <message>
         <source>Sample Rate</source>
-        <translation type="unfinished">サンプルレート</translation>
+        <translation>サンプルレート</translation>
     </message>
     <message>
         <source>44.1 kHz</source>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
     <message>
         <source>48 kHz</source>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
     <message>
         <source>Other</source>
-        <translation type="unfinished"></translation>
+        <translation>他の</translation>
     </message>
     <message>
         <source>8 kHz</source>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
     <message>
         <source>11025 Hz</source>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
     <message>
         <source>16 kHz</source>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
     <message>
         <source>Custom</source>
@@ -2631,15 +3684,15 @@
     </message>
     <message>
         <source>Channels</source>
-        <translation type="unfinished">チャンネル</translation>
+        <translation>チャンネル</translation>
     </message>
     <message>
         <source>Mono</source>
-        <translation type="unfinished">モノラル</translation>
+        <translation>モノラル</translation>
     </message>
     <message>
         <source>Stereo</source>
-        <translation type="unfinished">ステレオ</translation>
+        <translation>ステレオ</translation>
     </message>
     <message>
         <source>Multichannel</source>
@@ -2671,11 +3724,11 @@
     </message>
     <message>
         <source>44100 Hz</source>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
     <message>
         <source>48000 Hz</source>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
 </context>
 <context>
@@ -2683,6 +3736,154 @@
     <message>
         <source>Custom</source>
         <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>QOcenRecentMenu</name>
+    <message>
+        <source>Recent Files</source>
+        <translation>最近のファイル</translation>
+    </message>
+    <message>
+        <source>Clear History</source>
+        <translation>歴史を削去する</translation>
+    </message>
+    <message>
+        <source>Open both streams in this file</source>
+        <translation>こちらのファイルから、両方のストリームを開く</translation>
+    </message>
+    <message>
+        <source>Open all streams in this file</source>
+        <translation>こちらのファイルから、全てのストリームを開く</translation>
+    </message>
+    <message>
+        <source>Open all files in this directory</source>
+        <translation>このディレクトリに有るファイルを全て開く</translation>
+    </message>
+    <message>
+        <source>Open both files in this %1</source>
+        <translation>%1　に両方のファイルを開く</translation>
+    </message>
+    <message>
+        <source>Open all %1 files in this %2</source>
+        <translation>この　%2　に全ての　%1　ファイルを開く</translation>
+    </message>
+    <message>
+        <source>and %1 other files</source>
+        <translation>それに　%1　他のファイル</translation>
+    </message>
+</context>
+<context>
+    <name>QOcenUrlDialog</name>
+    <message>
+        <source>Dialog</source>
+        <translation>ダイヤログ</translation>
+    </message>
+    <message>
+        <source>Enter the URL or path to a sound file on the Internet, your computer,
+or your network that you want to open:</source>
+        <translation>インタネット・ＰＣ・ネットワークにて、開きたいサウンドファイルのURL、又はパス、を入力してください：</translation>
+    </message>
+</context>
+<context>
+    <name>QOcenVSTWidget</name>
+    <message>
+        <source>VST Effect</source>
+        <translation>VSTエフェクト</translation>
+    </message>
+    <message>
+        <source>Applying %1|%1</source>
+        <translation>%1|%1適用中</translation>
+    </message>
+    <message>
+        <source>Plugin crashed</source>
+        <translation>プラグインが落ちました</translation>
+    </message>
+    <message>
+        <source>The plugin %1 crashed and will be finalized.</source>
+        <translation>プラグイン%1が落ちたので、終了させられます。</translation>
+    </message>
+    <message>
+        <source>Ocenaudio was not affected by this crash and will continue running normally.</source>
+        <translation>オセンオーディオがこの失敗に影響されていないので、正常に稼働し続けます。</translation>
+    </message>
+    <message>
+        <source>VST Effect:</source>
+        <translation>VSTエフェクト：</translation>
+    </message>
+    <message>
+        <source>Manufacturer:</source>
+        <translation>製造業者:</translation>
+    </message>
+</context>
+<context>
+    <name>QOcenVstList</name>
+    <message>
+        <source>Dialog</source>
+        <translation>ダイヤログ</translation>
+    </message>
+    <message>
+        <source>List of VST Plugins</source>
+        <translation>VSTプラグインのリスト</translation>
+    </message>
+    <message>
+        <source>/Library/Audio/plugins/VST/delay.vst</source>
+        <translation></translation>
+    </message>
+    <message>
+        <source>/Library/Audio/plugins/VST/sampler.vst (crashed)</source>
+        <translation></translation>
+    </message>
+    <message>
+        <source>Enable All</source>
+        <translation>前部を有効にする</translation>
+    </message>
+    <message>
+        <source>Disable All</source>
+        <translation>前部を無効にする</translation>
+    </message>
+    <message>
+        <source>Effects in Folder %1</source>
+        <translation>フォルダー　%1　のエフェクト</translation>
+    </message>
+    <message>
+        <source>Crashed</source>
+        <translation>落ちました</translation>
+    </message>
+    <message>
+        <source>Duplicated / Older Version</source>
+        <translation>重複されています</translation>
+    </message>
+    <message>
+        <source>Unsupported</source>
+        <translation>非対応</translation>
+    </message>
+    <message>
+        <source>Not Loaded</source>
+        <translation>ロードされていません</translation>
+    </message>
+</context>
+<context>
+    <name>QOcenVstPrefs</name>
+    <message>
+        <source>Form</source>
+        <translation>フォーム</translation>
+    </message>
+    <message>
+        <source>VST Search Path</source>
+        <translation>VSTの検索パス</translation>
+    </message>
+    <message>
+        <source>Scanning Plugins</source>
+        <translation>プラグインをスキャン中</translation>
+    </message>
+    <message>
+        <source>VST</source>
+        <translation>VST</translation>
+    </message>
+    <message>
+        <source>Select Directory</source>
+        <translation>ディレクトリを選択</translation>
     </message>
 </context>
 <context>

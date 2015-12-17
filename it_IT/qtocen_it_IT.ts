@@ -128,87 +128,87 @@
     </message>
     <message>
         <source>Reverting to Saved</source>
-        <translation type="unfinished">Sto ripristinando alla versione salvata</translation>
+        <translation>Sto ripristinando alla versione salvata</translation>
     </message>
     <message>
         <source>Opening %1</source>
-        <translation type="unfinished">Sto aprendo %1</translation>
+        <translation>Sto aprendo %1</translation>
     </message>
     <message>
         <source>Saving %1</source>
-        <translation type="unfinished">Sto salvando %1</translation>
+        <translation>Sto salvando %1</translation>
     </message>
     <message>
         <source>Ringtone created by ocenaudio</source>
-        <translation type="unfinished">Suoneria creata da ocenaudio</translation>
+        <translation>Suoneria creata da ocenaudio</translation>
     </message>
     <message>
         <source>Creating iTunes Ringtone</source>
-        <translation type="unfinished">Sto creando suoneria iTunes</translation>
+        <translation>Sto creando suoneria iTunes</translation>
     </message>
     <message>
         <source>Undoing</source>
-        <translation type="unfinished">Annullamento</translation>
+        <translation>Annullamento</translation>
     </message>
     <message>
         <source>Redoing</source>
-        <translation type="unfinished">Sto ripetendo</translation>
+        <translation>Sto ripetendo</translation>
     </message>
     <message>
         <source>Undefined</source>
-        <translation type="unfinished">Non definito</translation>
+        <translation>Non definito</translation>
     </message>
     <message>
         <source>Undefined Format</source>
-        <translation type="unfinished">Non definito formato</translation>
+        <translation>Non definito formato</translation>
     </message>
     <message>
         <source>Where</source>
-        <translation type="unfinished">Situato in</translation>
+        <translation>Situato in</translation>
     </message>
     <message>
         <source>Cutting</source>
-        <translation type="unfinished">Sto tagliando</translation>
+        <translation>Sto tagliando</translation>
     </message>
     <message>
         <source>Cut</source>
-        <translation type="unfinished">Taglia</translation>
+        <translation>Taglia</translation>
     </message>
     <message>
         <source>Copying</source>
-        <translation type="unfinished">Sto copiando</translation>
+        <translation>Sto copiando</translation>
     </message>
     <message>
         <source>Pasting</source>
-        <translation type="unfinished">Sto incollando</translation>
+        <translation>Sto incollando</translation>
     </message>
     <message>
         <source>Paste</source>
-        <translation type="unfinished">Incolla</translation>
+        <translation>Incolla</translation>
     </message>
     <message>
         <source>Deleting</source>
-        <translation type="unfinished">Sto eliminando</translation>
+        <translation>Sto eliminando</translation>
     </message>
     <message>
         <source>Delete</source>
-        <translation type="unfinished">Elimina</translation>
+        <translation>Elimina</translation>
     </message>
     <message>
         <source>Trimming</source>
-        <translation type="unfinished">Sto ritagliando</translation>
+        <translation>Sto ritagliando</translation>
     </message>
     <message>
         <source>Trim</source>
-        <translation type="unfinished">Ritaglia</translation>
+        <translation>Ritaglia</translation>
     </message>
     <message>
         <source>Mix pasting</source>
-        <translation type="unfinished">Sto incollando miscelando</translation>
+        <translation>Sto incollando miscelando</translation>
     </message>
     <message>
         <source>Mix Paste</source>
-        <translation type="unfinished">Incolla miscelando</translation>
+        <translation>Incolla miscelando</translation>
     </message>
     <message>
         <source>Mono</source>
@@ -216,119 +216,119 @@
     </message>
     <message>
         <source>Left</source>
-        <translation type="unfinished">Sinistro</translation>
+        <translation>Sinistro</translation>
     </message>
     <message>
         <source>Right</source>
-        <translation type="unfinished">Destro</translation>
+        <translation>Destro</translation>
     </message>
     <message>
         <source>0</source>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
     <message>
         <source>L</source>
-        <translation type="unfinished"></translation>
+        <translation>S</translation>
     </message>
     <message>
         <source>R</source>
-        <translation type="unfinished"></translation>
+        <translation>D</translation>
     </message>
     <message>
         <source>%1 channel of</source>
-        <translation type="unfinished">canale %1 di</translation>
+        <translation>canale %1 di</translation>
     </message>
     <message>
         <source>%1 combined with %2</source>
-        <translation type="unfinished">%1 combinato con %2</translation>
+        <translation>%1 combinato con %2</translation>
     </message>
     <message>
         <source>Downmix of %1</source>
-        <translation type="unfinished">Downmix di %1</translation>
+        <translation>Downmix di %1</translation>
     </message>
     <message>
         <source>Join of %1 and %2</source>
-        <translation type="unfinished">Unione di %1 e %2</translation>
+        <translation>Unione di %1 e %2</translation>
     </message>
     <message>
         <source>Join of %1, %2 and %3</source>
-        <translation type="unfinished">Unione di %1, %2 e %3</translation>
+        <translation>Unione di %1, %2 e %3</translation>
     </message>
     <message>
         <source>Join of %1, %2 and other %3 files</source>
-        <translation type="unfinished">Unione di %1, %2 e altri %3 files</translation>
+        <translation>Unione di %1, %2 e altri %3 files</translation>
     </message>
     <message>
         <source>Reversing</source>
-        <translation type="unfinished">Sto rovesciando</translation>
+        <translation>Sto rovesciando</translation>
     </message>
     <message>
         <source>Reverse</source>
-        <translation type="unfinished">Rovescia</translation>
+        <translation>Rovescia</translation>
     </message>
     <message>
         <source>Inverting</source>
-        <translation type="unfinished">Sto invertendo</translation>
+        <translation>Sto invertendo</translation>
     </message>
     <message>
         <source>Invert</source>
-        <translation type="unfinished">Inverti</translation>
+        <translation>Inverti</translation>
     </message>
     <message>
         <source>Silencing</source>
-        <translation type="unfinished">Sto silenziando</translation>
+        <translation>Sto silenziando</translation>
     </message>
     <message>
         <source>Silence</source>
-        <translation type="unfinished">Silenzio</translation>
+        <translation>Silenzio</translation>
     </message>
     <message>
         <source>Removing DC</source>
-        <translation type="unfinished">Sto rimuovendo DC</translation>
+        <translation>Sto rimuovendo DC</translation>
     </message>
     <message>
         <source>Remove DC</source>
-        <translation type="unfinished">Rimuovi DC</translation>
+        <translation>Rimuovi DC</translation>
     </message>
     <message>
         <source>Normalize</source>
-        <translation type="unfinished">Normalizza</translation>
+        <translation>Normalizza</translation>
     </message>
     <message>
         <source>Changing Audio Format</source>
-        <translation type="unfinished">Sto modificando formato audio</translation>
+        <translation>Sto modificando formato audio</translation>
     </message>
     <message>
         <source>Change Audio Format</source>
-        <translation type="unfinished">Modifica formato audio</translation>
+        <translation>Modifica formato audio</translation>
     </message>
     <message>
         <source>Channels Swap</source>
-        <translation type="unfinished">Scambia canali</translation>
+        <translation>Scambia canali</translation>
     </message>
     <message>
         <source>Adjust Sample Rate</source>
-        <translation type="unfinished">Regola frequenza di campionamento</translation>
+        <translation>Regola frequenza di campionamento</translation>
     </message>
     <message>
         <source>Remove all metadata</source>
-        <translation type="unfinished">Rimuovi tutti i metadati</translation>
+        <translation>Rimuovi tutti i metadati</translation>
     </message>
     <message>
         <source>marker %1</source>
-        <translation type="unfinished">marcatore %1</translation>
+        <translation>marcatore %1</translation>
     </message>
     <message>
         <source>Create Region</source>
-        <translation type="unfinished">Crea regione</translation>
+        <translation>Crea regione</translation>
     </message>
     <message>
         <source>Create Regions</source>
-        <translation type="unfinished">Crea regioni</translation>
+        <translation>Crea regioni</translation>
     </message>
     <message>
         <source>New Region</source>
-        <translation type="unfinished">Nuova regione</translation>
+        <translation>Nuova regione</translation>
     </message>
     <message>
         <source>Detecting Dtmf</source>
@@ -340,23 +340,23 @@
     </message>
     <message>
         <source>Save As</source>
-        <translation type="unfinished">Salva come</translation>
+        <translation>Salva come</translation>
     </message>
     <message>
         <source>Export As</source>
-        <translation type="unfinished">Esporta come</translation>
+        <translation>Esporta come</translation>
     </message>
     <message>
         <source>Exporting Selection As</source>
-        <translation type="unfinished">Sto esportando la selezione come</translation>
+        <translation>Sto esportando la selezione come</translation>
     </message>
     <message>
         <source>Exporting Region As</source>
-        <translation type="unfinished">Sto esportando la regione come</translation>
+        <translation>Sto esportando la regione come</translation>
     </message>
     <message>
         <source>Exporting Regions As</source>
-        <translation type="unfinished">Sto esportando le regioni come</translation>
+        <translation>Sto esportando le regioni come</translation>
     </message>
     <message>
         <source>Paste Channel</source>
@@ -368,59 +368,71 @@
     </message>
     <message>
         <source>Paste Silence</source>
-        <translation type="unfinished">Incolla silenzio</translation>
+        <translation>Incolla silenzio</translation>
     </message>
     <message>
         <source>Append Audio</source>
-        <translation type="unfinished">Aggiungi audio</translation>
+        <translation>Aggiungi audio</translation>
     </message>
     <message>
         <source>Append Silence</source>
-        <translation type="unfinished">Aggiungi silenzio</translation>
+        <translation>Aggiungi silenzio</translation>
     </message>
     <message>
         <source>Append From File</source>
-        <translation type="unfinished">Aggiungi da file</translation>
+        <translation>Aggiungi da file</translation>
     </message>
     <message>
         <source>Change Metadata</source>
-        <translation type="unfinished">Modifica metadati</translation>
+        <translation>Modifica metadati</translation>
     </message>
     <message>
         <source>Record</source>
-        <translation type="unfinished">Registra</translation>
+        <translation>Registra</translation>
     </message>
     <message>
         <source>m s e c</source>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
     <message>
         <source>s e c</source>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
     <message>
         <source>m i n</source>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
     <message>
         <source>h r</source>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
     <message>
         <source>s m p l</source>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
     <message>
         <source>f r a m e s</source>
+        <translation></translation>
+    </message>
+    <message>
+        <source>mono</source>
+        <translation></translation>
+    </message>
+    <message>
+        <source>stereo</source>
+        <translation></translation>
+    </message>
+    <message>
+        <source>%1 channels</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Title</source>
-        <translation type="unfinished">Titolo</translation>
+        <translation>Titolo</translation>
     </message>
     <message>
         <source>Artist</source>
-        <translation type="unfinished">Artista</translation>
+        <translation>Artista</translation>
     </message>
     <message>
         <source>Album</source>
@@ -428,7 +440,7 @@
     </message>
     <message>
         <source>Year</source>
-        <translation type="unfinished">Anno</translation>
+        <translation>Anno</translation>
     </message>
 </context>
 <context>
@@ -639,21 +651,6 @@
     </message>
 </context>
 <context>
-    <name>QOcenFileFormatPrivate</name>
-    <message>
-        <source>mono</source>
-        <translation></translation>
-    </message>
-    <message>
-        <source>stereo</source>
-        <translation></translation>
-    </message>
-    <message>
-        <source>%1 channels</source>
-        <translation type="unfinished"></translation>
-    </message>
-</context>
-<context>
     <name>QOcenGeneralPrefs</name>
     <message>
         <source>Form</source>
@@ -673,7 +670,7 @@
     </message>
     <message>
         <source>Options</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Opzioni</translation>
     </message>
     <message>
         <source>Color Scheme</source>
@@ -696,11 +693,11 @@
     <name>QOcenGetTextDialog</name>
     <message>
         <source>Dialog</source>
-        <translation type="unfinished">Dialogo</translation>
+        <translation>Dialogo</translation>
     </message>
     <message>
         <source>TextLabel</source>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
 </context>
 <context>
@@ -975,11 +972,11 @@
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>It was not possible to complete the save of file “%1” because the chosen container does not support metadata.</source>
+        <source>An error was encountered while saving your sound file “%1”!</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>An error was encountered while saving your sound file “%1”!</source>
+        <source>It was not possible to complete the save of file “%1” because the chosen container does not support metadata.</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -1188,11 +1185,11 @@
     </message>
     <message>
         <source>Invalid Plugin Code Signature</source>
-        <translation type="unfinished">Firma del Codice del Plugin non valida</translation>
+        <translation>Firma del Codice del Plugin non valida</translation>
     </message>
     <message>
         <source>This means %1 plugin has been tampered, possibly making it less secure. The plugin cannot be loaded in this state. It is necessary to reinstall the %1 plugin in order to use it.</source>
-        <translation type="unfinished">Questo significa che il plugin %1 è stato manomesso, forse rendendolo meno sicuro. Il plugin non può essere caricato in questo stato. E&apos; necessario reinstallare il plugin %1 per utilizzarlo.</translation>
+        <translation>Questo significa che il plugin %1 è stato manomesso, forse rendendolo meno sicuro. Il plugin non può essere caricato in questo stato. E&apos; necessario reinstallare il plugin %1 per utilizzarlo.</translation>
     </message>
 </context>
 <context>
@@ -1240,23 +1237,23 @@
     <name>QOcenSoundPrefs</name>
     <message>
         <source>Form</source>
-        <translation type="unfinished">Form</translation>
+        <translation>Form</translation>
     </message>
     <message>
         <source>Playback Device/Options</source>
-        <translation type="unfinished">Dispositivo di riproduzione/Opzioni</translation>
+        <translation>Dispositivo di riproduzione/Opzioni</translation>
     </message>
     <message>
         <source>Options</source>
-        <translation type="unfinished"></translation>
+        <translation>Opzioni</translation>
     </message>
     <message>
         <source>Move cursor to playback stop position</source>
-        <translation type="unfinished">Muovi cursore alla posizione di fermo riproduzione</translation>
+        <translation>Muovi cursore alla posizione di fermo riproduzione</translation>
     </message>
     <message>
         <source>Record Device/Options</source>
-        <translation type="unfinished">Rispositivo di registrazione/Opzioni</translation>
+        <translation>Rispositivo di registrazione/Opzioni</translation>
     </message>
     <message>
         <source>Move cursor to record stop position</source>
@@ -1268,15 +1265,15 @@
     </message>
     <message>
         <source>48000 Hz</source>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
     <message>
         <source>44100 Hz</source>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
     <message>
         <source>22050 Hz</source>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
     <message>
         <source>Mixer Backend</source>
@@ -1296,7 +1293,7 @@
     </message>
     <message>
         <source>System Default</source>
-        <translation type="unfinished">Default di Sistema</translation>
+        <translation>Default di Sistema</translation>
     </message>
 </context>
 <context>

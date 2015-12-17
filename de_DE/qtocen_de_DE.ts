@@ -64,7 +64,7 @@
     </message>
     <message>
         <source>English</source>
-        <translation>Englisch</translation>
+        <translation></translation>
     </message>
     <message>
         <source>Portuguese</source>
@@ -160,7 +160,7 @@
     </message>
     <message>
         <source>Undefined Format</source>
-        <translation>Unbestimmtes Format</translation>
+        <translation>Unbestimmt Format</translation>
     </message>
     <message>
         <source>Where</source>
@@ -168,7 +168,7 @@
     </message>
     <message>
         <source>Cutting</source>
-        <translation>Ausschneiden</translation>
+        <translation>Schneide</translation>
     </message>
     <message>
         <source>Cut</source>
@@ -332,11 +332,11 @@
     </message>
     <message>
         <source>Detecting Dtmf</source>
-        <translation>DTMF erkennen</translation>
+        <translation>Erkennen Dtmf</translation>
     </message>
     <message>
         <source>Detect Dtmf</source>
-        <translation>DTMF erkennen</translation>
+        <translation>Erkennen Dtmf</translation>
     </message>
     <message>
         <source>Save As</source>
@@ -415,6 +415,18 @@
         <translation></translation>
     </message>
     <message>
+        <source>mono</source>
+        <translation>Mono</translation>
+    </message>
+    <message>
+        <source>stereo</source>
+        <translation>Stereo</translation>
+    </message>
+    <message>
+        <source>%1 channels</source>
+        <translation>%1 Kanäle</translation>
+    </message>
+    <message>
         <source>Title</source>
         <translation>Titel</translation>
     </message>
@@ -443,7 +455,7 @@
     </message>
     <message>
         <source>New Plugin Installed</source>
-        <translation>Neues Plugin Installiert</translation>
+        <translation>New Plugin Installiert</translation>
     </message>
     <message>
         <source>ocenaudio Clipboard with %1 seconds in %2 %3</source>
@@ -458,35 +470,35 @@
     </message>
     <message>
         <source>Move Marker</source>
-        <translation>Marker verschieben</translation>
+        <translation>Verschiebe den Marker</translation>
     </message>
     <message>
         <source>Import Regions</source>
-        <translation>Regionen importieren</translation>
+        <translation>Regionen Importieren</translation>
     </message>
     <message>
         <source>Add Region</source>
-        <translation>Region hinzufügen</translation>
+        <translation>Region Hinzufügen</translation>
     </message>
     <message>
         <source>Delete Region</source>
-        <translation>Region löschen</translation>
+        <translation>Region Löschen</translation>
     </message>
     <message>
         <source>Undelete Region</source>
-        <translation>Region wiederherstellen</translation>
+        <translation>Erholen Region</translation>
     </message>
     <message>
         <source>Delete Regions</source>
-        <translation>Regionen löschen</translation>
+        <translation>Regionen Löschen</translation>
     </message>
     <message>
         <source>Convert Region to Loop</source>
-        <translation>Region zu Schleife konvertieren</translation>
+        <translation>Konvertieren Region zu Loop</translation>
     </message>
     <message>
         <source>Convert Loop to Region</source>
-        <translation>Schleife zu Region konvertieren</translation>
+        <translation>Konvertieren Loop zu Region</translation>
     </message>
     <message>
         <source>Merge Regions</source>
@@ -494,7 +506,7 @@
     </message>
     <message>
         <source>Change Region Comment</source>
-        <translation>Region-Kommentar ändern</translation>
+        <translation>Region-Kommentare Ändern</translation>
     </message>
     <message>
         <source>Change Region Label</source>
@@ -608,15 +620,15 @@
     </message>
     <message>
         <source>Message box text</source>
-        <translation>Meldungsfenster Text</translation>
+        <translation>Meldungsfeld text</translation>
     </message>
     <message>
         <source>Message box informative text</source>
-        <translation>Meldungsfenster informativer Text</translation>
+        <translation>Meldungsfeld informativer text</translation>
     </message>
     <message>
         <source>Checkable option</source>
-        <translation>Ankreuzbare Option</translation>
+        <translation>Überprüfbar Option</translation>
     </message>
 </context>
 <context>
@@ -636,21 +648,6 @@
     <message>
         <source>&amp;Save Selected</source>
         <translation>&amp;Speichern ausgewählt</translation>
-    </message>
-</context>
-<context>
-    <name>QOcenFileFormatPrivate</name>
-    <message>
-        <source>mono</source>
-        <translation>Mono</translation>
-    </message>
-    <message>
-        <source>stereo</source>
-        <translation>Stereo</translation>
-    </message>
-    <message>
-        <source>%1 channels</source>
-        <translation>%1 Kanäle</translation>
     </message>
 </context>
 <context>
@@ -975,12 +972,12 @@
         <translation>Audio nicht gespeichert</translation>
     </message>
     <message>
-        <source>It was not possible to complete the save of file “%1” because the chosen container does not support metadata.</source>
-        <translation>Die Datei %1 konnte nicht gespeichert werden, da der gewählte Container keine Metadaten unterstützt.</translation>
+        <source>An error was encountered while saving your sound file “%1”!</source>
+        <translation>Ein Fehler ereignete sich beim Speichern der Audiodatei “%1”!</translation>
     </message>
     <message>
-        <source>An error was encountered while saving your sound file “%1”!</source>
-        <translation>Ein Fehler ereignete sich beim Speichern der Audiodatei &quot;%1&quot;!</translation>
+        <source>It was not possible to complete the save of file “%1” because the chosen container does not support metadata.</source>
+        <translation>Die Datei %1 konnte nicht gespeichert werden, da der gewählte Container keine Metadaten unterstützt.</translation>
     </message>
 </context>
 <context>
@@ -1214,7 +1211,7 @@
     <name>QOcenQuickOpenWidget</name>
     <message>
         <source>File or http address</source>
-        <translation>Datei- oder HTTP-Adresse</translation>
+        <translation>Datei- oder HTTP-Adress</translation>
     </message>
 </context>
 <context>
@@ -1288,7 +1285,7 @@
     </message>
     <message>
         <source>Disabled</source>
-        <translation>Deaktiviert</translation>
+        <translation>Mixer Samplerate</translation>
     </message>
     <message>
         <source>Sound</source>

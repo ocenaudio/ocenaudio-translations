@@ -53,6 +53,37 @@
     </message>
 </context>
 <context>
+    <name>MAC_APPLICATION_MENU</name>
+    <message>
+        <source>Services</source>
+        <translation>Услуги</translation>
+    </message>
+    <message>
+        <source>Hide %1</source>
+        <translation>Скриване на %1</translation>
+    </message>
+    <message>
+        <source>Hide Others</source>
+        <translation>Скриване на другите</translation>
+    </message>
+    <message>
+        <source>Show All</source>
+        <translation>Показване на всички</translation>
+    </message>
+    <message>
+        <source>Preferences...</source>
+        <translation>Предпочитания...</translation>
+    </message>
+    <message>
+        <source>Quit %1</source>
+        <translation>Затваряне на %1</translation>
+    </message>
+    <message>
+        <source>About %1</source>
+        <translation>Относно %1</translation>
+    </message>
+</context>
+<context>
     <name>MainWindow</name>
     <message>
         <source>ocenaudio</source>
@@ -376,7 +407,7 @@
     </message>
     <message>
         <source>Dirac LE</source>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
     <message>
         <source>Split Audio at Markers</source>
@@ -392,7 +423,7 @@
     </message>
     <message>
         <source>Ctrl+Alt+Right</source>
-        <translation type="unfinished">Ctrl+Alt+Right</translation>
+        <translation></translation>
     </message>
     <message>
         <source>Previous</source>
@@ -404,7 +435,7 @@
     </message>
     <message>
         <source>Ctrl+Alt+Left</source>
-        <translation type="unfinished">Ctrl+Alt+Left</translation>
+        <translation></translation>
     </message>
     <message>
         <source>Off</source>
@@ -417,10 +448,6 @@
     <message>
         <source>Selection</source>
         <translation>Избраното</translation>
-    </message>
-    <message>
-        <source>Preferences</source>
-        <translation></translation>
     </message>
     <message>
         <source>Record</source>
@@ -726,7 +753,7 @@
     </message>
     <message>
         <source>Meta+Space</source>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
     <message>
         <source>Send Crash Report...</source>
@@ -974,7 +1001,7 @@
     <name>QDiracWidget</name>
     <message>
         <source>Form</source>
-        <translation type="unfinished">Форма</translation>
+        <translation>Форма</translation>
     </message>
     <message>
         <source>Time Stretch</source>
@@ -1006,7 +1033,7 @@
     </message>
     <message>
         <source>Information</source>
-        <translation type="unfinished">Информация</translation>
+        <translation>Информация</translation>
     </message>
     <message>
         <source>This effect is not available for the current audio format.</source>
@@ -1208,7 +1235,7 @@
     </message>
     <message>
         <source>Applying %1 </source>
-        <translation type="unfinished"></translation>
+        <translation>Прилага %1</translation>
     </message>
 </context>
 <context>
@@ -1651,6 +1678,14 @@
         <translation>Limited Variable Bit Rate (ABR)</translation>
     </message>
     <message>
+        <source>32 bits</source>
+        <translation type="unfinished">16 bits {32 ?}</translation>
+    </message>
+    <message>
+        <source>64 bits</source>
+        <translation type="unfinished">16 bits {64 ?}</translation>
+    </message>
+    <message>
         <source>Preview</source>
         <translation type="unfinished"></translation>
     </message>
@@ -1660,40 +1695,40 @@
     </message>
     <message>
         <source>Window Function</source>
-        <translation type="unfinished">Функция на прозореца</translation>
+        <translation>Функция на прозореца</translation>
     </message>
     <message>
         <source>Number of Bins</source>
-        <translation type="unfinished">Номер на отделенията</translation>
+        <translation>Номер на отделенията</translation>
     </message>
     <message>
         <source>Scale Kind</source>
-        <translation type="unfinished">Вид скала</translation>
+        <translation>Вид скала</translation>
     </message>
     <message>
         <source>Other Options</source>
-        <translation type="unfinished">Други настройки</translation>
+        <translation>Други настройки</translation>
     </message>
     <message>
         <source>Follow Play Cursor</source>
-        <translation type="unfinished">Следвай курсора</translation>
+        <translation>Следвай курсора</translation>
     </message>
     <message>
         <source>Separated channels view</source>
-        <translation type="unfinished">Отделен изглед за каналите</translation>
+        <translation>Отделен изглед за каналите</translation>
     </message>
     <message>
         <source>Show each audio channel on a separated view.</source>
-        <translation type="unfinished">Покажи всеки аудио канал в отделен изглед.</translation>
+        <translation>Покажи всеки аудио канал в отделен изглед.</translation>
     </message>
     <message>
         <source>Display Cursor Position</source>
-        <translation type="unfinished">Покажи позиция на курсора</translation>
+        <translation>Покажи позиция на курсора</translation>
     </message>
     <message>
         <source>%1 Scale</source>
         <comment>Ex: Linear Scale (Dont remove %1)</comment>
-        <translation type="unfinished">%1 Скала</translation>
+        <translation>%1 Скала</translation>
     </message>
     <message>
         <source>Drop Artwork Here</source>
@@ -1741,7 +1776,7 @@
     </message>
     <message>
         <source>Skip</source>
-        <translation type="unfinished">Пропусни</translation>
+        <translation>Пропусни</translation>
     </message>
     <message>
         <source>Custom</source>
@@ -1792,49 +1827,763 @@
     </message>
 </context>
 <context>
+    <name>QOcenAudioApplication</name>
+    <message>
+        <source>Stay Updated with ocenaudio!</source>
+        <translation>Бъди актуален с ocenaudio!</translation>
+    </message>
+    <message>
+        <source>A new version might be available.
+Click here and check!</source>
+        <translation>Може да е налична нова версия. Кликнете тук и проверете!</translation>
+    </message>
+    <message>
+        <source>New release available</source>
+        <translation>Налична е нова версия</translation>
+    </message>
+    <message>
+        <source>A new ocenaudio version is available.
+Click here to download it.</source>
+        <translation>Налична е нова версия на ocenaudio.
+Кликнете тук за да я свалите.</translation>
+    </message>
+</context>
+<context>
     <name>QOcenAudioFftAnalysisDialog</name>
     <message>
         <source>FFT Analysis</source>
-        <translation type="unfinished">FFT анализ</translation>
+        <translation>FFT Анализ</translation>
     </message>
     <message>
         <source>%1 Window | %2 %3</source>
-        <translation type="unfinished"></translation>
+        <translation>%1 Прозорец | %2 %3</translation>
     </message>
     <message>
         <source>Updating FFT ...</source>
-        <translation type="unfinished">Опреснява FFT...</translation>
+        <translation>Опреснява FFT...</translation>
+    </message>
+</context>
+<context>
+    <name>QOcenAudioMainWindow</name>
+    <message>
+        <source>About</source>
+        <translation>Относно</translation>
+    </message>
+    <message>
+        <source>Preferences</source>
+        <translation>Предпочитания</translation>
+    </message>
+    <message>
+        <source>Scanning VST Plugins</source>
+        <translation>Сканира VST Плъгини</translation>
+    </message>
+    <message>
+        <source>VST</source>
+        <translation>VST</translation>
+    </message>
+    <message>
+        <source>Apple Bandpass Filter</source>
+        <translation></translation>
+    </message>
+    <message>
+        <source>Apple Filter</source>
+        <translation></translation>
+    </message>
+    <message>
+        <source>Apple Highpass Filter</source>
+        <translation></translation>
+    </message>
+    <message>
+        <source>Apple High Shelf Filter</source>
+        <translation></translation>
+    </message>
+    <message>
+        <source>Apple Lowpass Filter</source>
+        <translation></translation>
+    </message>
+    <message>
+        <source>Apple Low Shelf Filter</source>
+        <translation></translation>
+    </message>
+    <message>
+        <source>Apple Dynamics Processor</source>
+        <translation></translation>
+    </message>
+    <message>
+        <source>Apple Peak Limiter</source>
+        <translation></translation>
+    </message>
+    <message>
+        <source>Apple Multiband Compressor</source>
+        <translation></translation>
+    </message>
+    <message>
+        <source>Apple Delay</source>
+        <translation></translation>
+    </message>
+    <message>
+        <source>Apple Matrix Reverb</source>
+        <translation></translation>
+    </message>
+    <message>
+        <source>Apple Sample Delay</source>
+        <translation></translation>
+    </message>
+    <message>
+        <source>Apple Graphic Equalizer</source>
+        <translation></translation>
+    </message>
+    <message>
+        <source>Apple Parametric Equalizer</source>
+        <translation></translation>
+    </message>
+    <message>
+        <source>Apple N-Band Equalizer</source>
+        <translation></translation>
+    </message>
+    <message>
+        <source>Apple Pitch</source>
+        <translation></translation>
+    </message>
+    <message>
+        <source>Apple New Pitch</source>
+        <translation></translation>
+    </message>
+    <message>
+        <source>Apple Distortion</source>
+        <translation></translation>
+    </message>
+    <message>
+        <source>Apple Roger Beep</source>
+        <translation></translation>
+    </message>
+    <message>
+        <source>Apple Net Send</source>
+        <translation></translation>
+    </message>
+    <message>
+        <source>Apple AAC Encoder Round Trip</source>
+        <translation></translation>
+    </message>
+    <message>
+        <source>Audio Unit</source>
+        <translation></translation>
+    </message>
+    <message>
+        <source>File Menu</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Edit Menu</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>View Menu</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Control Menu</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Effects Menu</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>VST Effects</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Audio Units Effects</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Generate Menu</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Analyze Menu</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Help Menu</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>New From Selection</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>New From Clipboard</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Close File</source>
+        <translation>Затвори файл</translation>
+    </message>
+    <message>
+        <source>Close All Files</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Adjust Selection to Scale Tick</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Adjust Selection to Zero Cross</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Create Marker/Region</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Waveform and Spectral View</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Display Time Format in Decimal</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Display Time Format in Samples</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Display Time Format in Frames</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Vertical Scale in Sample Value</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Vertical Scale Normalized</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Vertical Scale Percentages</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Vertical Scale in Decibels</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Spectral Scale in Mels</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Spectral Scale in Hz</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Show/Hide Regions</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Show/Hide Loops</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Show/Hide Markers</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Show/Hide All Regions, Loops and Markers</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Show/Hide Markers Label</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Show/Hide Toolbar</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Show/Hide Sidebar</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Show/Hide Navigator</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Show/Hide Navigator Window</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Show Full-size Level Meter</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Show Mini Level Meter</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Hide Level Meter</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Start/Stop Recording</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Goto Next Audio</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Goto Previous Audio</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Enable/Disable Loop Playback</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Move Cursor to Next Marker</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Move Cursor to Previous Marker</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Repeat Last Effect</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Send Crash Report</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Save Sound Copy As ...</source>
+        <translation>Запази копие на звука като...</translation>
+    </message>
+    <message>
+        <source>Save Copy As</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Save Sound Selection As ...</source>
+        <translation>Запази избрание звук като...</translation>
+    </message>
+    <message>
+        <source>Saving Selection As</source>
+        <translation>Запазва избора като</translation>
+    </message>
+    <message>
+        <source>Question</source>
+        <translation>Въпрос</translation>
+    </message>
+    <message>
+        <source>You have multiple selections. Do you want to save each selection to a separate file?</source>
+        <translation>Имате няколко селекции. Искате ли да запазите всяка в отделен файл?</translation>
+    </message>
+    <message>
+        <source>Select &quot;separate&quot; to save each selection to a different file. If you select &quot;single&quot; all your selections will be appended and saved to a single file.</source>
+        <translation>Изберете &quot;раздели&quot; за да запазите всяка селекция в отделен файл. Ако изберете &quot;единично&quot; всичките ви селекции ще бъдат добавени и запазени в един файл.</translation>
+    </message>
+    <message>
+        <source>Separate</source>
+        <translation>Раздели</translation>
+    </message>
+    <message>
+        <source>Single</source>
+        <translation>Самостоятелно</translation>
+    </message>
+    <message>
+        <source>Save Each Selection Prefixed With ...</source>
+        <translation>Запази всяка селекция с префикс...</translation>
+    </message>
+    <message>
+        <source>Prefix With:</source>
+        <translation>Префикс:</translation>
+    </message>
+    <message>
+        <source>Save Sound Selections As ...</source>
+        <translation>Запази звуковата селекция като...</translation>
+    </message>
+    <message>
+        <source>Exporting As</source>
+        <translation>Експортира като</translation>
+    </message>
+    <message>
+        <source>Exporting Selection As</source>
+        <translation>Експортира селекцията като</translation>
+    </message>
+    <message>
+        <source>region</source>
+        <translation>регион</translation>
+    </message>
+    <message>
+        <source>Exporting Regions As</source>
+        <translation>Експортира регионите като</translation>
+    </message>
+    <message>
+        <source>Information</source>
+        <translation>Информация</translation>
+    </message>
+    <message>
+        <source>Maximum ringtone duration exceeded!</source>
+        <translation>Прехвърлена е максималната дължина на тона за звънене!</translation>
+    </message>
+    <message>
+        <source>The maximum duration of a ringtone to itunes is 30s. To proceed you must select or cut your audio up to 30s.</source>
+        <translation>Максималната дължина на тона за звънене в itunes е 30 сек. За да продължите трябва да изберете или да изрежете звука до 30 сек.</translation>
+    </message>
+    <message>
+        <source>%1</source>
+        <translation>%1</translation>
+    </message>
+    <message>
+        <source>Do you want to revert to the most recently saved version of the document “%1”?</source>
+        <translation>Искате ли да се върнете към последната запазена версия на документа “%1”?</translation>
+    </message>
+    <message>
+        <source>Your current changes will be lost.</source>
+        <translation>Вашите настоящи промени ще се загубят.</translation>
+    </message>
+    <message>
+        <source>Revert</source>
+        <translation>Върни</translation>
+    </message>
+    <message>
+        <source>Cancel</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Save Audio Screenshot</source>
+        <translation>Запази сникма на аудио</translation>
+    </message>
+    <message>
+        <source>Images (*.png *.xpm *.jpg)</source>
+        <translation>Снимки (*.png *.xpm *.jpg)</translation>
+    </message>
+    <message>
+        <source>Select Sound File</source>
+        <translation>Избери звуков файл</translation>
+    </message>
+    <message>
+        <source>Attention</source>
+        <translation>внимание</translation>
+    </message>
+    <message>
+        <source>You are about to remove all metadata of this file. Are you sure you want to proceed?</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>If you proceed all metadata informations (artist name, album name, artwork) will be removed from this file.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Some markers will be merged because they are very close.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Markers less than 10 ms apart are merged in the split process. You have one marker merged.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Markers less than 10 ms apart are merged in the split process. You have %1 markers merged.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>You are about to split your audio by %1 parts. Are you sure you want to proceed?</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>If you proceed this operation will generate %1 new audio files.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Part %1 of </source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Error</source>
+        <translation>Грешка</translation>
+    </message>
+    <message>
+        <source>Invalid Regions Filename!</source>
+        <translation>Невалидно име на регион!</translation>
+    </message>
+    <message>
+        <source>The regions file selected is not supported.</source>
+        <translation>Израният файл за региона не се поддържа.</translation>
+    </message>
+    <message>
+        <source>Generating Silence</source>
+        <translation>Генерира тишина</translation>
+    </message>
+    <message>
+        <source>Silence Generation</source>
+        <translation>Генериране на тишина</translation>
+    </message>
+    <message>
+        <source>Applying Fade</source>
+        <translation>Прилага затихване/усилване</translation>
+    </message>
+    <message>
+        <source>Fade In</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Fade Out</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Save Selections...</source>
+        <translation>Запази селекция...</translation>
+    </message>
+    <message>
+        <source>Save Selection...</source>
+        <translation>Запази избраното...</translation>
+    </message>
+    <message>
+        <source>Export Selections...</source>
+        <translation>Експортирай селекция...</translation>
+    </message>
+    <message>
+        <source>Export Selection...</source>
+        <translation>Експортирай избраното...</translation>
+    </message>
+    <message>
+        <source>%1 %2</source>
+        <translation>%1 %2</translation>
+    </message>
+    <message>
+        <source>Undo</source>
+        <translation>Отмени</translation>
+    </message>
+    <message>
+        <source>Redo</source>
+        <translation>Направи отново</translation>
+    </message>
+    <message>
+        <source>Create Regions</source>
+        <translation>Създай региони</translation>
+    </message>
+    <message>
+        <source>Create Region</source>
+        <translation>Създай Регион</translation>
+    </message>
+    <message>
+        <source>Create Marker</source>
+        <translation>Създай маркер</translation>
+    </message>
+    <message>
+        <source>Hide Toolbar</source>
+        <translation>Скрий лентата с инструменти</translation>
+    </message>
+    <message>
+        <source>Show Toolbar</source>
+        <translation>Покажи лента с инструменти</translation>
+    </message>
+    <message>
+        <source>Hide Sidebar</source>
+        <translation>Скрий лента с инструменти</translation>
+    </message>
+    <message>
+        <source>Show Sidebar</source>
+        <translation>Покажи чекмеджето</translation>
+    </message>
+    <message>
+        <source>Hide Navigator</source>
+        <translation>Скрий навигатора</translation>
+    </message>
+    <message>
+        <source>Show Navigator</source>
+        <translation>Покажи навигация</translation>
+    </message>
+    <message>
+        <source>Hide Navigator Window</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Show Navigator Window</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Hide All</source>
+        <translation>Скрий всичко</translation>
+    </message>
+    <message>
+        <source>Show All</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Hide Regions</source>
+        <translation>Скрий региони</translation>
+    </message>
+    <message>
+        <source>Show Regions</source>
+        <translation>Покажи Региони</translation>
+    </message>
+    <message>
+        <source>Hide Loop</source>
+        <translation>Скрий лупове</translation>
+    </message>
+    <message>
+        <source>Show Loops</source>
+        <translation>Покажи Лупове</translation>
+    </message>
+    <message>
+        <source>Hide Markers</source>
+        <translation>Скрий маркери</translation>
+    </message>
+    <message>
+        <source>Show Markers</source>
+        <translation>Покажи Маркери</translation>
+    </message>
+    <message>
+        <source>Hide Markers Label</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Show Markers Label</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Hide Channels Id</source>
+        <translation>Скрий идентификация на канала</translation>
+    </message>
+    <message>
+        <source>Show Channels Id</source>
+        <translation>Покажи Идентификация на канали</translation>
+    </message>
+    <message>
+        <source>Stop Recording</source>
+        <translation>Спри записа</translation>
+    </message>
+    <message>
+        <source>Record</source>
+        <translation>Запис</translation>
+    </message>
+    <message>
+        <source>Resume Playback</source>
+        <translation>Продължи просвирването</translation>
+    </message>
+    <message>
+        <source>Stop and Move Cursor</source>
+        <translation>Спри и премести курсора</translation>
+    </message>
+    <message>
+        <source>Stop</source>
+        <translation>Спри</translation>
+    </message>
+    <message>
+        <source>Play and Select</source>
+        <translation>Свири и избирай</translation>
+    </message>
+    <message>
+        <source>Play</source>
+        <translation>Свири</translation>
+    </message>
+    <message>
+        <source>Repeat %1</source>
+        <translation>Повтори %1</translation>
+    </message>
+    <message>
+        <source>&amp;Edit</source>
+        <translation>&amp;Редактиране</translation>
+    </message>
+    <message>
+        <source>Copy</source>
+        <translation>Копирай</translation>
+    </message>
+    <message>
+        <source>Cut</source>
+        <translation>Изрежи</translation>
+    </message>
+    <message>
+        <source>Paste</source>
+        <translation>Постави</translation>
+    </message>
+    <message>
+        <source>Delete Marker</source>
+        <translation>Изтрй маркер</translation>
+    </message>
+    <message>
+        <source>Convert Region to Loop</source>
+        <translation>Конвертирай регион към луп</translation>
+    </message>
+    <message>
+        <source>Merge Regions</source>
+        <translation>Обедини региони</translation>
+    </message>
+    <message>
+        <source>Adjust Selection</source>
+        <translation>Променяне на избраното
+</translation>
+    </message>
+    <message>
+        <source>Snap to Scale Tick</source>
+        <translation>Придвижвай се по стойносите нс скалата</translation>
+    </message>
+    <message>
+        <source>Snap to Zero Cross</source>
+        <translation>Придвижвай се по точките на нулево пресичане</translation>
+    </message>
+    <message>
+        <source>Delete Loop</source>
+        <translation>Изтрий луп</translation>
+    </message>
+    <message>
+        <source>Delete Region</source>
+        <translation>Изтрий регион</translation>
+    </message>
+    <message>
+        <source>Convert Loop to Region</source>
+        <translation>Конвертирай луп към регион</translation>
+    </message>
+    <message>
+        <source>Adjust Selections</source>
+        <translation>Настрой селекциите</translation>
+    </message>
+    <message>
+        <source>Export Error</source>
+        <translation>Грешка при експортиране</translation>
+    </message>
+    <message>
+        <source>The export file format is not compatible with the current audio format!</source>
+        <translation>Формата на файла за експортиране не есъвместим с настоящия аудио формат!</translation>
+    </message>
+    <message>
+        <source>The export file cannot be create on the destination path!</source>
+        <translation>Файла за експортиране не може да бъде създаден на указаното място!</translation>
     </message>
 </context>
 <context>
     <name>QOcenAudioPropertiesDialog</name>
     <message>
         <source>Audio Properties</source>
-        <translation type="unfinished"></translation>
+        <translation>Звукови свойства</translation>
     </message>
     <message>
         <source>Song Name longo para ver o que pode acontecer</source>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
     <message>
         <source>Artist</source>
-        <translation type="unfinished">Артист</translation>
+        <translation>Артист</translation>
     </message>
     <message>
         <source>Album</source>
-        <translation type="unfinished">Албум</translation>
+        <translation>Албум</translation>
     </message>
     <message>
         <source>General</source>
-        <translation type="unfinished">Основни</translation>
+        <translation>Основни</translation>
     </message>
     <message>
         <source>File Name</source>
-        <translation type="unfinished"></translation>
+        <translation>Имае на файла</translation>
     </message>
     <message>
         <source>filename.mp4</source>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
     <message>
         <source>File Container</source>
@@ -1842,7 +2591,7 @@
     </message>
     <message>
         <source>MP4</source>
-        <translation type="unfinished">MP4</translation>
+        <translation>MP4</translation>
     </message>
     <message>
         <source>Audio Codec</source>
@@ -1858,7 +2607,7 @@
     </message>
     <message>
         <source>LAME3.99</source>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
     <message>
         <source>Bit Rate</source>
@@ -1866,7 +2615,7 @@
     </message>
     <message>
         <source>192 kbps</source>
-        <translation type="unfinished">192 kbps</translation>
+        <translation></translation>
     </message>
     <message>
         <source>Sample Rate</source>
@@ -1874,27 +2623,27 @@
     </message>
     <message>
         <source>44100 Hz</source>
-        <translation type="unfinished">44100 Hz</translation>
+        <translation></translation>
     </message>
     <message>
         <source>Channels</source>
-        <translation type="unfinished">Канали</translation>
+        <translation>Канали</translation>
     </message>
     <message>
         <source>stereo</source>
-        <translation type="unfinished">Стерео</translation>
+        <translation>Стерео</translation>
     </message>
     <message>
         <source>Resolution</source>
-        <translation type="unfinished">Резолюция</translation>
+        <translation>Резолюция</translation>
     </message>
     <message>
         <source>16 bits</source>
-        <translation type="unfinished">16 bits</translation>
+        <translation></translation>
     </message>
     <message>
         <source>Duration</source>
-        <translation type="unfinished">Продължителност</translation>
+        <translation>Продължителност</translation>
     </message>
     <message>
         <source>26 seconds</source>
@@ -1906,7 +2655,7 @@
     </message>
     <message>
         <source>192900</source>
-        <translation type="unfinished">192900</translation>
+        <translation></translation>
     </message>
     <message>
         <source>Size on Memory</source>
@@ -1914,7 +2663,7 @@
     </message>
     <message>
         <source>100 Kb</source>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
     <message>
         <source>Size on Disk</source>
@@ -1922,7 +2671,7 @@
     </message>
     <message>
         <source>192 Kb</source>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
     <message>
         <source>Modification Date</source>
@@ -1930,7 +2679,7 @@
     </message>
     <message>
         <source>12/09/2014 23:00</source>
-        <translation type="unfinished">12/09/2014 23:00</translation>
+        <translation>12/09/2014 23:00</translation>
     </message>
     <message>
         <source>Location</source>
@@ -1938,7 +2687,7 @@
     </message>
     <message>
         <source>/Users/ruijunior/Music/iTunes/iTunes Media/Music/Enanitos Verdes/Unknown Album/Lamento Boliviano.aif</source>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
     <message>
         <source>Details</source>
@@ -1962,11 +2711,11 @@
     </message>
     <message>
         <source>Genre</source>
-        <translation type="unfinished">Жанр</translation>
+        <translation>Жанр</translation>
     </message>
     <message>
         <source>Year</source>
-        <translation type="unfinished">Година</translation>
+        <translation>Година</translation>
     </message>
     <message>
         <source>Disk Number</source>
@@ -1994,7 +2743,7 @@
     </message>
     <message>
         <source>Artwork</source>
-        <translation type="unfinished">Корица</translation>
+        <translation>Корица</translation>
     </message>
     <message>
         <source>Album Artwork</source>
@@ -2002,11 +2751,11 @@
     </message>
     <message>
         <source>PNG / 256 x 256</source>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
     <message>
         <source>Change Artwork...</source>
-        <translation type="unfinished">Смени корица...</translation>
+        <translation>Смени корица...</translation>
     </message>
     <message>
         <source>Markers</source>
@@ -2014,15 +2763,15 @@
     </message>
     <message>
         <source>Statistics</source>
-        <translation type="unfinished">Статистика</translation>
+        <translation>Статистика</translation>
     </message>
     <message>
         <source>Select Artwork</source>
-        <translation type="unfinished">Избери корица</translation>
+        <translation>Избери корица</translation>
     </message>
     <message>
         <source>Images (*.png *.jpg *.bmp)</source>
-        <translation type="unfinished"></translation>
+        <translation>Снимки (*.png *.jpg *.bmp)</translation>
     </message>
 </context>
 <context>
@@ -2443,6 +3192,198 @@
     </message>
 </context>
 <context>
+    <name>QOcenFTPDirListDialog</name>
+    <message>
+        <source>Directory List</source>
+        <translation>Списък с папки</translation>
+    </message>
+    <message>
+        <source>Directory</source>
+        <translation>Папки</translation>
+    </message>
+    <message>
+        <source>/</source>
+        <translation></translation>
+    </message>
+    <message>
+        <source>data</source>
+        <translation>информация</translation>
+    </message>
+    <message>
+        <source>Selected Path</source>
+        <translation>Избран път</translation>
+    </message>
+</context>
+<context>
+    <name>QOcenFTPExportDialog</name>
+    <message>
+        <source>Export Audio using FTP</source>
+        <translation>Експортирай аудио през FTP</translation>
+    </message>
+    <message>
+        <source>Ftp Server</source>
+        <translation>FTP сървър</translation>
+    </message>
+    <message>
+        <source>Profile Name</source>
+        <translation>Име на профил</translation>
+    </message>
+    <message>
+        <source>Address</source>
+        <translation>Адрес</translation>
+    </message>
+    <message>
+        <source>Port</source>
+        <translation>Порт</translation>
+    </message>
+    <message>
+        <source>Anonymous Login</source>
+        <translation>Анонимен вход</translation>
+    </message>
+    <message>
+        <source>Username</source>
+        <translation>Потребител</translation>
+    </message>
+    <message>
+        <source>Password</source>
+        <translation>Парола</translation>
+    </message>
+    <message>
+        <source>Server Path</source>
+        <translation>Път на сървъра</translation>
+    </message>
+    <message>
+        <source>...</source>
+        <translation></translation>
+    </message>
+    <message>
+        <source>File Info</source>
+        <translation>Информация за файл</translation>
+    </message>
+    <message>
+        <source>Filename</source>
+        <translation>Име на файла</translation>
+    </message>
+    <message>
+        <source>File Format</source>
+        <translation>Формат на файла</translation>
+    </message>
+    <message>
+        <source>Wav PCM (*.wav)</source>
+        <translation></translation>
+    </message>
+    <message>
+        <source>MP3 File Format Franna (*.mp3)</source>
+        <translation></translation>
+    </message>
+    <message>
+        <source>Upload only selection</source>
+        <translation>Качи само избраното</translation>
+    </message>
+    <message>
+        <source>Upload</source>
+        <translation>Качи</translation>
+    </message>
+    <message>
+        <source>Uploading audio</source>
+        <translation>Качва аудио</translation>
+    </message>
+    <message>
+        <source>Cancel</source>
+        <translation>Отмени</translation>
+    </message>
+    <message>
+        <source>Error</source>
+        <translation>Грешка</translation>
+    </message>
+    <message>
+        <source>The upload process was failed.</source>
+        <translation>Качването се провали.</translation>
+    </message>
+    <message>
+        <source>Upload Finished</source>
+        <translation>Качването приключи</translation>
+    </message>
+    <message>
+        <source>The file was successfully uploaded to your FTP server.</source>
+        <translation>Файла бе успешно качен на вашия FTP сървър.</translation>
+    </message>
+    <message>
+        <source>Warning</source>
+        <translation>Предупреждение</translation>
+    </message>
+    <message>
+        <source>The file %1 already exists in the FTP server.</source>
+        <translation>Файл %1 вече съществува на сървъра.</translation>
+    </message>
+</context>
+<context>
+    <name>QOcenFTPExportThread</name>
+    <message>
+        <source>Connecting to FTP server...</source>
+        <translation>Свързва се с FTP сървър...</translation>
+    </message>
+    <message>
+        <source>Connected to FTP server</source>
+        <translation>Свързан към FTP сървър</translation>
+    </message>
+    <message>
+        <source>Connection refused. Please, check the server address, username and password.</source>
+        <translation>Отказана връзка. Моля, проверете адреса на сървъра, потребителското име и парола.</translation>
+    </message>
+    <message>
+        <source>Preparing audio file to upload...</source>
+        <translation>Приготвя аудио файла за качване...</translation>
+    </message>
+    <message>
+        <source>Fail to prepare file!</source>
+        <translation>Неуспешна подготовка на файла!</translation>
+    </message>
+    <message>
+        <source>Fail to prepare audio file!</source>
+        <translation>Неуспешно подготвяне на аудио файла!</translation>
+    </message>
+    <message>
+        <source>Fail to remove existing file!</source>
+        <translation>Неуспешно премайване на съществуващ файл!</translation>
+    </message>
+    <message>
+        <source>Uploading audio file...</source>
+        <translation>Качва аудио файл...</translation>
+    </message>
+    <message>
+        <source>Upload finished</source>
+        <translation>Качванетом приключи</translation>
+    </message>
+    <message>
+        <source>Disconnected</source>
+        <translation>Връзката преустановена</translation>
+    </message>
+</context>
+<context>
+    <name>QOcenFTPListThread</name>
+    <message>
+        <source>Connecting to FTP server...</source>
+        <translation>Свързва се към FTP сървър...</translation>
+    </message>
+    <message>
+        <source>Connected to FTP server</source>
+        <translation>Свързан към FTP сървър</translation>
+    </message>
+    <message>
+        <source>Connection refused. Please, check the server address, username and password.</source>
+        <translation>Отказана връзка. Моля, проверете адреса на сървъра, потребителското име и парола.</translation>
+    </message>
+    <message>
+        <source>Listing...</source>
+        <translation>Прелиства...</translation>
+    </message>
+    <message>
+        <source>List finished</source>
+        <translation>Прелистването завърши</translation>
+    </message>
+</context>
+<context>
     <name>QOcenFormatSamplesDialog</name>
     <message>
         <source>Convert Audio Format</source>
@@ -2530,6 +3471,116 @@
     </message>
 </context>
 <context>
+    <name>QOcenFxDialog</name>
+    <message>
+        <source>Close</source>
+        <translation>Затвори</translation>
+    </message>
+    <message>
+        <source>Apply</source>
+        <translation>Приложи</translation>
+    </message>
+    <message>
+        <source>bypass</source>
+        <translation></translation>
+    </message>
+    <message>
+        <source>Save Preset</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Manage Presets</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Playback Loop</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Default Settings</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Last Used Settings</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Last Used Settings in this file</source>
+        <translation>Последно използвани настройки в този файл</translation>
+    </message>
+    <message>
+        <source>Built-in Presets</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Saved Presets</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Save Preset As</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Preset Name</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>The name &quot;%1&quot; is already taken.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Do you want to choose another name or replace the previous saved preset?</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Replace</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Choose Another Name</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>QOcenFxManagePresetDialog</name>
+    <message>
+        <source>Manage Presets</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Current Setting (before open preset manager)</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Setting 1</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Setting 2</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>%1 Preset Manager</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Current Preset (user&apos;s changes)</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Rename Preset</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>The name &quot;%1&quot; is already taken.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Please choose another name.</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
     <name>QOcenMixPasteDialog</name>
     <message>
         <source>Paste Special</source>
@@ -2596,7 +3647,7 @@
     <name>QOcenNewAudioDialog</name>
     <message>
         <source>New Audio ...</source>
-        <translation type="unfinished">Ново аудио...</translation>
+        <translation>Ново аудио...</translation>
     </message>
     <message>
         <source>Sample Rate</source>
@@ -2604,11 +3655,11 @@
     </message>
     <message>
         <source>44.1 kHz</source>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
     <message>
         <source>48 kHz</source>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
     <message>
         <source>Other</source>
@@ -2616,15 +3667,15 @@
     </message>
     <message>
         <source>8 kHz</source>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
     <message>
         <source>11025 Hz</source>
-        <translation type="unfinished">44100 Hz {11025 ?}</translation>
+        <translation></translation>
     </message>
     <message>
         <source>16 kHz</source>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
     <message>
         <source>Custom</source>
@@ -2632,15 +3683,15 @@
     </message>
     <message>
         <source>Channels</source>
-        <translation type="unfinished">Канали</translation>
+        <translation>Канали</translation>
     </message>
     <message>
         <source>Mono</source>
-        <translation type="unfinished">Моно</translation>
+        <translation>Моно</translation>
     </message>
     <message>
         <source>Stereo</source>
-        <translation type="unfinished">Стерео</translation>
+        <translation>Стерео</translation>
     </message>
     <message>
         <source>Multichannel</source>
@@ -2672,11 +3723,11 @@
     </message>
     <message>
         <source>44100 Hz</source>
-        <translation type="unfinished">44100 Hz</translation>
+        <translation></translation>
     </message>
     <message>
         <source>48000 Hz</source>
-        <translation type="unfinished">44100 Hz {48000 ?}</translation>
+        <translation></translation>
     </message>
 </context>
 <context>
@@ -2684,6 +3735,155 @@
     <message>
         <source>Custom</source>
         <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>QOcenRecentMenu</name>
+    <message>
+        <source>Recent Files</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Clear History</source>
+        <translation>Изчисти Историята</translation>
+    </message>
+    <message>
+        <source>Open both streams in this file</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Open all streams in this file</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Open all files in this directory</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Open both files in this %1</source>
+        <translation>Използвай и двата файла в %1</translation>
+    </message>
+    <message>
+        <source>Open all %1 files in this %2</source>
+        <translation>Отвори всички %1 файла в този %2</translation>
+    </message>
+    <message>
+        <source>and %1 other files</source>
+        <translation>и %1 други файла</translation>
+    </message>
+</context>
+<context>
+    <name>QOcenUrlDialog</name>
+    <message>
+        <source>Dialog</source>
+        <translation>Диалог</translation>
+    </message>
+    <message>
+        <source>Enter the URL or path to a sound file on the Internet, your computer,
+or your network that you want to open:</source>
+        <translation>Въведете URL или път до файла в интернет, на вашия компютър,
+или мрежа, която можете да отворите:</translation>
+    </message>
+</context>
+<context>
+    <name>QOcenVSTWidget</name>
+    <message>
+        <source>VST Effect</source>
+        <translation>VST ефект</translation>
+    </message>
+    <message>
+        <source>Applying %1|%1</source>
+        <translation>Прилага %1|%1</translation>
+    </message>
+    <message>
+        <source>Plugin crashed</source>
+        <translation>Провал на плъгина</translation>
+    </message>
+    <message>
+        <source>The plugin %1 crashed and will be finalized.</source>
+        <translation>Плъгина %1 се провали и ще бъде приключен.</translation>
+    </message>
+    <message>
+        <source>Ocenaudio was not affected by this crash and will continue running normally.</source>
+        <translation>Ocenaudio не е засегнат от този провал и ще продължи да работи нормално.</translation>
+    </message>
+    <message>
+        <source>VST Effect:</source>
+        <translation>VST ефект:</translation>
+    </message>
+    <message>
+        <source>Manufacturer:</source>
+        <translation>Производител:</translation>
+    </message>
+</context>
+<context>
+    <name>QOcenVstList</name>
+    <message>
+        <source>Dialog</source>
+        <translation>Диалог</translation>
+    </message>
+    <message>
+        <source>List of VST Plugins</source>
+        <translation>Списък VST плъгини</translation>
+    </message>
+    <message>
+        <source>/Library/Audio/plugins/VST/delay.vst</source>
+        <translation></translation>
+    </message>
+    <message>
+        <source>/Library/Audio/plugins/VST/sampler.vst (crashed)</source>
+        <translation></translation>
+    </message>
+    <message>
+        <source>Enable All</source>
+        <translation>Разреши всички</translation>
+    </message>
+    <message>
+        <source>Disable All</source>
+        <translation>Забрани всички</translation>
+    </message>
+    <message>
+        <source>Effects in Folder %1</source>
+        <translation>Ефекти в папката %1</translation>
+    </message>
+    <message>
+        <source>Crashed</source>
+        <translation>Провалени</translation>
+    </message>
+    <message>
+        <source>Duplicated / Older Version</source>
+        <translation>Дублирани / Стари версии</translation>
+    </message>
+    <message>
+        <source>Unsupported</source>
+        <translation>Неподдържани</translation>
+    </message>
+    <message>
+        <source>Not Loaded</source>
+        <translation>Не-заредени</translation>
+    </message>
+</context>
+<context>
+    <name>QOcenVstPrefs</name>
+    <message>
+        <source>Form</source>
+        <translation>Форма</translation>
+    </message>
+    <message>
+        <source>VST Search Path</source>
+        <translation>VST път за търсене</translation>
+    </message>
+    <message>
+        <source>Scanning Plugins</source>
+        <translation>Сканира плъгини</translation>
+    </message>
+    <message>
+        <source>VST</source>
+        <translation>VST</translation>
+    </message>
+    <message>
+        <source>Select Directory</source>
+        <translation>Изберете папка</translation>
     </message>
 </context>
 <context>
@@ -3752,7 +4952,7 @@
     </message>
     <message>
         <source>16 bits - G.729.1</source>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
     <message>
         <source>Applying %1 quantization</source>

@@ -320,11 +320,11 @@
     </message>
     <message>
         <source>Create Region</source>
-        <translation>Criar Região</translation>
+        <translation>Criação de Região</translation>
     </message>
     <message>
         <source>Create Regions</source>
-        <translation>Criar Regiões</translation>
+        <translation>Criação de Regiões</translation>
     </message>
     <message>
         <source>New Region</source>
@@ -364,7 +364,7 @@
     </message>
     <message>
         <source>Paste From File</source>
-        <translation>Colar Arquivo</translation>
+        <translation>Colar do Arquivo</translation>
     </message>
     <message>
         <source>Paste Silence</source>
@@ -372,7 +372,7 @@
     </message>
     <message>
         <source>Append Audio</source>
-        <translation>Anexar Audio</translation>
+        <translation>Anexar Áudio</translation>
     </message>
     <message>
         <source>Append Silence</source>
@@ -380,7 +380,7 @@
     </message>
     <message>
         <source>Append From File</source>
-        <translation>Anexar Audio de Arquivo</translation>
+        <translation>Anexar Áudio de Arquivo</translation>
     </message>
     <message>
         <source>Change Metadata</source>
@@ -392,11 +392,11 @@
     </message>
     <message>
         <source>m s e c</source>
-        <translation>m s e g</translation>
+        <translation></translation>
     </message>
     <message>
         <source>s e c</source>
-        <translation>s e g</translation>
+        <translation></translation>
     </message>
     <message>
         <source>m i n</source>
@@ -413,6 +413,18 @@
     <message>
         <source>f r a m e s</source>
         <translation></translation>
+    </message>
+    <message>
+        <source>mono</source>
+        <translation>mono</translation>
+    </message>
+    <message>
+        <source>stereo</source>
+        <translation>stereo</translation>
+    </message>
+    <message>
+        <source>%1 channels</source>
+        <translation>%1 canais</translation>
     </message>
     <message>
         <source>Title</source>
@@ -447,7 +459,7 @@
     </message>
     <message>
         <source>ocenaudio Clipboard with %1 seconds in %2 %3</source>
-        <translation>Área de transferência do ocenaudio com %1 segundos de %2 %3</translation>
+        <translation>Área de transferência do ocenaudio com %1 segundos em %2 %3</translation>
     </message>
 </context>
 <context>
@@ -597,7 +609,7 @@
     </message>
     <message>
         <source>Remaining</source>
-        <translation>Tempo restante</translation>
+        <translation>Restando</translation>
     </message>
 </context>
 <context>
@@ -639,21 +651,6 @@
     </message>
 </context>
 <context>
-    <name>QOcenFileFormatPrivate</name>
-    <message>
-        <source>mono</source>
-        <translation>mono</translation>
-    </message>
-    <message>
-        <source>stereo</source>
-        <translation>stereo</translation>
-    </message>
-    <message>
-        <source>%1 channels</source>
-        <translation>%1 canais</translation>
-    </message>
-</context>
-<context>
     <name>QOcenGeneralPrefs</name>
     <message>
         <source>Form</source>
@@ -681,15 +678,15 @@
     </message>
     <message>
         <source>Classic</source>
-        <translation></translation>
+        <translation>Clássico</translation>
     </message>
     <message>
         <source>Light</source>
-        <translation></translation>
+        <translation>Suave</translation>
     </message>
     <message>
         <source>Dark</source>
-        <translation></translation>
+        <translation>Escuro</translation>
     </message>
 </context>
 <context>
@@ -940,47 +937,47 @@
     </message>
     <message>
         <source>Information</source>
-        <translation>Informações</translation>
+        <translation>Informação</translation>
     </message>
     <message>
         <source>Pasting file %1</source>
-        <translation>Colar Arquivo %1</translation>
+        <translation>Colando arquivo %1</translation>
     </message>
     <message>
         <source>Unsupported Format</source>
-        <translation>Formato Não Suportado</translation>
+        <translation>Formato não suportado</translation>
     </message>
     <message>
         <source>The maximum number of channels supported is %1 channels.</source>
-        <translation>O número de canais de canais de áudio suportados é %1.</translation>
+        <translation>O número máximo de canais suportado é de %1 canais.</translation>
     </message>
     <message>
         <source>The minimum sample rate supported is %1 Hz.</source>
-        <translation>A Taxa de Amostragem mínima suportada é %1 Hz.</translation>
+        <translation>A taxa de amostragem mínima suportada é de %1 Hz.</translation>
     </message>
     <message>
         <source>The maximum sample rate supported is %1 Hz.</source>
-        <translation>A Taxa de Amostragem máxima suportada é %1 Hz.</translation>
+        <translation>A taxa de amostragem máxima suportada é de %1 Hz.</translation>
     </message>
     <message>
         <source>Audio VST Check Failed</source>
-        <translation>Falha na verificação de VST</translation>
+        <translation>Falha na checagem do Áudio VST</translation>
     </message>
     <message>
         <source>An error occurred in the execution of VST plugin application. No VST plugin can be loaded in this condition.</source>
-        <translation>Ocorreu um erro na execução da aplicação de suporte a plugins VST. Nenhum plugin VST poderá ser carregado nesta condição.</translation>
+        <translation>Um erro ocorreu na execução do plugin VST. Nenhum plugin VST pode ser carregado.</translation>
     </message>
     <message>
         <source>Audio not saved</source>
         <translation>Áudio não salvo</translation>
     </message>
     <message>
-        <source>It was not possible to complete the save of file “%1” because the chosen container does not support metadata.</source>
-        <translation>Não foi possível concluir o salvamento do arquivo “%1” porque o formato escolhido não suporta metadados.</translation>
+        <source>An error was encountered while saving your sound file “%1”!</source>
+        <translation>Ocorreu um erro durante a operação de salvamento do arquivo &quot;%1&quot;!</translation>
     </message>
     <message>
-        <source>An error was encountered while saving your sound file “%1”!</source>
-        <translation>Ocorreu um erro durante o salvamento do arquivo “%1”!</translation>
+        <source>It was not possible to complete the save of file “%1” because the chosen container does not support metadata.</source>
+        <translation>Não foi possível completar o salvamento do arquivo “%1” pois o formato escolhido não suporta metadados.</translation>
     </message>
 </context>
 <context>
@@ -1129,7 +1126,7 @@
     </message>
     <message>
         <source>Analyzing files in %1</source>
-        <translation>Analisando arquivo em %1</translation>
+        <translation>Analisando arquivos em %1</translation>
     </message>
 </context>
 <context>
@@ -1280,7 +1277,7 @@
     </message>
     <message>
         <source>Mixer Backend</source>
-        <translation>Backend do Mixer</translation>
+        <translation></translation>
     </message>
     <message>
         <source>CoreAudio</source>

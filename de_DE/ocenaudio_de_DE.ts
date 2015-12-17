@@ -53,6 +53,37 @@
     </message>
 </context>
 <context>
+    <name>MAC_APPLICATION_MENU</name>
+    <message>
+        <source>Services</source>
+        <translation>Dienste</translation>
+    </message>
+    <message>
+        <source>Hide %1</source>
+        <translation>Ausblenden %1</translation>
+    </message>
+    <message>
+        <source>Hide Others</source>
+        <translation>Andere Ausblenden</translation>
+    </message>
+    <message>
+        <source>Show All</source>
+        <translation>Alle Einblenden</translation>
+    </message>
+    <message>
+        <source>Preferences...</source>
+        <translation>Einstellungen...</translation>
+    </message>
+    <message>
+        <source>Quit %1</source>
+        <translation>%1 beenden</translation>
+    </message>
+    <message>
+        <source>About %1</source>
+        <translation>Über %1</translation>
+    </message>
+</context>
+<context>
     <name>MainWindow</name>
     <message>
         <source>ocenaudio</source>
@@ -369,10 +400,6 @@
         <translation>Auswahl</translation>
     </message>
     <message>
-        <source>Preferences</source>
-        <translation>Einstellungen</translation>
-    </message>
-    <message>
         <source>Record</source>
         <translation>Aufnahme</translation>
     </message>
@@ -434,7 +461,7 @@
     </message>
     <message>
         <source>Show Navigator Window</source>
-        <translation>Navigatorfenster anzeigen</translation>
+        <translation>Fenster Navigator einblenden</translation>
     </message>
     <message>
         <source>Dirac LE</source>
@@ -723,7 +750,7 @@
     </message>
     <message>
         <source>Meta+Space</source>
-        <translation>Meta+Leertaste</translation>
+        <translation></translation>
     </message>
     <message>
         <source>Send Crash Report...</source>
@@ -896,7 +923,7 @@
     </message>
     <message>
         <source>Flanger</source>
-        <translation>Flanger</translation>
+        <translation></translation>
     </message>
     <message>
         <source>Depth</source>
@@ -924,7 +951,7 @@
     </message>
     <message>
         <source>Chorus</source>
-        <translation>Chorus</translation>
+        <translation></translation>
     </message>
     <message>
         <source>100.0 %</source>
@@ -940,7 +967,7 @@
     </message>
     <message>
         <source>Vibrato</source>
-        <translation>Vibrato</translation>
+        <translation></translation>
     </message>
     <message>
         <source>20.00 Hz</source>
@@ -1078,7 +1105,7 @@
     </message>
     <message>
         <source>Noise Gate</source>
-        <translation>Noise Gate</translation>
+        <translation></translation>
     </message>
     <message>
         <source>-60 dB</source>
@@ -1648,6 +1675,14 @@
         <translation>Limitierte Variable Bitrate (ABR)</translation>
     </message>
     <message>
+        <source>32 bits</source>
+        <translation></translation>
+    </message>
+    <message>
+        <source>64 bits</source>
+        <translation></translation>
+    </message>
+    <message>
         <source>Preview</source>
         <translation>Vorhören</translation>
     </message>
@@ -1685,7 +1720,7 @@
     </message>
     <message>
         <source>Display Cursor Position</source>
-        <translation>Zeigerposition anzeigen</translation>
+        <translation>Zeige Cursor Position</translation>
     </message>
     <message>
         <source>%1 Scale</source>
@@ -1714,7 +1749,7 @@
     </message>
     <message>
         <source>DC Offset</source>
-        <translation>DC Offset</translation>
+        <translation></translation>
     </message>
     <message>
         <source>Minimum RMS Power</source>
@@ -1749,11 +1784,11 @@
     <name>QOcenAboutDialog</name>
     <message>
         <source>About</source>
-        <translation>Info</translation>
+        <translation>Über</translation>
     </message>
     <message>
         <source>ocenaudio</source>
-        <translation>Ocenaudio</translation>
+        <translation>ocenaudio</translation>
     </message>
     <message>
         <source>Version 2.6.0 (Build 2292)</source>
@@ -1789,6 +1824,28 @@
     </message>
 </context>
 <context>
+    <name>QOcenAudioApplication</name>
+    <message>
+        <source>Stay Updated with ocenaudio!</source>
+        <translation>Bleiben Sie auf dem neuesten Stand mit Ocenaudio!</translation>
+    </message>
+    <message>
+        <source>A new version might be available.
+Click here and check!</source>
+        <translation>Möglicherweise ist eine neue Version verfügbar. Hier klicken und prüfen!</translation>
+    </message>
+    <message>
+        <source>New release available</source>
+        <translation>Neue Version verfügbar</translation>
+    </message>
+    <message>
+        <source>A new ocenaudio version is available.
+Click here to download it.</source>
+        <translation>Eine neue Version von Ocenaudio ist verfügbar.
+Klicken Sie hier zum Herunterladen.</translation>
+    </message>
+</context>
+<context>
     <name>QOcenAudioFftAnalysisDialog</name>
     <message>
         <source>FFT Analysis</source>
@@ -1804,6 +1861,697 @@
     </message>
 </context>
 <context>
+    <name>QOcenAudioMainWindow</name>
+    <message>
+        <source>About</source>
+        <translation>Über</translation>
+    </message>
+    <message>
+        <source>Preferences</source>
+        <translation>Einstellungen</translation>
+    </message>
+    <message>
+        <source>Scanning VST Plugins</source>
+        <translation>Scannen VST-Plugin</translation>
+    </message>
+    <message>
+        <source>VST</source>
+        <translation></translation>
+    </message>
+    <message>
+        <source>Apple Bandpass Filter</source>
+        <translation></translation>
+    </message>
+    <message>
+        <source>Apple Filter</source>
+        <translation></translation>
+    </message>
+    <message>
+        <source>Apple Highpass Filter</source>
+        <translation></translation>
+    </message>
+    <message>
+        <source>Apple High Shelf Filter</source>
+        <translation></translation>
+    </message>
+    <message>
+        <source>Apple Lowpass Filter</source>
+        <translation></translation>
+    </message>
+    <message>
+        <source>Apple Low Shelf Filter</source>
+        <translation></translation>
+    </message>
+    <message>
+        <source>Apple Dynamics Processor</source>
+        <translation></translation>
+    </message>
+    <message>
+        <source>Apple Peak Limiter</source>
+        <translation></translation>
+    </message>
+    <message>
+        <source>Apple Multiband Compressor</source>
+        <translation></translation>
+    </message>
+    <message>
+        <source>Apple Delay</source>
+        <translation></translation>
+    </message>
+    <message>
+        <source>Apple Matrix Reverb</source>
+        <translation></translation>
+    </message>
+    <message>
+        <source>Apple Sample Delay</source>
+        <translation></translation>
+    </message>
+    <message>
+        <source>Apple Graphic Equalizer</source>
+        <translation></translation>
+    </message>
+    <message>
+        <source>Apple Parametric Equalizer</source>
+        <translation></translation>
+    </message>
+    <message>
+        <source>Apple N-Band Equalizer</source>
+        <translation></translation>
+    </message>
+    <message>
+        <source>Apple Pitch</source>
+        <translation></translation>
+    </message>
+    <message>
+        <source>Apple New Pitch</source>
+        <translation></translation>
+    </message>
+    <message>
+        <source>Apple Distortion</source>
+        <translation></translation>
+    </message>
+    <message>
+        <source>Apple Roger Beep</source>
+        <translation></translation>
+    </message>
+    <message>
+        <source>Apple Net Send</source>
+        <translation></translation>
+    </message>
+    <message>
+        <source>Apple AAC Encoder Round Trip</source>
+        <translation></translation>
+    </message>
+    <message>
+        <source>Audio Unit</source>
+        <translation></translation>
+    </message>
+    <message>
+        <source>File Menu</source>
+        <translation>Datei-Menü</translation>
+    </message>
+    <message>
+        <source>Edit Menu</source>
+        <translation>Bearbeiten-Menü</translation>
+    </message>
+    <message>
+        <source>View Menu</source>
+        <translation>Ansicht-Menü</translation>
+    </message>
+    <message>
+        <source>Control Menu</source>
+        <translation>Transport-Menü</translation>
+    </message>
+    <message>
+        <source>Effects Menu</source>
+        <translation>Effekte-Menü</translation>
+    </message>
+    <message>
+        <source>VST Effects</source>
+        <translation>VST-Effekte</translation>
+    </message>
+    <message>
+        <source>Audio Units Effects</source>
+        <translation>Audio-Unit-Effekte</translation>
+    </message>
+    <message>
+        <source>Generate Menu</source>
+        <translation>Erzeugen-Menü</translation>
+    </message>
+    <message>
+        <source>Analyze Menu</source>
+        <translation>Analyse-Menü</translation>
+    </message>
+    <message>
+        <source>Help Menu</source>
+        <translation>Hilfe-Menü</translation>
+    </message>
+    <message>
+        <source>New From Selection</source>
+        <translation>Neu aus Auswahl</translation>
+    </message>
+    <message>
+        <source>New From Clipboard</source>
+        <translation>Neu aus Zwischenablage</translation>
+    </message>
+    <message>
+        <source>Close File</source>
+        <translation>Datei schließen</translation>
+    </message>
+    <message>
+        <source>Close All Files</source>
+        <translation>Schließen alle Dateien</translation>
+    </message>
+    <message>
+        <source>Adjust Selection to Scale Tick</source>
+        <translation>Passen Auswahl auf Skalenstrich</translation>
+    </message>
+    <message>
+        <source>Adjust Selection to Zero Cross</source>
+        <translation>Passen Auswahl auf Nulldurchgang</translation>
+    </message>
+    <message>
+        <source>Create Marker/Region</source>
+        <translation>Regionen und Marker erzeugen</translation>
+    </message>
+    <message>
+        <source>Waveform and Spectral View</source>
+        <translation>Wellenform und Spektrogramm</translation>
+    </message>
+    <message>
+        <source>Display Time Format in Decimal</source>
+        <translation>Zeitformat in Dezimal</translation>
+    </message>
+    <message>
+        <source>Display Time Format in Samples</source>
+        <translation>Zeitformat in Samples</translation>
+    </message>
+    <message>
+        <source>Display Time Format in Frames</source>
+        <translation>Zeitformat in Frames</translation>
+    </message>
+    <message>
+        <source>Vertical Scale in Sample Value</source>
+        <translation>Vertikale Skala in Sample-Wert</translation>
+    </message>
+    <message>
+        <source>Vertical Scale Normalized</source>
+        <translation>Vertikale Skala in Normalisierter Wert</translation>
+    </message>
+    <message>
+        <source>Vertical Scale Percentages</source>
+        <translation>Vertikale Skala in Prozent Wert</translation>
+    </message>
+    <message>
+        <source>Vertical Scale in Decibels</source>
+        <translation>Vertikale Skala in Dezibel Wert</translation>
+    </message>
+    <message>
+        <source>Spectral Scale in Mels</source>
+        <translation>Spektrogramm Skala in Mels</translation>
+    </message>
+    <message>
+        <source>Spectral Scale in Hz</source>
+        <translation>Spektrogramm Skala in Hz</translation>
+    </message>
+    <message>
+        <source>Show/Hide Regions</source>
+        <translation>Regionen Einblenden/Ausblenden</translation>
+    </message>
+    <message>
+        <source>Show/Hide Loops</source>
+        <translation>Loops Einblenden/Ausblenden</translation>
+    </message>
+    <message>
+        <source>Show/Hide Markers</source>
+        <translation>Marker Einblenden/Ausblenden</translation>
+    </message>
+    <message>
+        <source>Show/Hide All Regions, Loops and Markers</source>
+        <translation>Alle Regionen, Loops und Marker Einblenden/Ausblenden</translation>
+    </message>
+    <message>
+        <source>Show/Hide Markers Label</source>
+        <translation>Label-Marker Einblenden/Ausblenden</translation>
+    </message>
+    <message>
+        <source>Show/Hide Toolbar</source>
+        <translation>Werkzeugleiste Einblenden/Ausblenden</translation>
+    </message>
+    <message>
+        <source>Show/Hide Sidebar</source>
+        <translation>Seitenleiste Einblenden/Ausblenden</translation>
+    </message>
+    <message>
+        <source>Show/Hide Navigator</source>
+        <translation>Navigator Einblenden/Ausblenden</translation>
+    </message>
+    <message>
+        <source>Show/Hide Navigator Window</source>
+        <translation>Fenster Navigator Einblenden/Ausblenden</translation>
+    </message>
+    <message>
+        <source>Show Full-size Level Meter</source>
+        <translation>Vollständige Pegelanzeige Einblenden</translation>
+    </message>
+    <message>
+        <source>Show Mini Level Meter</source>
+        <translation>Mini-Pegelanzeige Einblenden</translation>
+    </message>
+    <message>
+        <source>Hide Level Meter</source>
+        <translation>Pegelanzeige Ausblenden</translation>
+    </message>
+    <message>
+        <source>Start/Stop Recording</source>
+        <translation>Anfang/Stoppen Aufnahme</translation>
+    </message>
+    <message>
+        <source>Goto Next Audio</source>
+        <translation>Gehen zum Nächste Audio</translation>
+    </message>
+    <message>
+        <source>Goto Previous Audio</source>
+        <translation>Gehen zum Vorherige Audio</translation>
+    </message>
+    <message>
+        <source>Enable/Disable Loop Playback</source>
+        <translation>Aktivieren/Deaktivieren der Loop Wiedergabe</translation>
+    </message>
+    <message>
+        <source>Move Cursor to Next Marker</source>
+        <translation>Cursor zum Nächsten Marker</translation>
+    </message>
+    <message>
+        <source>Move Cursor to Previous Marker</source>
+        <translation>Cursor zum Vorherigen Marker</translation>
+    </message>
+    <message>
+        <source>Repeat Last Effect</source>
+        <translation>Wiederholen Letzte Effekt</translation>
+    </message>
+    <message>
+        <source>Send Crash Report</source>
+        <translation>Absturzbericht senden</translation>
+    </message>
+    <message>
+        <source>Save Sound Copy As ...</source>
+        <translation>Kopie speichern unter...</translation>
+    </message>
+    <message>
+        <source>Save Copy As</source>
+        <translation>Kopie speichern unter</translation>
+    </message>
+    <message>
+        <source>Save Sound Selection As ...</source>
+        <translation>Auswahl speichern unter...</translation>
+    </message>
+    <message>
+        <source>Saving Selection As</source>
+        <translation>Speichere Auswahl unter</translation>
+    </message>
+    <message>
+        <source>Question</source>
+        <translation>Frage</translation>
+    </message>
+    <message>
+        <source>You have multiple selections. Do you want to save each selection to a separate file?</source>
+        <translation>Sie haben mehrere Bereiche ausgewählt. Wollen Sie jede Auswahl in eine eigene Datei speichern?</translation>
+    </message>
+    <message>
+        <source>Select &quot;separate&quot; to save each selection to a different file. If you select &quot;single&quot; all your selections will be appended and saved to a single file.</source>
+        <translation>Wählen Sie &quot;Einzelne Dateien&quot; zum Speichern jeder Auswahl in eine eigene Datei. Wenn Sie &quot;Eine Datei&quot; wählen, werden alle ausgewählen Bereiche aneinandergefügt und in eine Datei gespeichert.</translation>
+    </message>
+    <message>
+        <source>Separate</source>
+        <translation>Einzelne Dateien</translation>
+    </message>
+    <message>
+        <source>Single</source>
+        <translation>Eine Datei</translation>
+    </message>
+    <message>
+        <source>Save Each Selection Prefixed With ...</source>
+        <translation>Jede Auswahl speichern mit Prefix...</translation>
+    </message>
+    <message>
+        <source>Prefix With:</source>
+        <translation>Mit Prefix:</translation>
+    </message>
+    <message>
+        <source>Save Sound Selections As ...</source>
+        <translation>Speichere Auswahlen unter...</translation>
+    </message>
+    <message>
+        <source>Exporting As</source>
+        <translation>Exportiere als</translation>
+    </message>
+    <message>
+        <source>Exporting Selection As</source>
+        <translation>Exportiere Auswahl als</translation>
+    </message>
+    <message>
+        <source>region</source>
+        <translation>Region</translation>
+    </message>
+    <message>
+        <source>Exporting Regions As</source>
+        <translation>Exportiere Region als</translation>
+    </message>
+    <message>
+        <source>Information</source>
+        <translation>Information</translation>
+    </message>
+    <message>
+        <source>Maximum ringtone duration exceeded!</source>
+        <translation>Maximale Klingeltonlänge überschritten!</translation>
+    </message>
+    <message>
+        <source>The maximum duration of a ringtone to itunes is 30s. To proceed you must select or cut your audio up to 30s.</source>
+        <translation>Die maximale Länge eines Klingeltons für iTunes beträgt 30 s. Um Fortzufahren müssen Sie Ihre Auswahl auf 30 s beschränken.</translation>
+    </message>
+    <message>
+        <source>%1</source>
+        <translation></translation>
+    </message>
+    <message>
+        <source>Do you want to revert to the most recently saved version of the document “%1”?</source>
+        <translation>Wollen Sie die letzte gespeicherten Version der Datein &quot;%1&quot; neu laden?</translation>
+    </message>
+    <message>
+        <source>Your current changes will be lost.</source>
+        <translation>Ihre Änderungen gehen verloren.</translation>
+    </message>
+    <message>
+        <source>Revert</source>
+        <translation>Neu laden</translation>
+    </message>
+    <message>
+        <source>Cancel</source>
+        <translation>Abbrechen</translation>
+    </message>
+    <message>
+        <source>Save Audio Screenshot</source>
+        <translation>Bildschirmfoto speichern</translation>
+    </message>
+    <message>
+        <source>Images (*.png *.xpm *.jpg)</source>
+        <translation>Bilder (*.png *.xpm *.jpg)</translation>
+    </message>
+    <message>
+        <source>Select Sound File</source>
+        <translation>Audiodatei wählen</translation>
+    </message>
+    <message>
+        <source>Attention</source>
+        <translation>Achtung</translation>
+    </message>
+    <message>
+        <source>You are about to remove all metadata of this file. Are you sure you want to proceed?</source>
+        <translation>Sie sind dabei, alle metadaten entfernen. Sind Sie sicher?</translation>
+    </message>
+    <message>
+        <source>If you proceed all metadata informations (artist name, album name, artwork) will be removed from this file.</source>
+        <translation>Wenn Sie fortfahren, alle metadaten (künstler, album, bild) gehen wird aus dieser datei entfernt werden.</translation>
+    </message>
+    <message>
+        <source>Some markers will be merged because they are very close.</source>
+        <translation>Einige Marker werden zusammenfügen, weil sie sehr nahe beieinander liegen werden.</translation>
+    </message>
+    <message>
+        <source>Markers less than 10 ms apart are merged in the split process. You have one marker merged.</source>
+        <translation>Marker weniger als 10 ms auseinander in der geteilten Verfahren verschmolzen. Sie haben eine Markierung verschmolzen.</translation>
+    </message>
+    <message>
+        <source>Markers less than 10 ms apart are merged in the split process. You have %1 markers merged.</source>
+        <translation>Marker weniger als 10 ms auseinander in der geteilten Verfahren verschmolzen. Sie haben %1 Marker verschmolzen.</translation>
+    </message>
+    <message>
+        <source>You are about to split your audio by %1 parts. Are you sure you want to proceed?</source>
+        <translation>Sie sind dabei, Ihre Audio durch %1 Teile aufgeteilt. Sind Sie sicher?</translation>
+    </message>
+    <message>
+        <source>If you proceed this operation will generate %1 new audio files.</source>
+        <translation>Wenn Sie fortfahren wird dieser Vorgang %1 neue Audio-Dateien zu erzeugen.</translation>
+    </message>
+    <message>
+        <source>Part %1 of </source>
+        <translation>Teil %1 von</translation>
+    </message>
+    <message>
+        <source>Error</source>
+        <translation>Fehler</translation>
+    </message>
+    <message>
+        <source>Invalid Regions Filename!</source>
+        <translation>Ungültiger Regionendateiname!</translation>
+    </message>
+    <message>
+        <source>The regions file selected is not supported.</source>
+        <translation>Die gewählte Regionendatei wird nicht unterstützt.</translation>
+    </message>
+    <message>
+        <source>Generating Silence</source>
+        <translation>Erzeuge Stille</translation>
+    </message>
+    <message>
+        <source>Silence Generation</source>
+        <translation>Stille erzeugen</translation>
+    </message>
+    <message>
+        <source>Applying Fade</source>
+        <translation>Blende anwenden</translation>
+    </message>
+    <message>
+        <source>Fade In</source>
+        <translation>Einblenden</translation>
+    </message>
+    <message>
+        <source>Fade Out</source>
+        <translation>Ausblenden</translation>
+    </message>
+    <message>
+        <source>Save Selections...</source>
+        <translation>Auswahlen speichern...</translation>
+    </message>
+    <message>
+        <source>Save Selection...</source>
+        <translation>Auswahl speichern...</translation>
+    </message>
+    <message>
+        <source>Export Selections...</source>
+        <translation>Auswahlen exportieren...</translation>
+    </message>
+    <message>
+        <source>Export Selection...</source>
+        <translation>Auswahl exportieren...</translation>
+    </message>
+    <message>
+        <source>%1 %2</source>
+        <translation></translation>
+    </message>
+    <message>
+        <source>Undo</source>
+        <translation>Rückgängig</translation>
+    </message>
+    <message>
+        <source>Redo</source>
+        <translation>Wiederherstellen</translation>
+    </message>
+    <message>
+        <source>Create Regions</source>
+        <translation>Regionen erzeugen</translation>
+    </message>
+    <message>
+        <source>Create Region</source>
+        <translation>Region erzeugen</translation>
+    </message>
+    <message>
+        <source>Create Marker</source>
+        <translation>Marker setzen</translation>
+    </message>
+    <message>
+        <source>Hide Toolbar</source>
+        <translation>Werkzeugleiste ausblenden</translation>
+    </message>
+    <message>
+        <source>Show Toolbar</source>
+        <translation>Werkzeugleiste Einblenden</translation>
+    </message>
+    <message>
+        <source>Hide Sidebar</source>
+        <translation>Seitenleiste Ausblenden</translation>
+    </message>
+    <message>
+        <source>Show Sidebar</source>
+        <translation>Seitenleiste einblenden</translation>
+    </message>
+    <message>
+        <source>Hide Navigator</source>
+        <translation>Navigator ausblenden</translation>
+    </message>
+    <message>
+        <source>Show Navigator</source>
+        <translation>Navigator Einblenden</translation>
+    </message>
+    <message>
+        <source>Hide Navigator Window</source>
+        <translation>Fenster Navigator Ausblenden</translation>
+    </message>
+    <message>
+        <source>Show Navigator Window</source>
+        <translation>Navigatorfenster anzeigen</translation>
+    </message>
+    <message>
+        <source>Hide All</source>
+        <translation>Alle Ausblenden</translation>
+    </message>
+    <message>
+        <source>Show All</source>
+        <translation></translation>
+    </message>
+    <message>
+        <source>Hide Regions</source>
+        <translation>Regionen Ausblenden</translation>
+    </message>
+    <message>
+        <source>Show Regions</source>
+        <translation>Regionen einblenden</translation>
+    </message>
+    <message>
+        <source>Hide Loop</source>
+        <translation>Loop Ausblenden</translation>
+    </message>
+    <message>
+        <source>Show Loops</source>
+        <translation>Loops einblenden</translation>
+    </message>
+    <message>
+        <source>Hide Markers</source>
+        <translation>Marker Ausblenden</translation>
+    </message>
+    <message>
+        <source>Show Markers</source>
+        <translation>Marker einblenden</translation>
+    </message>
+    <message>
+        <source>Hide Markers Label</source>
+        <translation>Label-Marker Ausblenden</translation>
+    </message>
+    <message>
+        <source>Show Markers Label</source>
+        <translation>Label-Marker Einblenden</translation>
+    </message>
+    <message>
+        <source>Hide Channels Id</source>
+        <translation>Kanal Id Ausblenden</translation>
+    </message>
+    <message>
+        <source>Show Channels Id</source>
+        <translation>Kanal Id einblenden</translation>
+    </message>
+    <message>
+        <source>Stop Recording</source>
+        <translation>Aufnahme Stoppen</translation>
+    </message>
+    <message>
+        <source>Record</source>
+        <translation>Aufnahme</translation>
+    </message>
+    <message>
+        <source>Resume Playback</source>
+        <translation>Fortsetzen der Wiedergabe</translation>
+    </message>
+    <message>
+        <source>Stop and Move Cursor</source>
+        <translation>Stopp und verschiebe Zeiger</translation>
+    </message>
+    <message>
+        <source>Stop</source>
+        <translation>Stopp</translation>
+    </message>
+    <message>
+        <source>Play and Select</source>
+        <translation>Wiedergabe und Auswahl</translation>
+    </message>
+    <message>
+        <source>Play</source>
+        <translation>Wiedergabe</translation>
+    </message>
+    <message>
+        <source>Repeat %1</source>
+        <translation>Wiederhole %1</translation>
+    </message>
+    <message>
+        <source>&amp;Edit</source>
+        <translation>&amp;Bearbeiten</translation>
+    </message>
+    <message>
+        <source>Copy</source>
+        <translation>Kopieren</translation>
+    </message>
+    <message>
+        <source>Cut</source>
+        <translation>Ausschneiden</translation>
+    </message>
+    <message>
+        <source>Paste</source>
+        <translation>Einfügen</translation>
+    </message>
+    <message>
+        <source>Delete Marker</source>
+        <translation>Marker löschen</translation>
+    </message>
+    <message>
+        <source>Convert Region to Loop</source>
+        <translation>Konvertiere Region zu Loop</translation>
+    </message>
+    <message>
+        <source>Merge Regions</source>
+        <translation>Regionen zusammenfügen</translation>
+    </message>
+    <message>
+        <source>Adjust Selection</source>
+        <translation>Auswahl anpassen</translation>
+    </message>
+    <message>
+        <source>Snap to Scale Tick</source>
+        <translation>Am Skalenstrich ausrichten</translation>
+    </message>
+    <message>
+        <source>Snap to Zero Cross</source>
+        <translation>Am Nulldurchgang ausrichten</translation>
+    </message>
+    <message>
+        <source>Delete Loop</source>
+        <translation>Loop löschen</translation>
+    </message>
+    <message>
+        <source>Delete Region</source>
+        <translation>Region löschen</translation>
+    </message>
+    <message>
+        <source>Convert Loop to Region</source>
+        <translation>Konvertiere Loop zu Region</translation>
+    </message>
+    <message>
+        <source>Adjust Selections</source>
+        <translation>Auswahlen anpassen</translation>
+    </message>
+    <message>
+        <source>Export Error</source>
+        <translation>Exportieren Fehler</translation>
+    </message>
+    <message>
+        <source>The export file format is not compatible with the current audio format!</source>
+        <translation>Die Export-Datei-Format ist nicht kompatibel mit der aktuellen Audio-Format!</translation>
+    </message>
+    <message>
+        <source>The export file cannot be create on the destination path!</source>
+        <translation>Die Export Datei kann nicht auf dem Zielpfad erstellt werden!</translation>
+    </message>
+</context>
+<context>
     <name>QOcenAudioPropertiesDialog</name>
     <message>
         <source>Audio Properties</source>
@@ -1811,7 +2559,7 @@
     </message>
     <message>
         <source>Song Name longo para ver o que pode acontecer</source>
-        <translation>Langer Titel als Vorschau</translation>
+        <translation></translation>
     </message>
     <message>
         <source>Artist</source>
@@ -1819,7 +2567,7 @@
     </message>
     <message>
         <source>Album</source>
-        <translation>Album</translation>
+        <translation></translation>
     </message>
     <message>
         <source>General</source>
@@ -1831,7 +2579,7 @@
     </message>
     <message>
         <source>filename.mp4</source>
-        <translation>Dateiname.mp4</translation>
+        <translation></translation>
     </message>
     <message>
         <source>File Container</source>
@@ -1839,7 +2587,7 @@
     </message>
     <message>
         <source>MP4</source>
-        <translation>MP4</translation>
+        <translation></translation>
     </message>
     <message>
         <source>Audio Codec</source>
@@ -1855,7 +2603,7 @@
     </message>
     <message>
         <source>LAME3.99</source>
-        <translation>LAME3.99</translation>
+        <translation></translation>
     </message>
     <message>
         <source>Bit Rate</source>
@@ -1863,7 +2611,7 @@
     </message>
     <message>
         <source>192 kbps</source>
-        <translation>192 kbps</translation>
+        <translation></translation>
     </message>
     <message>
         <source>Sample Rate</source>
@@ -1871,7 +2619,7 @@
     </message>
     <message>
         <source>44100 Hz</source>
-        <translation>44100 Hz</translation>
+        <translation></translation>
     </message>
     <message>
         <source>Channels</source>
@@ -1887,7 +2635,7 @@
     </message>
     <message>
         <source>16 bits</source>
-        <translation>16 Bit</translation>
+        <translation></translation>
     </message>
     <message>
         <source>Duration</source>
@@ -1895,7 +2643,7 @@
     </message>
     <message>
         <source>26 seconds</source>
-        <translation>26 Sekunden</translation>
+        <translation></translation>
     </message>
     <message>
         <source>Number of Samples</source>
@@ -1903,7 +2651,7 @@
     </message>
     <message>
         <source>192900</source>
-        <translation>192900</translation>
+        <translation></translation>
     </message>
     <message>
         <source>Size on Memory</source>
@@ -1911,7 +2659,7 @@
     </message>
     <message>
         <source>100 Kb</source>
-        <translation>100 Kb</translation>
+        <translation></translation>
     </message>
     <message>
         <source>Size on Disk</source>
@@ -1919,7 +2667,7 @@
     </message>
     <message>
         <source>192 Kb</source>
-        <translation>192 Kb</translation>
+        <translation></translation>
     </message>
     <message>
         <source>Modification Date</source>
@@ -1935,7 +2683,7 @@
     </message>
     <message>
         <source>/Users/ruijunior/Music/iTunes/iTunes Media/Music/Enanitos Verdes/Unknown Album/Lamento Boliviano.aif</source>
-        <translation>/Users/ruijunior/Music/iTunes/iTunes Media/Music/Enanitos Verdes/Unknown Album/Lamento Boliviano.aif</translation>
+        <translation></translation>
     </message>
     <message>
         <source>Details</source>
@@ -1955,7 +2703,7 @@
     </message>
     <message>
         <source>Grouping</source>
-        <translation>Gruppe</translation>
+        <translation>Werk</translation>
     </message>
     <message>
         <source>Genre</source>
@@ -1979,7 +2727,7 @@
     </message>
     <message>
         <source>bpm</source>
-        <translation>BPM</translation>
+        <translation></translation>
     </message>
     <message>
         <source>Keywords</source>
@@ -1999,7 +2747,7 @@
     </message>
     <message>
         <source>PNG / 256 x 256</source>
-        <translation>PNG / 256 x 256</translation>
+        <translation></translation>
     </message>
     <message>
         <source>Change Artwork...</source>
@@ -2026,11 +2774,11 @@
     <name>QOcenCrashReportDialog</name>
     <message>
         <source>ocenaudio Crashed Previously</source>
-        <translation>Ocenaudio ist kürzlich abgestürzt</translation>
+        <translation>ocenaudio ist kürzlich abgestürzt</translation>
     </message>
     <message>
         <source>ocenaudio crashed previously</source>
-        <translation>Ocenaudio ist kürzlich abgestürzt</translation>
+        <translation>ocenaudio ist kürzlich abgestürzt</translation>
     </message>
     <message>
         <source>Do you want to send details on the crash to ocenaudio&apos;s development team?</source>
@@ -2440,6 +3188,198 @@
     </message>
 </context>
 <context>
+    <name>QOcenFTPDirListDialog</name>
+    <message>
+        <source>Directory List</source>
+        <translation>Verzeichnis Liste</translation>
+    </message>
+    <message>
+        <source>Directory</source>
+        <translation>Verzeichnis</translation>
+    </message>
+    <message>
+        <source>/</source>
+        <translation></translation>
+    </message>
+    <message>
+        <source>data</source>
+        <translation>daten</translation>
+    </message>
+    <message>
+        <source>Selected Path</source>
+        <translation>Ausgewählte Pfad</translation>
+    </message>
+</context>
+<context>
+    <name>QOcenFTPExportDialog</name>
+    <message>
+        <source>Export Audio using FTP</source>
+        <translation>Exportieren Audio über FTP</translation>
+    </message>
+    <message>
+        <source>Ftp Server</source>
+        <translation>FTP-Server</translation>
+    </message>
+    <message>
+        <source>Profile Name</source>
+        <translation>Profilnamen</translation>
+    </message>
+    <message>
+        <source>Address</source>
+        <translation>Server-Adresse</translation>
+    </message>
+    <message>
+        <source>Port</source>
+        <translation></translation>
+    </message>
+    <message>
+        <source>Anonymous Login</source>
+        <translation>Anonyme Anmeldung</translation>
+    </message>
+    <message>
+        <source>Username</source>
+        <translation>Benutzername</translation>
+    </message>
+    <message>
+        <source>Password</source>
+        <translation>Kennwort</translation>
+    </message>
+    <message>
+        <source>Server Path</source>
+        <translation>Server-Pfad</translation>
+    </message>
+    <message>
+        <source>...</source>
+        <translation></translation>
+    </message>
+    <message>
+        <source>File Info</source>
+        <translation>Datei Info</translation>
+    </message>
+    <message>
+        <source>Filename</source>
+        <translation>Dateiname</translation>
+    </message>
+    <message>
+        <source>File Format</source>
+        <translation>Dateiformat</translation>
+    </message>
+    <message>
+        <source>Wav PCM (*.wav)</source>
+        <translation></translation>
+    </message>
+    <message>
+        <source>MP3 File Format Franna (*.mp3)</source>
+        <translation></translation>
+    </message>
+    <message>
+        <source>Upload only selection</source>
+        <translation>Laden nur auswahl</translation>
+    </message>
+    <message>
+        <source>Upload</source>
+        <translation>Laden</translation>
+    </message>
+    <message>
+        <source>Uploading audio</source>
+        <translation>Hochladen der audio</translation>
+    </message>
+    <message>
+        <source>Cancel</source>
+        <translation>Abbrechen</translation>
+    </message>
+    <message>
+        <source>Error</source>
+        <translation>Fehler</translation>
+    </message>
+    <message>
+        <source>The upload process was failed.</source>
+        <translation>Der Upload-Prozess fehlgeschlagen.</translation>
+    </message>
+    <message>
+        <source>Upload Finished</source>
+        <translation>Laden fertig</translation>
+    </message>
+    <message>
+        <source>The file was successfully uploaded to your FTP server.</source>
+        <translation>Die Datei wurde erfolgreich auf FTP-Server hochgeladen.</translation>
+    </message>
+    <message>
+        <source>Warning</source>
+        <translation>Warnung</translation>
+    </message>
+    <message>
+        <source>The file %1 already exists in the FTP server.</source>
+        <translation>Die Datei %1 existiert bereits in dem FTP-Server.</translation>
+    </message>
+</context>
+<context>
+    <name>QOcenFTPExportThread</name>
+    <message>
+        <source>Connecting to FTP server...</source>
+        <translation>Verbinden mit FTP-Server...</translation>
+    </message>
+    <message>
+        <source>Connected to FTP server</source>
+        <translation>Verbunden mit FTP-Server</translation>
+    </message>
+    <message>
+        <source>Connection refused. Please, check the server address, username and password.</source>
+        <translation>Verbindung abgelehnt. Bitte überprüfen Sie die Server-Adresse, Benutzername und Passwort.</translation>
+    </message>
+    <message>
+        <source>Preparing audio file to upload...</source>
+        <translation>Vorbereiten Audio-Datei zum Hochladen...</translation>
+    </message>
+    <message>
+        <source>Fail to prepare file!</source>
+        <translation>Datei konnte nicht vorbereitet!</translation>
+    </message>
+    <message>
+        <source>Fail to prepare audio file!</source>
+        <translation>Audiodatei konnte nicht vorbereitet!</translation>
+    </message>
+    <message>
+        <source>Fail to remove existing file!</source>
+        <translation>Fehler vorhandene Datei zu entfernen!</translation>
+    </message>
+    <message>
+        <source>Uploading audio file...</source>
+        <translation>Hochladen der audiodatei...</translation>
+    </message>
+    <message>
+        <source>Upload finished</source>
+        <translation>Hochladen beendet</translation>
+    </message>
+    <message>
+        <source>Disconnected</source>
+        <translation>Getrennt</translation>
+    </message>
+</context>
+<context>
+    <name>QOcenFTPListThread</name>
+    <message>
+        <source>Connecting to FTP server...</source>
+        <translation>Verbinden mit FTP-Server...</translation>
+    </message>
+    <message>
+        <source>Connected to FTP server</source>
+        <translation>Verbunden mit FTP-Server</translation>
+    </message>
+    <message>
+        <source>Connection refused. Please, check the server address, username and password.</source>
+        <translation>Verbindung abgelehnt. Bitte überprüfen Sie die Server-Adresse, Benutzername und Passwort.</translation>
+    </message>
+    <message>
+        <source>Listing...</source>
+        <translation>Auflisten...</translation>
+    </message>
+    <message>
+        <source>List finished</source>
+        <translation>Auflisen fertig</translation>
+    </message>
+</context>
+<context>
     <name>QOcenFormatSamplesDialog</name>
     <message>
         <source>Convert Audio Format</source>
@@ -2527,6 +3467,116 @@
     </message>
 </context>
 <context>
+    <name>QOcenFxDialog</name>
+    <message>
+        <source>Close</source>
+        <translation>Schließen</translation>
+    </message>
+    <message>
+        <source>Apply</source>
+        <translation>Anwenden</translation>
+    </message>
+    <message>
+        <source>bypass</source>
+        <translation></translation>
+    </message>
+    <message>
+        <source>Save Preset</source>
+        <translation>Speichern Voreinstellungen</translation>
+    </message>
+    <message>
+        <source>Manage Presets</source>
+        <translation>Voreinstellungen Verwalten</translation>
+    </message>
+    <message>
+        <source>Playback Loop</source>
+        <translation>Wiedergabeschleife</translation>
+    </message>
+    <message>
+        <source>Default Settings</source>
+        <translation>Voreinstellung</translation>
+    </message>
+    <message>
+        <source>Last Used Settings</source>
+        <translation>Zuletzt verwendete Einstellung</translation>
+    </message>
+    <message>
+        <source>Last Used Settings in this file</source>
+        <translation>Zuletzt verwendete Einstellung dieser Datei</translation>
+    </message>
+    <message>
+        <source>Built-in Presets</source>
+        <translation>Eingebaute Voreinstellungen</translation>
+    </message>
+    <message>
+        <source>Saved Presets</source>
+        <translation>Gespeicherte Voreinstellungen</translation>
+    </message>
+    <message>
+        <source>Save Preset As</source>
+        <translation>Voreinstellung Speichern Als</translation>
+    </message>
+    <message>
+        <source>Preset Name</source>
+        <translation>Voreinstellungen Name</translation>
+    </message>
+    <message>
+        <source>The name &quot;%1&quot; is already taken.</source>
+        <translation>Der Name &quot;%1&quot; ist bereits vergeben.</translation>
+    </message>
+    <message>
+        <source>Do you want to choose another name or replace the previous saved preset?</source>
+        <translation>Möchten Sie einen anderen Namen zu wählen oder die vorherige gespeicherte Voreinstellung ersetzen?</translation>
+    </message>
+    <message>
+        <source>Replace</source>
+        <translation>Ersetzen</translation>
+    </message>
+    <message>
+        <source>Choose Another Name</source>
+        <translation>Wählen Sie einen anderen Namen</translation>
+    </message>
+</context>
+<context>
+    <name>QOcenFxManagePresetDialog</name>
+    <message>
+        <source>Manage Presets</source>
+        <translation>Voreinstellungen Verwalten</translation>
+    </message>
+    <message>
+        <source>Current Setting (before open preset manager)</source>
+        <translation>Aktuelle Einstellung (vor offen Voreinstellungen-Manager)</translation>
+    </message>
+    <message>
+        <source>Setting 1</source>
+        <translation>Einstellung 1</translation>
+    </message>
+    <message>
+        <source>Setting 2</source>
+        <translation>Einstellung 2</translation>
+    </message>
+    <message>
+        <source>%1 Preset Manager</source>
+        <translation>%1 Voreinstellungen-Manager</translation>
+    </message>
+    <message>
+        <source>Current Preset (user&apos;s changes)</source>
+        <translation>Aktuelle Voreinstellungen (änderungen des benutzers)</translation>
+    </message>
+    <message>
+        <source>Rename Preset</source>
+        <translation>Umbenennen Voreinstellungen</translation>
+    </message>
+    <message>
+        <source>The name &quot;%1&quot; is already taken.</source>
+        <translation>Der Name &quot;%1&quot; ist bereits vergeben.</translation>
+    </message>
+    <message>
+        <source>Please choose another name.</source>
+        <translation>Bitte wählen Sie einen anderen Namen.</translation>
+    </message>
+</context>
+<context>
     <name>QOcenMixPasteDialog</name>
     <message>
         <source>Paste Special</source>
@@ -2601,11 +3651,11 @@
     </message>
     <message>
         <source>44.1 kHz</source>
-        <translation>44.1 kHz</translation>
+        <translation></translation>
     </message>
     <message>
         <source>48 kHz</source>
-        <translation>48 kHz</translation>
+        <translation></translation>
     </message>
     <message>
         <source>Other</source>
@@ -2613,15 +3663,15 @@
     </message>
     <message>
         <source>8 kHz</source>
-        <translation>8 kHz</translation>
+        <translation></translation>
     </message>
     <message>
         <source>11025 Hz</source>
-        <translation>11025 Hz</translation>
+        <translation></translation>
     </message>
     <message>
         <source>16 kHz</source>
-        <translation>16 kHz</translation>
+        <translation></translation>
     </message>
     <message>
         <source>Custom</source>
@@ -2633,11 +3683,11 @@
     </message>
     <message>
         <source>Mono</source>
-        <translation>Mono</translation>
+        <translation></translation>
     </message>
     <message>
         <source>Stereo</source>
-        <translation>Stereo</translation>
+        <translation></translation>
     </message>
     <message>
         <source>Multichannel</source>
@@ -2661,7 +3711,7 @@
     </message>
     <message>
         <source>7 channels</source>
-        <translation>5 Kanäle</translation>
+        <translation>7 Kanäle</translation>
     </message>
     <message>
         <source>8 channels</source>
@@ -2669,11 +3719,11 @@
     </message>
     <message>
         <source>44100 Hz</source>
-        <translation>44100 Hz</translation>
+        <translation></translation>
     </message>
     <message>
         <source>48000 Hz</source>
-        <translation>48000 Hz</translation>
+        <translation></translation>
     </message>
 </context>
 <context>
@@ -2681,6 +3731,155 @@
     <message>
         <source>Custom</source>
         <translation>Benutzerdefiniert</translation>
+    </message>
+</context>
+<context>
+    <name>QOcenRecentMenu</name>
+    <message>
+        <source>Recent Files</source>
+        <translation>Neueste Dateien</translation>
+    </message>
+    <message>
+        <source>Clear History</source>
+        <translation>Verlauf löschen</translation>
+    </message>
+    <message>
+        <source>Open both streams in this file</source>
+        <translation>Öffnen beiden Stream in dieser datei</translation>
+    </message>
+    <message>
+        <source>Open all streams in this file</source>
+        <translation>Öffnen alle Stream in dieser datei</translation>
+    </message>
+    <message>
+        <source>Open all files in this directory</source>
+        <translation>Öffnen alle dateien in diesem ordne</translation>
+    </message>
+    <message>
+        <source>Open both files in this %1</source>
+        <translation>Öffne beide Dateien in diese %1</translation>
+    </message>
+    <message>
+        <source>Open all %1 files in this %2</source>
+        <translation>Öffne alle %1 Dateien in diese %2</translation>
+    </message>
+    <message>
+        <source>and %1 other files</source>
+        <translation>und %1 andere Dateien</translation>
+    </message>
+</context>
+<context>
+    <name>QOcenUrlDialog</name>
+    <message>
+        <source>Dialog</source>
+        <translation></translation>
+    </message>
+    <message>
+        <source>Enter the URL or path to a sound file on the Internet, your computer,
+or your network that you want to open:</source>
+        <translation>Geben Sie den URL oder den Pfad zu einer Audiodatei im Internet,
+auf Ihrem Computer oder in Ihrem Netzwerk ein, um sie zu öffnen:</translation>
+    </message>
+</context>
+<context>
+    <name>QOcenVSTWidget</name>
+    <message>
+        <source>VST Effect</source>
+        <translation>VST-Effekt</translation>
+    </message>
+    <message>
+        <source>Applying %1|%1</source>
+        <translation>Anwenden %1|%1</translation>
+    </message>
+    <message>
+        <source>Plugin crashed</source>
+        <translation>VST-Plugin Absturz</translation>
+    </message>
+    <message>
+        <source>The plugin %1 crashed and will be finalized.</source>
+        <translation>Das Plugin %1 abgestürzt und abgeschlossen werden.</translation>
+    </message>
+    <message>
+        <source>Ocenaudio was not affected by this crash and will continue running normally.</source>
+        <translation>Ocenaudio wurde nicht von diesem absturz betroffen und läuft dabei normal weiter.</translation>
+    </message>
+    <message>
+        <source>VST Effect:</source>
+        <translation>VST-Effekt:</translation>
+    </message>
+    <message>
+        <source>Manufacturer:</source>
+        <translation>Hersteller:</translation>
+    </message>
+</context>
+<context>
+    <name>QOcenVstList</name>
+    <message>
+        <source>Dialog</source>
+        <translation></translation>
+    </message>
+    <message>
+        <source>List of VST Plugins</source>
+        <translation>Liste der VST-Plugins</translation>
+    </message>
+    <message>
+        <source>/Library/Audio/plugins/VST/delay.vst</source>
+        <translation></translation>
+    </message>
+    <message>
+        <source>/Library/Audio/plugins/VST/sampler.vst (crashed)</source>
+        <translation></translation>
+    </message>
+    <message>
+        <source>Enable All</source>
+        <translation>Aktiviere alle</translation>
+    </message>
+    <message>
+        <source>Disable All</source>
+        <translation>Deaktiviere alle</translation>
+    </message>
+    <message>
+        <source>Effects in Folder %1</source>
+        <translation>Effekte im Ordner %1</translation>
+    </message>
+    <message>
+        <source>Crashed</source>
+        <translation>Absturz</translation>
+    </message>
+    <message>
+        <source>Duplicated / Older Version</source>
+        <translation>Doppelte / Ältere Version</translation>
+    </message>
+    <message>
+        <source>Unsupported</source>
+        <translation>Nicht unterstützt</translation>
+    </message>
+    <message>
+        <source>Not Loaded</source>
+        <translation>Nicht Geladen</translation>
+    </message>
+</context>
+<context>
+    <name>QOcenVstPrefs</name>
+    <message>
+        <source>Form</source>
+        <translation>Form</translation>
+    </message>
+    <message>
+        <source>VST Search Path</source>
+        <translation>VST Suchpfad</translation>
+    </message>
+    <message>
+        <source>Scanning Plugins</source>
+        <translation>Scannen VST</translation>
+    </message>
+    <message>
+        <source>VST</source>
+        <translation></translation>
+    </message>
+    <message>
+        <source>Select Directory</source>
+        <translation>Verzeichnis wählen</translation>
     </message>
 </context>
 <context>
@@ -3148,7 +4347,7 @@
     </message>
     <message>
         <source>/Users/ruijunior/teste/arquivos de audio/arquivo.pcm</source>
-        <translation>/Users/ruijunior/teste/arquivos de audio/arquivo.pcm</translation>
+        <translation></translation>
     </message>
     <message>
         <source>Raw Data Format</source>
