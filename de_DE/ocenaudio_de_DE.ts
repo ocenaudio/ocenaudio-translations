@@ -60,11 +60,11 @@
     </message>
     <message>
         <source>Hide %1</source>
-        <translation>%1 verstecken</translation>
+        <translation>%1 verbergen</translation>
     </message>
     <message>
         <source>Hide Others</source>
-        <translation>Andere verstecken</translation>
+        <translation>Andere verbergen</translation>
     </message>
     <message>
         <source>Show All</source>
@@ -449,11 +449,11 @@
     </message>
     <message>
         <source>Hide Toolbar</source>
-        <translation>Werkzeugleiste verstecken</translation>
+        <translation>Werkzeugleiste verbergen</translation>
     </message>
     <message>
         <source>Hide Waveform Navigator</source>
-        <translation>Wellenform Navigator verstecken</translation>
+        <translation>Wellenform Navigator verbergen</translation>
     </message>
     <message>
         <source>Remove All Metadata</source>
@@ -738,7 +738,7 @@
     </message>
     <message>
         <source>Hide Markers Label</source>
-        <translation>Markerbeschriftung verstecken</translation>
+        <translation>Markerbeschriftung verbergen</translation>
     </message>
     <message>
         <source>Detect DTMF Tones</source>
@@ -2077,39 +2077,39 @@ Klicken Sie hier zum Herunterladen.</translation>
     </message>
     <message>
         <source>Show/Hide Regions</source>
-        <translation>Regionen anzeigen/verstecken</translation>
+        <translation>Regionen anzeigen/verbergen</translation>
     </message>
     <message>
         <source>Show/Hide Loops</source>
-        <translation>Schleifen anzeigen/verstecken</translation>
+        <translation>Schleifen anzeigen/verbergen</translation>
     </message>
     <message>
         <source>Show/Hide Markers</source>
-        <translation>Marker anzeigen/verstecken</translation>
+        <translation>Marker anzeigen/verbergen</translation>
     </message>
     <message>
         <source>Show/Hide All Regions, Loops and Markers</source>
-        <translation>Alle Regionen, Schleifen und Marker anzeigen/verstecken</translation>
+        <translation>Alle Regionen, Schleifen und Marker anzeigen/verbergen</translation>
     </message>
     <message>
         <source>Show/Hide Markers Label</source>
-        <translation>Markerbeschriftung anzeigen/verstecken</translation>
+        <translation>Markerbeschriftung anzeigen/verbergen</translation>
     </message>
     <message>
         <source>Show/Hide Toolbar</source>
-        <translation>Werkzeugleiste anzeigen/verstecken</translation>
+        <translation>Werkzeugleiste anzeigen/verbergen</translation>
     </message>
     <message>
         <source>Show/Hide Sidebar</source>
-        <translation>Seitenleiste anzeigen/verstecken</translation>
+        <translation>Seitenleiste anzeigen/verbergen</translation>
     </message>
     <message>
         <source>Show/Hide Navigator</source>
-        <translation>Navigator anzeigen/verstecken</translation>
+        <translation>Navigator anzeigen/verbergen</translation>
     </message>
     <message>
         <source>Show/Hide Navigator Window</source>
-        <translation>Navigatorfenster anzeigen/verstecken</translation>
+        <translation>Navigatorfenster anzeigen/verbergen</translation>
     </message>
     <message>
         <source>Show Full-size Level Meter</source>
@@ -2121,7 +2121,7 @@ Klicken Sie hier zum Herunterladen.</translation>
     </message>
     <message>
         <source>Hide Level Meter</source>
-        <translation>Pegelanzeige verstecken</translation>
+        <translation>Pegelanzeige verbergen</translation>
     </message>
     <message>
         <source>Start/Stop Recording</source>
@@ -2373,7 +2373,7 @@ Klicken Sie hier zum Herunterladen.</translation>
     </message>
     <message>
         <source>Hide Toolbar</source>
-        <translation>Werkzeugleiste verstecken</translation>
+        <translation>Werkzeugleiste verbergen</translation>
     </message>
     <message>
         <source>Show Toolbar</source>
@@ -2381,7 +2381,7 @@ Klicken Sie hier zum Herunterladen.</translation>
     </message>
     <message>
         <source>Hide Sidebar</source>
-        <translation>Seitenleiste verstecken</translation>
+        <translation>Seitenleiste verbergen</translation>
     </message>
     <message>
         <source>Show Sidebar</source>
@@ -2389,7 +2389,7 @@ Klicken Sie hier zum Herunterladen.</translation>
     </message>
     <message>
         <source>Hide Navigator</source>
-        <translation>Navigator verstecken</translation>
+        <translation>Navigator verbergen</translation>
     </message>
     <message>
         <source>Show Navigator</source>
@@ -2397,7 +2397,7 @@ Klicken Sie hier zum Herunterladen.</translation>
     </message>
     <message>
         <source>Hide Navigator Window</source>
-        <translation>Navigatorfenster verstecken</translation>
+        <translation>Navigatorfenster verbergen</translation>
     </message>
     <message>
         <source>Show Navigator Window</source>
@@ -2405,7 +2405,7 @@ Klicken Sie hier zum Herunterladen.</translation>
     </message>
     <message>
         <source>Hide All</source>
-        <translation>Alle verstecken</translation>
+        <translation>Alle verbergen</translation>
     </message>
     <message>
         <source>Show All</source>
@@ -2413,7 +2413,7 @@ Klicken Sie hier zum Herunterladen.</translation>
     </message>
     <message>
         <source>Hide Regions</source>
-        <translation>Regionen verstecken</translation>
+        <translation>Regionen verbergen</translation>
     </message>
     <message>
         <source>Show Regions</source>
@@ -2421,7 +2421,7 @@ Klicken Sie hier zum Herunterladen.</translation>
     </message>
     <message>
         <source>Hide Loop</source>
-        <translation>Schleife verstecken</translation>
+        <translation>Schleife verbergen</translation>
     </message>
     <message>
         <source>Show Loops</source>
@@ -2429,7 +2429,7 @@ Klicken Sie hier zum Herunterladen.</translation>
     </message>
     <message>
         <source>Hide Markers</source>
-        <translation>Marker verstecken</translation>
+        <translation>Marker verbergen</translation>
     </message>
     <message>
         <source>Show Markers</source>
@@ -2437,7 +2437,7 @@ Klicken Sie hier zum Herunterladen.</translation>
     </message>
     <message>
         <source>Hide Markers Label</source>
-        <translation>Markerbeschriftung verstecken</translation>
+        <translation>Markerbeschriftung verbergen</translation>
     </message>
     <message>
         <source>Show Markers Label</source>
@@ -2445,7 +2445,7 @@ Klicken Sie hier zum Herunterladen.</translation>
     </message>
     <message>
         <source>Hide Channels Id</source>
-        <translation>Kanal Id verstecken</translation>
+        <translation>Kanal Id verbergen</translation>
     </message>
     <message>
         <source>Show Channels Id</source>
