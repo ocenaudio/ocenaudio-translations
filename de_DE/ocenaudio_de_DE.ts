@@ -13,39 +13,39 @@
     </message>
     <message>
         <source>16000</source>
-        <translation></translation>
+        <translation>16000</translation>
     </message>
     <message>
         <source>Hz</source>
-        <translation></translation>
+        <translation>Hz</translation>
     </message>
     <message>
         <source>48000</source>
-        <translation></translation>
+        <translation>48000</translation>
     </message>
     <message>
         <source>44100</source>
-        <translation></translation>
+        <translation>44100</translation>
     </message>
     <message>
         <source>32000</source>
-        <translation></translation>
+        <translation>32000</translation>
     </message>
     <message>
         <source>22050</source>
-        <translation></translation>
+        <translation>22050</translation>
     </message>
     <message>
         <source>11025</source>
-        <translation></translation>
+        <translation>11025</translation>
     </message>
     <message>
         <source>8000</source>
-        <translation></translation>
+        <translation>8000</translation>
     </message>
     <message>
         <source>6000</source>
-        <translation></translation>
+        <translation>6000</translation>
     </message>
     <message>
         <source>This setting only changes the value of the sample rate. This operation does not resample the signal.</source>
@@ -60,15 +60,15 @@
     </message>
     <message>
         <source>Hide %1</source>
-        <translation>Ausblenden %1</translation>
+        <translation>%1 verbergen</translation>
     </message>
     <message>
         <source>Hide Others</source>
-        <translation>Andere Ausblenden</translation>
+        <translation>Andere verbergen</translation>
     </message>
     <message>
         <source>Show All</source>
-        <translation>Alle Einblenden</translation>
+        <translation>Alle anzeigen</translation>
     </message>
     <message>
         <source>Preferences...</source>
@@ -151,7 +151,7 @@
     </message>
     <message>
         <source>Filter</source>
-        <translation></translation>
+        <translation>Filter</translation>
     </message>
     <message>
         <source>Equalization</source>
@@ -159,7 +159,7 @@
     </message>
     <message>
         <source>Delay</source>
-        <translation></translation>
+        <translation>Delay</translation>
     </message>
     <message>
         <source>Dynamics Processing</source>
@@ -179,7 +179,7 @@
     </message>
     <message>
         <source>&amp;Analyze</source>
-        <translation>Anal&amp;yse</translation>
+        <translation>Anal&amp;ysieren</translation>
     </message>
     <message>
         <source>&amp;Help</source>
@@ -252,11 +252,11 @@
     </message>
     <message>
         <source>Paste Special...</source>
-        <translation>Erweitertes Einfügen...</translation>
+        <translation>Erweitertes einfügen...</translation>
     </message>
     <message>
         <source>Select All</source>
-        <translation>Alles Auswählen</translation>
+        <translation>Alles auswählen</translation>
     </message>
     <message>
         <source>Delete Selection</source>
@@ -292,7 +292,7 @@
     </message>
     <message>
         <source>Samples</source>
-        <translation></translation>
+        <translation>Samples</translation>
     </message>
     <message>
         <source>Sample Value</source>
@@ -312,11 +312,11 @@
     </message>
     <message>
         <source>Hz</source>
-        <translation></translation>
+        <translation>Hz</translation>
     </message>
     <message>
         <source>Mels</source>
-        <translation></translation>
+        <translation>Mels</translation>
     </message>
     <message>
         <source>Zoom Selection</source>
@@ -361,7 +361,7 @@
     </message>
     <message>
         <source>-</source>
-        <translation></translation>
+        <translation>-</translation>
     </message>
     <message>
         <source>Save Copy As...</source>
@@ -421,7 +421,7 @@
     </message>
     <message>
         <source>Frames</source>
-        <translation></translation>
+        <translation>Frames</translation>
     </message>
     <message>
         <source>Show File Folder...</source>
@@ -441,7 +441,7 @@
     </message>
     <message>
         <source>DC Offset...</source>
-        <translation></translation>
+        <translation>DC Offset...</translation>
     </message>
     <message>
         <source>Open Url...</source>
@@ -449,11 +449,11 @@
     </message>
     <message>
         <source>Hide Toolbar</source>
-        <translation>Werkzeugleiste ausblenden</translation>
+        <translation>Werkzeugleiste verbergen</translation>
     </message>
     <message>
         <source>Hide Waveform Navigator</source>
-        <translation>Wellenform Navigator ausblenden</translation>
+        <translation>Wellenform Navigator verbergen</translation>
     </message>
     <message>
         <source>Remove All Metadata</source>
@@ -461,11 +461,11 @@
     </message>
     <message>
         <source>Show Navigator Window</source>
-        <translation>Fenster Navigator einblenden</translation>
+        <translation>Navigatorfenster anzeigen</translation>
     </message>
     <message>
         <source>Dirac LE</source>
-        <translation></translation>
+        <translation>Dirac LE</translation>
     </message>
     <message>
         <source>Split Audio at Markers</source>
@@ -473,7 +473,7 @@
     </message>
     <message>
         <source>Goto Preview Marker</source>
-        <translation>Gehe zum Vorschau Marker</translation>
+        <translation>Gehe zum Vorschaumarker</translation>
     </message>
     <message>
         <source>Next Marker</source>
@@ -481,7 +481,7 @@
     </message>
     <message>
         <source>Ctrl+Alt+Right</source>
-        <translation></translation>
+        <translation>Strg+Alt+Rechts</translation>
     </message>
     <message>
         <source>Previous Marker</source>
@@ -489,7 +489,7 @@
     </message>
     <message>
         <source>Ctrl+Alt+Left</source>
-        <translation></translation>
+        <translation>Strg+Alt+Links</translation>
     </message>
     <message>
         <source>Next Zero Crossing</source>
@@ -505,7 +505,7 @@
     </message>
     <message>
         <source>Show Sidebar</source>
-        <translation>Seitenleiste einblenden</translation>
+        <translation>Seitenleiste anzeigen</translation>
     </message>
     <message>
         <source>Create Region</source>
@@ -578,15 +578,15 @@
     </message>
     <message>
         <source>Delay...</source>
-        <translation></translation>
+        <translation>Delay...</translation>
     </message>
     <message>
         <source>Flanger...</source>
-        <translation></translation>
+        <translation>Flanger...</translation>
     </message>
     <message>
         <source>Chorus...</source>
-        <translation></translation>
+        <translation>Chorus...</translation>
     </message>
     <message>
         <source>Reverb...</source>
@@ -594,7 +594,7 @@
     </message>
     <message>
         <source>Vibrato...</source>
-        <translation></translation>
+        <translation>Vibrato...</translation>
     </message>
     <message>
         <source>Compressor...</source>
@@ -602,11 +602,11 @@
     </message>
     <message>
         <source>Expander...</source>
-        <translation></translation>
+        <translation>Expander...</translation>
     </message>
     <message>
         <source>Limiter...</source>
-        <translation></translation>
+        <translation>Limiter...</translation>
     </message>
     <message>
         <source>Noise Gate...</source>
@@ -658,19 +658,19 @@
     </message>
     <message>
         <source>Show All</source>
-        <translation>Alle einblenden</translation>
+        <translation>Alle anzeigen</translation>
     </message>
     <message>
         <source>Show Regions</source>
-        <translation>Regionen einblenden</translation>
+        <translation>Regionen anzeigen</translation>
     </message>
     <message>
         <source>Show Loops</source>
-        <translation>Loops einblenden</translation>
+        <translation>Schleifen anzeigen</translation>
     </message>
     <message>
         <source>Show Markers</source>
-        <translation>Marker einblenden</translation>
+        <translation>Marker anzeigen</translation>
     </message>
     <message>
         <source>Create iPhone Ringtone...</source>
@@ -694,7 +694,7 @@
     </message>
     <message>
         <source>Show Channels Id</source>
-        <translation>Kanal ID einblenden</translation>
+        <translation>Kanal ID anzeigen</translation>
     </message>
     <message>
         <source>Repeat ___ Effect</source>
@@ -738,7 +738,7 @@
     </message>
     <message>
         <source>Hide Markers Label</source>
-        <translation>Label-Marker Ausblenden</translation>
+        <translation>Markerbeschriftung verbergen</translation>
     </message>
     <message>
         <source>Detect DTMF Tones</source>
@@ -750,7 +750,7 @@
     </message>
     <message>
         <source>Meta+Space</source>
-        <translation></translation>
+        <translation>Meta+Leertaste</translation>
     </message>
     <message>
         <source>Send Crash Report...</source>
@@ -765,7 +765,7 @@
     </message>
     <message>
         <source>00:00:00.000</source>
-        <translation></translation>
+        <translation>00:00:00.000</translation>
     </message>
     <message>
         <source>View</source>
@@ -800,7 +800,7 @@
     <name>QAddNoiseWidget</name>
     <message>
         <source>Form</source>
-        <translation></translation>
+        <translation>Form</translation>
     </message>
     <message>
         <source>Color</source>
@@ -844,11 +844,11 @@
     </message>
     <message>
         <source>-6</source>
-        <translation></translation>
+        <translation>-6</translation>
     </message>
     <message>
         <source>dB</source>
-        <translation></translation>
+        <translation>dB</translation>
     </message>
     <message>
         <source>Add Noise</source>
@@ -867,7 +867,7 @@
     <name>QDelayWidget</name>
     <message>
         <source>Form</source>
-        <translation></translation>
+        <translation>Form</translation>
     </message>
     <message>
         <source>Delay</source>
@@ -883,7 +883,7 @@
     </message>
     <message>
         <source>100.0 ms</source>
-        <translation></translation>
+        <translation>100.0 ms</translation>
     </message>
     <message>
         <source>Feedback</source>
@@ -891,19 +891,19 @@
     </message>
     <message>
         <source>-100%</source>
-        <translation></translation>
+        <translation>-100%</translation>
     </message>
     <message>
         <source>0</source>
-        <translation></translation>
+        <translation>0</translation>
     </message>
     <message>
         <source>100%</source>
-        <translation></translation>
+        <translation>100%</translation>
     </message>
     <message>
         <source>-100.0 %</source>
-        <translation></translation>
+        <translation>-100.0 %</translation>
     </message>
     <message>
         <source>Blend</source>
@@ -919,11 +919,11 @@
     </message>
     <message>
         <source>10,6 ms</source>
-        <translation></translation>
+        <translation>10,6 ms</translation>
     </message>
     <message>
         <source>Flanger</source>
-        <translation></translation>
+        <translation>Flanger</translation>
     </message>
     <message>
         <source>Depth</source>
@@ -951,11 +951,11 @@
     </message>
     <message>
         <source>Chorus</source>
-        <translation></translation>
+        <translation>Chorus</translation>
     </message>
     <message>
         <source>100.0 %</source>
-        <translation></translation>
+        <translation>100.0 %</translation>
     </message>
     <message>
         <source>Reverb</source>
@@ -967,11 +967,11 @@
     </message>
     <message>
         <source>Vibrato</source>
-        <translation></translation>
+        <translation>Vibrato</translation>
     </message>
     <message>
         <source>20.00 Hz</source>
-        <translation></translation>
+        <translation>20.00 Hz</translation>
     </message>
     <message>
         <source>Applying Delay</source>
@@ -1006,7 +1006,7 @@
     </message>
     <message>
         <source>100</source>
-        <translation></translation>
+        <translation>100</translation>
     </message>
     <message>
         <source>percent</source>
@@ -1018,7 +1018,7 @@
     </message>
     <message>
         <source>0</source>
-        <translation></translation>
+        <translation>0</translation>
     </message>
     <message>
         <source>semitones</source>
@@ -1050,14 +1050,14 @@
     </message>
     <message>
         <source>Dirac</source>
-        <translation></translation>
+        <translation>Dirac</translation>
     </message>
 </context>
 <context>
     <name>QDynProcWidget</name>
     <message>
         <source>Form</source>
-        <translation></translation>
+        <translation>Form</translation>
     </message>
     <message>
         <source>Compressor</source>
@@ -1077,7 +1077,7 @@
     </message>
     <message>
         <source>-20 dB</source>
-        <translation></translation>
+        <translation>-20 dB</translation>
     </message>
     <message>
         <source>Ratio</source>
@@ -1085,31 +1085,31 @@
     </message>
     <message>
         <source>1.0</source>
-        <translation></translation>
+        <translation>1.0</translation>
     </message>
     <message>
         <source>Expander</source>
-        <translation></translation>
+        <translation>Expander</translation>
     </message>
     <message>
         <source>-30 dB</source>
-        <translation></translation>
+        <translation>-30 dB</translation>
     </message>
     <message>
         <source>Limiter</source>
-        <translation></translation>
+        <translation>Limiter</translation>
     </message>
     <message>
         <source>-2dB</source>
-        <translation></translation>
+        <translation>-2dB</translation>
     </message>
     <message>
         <source>Noise Gate</source>
-        <translation></translation>
+        <translation>Noise Gate</translation>
     </message>
     <message>
         <source>-60 dB</source>
-        <translation></translation>
+        <translation>-60 dB</translation>
     </message>
     <message>
         <source>Attack</source>
@@ -1125,7 +1125,7 @@
     </message>
     <message>
         <source>0.1 ms</source>
-        <translation></translation>
+        <translation>0.1 ms</translation>
     </message>
     <message>
         <source>Release</source>
@@ -1133,7 +1133,7 @@
     </message>
     <message>
         <source>5 ms</source>
-        <translation></translation>
+        <translation>5 ms</translation>
     </message>
     <message>
         <source>Gain</source>
@@ -1141,15 +1141,15 @@
     </message>
     <message>
         <source>-40 dB</source>
-        <translation></translation>
+        <translation>-40 dB</translation>
     </message>
     <message>
         <source>0 dB</source>
-        <translation></translation>
+        <translation>0 dB</translation>
     </message>
     <message>
         <source>40 dB</source>
-        <translation></translation>
+        <translation>40 dB</translation>
     </message>
     <message>
         <source>Dynamics Processing / %1</source>
@@ -1239,7 +1239,7 @@
     <name>QFilterWidget</name>
     <message>
         <source>Filter</source>
-        <translation></translation>
+        <translation>Filter</translation>
     </message>
     <message>
         <source>Lowpass</source>
@@ -1251,7 +1251,7 @@
     </message>
     <message>
         <source>10,6 ms</source>
-        <translation></translation>
+        <translation>10,6 ms</translation>
     </message>
     <message>
         <source>Highpass</source>
@@ -1259,7 +1259,7 @@
     </message>
     <message>
         <source>Bandpass</source>
-        <translation></translation>
+        <translation>Bandpass</translation>
     </message>
     <message>
         <source>Passband Limits</source>
@@ -1326,11 +1326,11 @@
     </message>
     <message>
         <source>-25.0</source>
-        <translation></translation>
+        <translation>-25.0</translation>
     </message>
     <message>
         <source>dB</source>
-        <translation></translation>
+        <translation>dB</translation>
     </message>
     <message>
         <source>Invert</source>
@@ -1362,11 +1362,11 @@
     </message>
     <message>
         <source>DC Offset</source>
-        <translation></translation>
+        <translation>DC Offset</translation>
     </message>
     <message>
         <source>%</source>
-        <translation></translation>
+        <translation>%</translation>
     </message>
     <message>
         <source>Gain Unit</source>
@@ -1382,7 +1382,7 @@
     </message>
     <message>
         <source>Offset</source>
-        <translation></translation>
+        <translation>Offset</translation>
     </message>
     <message>
         <source>Change Gain</source>
@@ -1413,143 +1413,143 @@
     <name>QGraphEqWidget</name>
     <message>
         <source>Form</source>
-        <translation></translation>
+        <translation>Form</translation>
     </message>
     <message>
         <source>20 dB</source>
-        <translation></translation>
+        <translation>20 dB</translation>
     </message>
     <message>
         <source>0 dB</source>
-        <translation></translation>
+        <translation>0 dB</translation>
     </message>
     <message>
         <source>-20 dB</source>
-        <translation></translation>
+        <translation>-20 dB</translation>
     </message>
     <message>
         <source>20</source>
-        <translation></translation>
+        <translation>20</translation>
     </message>
     <message>
         <source>25</source>
-        <translation></translation>
+        <translation>25</translation>
     </message>
     <message>
         <source>31.5</source>
-        <translation></translation>
+        <translation>31,5</translation>
     </message>
     <message>
         <source>40</source>
-        <translation></translation>
+        <translation>40</translation>
     </message>
     <message>
         <source>50</source>
-        <translation></translation>
+        <translation>50</translation>
     </message>
     <message>
         <source>63</source>
-        <translation></translation>
+        <translation>63</translation>
     </message>
     <message>
         <source>80</source>
-        <translation></translation>
+        <translation>80</translation>
     </message>
     <message>
         <source>100</source>
-        <translation></translation>
+        <translation>100</translation>
     </message>
     <message>
         <source>125</source>
-        <translation></translation>
+        <translation>125</translation>
     </message>
     <message>
         <source>160</source>
-        <translation></translation>
+        <translation>160</translation>
     </message>
     <message>
         <source>200</source>
-        <translation></translation>
+        <translation>200</translation>
     </message>
     <message>
         <source>250</source>
-        <translation></translation>
+        <translation>250</translation>
     </message>
     <message>
         <source>315</source>
-        <translation></translation>
+        <translation>315</translation>
     </message>
     <message>
         <source>400</source>
-        <translation></translation>
+        <translation>400</translation>
     </message>
     <message>
         <source>500</source>
-        <translation></translation>
+        <translation>500</translation>
     </message>
     <message>
         <source>630</source>
-        <translation></translation>
+        <translation>630</translation>
     </message>
     <message>
         <source>800</source>
-        <translation></translation>
+        <translation>800</translation>
     </message>
     <message>
         <source>1k</source>
-        <translation></translation>
+        <translation>1k</translation>
     </message>
     <message>
         <source>1.25k</source>
-        <translation></translation>
+        <translation>1,25k</translation>
     </message>
     <message>
         <source>1.6k</source>
-        <translation></translation>
+        <translation>1,6k</translation>
     </message>
     <message>
         <source>2k</source>
-        <translation></translation>
+        <translation>2k</translation>
     </message>
     <message>
         <source>2.5k</source>
-        <translation></translation>
+        <translation>2,5k</translation>
     </message>
     <message>
         <source>3.15k</source>
-        <translation></translation>
+        <translation>3,15k</translation>
     </message>
     <message>
         <source>4k</source>
-        <translation></translation>
+        <translation>4k</translation>
     </message>
     <message>
         <source>5k</source>
-        <translation></translation>
+        <translation>5k</translation>
     </message>
     <message>
         <source>6.3k</source>
-        <translation></translation>
+        <translation>6,3k</translation>
     </message>
     <message>
         <source>8k</source>
-        <translation></translation>
+        <translation>8k</translation>
     </message>
     <message>
         <source>10k</source>
-        <translation></translation>
+        <translation>10k</translation>
     </message>
     <message>
         <source>12.5k</source>
-        <translation></translation>
+        <translation>12,5k</translation>
     </message>
     <message>
         <source>16k</source>
-        <translation></translation>
+        <translation>16k</translation>
     </message>
     <message>
         <source>20k</source>
-        <translation></translation>
+        <translation>20k</translation>
     </message>
     <message>
         <source>Gain</source>
@@ -1565,7 +1565,7 @@
     </message>
     <message>
         <source>Equalizer</source>
-        <translation></translation>
+        <translation>Equalizer</translation>
     </message>
     <message>
         <source>V shape</source>
@@ -1636,11 +1636,11 @@
     </message>
     <message>
         <source>Normal</source>
-        <translation></translation>
+        <translation>Normal</translation>
     </message>
     <message>
         <source>Joint Stereo</source>
-        <translation></translation>
+        <translation>Joint Stereo</translation>
     </message>
     <message>
         <source>Low Complexity (Default)</source>
@@ -1652,15 +1652,15 @@
     </message>
     <message>
         <source>AAC - Advanced Audio Conding</source>
-        <translation></translation>
+        <translation>AAC - Advanced Audio Conding</translation>
     </message>
     <message>
         <source>ALAC - Apple Lossless Audio Codec</source>
-        <translation></translation>
+        <translation>ALAC - Apple Lossless Audio Codec</translation>
     </message>
     <message>
         <source>AMR - Adaptative Multi Rate Coder (8000 kHz)</source>
-        <translation></translation>
+        <translation>AMR - Adaptative Multi Rate Coder (8000 kHz)</translation>
     </message>
     <message>
         <source>Variable Bit Rate (VBR)</source>
@@ -1676,11 +1676,11 @@
     </message>
     <message>
         <source>32 bits</source>
-        <translation></translation>
+        <translation>32 bit</translation>
     </message>
     <message>
         <source>64 bits</source>
-        <translation></translation>
+        <translation>64 bit</translation>
     </message>
     <message>
         <source>Preview</source>
@@ -1720,7 +1720,7 @@
     </message>
     <message>
         <source>Display Cursor Position</source>
-        <translation>Zeige Cursor Position</translation>
+        <translation>Zeigerposition anzeigen</translation>
     </message>
     <message>
         <source>%1 Scale</source>
@@ -1749,7 +1749,7 @@
     </message>
     <message>
         <source>DC Offset</source>
-        <translation></translation>
+        <translation>DC Offset</translation>
     </message>
     <message>
         <source>Minimum RMS Power</source>
@@ -1784,19 +1784,19 @@
     <name>QOcenAboutDialog</name>
     <message>
         <source>About</source>
-        <translation>Über</translation>
+        <translation>Info</translation>
     </message>
     <message>
         <source>ocenaudio</source>
-        <translation>ocenaudio</translation>
+        <translation>Ocenaudio</translation>
     </message>
     <message>
         <source>Version 2.6.0 (Build 2292)</source>
-        <translation></translation>
+        <translation>Version 2.6.0 (Build 2292)</translation>
     </message>
     <message>
         <source>© Copyright OcenAudio Team</source>
-        <translation></translation>
+        <translation>© Copyright OcenAudio Team</translation>
     </message>
     <message>
         <source>All rights reserved.</source>
@@ -1804,19 +1804,19 @@
     </message>
     <message>
         <source>http://www.ocenaudio.com.br</source>
-        <translation></translation>
+        <translation>http://www.ocenaudio.com.br</translation>
     </message>
     <message>
         <source>Version 2.0.0.rc1 (Build 2292)</source>
-        <translation></translation>
+        <translation>Version 2.0.0.rc1 (Build 2292)</translation>
     </message>
     <message>
         <source>© Copyright ocenaudio Team</source>
-        <translation></translation>
+        <translation>© Copyright ocenaudio Team</translation>
     </message>
     <message>
         <source>Version</source>
-        <translation></translation>
+        <translation>Version</translation>
     </message>
     <message>
         <source>About ocenaudio</source>
@@ -1832,7 +1832,8 @@
     <message>
         <source>A new version might be available.
 Click here and check!</source>
-        <translation>Möglicherweise ist eine neue Version verfügbar. Hier klicken und prüfen!</translation>
+        <translation>Möglicherweise ist eine neue Version verfügbar.
+Hier klicken und prüfen!</translation>
     </message>
     <message>
         <source>New release available</source>
@@ -1864,7 +1865,7 @@ Klicken Sie hier zum Herunterladen.</translation>
     <name>QOcenAudioMainWindow</name>
     <message>
         <source>About</source>
-        <translation>Über</translation>
+        <translation>Info</translation>
     </message>
     <message>
         <source>Preferences</source>
@@ -1872,119 +1873,119 @@ Klicken Sie hier zum Herunterladen.</translation>
     </message>
     <message>
         <source>Scanning VST Plugins</source>
-        <translation>Scannen VST-Plugin</translation>
+        <translation>VST-Plugins suchen</translation>
     </message>
     <message>
         <source>VST</source>
-        <translation></translation>
+        <translation>VST</translation>
     </message>
     <message>
         <source>Apple Bandpass Filter</source>
-        <translation></translation>
+        <translation>Apple Bandpass Filter</translation>
     </message>
     <message>
         <source>Apple Filter</source>
-        <translation></translation>
+        <translation>Apple Filter</translation>
     </message>
     <message>
         <source>Apple Highpass Filter</source>
-        <translation></translation>
+        <translation>Apple Hochpass Filter</translation>
     </message>
     <message>
         <source>Apple High Shelf Filter</source>
-        <translation></translation>
+        <translation>Apple High Shelf Filter</translation>
     </message>
     <message>
         <source>Apple Lowpass Filter</source>
-        <translation></translation>
+        <translation>Apple Tiefpass Filter</translation>
     </message>
     <message>
         <source>Apple Low Shelf Filter</source>
-        <translation></translation>
+        <translation>Apple Low Shelf Filter</translation>
     </message>
     <message>
         <source>Apple Dynamics Processor</source>
-        <translation></translation>
+        <translation>Apple Dynamikprozessor</translation>
     </message>
     <message>
         <source>Apple Peak Limiter</source>
-        <translation></translation>
+        <translation>Apple Peak Limiter</translation>
     </message>
     <message>
         <source>Apple Multiband Compressor</source>
-        <translation></translation>
+        <translation>Apple Multibandkompressor</translation>
     </message>
     <message>
         <source>Apple Delay</source>
-        <translation></translation>
+        <translation>Apple Delay</translation>
     </message>
     <message>
         <source>Apple Matrix Reverb</source>
-        <translation></translation>
+        <translation>Apple Matrix Hall</translation>
     </message>
     <message>
         <source>Apple Sample Delay</source>
-        <translation></translation>
+        <translation>Apple Sample Delay</translation>
     </message>
     <message>
         <source>Apple Graphic Equalizer</source>
-        <translation></translation>
+        <translation>Apple Grafischer Equalizer</translation>
     </message>
     <message>
         <source>Apple Parametric Equalizer</source>
-        <translation></translation>
+        <translation>Apple Parametrischer Equalizer</translation>
     </message>
     <message>
         <source>Apple N-Band Equalizer</source>
-        <translation></translation>
+        <translation>Apple N-Band Equalizer</translation>
     </message>
     <message>
         <source>Apple Pitch</source>
-        <translation></translation>
+        <translation>Apple Pitch</translation>
     </message>
     <message>
         <source>Apple New Pitch</source>
-        <translation></translation>
+        <translation>Apple New Pitch</translation>
     </message>
     <message>
         <source>Apple Distortion</source>
-        <translation></translation>
+        <translation>Apple Distortion</translation>
     </message>
     <message>
         <source>Apple Roger Beep</source>
-        <translation></translation>
+        <translation>Apple Roger Beep</translation>
     </message>
     <message>
         <source>Apple Net Send</source>
-        <translation></translation>
+        <translation>Apple Net Send</translation>
     </message>
     <message>
         <source>Apple AAC Encoder Round Trip</source>
-        <translation></translation>
+        <translation>Apple AAC Encoder Round Trip</translation>
     </message>
     <message>
         <source>Audio Unit</source>
-        <translation></translation>
+        <translation>Audio Unit</translation>
     </message>
     <message>
         <source>File Menu</source>
-        <translation>Datei-Menü</translation>
+        <translation>Menü Datei</translation>
     </message>
     <message>
         <source>Edit Menu</source>
-        <translation>Bearbeiten-Menü</translation>
+        <translation>Menü Bearbeiten</translation>
     </message>
     <message>
         <source>View Menu</source>
-        <translation>Ansicht-Menü</translation>
+        <translation>Menü Ansicht</translation>
     </message>
     <message>
         <source>Control Menu</source>
-        <translation>Transport-Menü</translation>
+        <translation>Menü Transport</translation>
     </message>
     <message>
         <source>Effects Menu</source>
-        <translation>Effekte-Menü</translation>
+        <translation>Menü Effekte</translation>
     </message>
     <message>
         <source>VST Effects</source>
@@ -1996,23 +1997,23 @@ Klicken Sie hier zum Herunterladen.</translation>
     </message>
     <message>
         <source>Generate Menu</source>
-        <translation>Erzeugen-Menü</translation>
+        <translation>Menü Erzeugen</translation>
     </message>
     <message>
         <source>Analyze Menu</source>
-        <translation>Analyse-Menü</translation>
+        <translation>Menü Analysieren</translation>
     </message>
     <message>
         <source>Help Menu</source>
-        <translation>Hilfe-Menü</translation>
+        <translation>Menü Hilfe</translation>
     </message>
     <message>
         <source>New From Selection</source>
-        <translation>Neu aus Auswahl</translation>
+        <translation>Neu von Auswahl</translation>
     </message>
     <message>
         <source>New From Clipboard</source>
-        <translation>Neu aus Zwischenablage</translation>
+        <translation>Neu von Zwischenablage</translation>
     </message>
     <message>
         <source>Close File</source>
@@ -2020,15 +2021,15 @@ Klicken Sie hier zum Herunterladen.</translation>
     </message>
     <message>
         <source>Close All Files</source>
-        <translation>Schließen alle Dateien</translation>
+        <translation>Alle Dateien schließen</translation>
     </message>
     <message>
         <source>Adjust Selection to Scale Tick</source>
-        <translation>Passen Auswahl auf Skalenstrich</translation>
+        <translation>Auswahl am Skalenstrich ausrichten</translation>
     </message>
     <message>
         <source>Adjust Selection to Zero Cross</source>
-        <translation>Passen Auswahl auf Nulldurchgang</translation>
+        <translation>Auswahl am Nulldurchgang ausrichten</translation>
     </message>
     <message>
         <source>Create Marker/Region</source>
@@ -2056,15 +2057,15 @@ Klicken Sie hier zum Herunterladen.</translation>
     </message>
     <message>
         <source>Vertical Scale Normalized</source>
-        <translation>Vertikale Skala in Normalisierter Wert</translation>
+        <translation>Vertikale Skala normalisiert</translation>
     </message>
     <message>
         <source>Vertical Scale Percentages</source>
-        <translation>Vertikale Skala in Prozent Wert</translation>
+        <translation>Vertikale Skala in Prozent</translation>
     </message>
     <message>
         <source>Vertical Scale in Decibels</source>
-        <translation>Vertikale Skala in Dezibel Wert</translation>
+        <translation>Vertikale Skala in Dezibel</translation>
     </message>
     <message>
         <source>Spectral Scale in Mels</source>
@@ -2076,79 +2077,79 @@ Klicken Sie hier zum Herunterladen.</translation>
     </message>
     <message>
         <source>Show/Hide Regions</source>
-        <translation>Regionen Einblenden/Ausblenden</translation>
+        <translation>Regionen anzeigen/verbergen</translation>
     </message>
     <message>
         <source>Show/Hide Loops</source>
-        <translation>Loops Einblenden/Ausblenden</translation>
+        <translation>Schleifen anzeigen/verbergen</translation>
     </message>
     <message>
         <source>Show/Hide Markers</source>
-        <translation>Marker Einblenden/Ausblenden</translation>
+        <translation>Marker anzeigen/verbergen</translation>
     </message>
     <message>
         <source>Show/Hide All Regions, Loops and Markers</source>
-        <translation>Alle Regionen, Loops und Marker Einblenden/Ausblenden</translation>
+        <translation>Alle Regionen, Schleifen und Marker anzeigen/verbergen</translation>
     </message>
     <message>
         <source>Show/Hide Markers Label</source>
-        <translation>Label-Marker Einblenden/Ausblenden</translation>
+        <translation>Markerbeschriftung anzeigen/verbergen</translation>
     </message>
     <message>
         <source>Show/Hide Toolbar</source>
-        <translation>Werkzeugleiste Einblenden/Ausblenden</translation>
+        <translation>Werkzeugleiste anzeigen/verbergen</translation>
     </message>
     <message>
         <source>Show/Hide Sidebar</source>
-        <translation>Seitenleiste Einblenden/Ausblenden</translation>
+        <translation>Seitenleiste anzeigen/verbergen</translation>
     </message>
     <message>
         <source>Show/Hide Navigator</source>
-        <translation>Navigator Einblenden/Ausblenden</translation>
+        <translation>Navigator anzeigen/verbergen</translation>
     </message>
     <message>
         <source>Show/Hide Navigator Window</source>
-        <translation>Fenster Navigator Einblenden/Ausblenden</translation>
+        <translation>Navigatorfenster anzeigen/verbergen</translation>
     </message>
     <message>
         <source>Show Full-size Level Meter</source>
-        <translation>Vollständige Pegelanzeige Einblenden</translation>
+        <translation>Vollständige Pegelanzeige anzeigen</translation>
     </message>
     <message>
         <source>Show Mini Level Meter</source>
-        <translation>Mini-Pegelanzeige Einblenden</translation>
+        <translation>Mini-Pegelanzeige anzeigen</translation>
     </message>
     <message>
         <source>Hide Level Meter</source>
-        <translation>Pegelanzeige Ausblenden</translation>
+        <translation>Pegelanzeige verbergen</translation>
     </message>
     <message>
         <source>Start/Stop Recording</source>
-        <translation>Anfang/Stoppen Aufnahme</translation>
+        <translation>Aufnahme starten/stoppen</translation>
     </message>
     <message>
         <source>Goto Next Audio</source>
-        <translation>Gehen zum Nächste Audio</translation>
+        <translation>Gehe zum nächsten Audio</translation>
     </message>
     <message>
         <source>Goto Previous Audio</source>
-        <translation>Gehen zum Vorherige Audio</translation>
+        <translation>Gehe zum vorherigen Audio</translation>
     </message>
     <message>
         <source>Enable/Disable Loop Playback</source>
-        <translation>Aktivieren/Deaktivieren der Loop Wiedergabe</translation>
+        <translation>Schleifen-Wiedergabe aktivieren/deaktivieren</translation>
     </message>
     <message>
         <source>Move Cursor to Next Marker</source>
-        <translation>Cursor zum Nächsten Marker</translation>
+        <translation>Zeiger zum nächsten Marker</translation>
     </message>
     <message>
         <source>Move Cursor to Previous Marker</source>
-        <translation>Cursor zum Vorherigen Marker</translation>
+        <translation>Zeiger zum vorherigen Marker</translation>
     </message>
     <message>
         <source>Repeat Last Effect</source>
-        <translation>Wiederholen Letzte Effekt</translation>
+        <translation>Letzten Effekt wiederholen</translation>
     </message>
     <message>
         <source>Send Crash Report</source>
@@ -2232,7 +2233,7 @@ Klicken Sie hier zum Herunterladen.</translation>
     </message>
     <message>
         <source>%1</source>
-        <translation></translation>
+        <translation>%1</translation>
     </message>
     <message>
         <source>Do you want to revert to the most recently saved version of the document “%1”?</source>
@@ -2268,27 +2269,27 @@ Klicken Sie hier zum Herunterladen.</translation>
     </message>
     <message>
         <source>You are about to remove all metadata of this file. Are you sure you want to proceed?</source>
-        <translation>Sie sind dabei, alle metadaten entfernen. Sind Sie sicher?</translation>
+        <translation>Sie sind dabei, alle Metadaten dieser Datei zu entfernen. Sind Sie sicher?</translation>
     </message>
     <message>
         <source>If you proceed all metadata informations (artist name, album name, artwork) will be removed from this file.</source>
-        <translation>Wenn Sie fortfahren, alle metadaten (künstler, album, bild) gehen wird aus dieser datei entfernt werden.</translation>
+        <translation>Wenn Sie fortfahren werden alle Metadaten (Künstler, Album, Bild) aus dieser Datei entfernt.</translation>
     </message>
     <message>
         <source>Some markers will be merged because they are very close.</source>
-        <translation>Einige Marker werden zusammenfügen, weil sie sehr nahe beieinander liegen werden.</translation>
+        <translation>Einige Marker werden verschmolzen, weil sie sehr nahe beieinander liegen.</translation>
     </message>
     <message>
         <source>Markers less than 10 ms apart are merged in the split process. You have one marker merged.</source>
-        <translation>Marker weniger als 10 ms auseinander in der geteilten Verfahren verschmolzen. Sie haben eine Markierung verschmolzen.</translation>
+        <translation>Marker mit weniger als 10 ms Abstand werden verschmolzen. Sie haben einen Marker verschmolzen.</translation>
     </message>
     <message>
         <source>Markers less than 10 ms apart are merged in the split process. You have %1 markers merged.</source>
-        <translation>Marker weniger als 10 ms auseinander in der geteilten Verfahren verschmolzen. Sie haben %1 Marker verschmolzen.</translation>
+        <translation>Marker mit weniger als 10 ms Abstand werden verschmolzen. Sie haben %1 Marker verschmolzen.</translation>
     </message>
     <message>
         <source>You are about to split your audio by %1 parts. Are you sure you want to proceed?</source>
-        <translation>Sie sind dabei, Ihre Audio durch %1 Teile aufgeteilt. Sind Sie sicher?</translation>
+        <translation>Sie sind dabei, Ihr Audio in %1 Teile zu teilen. Sind Sie sicher?</translation>
     </message>
     <message>
         <source>If you proceed this operation will generate %1 new audio files.</source>
@@ -2348,7 +2349,7 @@ Klicken Sie hier zum Herunterladen.</translation>
     </message>
     <message>
         <source>%1 %2</source>
-        <translation></translation>
+        <translation>%1 %2</translation>
     </message>
     <message>
         <source>Undo</source>
@@ -2372,31 +2373,31 @@ Klicken Sie hier zum Herunterladen.</translation>
     </message>
     <message>
         <source>Hide Toolbar</source>
-        <translation>Werkzeugleiste ausblenden</translation>
+        <translation>Werkzeugleiste verbergen</translation>
     </message>
     <message>
         <source>Show Toolbar</source>
-        <translation>Werkzeugleiste Einblenden</translation>
+        <translation>Werkzeugleiste anzeigen</translation>
     </message>
     <message>
         <source>Hide Sidebar</source>
-        <translation>Seitenleiste Ausblenden</translation>
+        <translation>Seitenleiste verbergen</translation>
     </message>
     <message>
         <source>Show Sidebar</source>
-        <translation>Seitenleiste einblenden</translation>
+        <translation>Seitenleiste anzeigen</translation>
     </message>
     <message>
         <source>Hide Navigator</source>
-        <translation>Navigator ausblenden</translation>
+        <translation>Navigator verbergen</translation>
     </message>
     <message>
         <source>Show Navigator</source>
-        <translation>Navigator Einblenden</translation>
+        <translation>Navigator anzeigen</translation>
     </message>
     <message>
         <source>Hide Navigator Window</source>
-        <translation>Fenster Navigator Ausblenden</translation>
+        <translation>Navigatorfenster verbergen</translation>
     </message>
     <message>
         <source>Show Navigator Window</source>
@@ -2404,55 +2405,55 @@ Klicken Sie hier zum Herunterladen.</translation>
     </message>
     <message>
         <source>Hide All</source>
-        <translation>Alle Ausblenden</translation>
+        <translation>Alle verbergen</translation>
     </message>
     <message>
         <source>Show All</source>
-        <translation></translation>
+        <translation>Alle anzeigen</translation>
     </message>
     <message>
         <source>Hide Regions</source>
-        <translation>Regionen Ausblenden</translation>
+        <translation>Regionen verbergen</translation>
     </message>
     <message>
         <source>Show Regions</source>
-        <translation>Regionen einblenden</translation>
+        <translation>Regionen anzeigen</translation>
     </message>
     <message>
         <source>Hide Loop</source>
-        <translation>Loop Ausblenden</translation>
+        <translation>Schleife verbergen</translation>
     </message>
     <message>
         <source>Show Loops</source>
-        <translation>Loops einblenden</translation>
+        <translation>Schleifen anzeigen</translation>
     </message>
     <message>
         <source>Hide Markers</source>
-        <translation>Marker Ausblenden</translation>
+        <translation>Marker verbergen</translation>
     </message>
     <message>
         <source>Show Markers</source>
-        <translation>Marker einblenden</translation>
+        <translation>Marker anzeigen</translation>
     </message>
     <message>
         <source>Hide Markers Label</source>
-        <translation>Label-Marker Ausblenden</translation>
+        <translation>Markerbeschriftung verbergen</translation>
     </message>
     <message>
         <source>Show Markers Label</source>
-        <translation>Label-Marker Einblenden</translation>
+        <translation>Markerbeschriftung anzeigen</translation>
     </message>
     <message>
         <source>Hide Channels Id</source>
-        <translation>Kanal Id Ausblenden</translation>
+        <translation>Kanal Id verbergen</translation>
     </message>
     <message>
         <source>Show Channels Id</source>
-        <translation>Kanal Id einblenden</translation>
+        <translation>Kanal Id anzeigen</translation>
     </message>
     <message>
         <source>Stop Recording</source>
-        <translation>Aufnahme Stoppen</translation>
+        <translation>Aufnahme stoppen</translation>
     </message>
     <message>
         <source>Record</source>
@@ -2460,7 +2461,7 @@ Klicken Sie hier zum Herunterladen.</translation>
     </message>
     <message>
         <source>Resume Playback</source>
-        <translation>Fortsetzen der Wiedergabe</translation>
+        <translation>Wiedergabe fortsetzen</translation>
     </message>
     <message>
         <source>Stop and Move Cursor</source>
@@ -2504,7 +2505,7 @@ Klicken Sie hier zum Herunterladen.</translation>
     </message>
     <message>
         <source>Convert Region to Loop</source>
-        <translation>Konvertiere Region zu Loop</translation>
+        <translation>Konvertiere Region zu Schleife</translation>
     </message>
     <message>
         <source>Merge Regions</source>
@@ -2524,7 +2525,7 @@ Klicken Sie hier zum Herunterladen.</translation>
     </message>
     <message>
         <source>Delete Loop</source>
-        <translation>Loop löschen</translation>
+        <translation>Schleife löschen</translation>
     </message>
     <message>
         <source>Delete Region</source>
@@ -2532,7 +2533,7 @@ Klicken Sie hier zum Herunterladen.</translation>
     </message>
     <message>
         <source>Convert Loop to Region</source>
-        <translation>Konvertiere Loop zu Region</translation>
+        <translation>Konvertiere Schleife zu Region</translation>
     </message>
     <message>
         <source>Adjust Selections</source>
@@ -2540,15 +2541,15 @@ Klicken Sie hier zum Herunterladen.</translation>
     </message>
     <message>
         <source>Export Error</source>
-        <translation>Exportieren Fehler</translation>
+        <translation>Exportfehler</translation>
     </message>
     <message>
         <source>The export file format is not compatible with the current audio format!</source>
-        <translation>Die Export-Datei-Format ist nicht kompatibel mit der aktuellen Audio-Format!</translation>
+        <translation>Das Export-Dateiformat ist nicht kompatibel zum aktuellen Audioformat!</translation>
     </message>
     <message>
         <source>The export file cannot be create on the destination path!</source>
-        <translation>Die Export Datei kann nicht auf dem Zielpfad erstellt werden!</translation>
+        <translation>Die Exportdatei kann nicht im Zielverzeichnis erstellt werden!</translation>
     </message>
 </context>
 <context>
@@ -2559,7 +2560,7 @@ Klicken Sie hier zum Herunterladen.</translation>
     </message>
     <message>
         <source>Song Name longo para ver o que pode acontecer</source>
-        <translation></translation>
+        <translation>Langer Titel als Vorschau</translation>
     </message>
     <message>
         <source>Artist</source>
@@ -2567,7 +2568,7 @@ Klicken Sie hier zum Herunterladen.</translation>
     </message>
     <message>
         <source>Album</source>
-        <translation></translation>
+        <translation>Album</translation>
     </message>
     <message>
         <source>General</source>
@@ -2579,7 +2580,7 @@ Klicken Sie hier zum Herunterladen.</translation>
     </message>
     <message>
         <source>filename.mp4</source>
-        <translation></translation>
+        <translation>Dateiname.mp4</translation>
     </message>
     <message>
         <source>File Container</source>
@@ -2587,7 +2588,7 @@ Klicken Sie hier zum Herunterladen.</translation>
     </message>
     <message>
         <source>MP4</source>
-        <translation></translation>
+        <translation>MP4</translation>
     </message>
     <message>
         <source>Audio Codec</source>
@@ -2603,7 +2604,7 @@ Klicken Sie hier zum Herunterladen.</translation>
     </message>
     <message>
         <source>LAME3.99</source>
-        <translation></translation>
+        <translation>LAME3.99</translation>
     </message>
     <message>
         <source>Bit Rate</source>
@@ -2611,7 +2612,7 @@ Klicken Sie hier zum Herunterladen.</translation>
     </message>
     <message>
         <source>192 kbps</source>
-        <translation></translation>
+        <translation>192 kbps</translation>
     </message>
     <message>
         <source>Sample Rate</source>
@@ -2619,7 +2620,7 @@ Klicken Sie hier zum Herunterladen.</translation>
     </message>
     <message>
         <source>44100 Hz</source>
-        <translation></translation>
+        <translation>44100 Hz</translation>
     </message>
     <message>
         <source>Channels</source>
@@ -2635,7 +2636,7 @@ Klicken Sie hier zum Herunterladen.</translation>
     </message>
     <message>
         <source>16 bits</source>
-        <translation></translation>
+        <translation>16 bit</translation>
     </message>
     <message>
         <source>Duration</source>
@@ -2643,7 +2644,7 @@ Klicken Sie hier zum Herunterladen.</translation>
     </message>
     <message>
         <source>26 seconds</source>
-        <translation></translation>
+        <translation>26 Sekunden</translation>
     </message>
     <message>
         <source>Number of Samples</source>
@@ -2651,7 +2652,7 @@ Klicken Sie hier zum Herunterladen.</translation>
     </message>
     <message>
         <source>192900</source>
-        <translation></translation>
+        <translation>192900</translation>
     </message>
     <message>
         <source>Size on Memory</source>
@@ -2659,7 +2660,7 @@ Klicken Sie hier zum Herunterladen.</translation>
     </message>
     <message>
         <source>100 Kb</source>
-        <translation></translation>
+        <translation>100 Kb</translation>
     </message>
     <message>
         <source>Size on Disk</source>
@@ -2667,7 +2668,7 @@ Klicken Sie hier zum Herunterladen.</translation>
     </message>
     <message>
         <source>192 Kb</source>
-        <translation></translation>
+        <translation>192 Kb</translation>
     </message>
     <message>
         <source>Modification Date</source>
@@ -2683,7 +2684,7 @@ Klicken Sie hier zum Herunterladen.</translation>
     </message>
     <message>
         <source>/Users/ruijunior/Music/iTunes/iTunes Media/Music/Enanitos Verdes/Unknown Album/Lamento Boliviano.aif</source>
-        <translation></translation>
+        <translation>/Users/ruijunior/Music/iTunes/iTunes Media/Music/Enanitos Verdes/Unknown Album/Lamento Boliviano.aif</translation>
     </message>
     <message>
         <source>Details</source>
@@ -2727,7 +2728,7 @@ Klicken Sie hier zum Herunterladen.</translation>
     </message>
     <message>
         <source>bpm</source>
-        <translation></translation>
+        <translation>BPM</translation>
     </message>
     <message>
         <source>Keywords</source>
@@ -2747,7 +2748,7 @@ Klicken Sie hier zum Herunterladen.</translation>
     </message>
     <message>
         <source>PNG / 256 x 256</source>
-        <translation></translation>
+        <translation>PNG / 256 x 256</translation>
     </message>
     <message>
         <source>Change Artwork...</source>
@@ -2774,11 +2775,11 @@ Klicken Sie hier zum Herunterladen.</translation>
     <name>QOcenCrashReportDialog</name>
     <message>
         <source>ocenaudio Crashed Previously</source>
-        <translation>ocenaudio ist kürzlich abgestürzt</translation>
+        <translation>Ocenaudio ist kürzlich abgestürzt</translation>
     </message>
     <message>
         <source>ocenaudio crashed previously</source>
-        <translation>ocenaudio ist kürzlich abgestürzt</translation>
+        <translation>Ocenaudio ist kürzlich abgestürzt</translation>
     </message>
     <message>
         <source>Do you want to send details on the crash to ocenaudio&apos;s development team?</source>
@@ -2786,11 +2787,11 @@ Klicken Sie hier zum Herunterladen.</translation>
     </message>
     <message>
         <source>If you want, you can enter a few lines on what you did before ocenaudio crashed along with other helpful information: sample file, os crash report, screen shots, ...</source>
-        <translation>Wenn Sie wollen, können Sie ein paar Zeilen darüber schreiben, was Sie taten, bevor Ocenaudio abstürzte, zusammen mit anderen hilfreichen Informationen wie Beispieldatei, Absturbericht des Betriebssystems, Bildschirmfotos...</translation>
+        <translation>Wenn Sie wollen, können Sie ein paar Zeilen darüber schreiben, was Sie taten, bevor Ocenaudio abstürzte, zusammen mit anderen hilfreichen Informationen wie Beispieldatei, Absturzbericht des Betriebssystems, Bildschirmfotos...</translation>
     </message>
     <message>
         <source>If you agree to be contacted about this bug report enter your email below:</source>
-        <translation>Wenn Sie einverstanden sind, zu diesem Fehlerbericht kontaktiert zu werden, geben Sie Ihre E-Mail-Adresse ein:</translation>
+        <translation>Ich möchte unter dieser E-Mail-Adresse kontaktiert werden:</translation>
     </message>
     <message>
         <source>Attach File...</source>
@@ -2829,7 +2830,7 @@ Klicken Sie hier zum Herunterladen.</translation>
     </message>
     <message>
         <source>Name</source>
-        <translation></translation>
+        <translation>Name</translation>
     </message>
     <message>
         <source>Fade In</source>
@@ -2876,7 +2877,7 @@ Klicken Sie hier zum Herunterladen.</translation>
     </message>
     <message>
         <source>RAW</source>
-        <translation></translation>
+        <translation>RAW</translation>
     </message>
     <message>
         <source>Data Type:</source>
@@ -2884,15 +2885,15 @@ Klicken Sie hier zum Herunterladen.</translation>
     </message>
     <message>
         <source>Pulse-code Modulation (PCM Linear)</source>
-        <translation></translation>
+        <translation>Pulse-code Modulation (PCM Linear)</translation>
     </message>
     <message>
         <source>A-Law companding PCM (G.711a)</source>
-        <translation></translation>
+        <translation>A-Law companding PCM (G.711a)</translation>
     </message>
     <message>
         <source>μ-Law companding PCM (G.711u)</source>
-        <translation></translation>
+        <translation>μ-Law companding PCM (G.711u)</translation>
     </message>
     <message>
         <source>Precision:</source>
@@ -2900,11 +2901,11 @@ Klicken Sie hier zum Herunterladen.</translation>
     </message>
     <message>
         <source>PCM Little-Endian (MSB/LSB) Intel</source>
-        <translation></translation>
+        <translation>PCM Little-Endian (MSB/LSB) Intel</translation>
     </message>
     <message>
         <source>WAV</source>
-        <translation></translation>
+        <translation>WAV</translation>
     </message>
     <message>
         <source>Audio Format:</source>
@@ -2912,15 +2913,15 @@ Klicken Sie hier zum Herunterladen.</translation>
     </message>
     <message>
         <source>IMA ADPCM</source>
-        <translation></translation>
+        <translation>IMA ADPCM</translation>
     </message>
     <message>
         <source>CAF</source>
-        <translation></translation>
+        <translation>CAF</translation>
     </message>
     <message>
         <source>MP3</source>
-        <translation></translation>
+        <translation>MP3</translation>
     </message>
     <message>
         <source>Use Variable Bit Rate Encoding (VBR)</source>
@@ -2964,67 +2965,67 @@ Klicken Sie hier zum Herunterladen.</translation>
     </message>
     <message>
         <source>16 kbps</source>
-        <translation></translation>
+        <translation>16 kbps</translation>
     </message>
     <message>
         <source>24 kbps</source>
-        <translation></translation>
+        <translation>24 kbps</translation>
     </message>
     <message>
         <source>32 kbps</source>
-        <translation></translation>
+        <translation>32 kbps</translation>
     </message>
     <message>
         <source>40 kbps</source>
-        <translation></translation>
+        <translation>40 kbps</translation>
     </message>
     <message>
         <source>48 kbps</source>
-        <translation></translation>
+        <translation>48 kbps</translation>
     </message>
     <message>
         <source>56 kbps</source>
-        <translation></translation>
+        <translation>56 kbps</translation>
     </message>
     <message>
         <source>64 kbps</source>
-        <translation></translation>
+        <translation>64 kbps</translation>
     </message>
     <message>
         <source>80 kbps</source>
-        <translation></translation>
+        <translation>80 kbps</translation>
     </message>
     <message>
         <source>96 kbps</source>
-        <translation></translation>
+        <translation>96 kbps</translation>
     </message>
     <message>
         <source>112 kbps</source>
-        <translation></translation>
+        <translation>112 kbps</translation>
     </message>
     <message>
         <source>128 kbps</source>
-        <translation></translation>
+        <translation>128 kbps</translation>
     </message>
     <message>
         <source>160 kbps</source>
-        <translation></translation>
+        <translation>160 kbps</translation>
     </message>
     <message>
         <source>192 kbps</source>
-        <translation></translation>
+        <translation>192 kbps</translation>
     </message>
     <message>
         <source>224 kbps</source>
-        <translation></translation>
+        <translation>224 kbps</translation>
     </message>
     <message>
         <source>256 kbps</source>
-        <translation></translation>
+        <translation>256 kbps</translation>
     </message>
     <message>
         <source>320 kbps</source>
-        <translation></translation>
+        <translation>320 kbps</translation>
     </message>
     <message>
         <source>Stereo Mode:</source>
@@ -3032,15 +3033,15 @@ Klicken Sie hier zum Herunterladen.</translation>
     </message>
     <message>
         <source>Normal</source>
-        <translation></translation>
+        <translation>Normal</translation>
     </message>
     <message>
         <source>Joint Stereo</source>
-        <translation></translation>
+        <translation>Joint Stereo</translation>
     </message>
     <message>
         <source>MP4</source>
-        <translation></translation>
+        <translation>MP4</translation>
     </message>
     <message>
         <source>Audio Compressor:</source>
@@ -3048,11 +3049,11 @@ Klicken Sie hier zum Herunterladen.</translation>
     </message>
     <message>
         <source>AAC - Advanced Audio Coding</source>
-        <translation></translation>
+        <translation>AAC - Advanced Audio Coding</translation>
     </message>
     <message>
         <source>ALAC - Apple Lossless Audio Codec</source>
-        <translation></translation>
+        <translation>ALAC - Apple Lossless Audio Codec</translation>
     </message>
     <message>
         <source>Profile:</source>
@@ -3076,7 +3077,7 @@ Klicken Sie hier zum Herunterladen.</translation>
     </message>
     <message>
         <source>OGG</source>
-        <translation></translation>
+        <translation>OGG</translation>
     </message>
     <message>
         <source>Mode:</source>
@@ -3108,19 +3109,19 @@ Klicken Sie hier zum Herunterladen.</translation>
     </message>
     <message>
         <source>AIF</source>
-        <translation></translation>
+        <translation>AIF</translation>
     </message>
     <message>
         <source>MUSEPACK</source>
-        <translation></translation>
+        <translation>MUSEPACK</translation>
     </message>
     <message>
         <source>WAVPACK</source>
-        <translation></translation>
+        <translation>WAVPACK</translation>
     </message>
     <message>
         <source>FLAC</source>
-        <translation></translation>
+        <translation>FLAC</translation>
     </message>
     <message>
         <source>Filename</source>
@@ -3128,7 +3129,7 @@ Klicken Sie hier zum Herunterladen.</translation>
     </message>
     <message>
         <source>...</source>
-        <translation></translation>
+        <translation>...</translation>
     </message>
     <message>
         <source>Save each selection to a separate file</source>
@@ -3140,7 +3141,7 @@ Klicken Sie hier zum Herunterladen.</translation>
     </message>
     <message>
         <source>%1 kbps</source>
-        <translation></translation>
+        <translation>%1 kbps</translation>
     </message>
     <message>
         <source>Save each %1 to a separate file</source>
@@ -3199,7 +3200,7 @@ Klicken Sie hier zum Herunterladen.</translation>
     </message>
     <message>
         <source>/</source>
-        <translation></translation>
+        <translation>/</translation>
     </message>
     <message>
         <source>data</source>
@@ -3207,14 +3208,14 @@ Klicken Sie hier zum Herunterladen.</translation>
     </message>
     <message>
         <source>Selected Path</source>
-        <translation>Ausgewählte Pfad</translation>
+        <translation>Ausgewählter Pfad</translation>
     </message>
 </context>
 <context>
     <name>QOcenFTPExportDialog</name>
     <message>
         <source>Export Audio using FTP</source>
-        <translation>Exportieren Audio über FTP</translation>
+        <translation>Exportiere Audio über FTP</translation>
     </message>
     <message>
         <source>Ftp Server</source>
@@ -3222,7 +3223,7 @@ Klicken Sie hier zum Herunterladen.</translation>
     </message>
     <message>
         <source>Profile Name</source>
-        <translation>Profilnamen</translation>
+        <translation>Profilname</translation>
     </message>
     <message>
         <source>Address</source>
@@ -3230,7 +3231,7 @@ Klicken Sie hier zum Herunterladen.</translation>
     </message>
     <message>
         <source>Port</source>
-        <translation></translation>
+        <translation>Port</translation>
     </message>
     <message>
         <source>Anonymous Login</source>
@@ -3250,11 +3251,11 @@ Klicken Sie hier zum Herunterladen.</translation>
     </message>
     <message>
         <source>...</source>
-        <translation></translation>
+        <translation>...</translation>
     </message>
     <message>
         <source>File Info</source>
-        <translation>Datei Info</translation>
+        <translation>Datei Information</translation>
     </message>
     <message>
         <source>Filename</source>
@@ -3266,23 +3267,23 @@ Klicken Sie hier zum Herunterladen.</translation>
     </message>
     <message>
         <source>Wav PCM (*.wav)</source>
-        <translation></translation>
+        <translation>Wav PCM (*.wav)</translation>
     </message>
     <message>
         <source>MP3 File Format Franna (*.mp3)</source>
-        <translation></translation>
+        <translation>MP3 File Format (*.mp3)</translation>
     </message>
     <message>
         <source>Upload only selection</source>
-        <translation>Laden nur auswahl</translation>
+        <translation>Nur Auswahl hochladen</translation>
     </message>
     <message>
         <source>Upload</source>
-        <translation>Laden</translation>
+        <translation>Hochladen</translation>
     </message>
     <message>
         <source>Uploading audio</source>
-        <translation>Hochladen der audio</translation>
+        <translation>Audio hochladen</translation>
     </message>
     <message>
         <source>Cancel</source>
@@ -3294,15 +3295,15 @@ Klicken Sie hier zum Herunterladen.</translation>
     </message>
     <message>
         <source>The upload process was failed.</source>
-        <translation>Der Upload-Prozess fehlgeschlagen.</translation>
+        <translation>Das Hochladen ist fehlgeschlagen.</translation>
     </message>
     <message>
         <source>Upload Finished</source>
-        <translation>Laden fertig</translation>
+        <translation>Hochladen beendet</translation>
     </message>
     <message>
         <source>The file was successfully uploaded to your FTP server.</source>
-        <translation>Die Datei wurde erfolgreich auf FTP-Server hochgeladen.</translation>
+        <translation>Die Datei wurde erfolgreich auf den FTP-Server hochgeladen.</translation>
     </message>
     <message>
         <source>Warning</source>
@@ -3310,14 +3311,14 @@ Klicken Sie hier zum Herunterladen.</translation>
     </message>
     <message>
         <source>The file %1 already exists in the FTP server.</source>
-        <translation>Die Datei %1 existiert bereits in dem FTP-Server.</translation>
+        <translation>Die Datei %1 existiert bereits auf dem FTP-Server.</translation>
     </message>
 </context>
 <context>
     <name>QOcenFTPExportThread</name>
     <message>
         <source>Connecting to FTP server...</source>
-        <translation>Verbinden mit FTP-Server...</translation>
+        <translation>Verbinde mit FTP-Server...</translation>
     </message>
     <message>
         <source>Connected to FTP server</source>
@@ -3325,27 +3326,27 @@ Klicken Sie hier zum Herunterladen.</translation>
     </message>
     <message>
         <source>Connection refused. Please, check the server address, username and password.</source>
-        <translation>Verbindung abgelehnt. Bitte überprüfen Sie die Server-Adresse, Benutzername und Passwort.</translation>
+        <translation>Verbindung abgelehnt. Bitte überprüfen Sie die Server-Adresse, Benutzername und Kennwort.</translation>
     </message>
     <message>
         <source>Preparing audio file to upload...</source>
-        <translation>Vorbereiten Audio-Datei zum Hochladen...</translation>
+        <translation>Erzeuge Audiodatei zum Hochladen...</translation>
     </message>
     <message>
         <source>Fail to prepare file!</source>
-        <translation>Datei konnte nicht vorbereitet!</translation>
+        <translation>Datei konnte nicht erzeugt werden!</translation>
     </message>
     <message>
         <source>Fail to prepare audio file!</source>
-        <translation>Audiodatei konnte nicht vorbereitet!</translation>
+        <translation>Audiodatei konnte nicht erzeugt werden!</translation>
     </message>
     <message>
         <source>Fail to remove existing file!</source>
-        <translation>Fehler vorhandene Datei zu entfernen!</translation>
+        <translation>Konnte vorhandene Datei nicht entfernen!</translation>
     </message>
     <message>
         <source>Uploading audio file...</source>
-        <translation>Hochladen der audiodatei...</translation>
+        <translation>Hochladen der Audiodatei...</translation>
     </message>
     <message>
         <source>Upload finished</source>
@@ -3360,7 +3361,7 @@ Klicken Sie hier zum Herunterladen.</translation>
     <name>QOcenFTPListThread</name>
     <message>
         <source>Connecting to FTP server...</source>
-        <translation>Verbinden mit FTP-Server...</translation>
+        <translation>Verbinde mit FTP-Server...</translation>
     </message>
     <message>
         <source>Connected to FTP server</source>
@@ -3368,7 +3369,7 @@ Klicken Sie hier zum Herunterladen.</translation>
     </message>
     <message>
         <source>Connection refused. Please, check the server address, username and password.</source>
-        <translation>Verbindung abgelehnt. Bitte überprüfen Sie die Server-Adresse, Benutzername und Passwort.</translation>
+        <translation>Verbindung abgelehnt. Bitte überprüfen Sie die Server-Adresse, Benutzername und Kennwort.</translation>
     </message>
     <message>
         <source>Listing...</source>
@@ -3376,7 +3377,7 @@ Klicken Sie hier zum Herunterladen.</translation>
     </message>
     <message>
         <source>List finished</source>
-        <translation>Auflisen fertig</translation>
+        <translation>Auflisten beendet</translation>
     </message>
 </context>
 <context>
@@ -3391,39 +3392,39 @@ Klicken Sie hier zum Herunterladen.</translation>
     </message>
     <message>
         <source>16000</source>
-        <translation></translation>
+        <translation>16000</translation>
     </message>
     <message>
         <source>Hz</source>
-        <translation></translation>
+        <translation>Hz</translation>
     </message>
     <message>
         <source>48000</source>
-        <translation></translation>
+        <translation>48000</translation>
     </message>
     <message>
         <source>44100</source>
-        <translation></translation>
+        <translation>44100</translation>
     </message>
     <message>
         <source>32000</source>
-        <translation></translation>
+        <translation>32000</translation>
     </message>
     <message>
         <source>22050</source>
-        <translation></translation>
+        <translation>22050</translation>
     </message>
     <message>
         <source>11025</source>
-        <translation></translation>
+        <translation>11025</translation>
     </message>
     <message>
         <source>8000</source>
-        <translation></translation>
+        <translation>8000</translation>
     </message>
     <message>
         <source>6000</source>
-        <translation></translation>
+        <translation>6000</translation>
     </message>
     <message>
         <source>Channels</source>
@@ -3431,11 +3432,11 @@ Klicken Sie hier zum Herunterladen.</translation>
     </message>
     <message>
         <source>Mono</source>
-        <translation></translation>
+        <translation>Mono</translation>
     </message>
     <message>
         <source>Stereo</source>
-        <translation></translation>
+        <translation>Stereo</translation>
     </message>
     <message>
         <source>Swap L/R Channels</source>
@@ -3447,11 +3448,11 @@ Klicken Sie hier zum Herunterladen.</translation>
     </message>
     <message>
         <source>50</source>
-        <translation></translation>
+        <translation>50</translation>
     </message>
     <message>
         <source>%</source>
-        <translation></translation>
+        <translation>%</translation>
     </message>
     <message>
         <source>Right Mix:</source>
@@ -3459,11 +3460,11 @@ Klicken Sie hier zum Herunterladen.</translation>
     </message>
     <message>
         <source>L</source>
-        <translation></translation>
+        <translation>L</translation>
     </message>
     <message>
         <source>R</source>
-        <translation></translation>
+        <translation>R</translation>
     </message>
 </context>
 <context>
@@ -3478,15 +3479,15 @@ Klicken Sie hier zum Herunterladen.</translation>
     </message>
     <message>
         <source>bypass</source>
-        <translation></translation>
+        <translation>Bypass</translation>
     </message>
     <message>
         <source>Save Preset</source>
-        <translation>Speichern Voreinstellungen</translation>
+        <translation>Voreinstellung speichern</translation>
     </message>
     <message>
         <source>Manage Presets</source>
-        <translation>Voreinstellungen Verwalten</translation>
+        <translation>Voreinstellungen verwalten</translation>
     </message>
     <message>
         <source>Playback Loop</source>
@@ -3518,7 +3519,7 @@ Klicken Sie hier zum Herunterladen.</translation>
     </message>
     <message>
         <source>Preset Name</source>
-        <translation>Voreinstellungen Name</translation>
+        <translation>Name der Voreinstellungen</translation>
     </message>
     <message>
         <source>The name &quot;%1&quot; is already taken.</source>
@@ -3526,7 +3527,7 @@ Klicken Sie hier zum Herunterladen.</translation>
     </message>
     <message>
         <source>Do you want to choose another name or replace the previous saved preset?</source>
-        <translation>Möchten Sie einen anderen Namen zu wählen oder die vorherige gespeicherte Voreinstellung ersetzen?</translation>
+        <translation>Möchten Sie einen anderen Namen wählen oder die bestehende Voreinstellung ersetzen?</translation>
     </message>
     <message>
         <source>Replace</source>
@@ -3541,11 +3542,11 @@ Klicken Sie hier zum Herunterladen.</translation>
     <name>QOcenFxManagePresetDialog</name>
     <message>
         <source>Manage Presets</source>
-        <translation>Voreinstellungen Verwalten</translation>
+        <translation>Voreinstellungen verwalten</translation>
     </message>
     <message>
         <source>Current Setting (before open preset manager)</source>
-        <translation>Aktuelle Einstellung (vor offen Voreinstellungen-Manager)</translation>
+        <translation>Aktuelle Einstellung (vor öffnen des Voreinstellungen-Managers)</translation>
     </message>
     <message>
         <source>Setting 1</source>
@@ -3561,11 +3562,11 @@ Klicken Sie hier zum Herunterladen.</translation>
     </message>
     <message>
         <source>Current Preset (user&apos;s changes)</source>
-        <translation>Aktuelle Voreinstellungen (änderungen des benutzers)</translation>
+        <translation>Aktuelle Voreinstellung (Änderungen des Nutzers)</translation>
     </message>
     <message>
         <source>Rename Preset</source>
-        <translation>Umbenennen Voreinstellungen</translation>
+        <translation>Voreinstellung umbenennen</translation>
     </message>
     <message>
         <source>The name &quot;%1&quot; is already taken.</source>
@@ -3592,7 +3593,7 @@ Klicken Sie hier zum Herunterladen.</translation>
     </message>
     <message>
         <source>100</source>
-        <translation></translation>
+        <translation>100</translation>
     </message>
     <message>
         <source>Invert</source>
@@ -3651,11 +3652,11 @@ Klicken Sie hier zum Herunterladen.</translation>
     </message>
     <message>
         <source>44.1 kHz</source>
-        <translation></translation>
+        <translation>44,1 kHz</translation>
     </message>
     <message>
         <source>48 kHz</source>
-        <translation></translation>
+        <translation>48 kHz</translation>
     </message>
     <message>
         <source>Other</source>
@@ -3663,15 +3664,15 @@ Klicken Sie hier zum Herunterladen.</translation>
     </message>
     <message>
         <source>8 kHz</source>
-        <translation></translation>
+        <translation>8 kHz</translation>
     </message>
     <message>
         <source>11025 Hz</source>
-        <translation></translation>
+        <translation>11025 Hz</translation>
     </message>
     <message>
         <source>16 kHz</source>
-        <translation></translation>
+        <translation>16 kHz</translation>
     </message>
     <message>
         <source>Custom</source>
@@ -3683,11 +3684,11 @@ Klicken Sie hier zum Herunterladen.</translation>
     </message>
     <message>
         <source>Mono</source>
-        <translation></translation>
+        <translation>Mono</translation>
     </message>
     <message>
         <source>Stereo</source>
-        <translation></translation>
+        <translation>Stereo</translation>
     </message>
     <message>
         <source>Multichannel</source>
@@ -3719,11 +3720,11 @@ Klicken Sie hier zum Herunterladen.</translation>
     </message>
     <message>
         <source>44100 Hz</source>
-        <translation></translation>
+        <translation>44100 Hz</translation>
     </message>
     <message>
         <source>48000 Hz</source>
-        <translation></translation>
+        <translation>48000 Hz</translation>
     </message>
 </context>
 <context>
@@ -3737,7 +3738,7 @@ Klicken Sie hier zum Herunterladen.</translation>
     <name>QOcenRecentMenu</name>
     <message>
         <source>Recent Files</source>
-        <translation>Neueste Dateien</translation>
+        <translation>Letzte Dateien</translation>
     </message>
     <message>
         <source>Clear History</source>
@@ -3745,23 +3746,23 @@ Klicken Sie hier zum Herunterladen.</translation>
     </message>
     <message>
         <source>Open both streams in this file</source>
-        <translation>Öffnen beiden Stream in dieser datei</translation>
+        <translation>Öffne beide Streams in dieser Datei</translation>
     </message>
     <message>
         <source>Open all streams in this file</source>
-        <translation>Öffnen alle Stream in dieser datei</translation>
+        <translation>Öffne alle Streams in dieser Datei</translation>
     </message>
     <message>
         <source>Open all files in this directory</source>
-        <translation>Öffnen alle dateien in diesem ordne</translation>
+        <translation>Öffne alle Dateien in diesem Verzeichnis</translation>
     </message>
     <message>
         <source>Open both files in this %1</source>
-        <translation>Öffne beide Dateien in diese %1</translation>
+        <translation>Öffne beide Dateien in %1</translation>
     </message>
     <message>
         <source>Open all %1 files in this %2</source>
-        <translation>Öffne alle %1 Dateien in diese %2</translation>
+        <translation>Öffne alle %1 Dateien in %2</translation>
     </message>
     <message>
         <source>and %1 other files</source>
@@ -3772,7 +3773,7 @@ Klicken Sie hier zum Herunterladen.</translation>
     <name>QOcenUrlDialog</name>
     <message>
         <source>Dialog</source>
-        <translation></translation>
+        <translation>Dialog</translation>
     </message>
     <message>
         <source>Enter the URL or path to a sound file on the Internet, your computer,
@@ -3793,15 +3794,15 @@ auf Ihrem Computer oder in Ihrem Netzwerk ein, um sie zu öffnen:</translation>
     </message>
     <message>
         <source>Plugin crashed</source>
-        <translation>VST-Plugin Absturz</translation>
+        <translation>Plugin abgestürzt</translation>
     </message>
     <message>
         <source>The plugin %1 crashed and will be finalized.</source>
-        <translation>Das Plugin %1 abgestürzt und abgeschlossen werden.</translation>
+        <translation>Das Plugin %1 ist abgestürzt und wird geschlossen.</translation>
     </message>
     <message>
         <source>Ocenaudio was not affected by this crash and will continue running normally.</source>
-        <translation>Ocenaudio wurde nicht von diesem absturz betroffen und läuft dabei normal weiter.</translation>
+        <translation>Ocenaudio wurde nicht von diesem Absturz betroffen und wird fortgesetzt.</translation>
     </message>
     <message>
         <source>VST Effect:</source>
@@ -3816,7 +3817,7 @@ auf Ihrem Computer oder in Ihrem Netzwerk ein, um sie zu öffnen:</translation>
     <name>QOcenVstList</name>
     <message>
         <source>Dialog</source>
-        <translation></translation>
+        <translation>Dialog</translation>
     </message>
     <message>
         <source>List of VST Plugins</source>
@@ -3824,19 +3825,19 @@ auf Ihrem Computer oder in Ihrem Netzwerk ein, um sie zu öffnen:</translation>
     </message>
     <message>
         <source>/Library/Audio/plugins/VST/delay.vst</source>
-        <translation></translation>
+        <translation>/Library/Audio/plugins/VST/delay.vst</translation>
     </message>
     <message>
         <source>/Library/Audio/plugins/VST/sampler.vst (crashed)</source>
-        <translation></translation>
+        <translation>/Library/Audio/plugins/VST/sampler.vst (crashed)</translation>
     </message>
     <message>
         <source>Enable All</source>
-        <translation>Aktiviere alle</translation>
+        <translation>Alle aktivieren</translation>
     </message>
     <message>
         <source>Disable All</source>
-        <translation>Deaktiviere alle</translation>
+        <translation>Alle deaktivieren</translation>
     </message>
     <message>
         <source>Effects in Folder %1</source>
@@ -3844,7 +3845,7 @@ auf Ihrem Computer oder in Ihrem Netzwerk ein, um sie zu öffnen:</translation>
     </message>
     <message>
         <source>Crashed</source>
-        <translation>Absturz</translation>
+        <translation>Abgestürzt</translation>
     </message>
     <message>
         <source>Duplicated / Older Version</source>
@@ -3856,7 +3857,7 @@ auf Ihrem Computer oder in Ihrem Netzwerk ein, um sie zu öffnen:</translation>
     </message>
     <message>
         <source>Not Loaded</source>
-        <translation>Nicht Geladen</translation>
+        <translation>Nicht geladen</translation>
     </message>
 </context>
 <context>
@@ -3871,11 +3872,11 @@ auf Ihrem Computer oder in Ihrem Netzwerk ein, um sie zu öffnen:</translation>
     </message>
     <message>
         <source>Scanning Plugins</source>
-        <translation>Scannen VST</translation>
+        <translation>Suche Plugins</translation>
     </message>
     <message>
         <source>VST</source>
-        <translation></translation>
+        <translation>VST</translation>
     </message>
     <message>
         <source>Select Directory</source>
@@ -4038,7 +4039,7 @@ auf Ihrem Computer oder in Ihrem Netzwerk ein, um sie zu öffnen:</translation>
     </message>
     <message>
         <source>Information</source>
-        <translation></translation>
+        <translation>Information</translation>
     </message>
     <message>
         <source>Some files are still under processing!</source>
@@ -4101,15 +4102,15 @@ auf Ihrem Computer oder in Ihrem Netzwerk ein, um sie zu öffnen:</translation>
     </message>
     <message>
         <source>Start</source>
-        <translation></translation>
+        <translation>Start</translation>
     </message>
     <message>
         <source>300</source>
-        <translation></translation>
+        <translation>300</translation>
     </message>
     <message>
         <source>Hz</source>
-        <translation></translation>
+        <translation>Hz</translation>
     </message>
     <message>
         <source>End</source>
@@ -4161,67 +4162,67 @@ auf Ihrem Computer oder in Ihrem Netzwerk ein, um sie zu öffnen:</translation>
     </message>
     <message>
         <source>1</source>
-        <translation></translation>
+        <translation>1</translation>
     </message>
     <message>
         <source>2</source>
-        <translation></translation>
+        <translation>2</translation>
     </message>
     <message>
         <source>3</source>
-        <translation></translation>
+        <translation>3</translation>
     </message>
     <message>
         <source>A</source>
-        <translation></translation>
+        <translation>A</translation>
     </message>
     <message>
         <source>4</source>
-        <translation></translation>
+        <translation>4</translation>
     </message>
     <message>
         <source>5</source>
-        <translation></translation>
+        <translation>5</translation>
     </message>
     <message>
         <source>6</source>
-        <translation></translation>
+        <translation>6</translation>
     </message>
     <message>
         <source>B</source>
-        <translation></translation>
+        <translation>B</translation>
     </message>
     <message>
         <source>7</source>
-        <translation></translation>
+        <translation>7</translation>
     </message>
     <message>
         <source>8</source>
-        <translation></translation>
+        <translation>8</translation>
     </message>
     <message>
         <source>9</source>
-        <translation></translation>
+        <translation>9</translation>
     </message>
     <message>
         <source>C</source>
-        <translation></translation>
+        <translation>C</translation>
     </message>
     <message>
         <source>*</source>
-        <translation></translation>
+        <translation>*</translation>
     </message>
     <message>
         <source>0</source>
-        <translation></translation>
+        <translation>0</translation>
     </message>
     <message>
         <source>#</source>
-        <translation></translation>
+        <translation>#</translation>
     </message>
     <message>
         <source>D</source>
-        <translation></translation>
+        <translation>D</translation>
     </message>
     <message>
         <source>Code Duration</source>
@@ -4229,11 +4230,11 @@ auf Ihrem Computer oder in Ihrem Netzwerk ein, um sie zu öffnen:</translation>
     </message>
     <message>
         <source>100</source>
-        <translation></translation>
+        <translation>100</translation>
     </message>
     <message>
         <source>ms</source>
-        <translation></translation>
+        <translation>ms</translation>
     </message>
     <message>
         <source>Break Duration</source>
@@ -4241,7 +4242,7 @@ auf Ihrem Computer oder in Ihrem Netzwerk ein, um sie zu öffnen:</translation>
     </message>
     <message>
         <source>40</source>
-        <translation></translation>
+        <translation>40</translation>
     </message>
     <message>
         <source>Pause Duration</source>
@@ -4249,7 +4250,7 @@ auf Ihrem Computer oder in Ihrem Netzwerk ein, um sie zu öffnen:</translation>
     </message>
     <message>
         <source>500</source>
-        <translation></translation>
+        <translation>500</translation>
     </message>
     <message>
         <source>Fade Borders</source>
@@ -4265,11 +4266,11 @@ auf Ihrem Computer oder in Ihrem Netzwerk ein, um sie zu öffnen:</translation>
     </message>
     <message>
         <source>-6</source>
-        <translation></translation>
+        <translation>-6</translation>
     </message>
     <message>
         <source>dB</source>
-        <translation></translation>
+        <translation>dB</translation>
     </message>
     <message>
         <source>Duration</source>
@@ -4277,7 +4278,7 @@ auf Ihrem Computer oder in Ihrem Netzwerk ein, um sie zu öffnen:</translation>
     </message>
     <message>
         <source>10</source>
-        <translation></translation>
+        <translation>10</translation>
     </message>
     <message>
         <source>seconds</source>
@@ -4328,7 +4329,7 @@ auf Ihrem Computer oder in Ihrem Netzwerk ein, um sie zu öffnen:</translation>
     </message>
     <message>
         <source>10</source>
-        <translation></translation>
+        <translation>10</translation>
     </message>
     <message>
         <source>seconds</source>
@@ -4347,7 +4348,7 @@ auf Ihrem Computer oder in Ihrem Netzwerk ein, um sie zu öffnen:</translation>
     </message>
     <message>
         <source>/Users/ruijunior/teste/arquivos de audio/arquivo.pcm</source>
-        <translation></translation>
+        <translation>/Users/ruijunior/teste/arquivos de audio/arquivo.pcm</translation>
     </message>
     <message>
         <source>Raw Data Format</source>
@@ -4363,7 +4364,7 @@ auf Ihrem Computer oder in Ihrem Netzwerk ein, um sie zu öffnen:</translation>
     </message>
     <message>
         <source>-</source>
-        <translation></translation>
+        <translation>-</translation>
     </message>
     <message>
         <source>Sample Rate</source>
@@ -4371,39 +4372,39 @@ auf Ihrem Computer oder in Ihrem Netzwerk ein, um sie zu öffnen:</translation>
     </message>
     <message>
         <source>48000</source>
-        <translation></translation>
+        <translation>48000</translation>
     </message>
     <message>
         <source>44100</source>
-        <translation></translation>
+        <translation>44100</translation>
     </message>
     <message>
         <source>32000</source>
-        <translation></translation>
+        <translation>32000</translation>
     </message>
     <message>
         <source>22050</source>
-        <translation></translation>
+        <translation>22050</translation>
     </message>
     <message>
         <source>16000</source>
-        <translation></translation>
+        <translation>16000</translation>
     </message>
     <message>
         <source>11025</source>
-        <translation></translation>
+        <translation>11025</translation>
     </message>
     <message>
         <source>8000</source>
-        <translation></translation>
+        <translation>8000</translation>
     </message>
     <message>
         <source>6000</source>
-        <translation></translation>
+        <translation>6000</translation>
     </message>
     <message>
         <source>Hz</source>
-        <translation></translation>
+        <translation>Hz</translation>
     </message>
     <message>
         <source>Channels</source>
@@ -4423,7 +4424,7 @@ auf Ihrem Computer oder in Ihrem Netzwerk ein, um sie zu öffnen:</translation>
     </message>
     <message>
         <source>Raw Sound Format</source>
-        <translation></translation>
+        <translation>Raw Datenformat</translation>
     </message>
     <message>
         <source>Preview</source>
@@ -4470,19 +4471,19 @@ auf Ihrem Computer oder in Ihrem Netzwerk ein, um sie zu öffnen:</translation>
     <name>QSoundInfoDlg</name>
     <message>
         <source>Dialog</source>
-        <translation></translation>
+        <translation>Dialog</translation>
     </message>
     <message>
         <source>audio.aiff</source>
-        <translation></translation>
+        <translation>audio.aiff</translation>
     </message>
     <message>
         <source>Wav PCM File</source>
-        <translation></translation>
+        <translation>Wav PCM Datei</translation>
     </message>
     <message>
         <source>1:20:30</source>
-        <translation></translation>
+        <translation>1:20:30</translation>
     </message>
     <message>
         <source>General</source>
@@ -4534,27 +4535,27 @@ auf Ihrem Computer oder in Ihrem Netzwerk ein, um sie zu öffnen:</translation>
     </message>
     <message>
         <source>File.mp3</source>
-        <translation></translation>
+        <translation>File.mp3</translation>
     </message>
     <message>
         <source>/Users/ruijunior</source>
-        <translation></translation>
+        <translation>/Users/ruijunior</translation>
     </message>
     <message>
         <source>WAV PCM File</source>
-        <translation></translation>
+        <translation>Wav PCM Datei</translation>
     </message>
     <message>
         <source>128 kbps</source>
-        <translation></translation>
+        <translation>128 kbps</translation>
     </message>
     <message>
         <source>44100 Hz</source>
-        <translation></translation>
+        <translation>44100 Hz</translation>
     </message>
     <message>
         <source>16 bits</source>
-        <translation></translation>
+        <translation>16 bit</translation>
     </message>
     <message>
         <source>mono</source>
@@ -4562,19 +4563,19 @@ auf Ihrem Computer oder in Ihrem Netzwerk ein, um sie zu öffnen:</translation>
     </message>
     <message>
         <source>01:20:30</source>
-        <translation></translation>
+        <translation>1:20:30</translation>
     </message>
     <message>
         <source>10293000</source>
-        <translation></translation>
+        <translation>10293000</translation>
     </message>
     <message>
         <source>12 MB</source>
-        <translation></translation>
+        <translation>12 MB</translation>
     </message>
     <message>
         <source>36 MB</source>
-        <translation></translation>
+        <translation>36 MB</translation>
     </message>
     <message>
         <source>Info</source>
@@ -4610,31 +4611,31 @@ auf Ihrem Computer oder in Ihrem Netzwerk ein, um sie zu öffnen:</translation>
     </message>
     <message>
         <source>Somebody Told Me</source>
-        <translation></translation>
+        <translation>Somebody Told Me</translation>
     </message>
     <message>
         <source>The Killers</source>
-        <translation></translation>
+        <translation>The Killers</translation>
     </message>
     <message>
         <source>The Killers: Live From The Royal Albert Hall</source>
-        <translation></translation>
+        <translation>The Killers: Live From The Royal Albert Hall</translation>
     </message>
     <message>
         <source>Alternative</source>
-        <translation></translation>
+        <translation>Alternative</translation>
     </message>
     <message>
         <source>3/17</source>
-        <translation></translation>
+        <translation>3/17</translation>
     </message>
     <message>
         <source>1/1</source>
-        <translation></translation>
+        <translation>1/1</translation>
     </message>
     <message>
         <source>2009</source>
-        <translation></translation>
+        <translation>2009</translation>
     </message>
     <message>
         <source>Statistics</source>
@@ -4658,7 +4659,7 @@ auf Ihrem Computer oder in Ihrem Netzwerk ein, um sie zu öffnen:</translation>
     </message>
     <message>
         <source>DC Offset:</source>
-        <translation></translation>
+        <translation>DC Offset:</translation>
     </message>
     <message>
         <source>Minimum RMS Power:</source>
@@ -4682,39 +4683,39 @@ auf Ihrem Computer oder in Ihrem Netzwerk ein, um sie zu öffnen:</translation>
     </message>
     <message>
         <source>-1230</source>
-        <translation></translation>
+        <translation>-1230</translation>
     </message>
     <message>
         <source>32700</source>
-        <translation></translation>
+        <translation>32700</translation>
     </message>
     <message>
         <source>-3.57 dB</source>
-        <translation></translation>
+        <translation>-3.57 dB</translation>
     </message>
     <message>
         <source>0</source>
-        <translation></translation>
+        <translation>0</translation>
     </message>
     <message>
         <source>-0.004%</source>
-        <translation></translation>
+        <translation>-0.004%</translation>
     </message>
     <message>
         <source>-65.8 dB</source>
-        <translation></translation>
+        <translation>-65.8 dB</translation>
     </message>
     <message>
         <source>-2.4 dB</source>
-        <translation></translation>
+        <translation>-2.4 d</translation>
     </message>
     <message>
         <source>-22.3 dB</source>
-        <translation></translation>
+        <translation>-22.3 dB</translation>
     </message>
     <message>
         <source>-22.4 dB</source>
-        <translation></translation>
+        <translation>-22.4 dB</translation>
     </message>
     <message>
         <source>Channel 1</source>
@@ -4722,35 +4723,35 @@ auf Ihrem Computer oder in Ihrem Netzwerk ein, um sie zu öffnen:</translation>
     </message>
     <message>
         <source>-928</source>
-        <translation></translation>
+        <translation>-928</translation>
     </message>
     <message>
         <source>30000</source>
-        <translation></translation>
+        <translation>30000</translation>
     </message>
     <message>
         <source>-12.4 dB</source>
-        <translation></translation>
+        <translation>-12.4 dB</translation>
     </message>
     <message>
         <source>+0.02%</source>
-        <translation></translation>
+        <translation>+0.02%</translation>
     </message>
     <message>
         <source>-62.0 dB</source>
-        <translation></translation>
+        <translation>-62.0 dB</translation>
     </message>
     <message>
         <source>-3.2 dB</source>
-        <translation></translation>
+        <translation>-3.2 dB</translation>
     </message>
     <message>
         <source>-20.0 dB</source>
-        <translation></translation>
+        <translation>-20.0 dB</translation>
     </message>
     <message>
         <source>-19.8 dB</source>
-        <translation></translation>
+        <translation>-19.8 dB</translation>
     </message>
     <message>
         <source>Channel 2</source>
@@ -4777,7 +4778,7 @@ auf Ihrem Computer oder in Ihrem Netzwerk ein, um sie zu öffnen:</translation>
     <name>QTestDialog</name>
     <message>
         <source>Dialog</source>
-        <translation></translation>
+        <translation>Dialog</translation>
     </message>
     <message>
         <source>Test Graph</source>
@@ -4796,159 +4797,159 @@ auf Ihrem Computer oder in Ihrem Netzwerk ein, um sie zu öffnen:</translation>
     </message>
     <message>
         <source>8 bits - PCM Linear</source>
-        <translation></translation>
+        <translation>8 bit - PCM Linear</translation>
     </message>
     <message>
         <source>16 bits - a-Law companding PCM (G.711a)</source>
-        <translation></translation>
+        <translation>16 bit - a-Law companding PCM (G.711a)</translation>
     </message>
     <message>
         <source>16 bits - μ-Law companding PCM (G.711u)</source>
-        <translation></translation>
+        <translation>16 bit - μ-Law companding PCM (G.711u)</translation>
     </message>
     <message>
         <source>16 bits - PCM Linear</source>
-        <translation></translation>
+        <translation>16 bit - PCM Linear</translation>
     </message>
     <message>
         <source>16 bits - DVI/IMA Adaptive DPCM</source>
-        <translation></translation>
+        <translation>16 bit - DVI/IMA Adaptive DPCM</translation>
     </message>
     <message>
         <source>16 bits - MS Adaptive DPCM (MS-ADPCM)</source>
-        <translation></translation>
+        <translation>16 bit - MS Adaptive DPCM (MS-ADPCM)</translation>
     </message>
     <message>
         <source>16 bits - ETSI GSM 06.10</source>
-        <translation></translation>
+        <translation>16 bit - ETSI GSM 06.10</translation>
     </message>
     <message>
         <source>24 bits - PCM Linear</source>
-        <translation></translation>
+        <translation>24 bit - PCM Linear</translation>
     </message>
     <message>
         <source>32 bits - PCM Linear</source>
-        <translation></translation>
+        <translation>32 bit - PCM Linear</translation>
     </message>
     <message>
         <source>16 bits - ETSI GSM AMR</source>
-        <translation></translation>
+        <translation>16 bit - ETSI GSM AMR</translation>
     </message>
     <message>
         <source>16 bits - ITU-T G729 Annex A ( 8.0 kbps)</source>
-        <translation></translation>
+        <translation>16 bit - ITU-T G729 Annex A ( 8.0 kbps)</translation>
     </message>
     <message>
         <source>16 bits - ITU-T G729 Annex D ( 6.4 kbps)</source>
-        <translation></translation>
+        <translation>16 bit - ITU-T G729 Annex D ( 6.4 kbps)</translation>
     </message>
     <message>
         <source>16 bits - ITU-T G729 Annex E (11.8 kbps)</source>
-        <translation></translation>
+        <translation>16 bit - ITU-T G729 Annex E (11.8 kbps)</translation>
     </message>
     <message>
         <source>16 bits - ITU-T G723.1 (6.3 kbps)</source>
-        <translation></translation>
+        <translation>16 bit - ITU-T G723.1 (6.3 kbps)</translation>
     </message>
     <message>
         <source>16 bits - ITU-T G723.1 (5.3 kbps)</source>
-        <translation></translation>
+        <translation>16 bit - ITU-T G723.1 (5.3 kbps)</translation>
     </message>
     <message>
         <source>16 bits - iLBC 13.3 kbps</source>
-        <translation></translation>
+        <translation>16 bit - iLBC 13.3 kbps</translation>
     </message>
     <message>
         <source>16 bits - iLBC 15.0 kbps</source>
-        <translation></translation>
+        <translation>16 bit - iLBC 15.0 kbps</translation>
     </message>
     <message>
         <source>16 bits - iSAC</source>
-        <translation></translation>
+        <translation>16 bit - iSAC</translation>
     </message>
     <message>
         <source>16 bits - GSMAMR-WB ( 6.60 kbps)</source>
-        <translation></translation>
+        <translation>16 bit - GSMAMR-WB ( 6.60 kbps)</translation>
     </message>
     <message>
         <source>16 bits - GSMAMR-WB ( 8.85 kbps)</source>
-        <translation></translation>
+        <translation>16 bit - GSMAMR-WB ( 8.85 kbps)</translation>
     </message>
     <message>
         <source>16 bits - GSMAMR-WB (12.65 kbps)</source>
-        <translation></translation>
+        <translation>16 bit - GSMAMR-WB (12.65 kbps)</translation>
     </message>
     <message>
         <source>16 bits - GSMAMR-WB (14.25 kbps)</source>
-        <translation></translation>
+        <translation>16 bit - GSMAMR-WB (14.25 kbps)</translation>
     </message>
     <message>
         <source>16 bits - GSMAMR-WB (15.85 kbps)</source>
-        <translation></translation>
+        <translation>16 bit - GSMAMR-WB (15.85 kbps)</translation>
     </message>
     <message>
         <source>16 bits - GSMAMR-WB (18.25 kbps)</source>
-        <translation></translation>
+        <translation>16 bit - GSMAMR-WB (18.25 kbps)</translation>
     </message>
     <message>
         <source>16 bits - GSMAMR-WB (19.85 kbps)</source>
-        <translation></translation>
+        <translation>16 bit - GSMAMR-WB (19.85 kbps)</translation>
     </message>
     <message>
         <source>16 bits - GSMAMR-WB (23.05 kbps)</source>
-        <translation></translation>
+        <translation>16 bit - GSMAMR-WB (23.05 kbps)</translation>
     </message>
     <message>
         <source>16 bits - GSMAMR-WB (23.85 kbps)</source>
-        <translation></translation>
+        <translation>16 bit - GSMAMR-WB (23.85 kbps)</translation>
     </message>
     <message>
         <source>16 bits - G722.1 ( 24 kbps)</source>
-        <translation></translation>
+        <translation>16 bit - G722.1 ( 24 kbps)</translation>
     </message>
     <message>
         <source>16 bits - G722.1 ( 32 kbps)</source>
-        <translation></translation>
+        <translation>16 bit - G722.1 ( 32 kbps)</translation>
     </message>
     <message>
         <source>16 bits - GSM HR 06.20 ( 6.4 kbps)</source>
-        <translation></translation>
+        <translation>16 bit - GSM HR 06.20 ( 6.4 kbps)</translation>
     </message>
     <message>
         <source>16 bits - G.711.1 Mode 1 (a-law)</source>
-        <translation></translation>
+        <translation>16 bit - G.711.1 Mode 1 (a-law)</translation>
     </message>
     <message>
         <source>16 bits - G.711.1 Mode 1 (μ-law)</source>
-        <translation></translation>
+        <translation>16 bit - G.711.1 Mode 1 (μ-law)</translation>
     </message>
     <message>
         <source>16 bits - G.711.1 Mode 2 (a-law)</source>
-        <translation></translation>
+        <translation>16 bit - G.711.1 Mode 2 (a-law)</translation>
     </message>
     <message>
         <source>16 bits - G.711.1 Mode 2 (μ-law)</source>
-        <translation></translation>
+        <translation>16 bit - G.711.1 Mode 2 (μ-law)</translation>
     </message>
     <message>
         <source>16 bits - G.711.1 Mode 3 (a-law)</source>
-        <translation></translation>
+        <translation>16 bit - G.711.1 Mode 3 (a-law)</translation>
     </message>
     <message>
         <source>16 bits - G.711.1 Mode 3 (μ-law)</source>
-        <translation></translation>
+        <translation>16 bit - G.711.1 Mode 3 (μ-law)</translation>
     </message>
     <message>
         <source>16 bits - G.711.1 Mode 4 (a-law)</source>
-        <translation></translation>
+        <translation>16 bit - G.711.1 Mode 4 (a-law)</translation>
     </message>
     <message>
         <source>16 bits - G.711.1 Mode 4 (μ-law)</source>
-        <translation></translation>
+        <translation>16 bit - G.711.1 Mode 4 (μ-law)</translation>
     </message>
     <message>
         <source>16 bits - G.729.1</source>
-        <translation></translation>
+        <translation>16 bit - G.729.1</translation>
     </message>
     <message>
         <source>Applying %1 quantization</source>

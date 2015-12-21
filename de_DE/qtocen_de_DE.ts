@@ -5,23 +5,23 @@
     <name>QAudioStatistics</name>
     <message>
         <source>+%1</source>
-        <translation></translation>
+        <translation>+%1</translation>
     </message>
     <message>
         <source>%1</source>
-        <translation></translation>
+        <translation>%1</translation>
     </message>
     <message>
         <source>-</source>
-        <translation></translation>
+        <translation>-</translation>
     </message>
     <message>
         <source>%1 dB</source>
-        <translation></translation>
+        <translation>%1 dB</translation>
     </message>
     <message>
         <source>%1 %</source>
-        <translation></translation>
+        <translation>%1 %</translation>
     </message>
 </context>
 <context>
@@ -56,7 +56,7 @@
     </message>
     <message>
         <source>%1 in %2</source>
-        <translation></translation>
+        <translation>%1 in %2</translation>
     </message>
     <message>
         <source>Unsupported Language</source>
@@ -64,7 +64,7 @@
     </message>
     <message>
         <source>English</source>
-        <translation></translation>
+        <translation>Englisch</translation>
     </message>
     <message>
         <source>Portuguese</source>
@@ -76,7 +76,7 @@
     </message>
     <message>
         <source>Hindi</source>
-        <translation></translation>
+        <translation>Hindi</translation>
     </message>
     <message>
         <source>German</source>
@@ -104,11 +104,11 @@
     </message>
     <message>
         <source>Stream</source>
-        <translation></translation>
+        <translation>Stream</translation>
     </message>
     <message>
         <source>stream</source>
-        <translation></translation>
+        <translation>Stream</translation>
     </message>
     <message>
         <source>Stream %1 of %2</source>
@@ -160,7 +160,7 @@
     </message>
     <message>
         <source>Undefined Format</source>
-        <translation>Unbestimmt Format</translation>
+        <translation>Unbestimmtes Format</translation>
     </message>
     <message>
         <source>Where</source>
@@ -168,7 +168,7 @@
     </message>
     <message>
         <source>Cutting</source>
-        <translation>Schneide</translation>
+        <translation>Ausschneiden</translation>
     </message>
     <message>
         <source>Cut</source>
@@ -212,7 +212,7 @@
     </message>
     <message>
         <source>Mono</source>
-        <translation></translation>
+        <translation>Mono</translation>
     </message>
     <message>
         <source>Left</source>
@@ -224,15 +224,15 @@
     </message>
     <message>
         <source>0</source>
-        <translation></translation>
+        <translation>0</translation>
     </message>
     <message>
         <source>L</source>
-        <translation></translation>
+        <translation>L</translation>
     </message>
     <message>
         <source>R</source>
-        <translation></translation>
+        <translation>R</translation>
     </message>
     <message>
         <source>%1 channel of</source>
@@ -332,11 +332,11 @@
     </message>
     <message>
         <source>Detecting Dtmf</source>
-        <translation>Erkennen Dtmf</translation>
+        <translation>DTMF erkennen</translation>
     </message>
     <message>
         <source>Detect Dtmf</source>
-        <translation>Erkennen Dtmf</translation>
+        <translation>DTMF erkennen</translation>
     </message>
     <message>
         <source>Save As</source>
@@ -392,27 +392,27 @@
     </message>
     <message>
         <source>m s e c</source>
-        <translation></translation>
+        <translation>m s e c</translation>
     </message>
     <message>
         <source>s e c</source>
-        <translation></translation>
+        <translation>s e c</translation>
     </message>
     <message>
         <source>m i n</source>
-        <translation></translation>
+        <translation>m i n</translation>
     </message>
     <message>
         <source>h r</source>
-        <translation></translation>
+        <translation>h r</translation>
     </message>
     <message>
         <source>s m p l</source>
-        <translation></translation>
+        <translation>s m p l</translation>
     </message>
     <message>
         <source>f r a m e s</source>
-        <translation></translation>
+        <translation>f r a m e s</translation>
     </message>
     <message>
         <source>mono</source>
@@ -436,7 +436,7 @@
     </message>
     <message>
         <source>Album</source>
-        <translation></translation>
+        <translation>Album</translation>
     </message>
     <message>
         <source>Year</source>
@@ -455,7 +455,7 @@
     </message>
     <message>
         <source>New Plugin Installed</source>
-        <translation>New Plugin Installiert</translation>
+        <translation>Neues Plugin Installiert</translation>
     </message>
     <message>
         <source>ocenaudio Clipboard with %1 seconds in %2 %3</source>
@@ -470,51 +470,51 @@
     </message>
     <message>
         <source>Move Marker</source>
-        <translation>Verschiebe den Marker</translation>
+        <translation>Marker verschieben</translation>
     </message>
     <message>
         <source>Import Regions</source>
-        <translation>Regionen Importieren</translation>
+        <translation>Regionen importieren</translation>
     </message>
     <message>
         <source>Add Region</source>
-        <translation>Region Hinzufügen</translation>
+        <translation>Region hinzufügen</translation>
     </message>
     <message>
         <source>Delete Region</source>
-        <translation>Region Löschen</translation>
+        <translation>Region löschen</translation>
     </message>
     <message>
         <source>Undelete Region</source>
-        <translation>Erholen Region</translation>
+        <translation>Region wiederherstellen</translation>
     </message>
     <message>
         <source>Delete Regions</source>
-        <translation>Regionen Löschen</translation>
+        <translation>Regionen löschen</translation>
     </message>
     <message>
         <source>Convert Region to Loop</source>
-        <translation>Konvertieren Region zu Loop</translation>
+        <translation>Region in Schleife umwandeln</translation>
     </message>
     <message>
         <source>Convert Loop to Region</source>
-        <translation>Konvertieren Loop zu Region</translation>
+        <translation>Schleife in Region umwandeln</translation>
     </message>
     <message>
         <source>Merge Regions</source>
-        <translation>Regionen zusammenfügen</translation>
+        <translation>Regionen verschmelzen</translation>
     </message>
     <message>
         <source>Change Region Comment</source>
-        <translation>Region-Kommentare Ändern</translation>
+        <translation>Regionkommentar ändern</translation>
     </message>
     <message>
         <source>Change Region Label</source>
-        <translation>Region-Label Ändern</translation>
+        <translation>Regionbeschriftung ändern</translation>
     </message>
     <message>
         <source>Change Region Track</source>
-        <translation>Region-Track Ändern</translation>
+        <translation>Region-Track ändern</translation>
     </message>
     <message>
         <source>Offset Region</source>
@@ -522,15 +522,15 @@
     </message>
     <message>
         <source>Change Region Begin</source>
-        <translation>Region Anfang Ändern</translation>
+        <translation>Regionanfang ändern</translation>
     </message>
     <message>
         <source>Change Region End</source>
-        <translation>Region Ende Ändern</translation>
+        <translation>Regionende ändern</translation>
     </message>
     <message>
         <source>Resize Region</source>
-        <translation>Ändern der Größe der Region</translation>
+        <translation>Regiongröße ändern</translation>
     </message>
 </context>
 <context>
@@ -620,15 +620,15 @@
     </message>
     <message>
         <source>Message box text</source>
-        <translation>Meldungsfeld text</translation>
+        <translation>Meldungsfenster Text</translation>
     </message>
     <message>
         <source>Message box informative text</source>
-        <translation>Meldungsfeld informativer text</translation>
+        <translation>Meldungsfenster informativer Text</translation>
     </message>
     <message>
         <source>Checkable option</source>
-        <translation>Überprüfbar Option</translation>
+        <translation>Ankreuzbare Option</translation>
     </message>
 </context>
 <context>
@@ -643,11 +643,11 @@
     </message>
     <message>
         <source>&amp;Save All</source>
-        <translation>&amp;Alles speichern</translation>
+        <translation>Alle &amp;speichern</translation>
     </message>
     <message>
         <source>&amp;Save Selected</source>
-        <translation>&amp;Speichern ausgewählt</translation>
+        <translation>&amp;Ausgewählte speichern</translation>
     </message>
 </context>
 <context>
@@ -693,11 +693,11 @@
     <name>QOcenGetTextDialog</name>
     <message>
         <source>Dialog</source>
-        <translation></translation>
+        <translation>Dialog</translation>
     </message>
     <message>
         <source>TextLabel</source>
-        <translation></translation>
+        <translation>Beschriftung</translation>
     </message>
 </context>
 <context>
@@ -905,7 +905,7 @@
     </message>
     <message>
         <source>%1 Hz</source>
-        <translation></translation>
+        <translation>%1 Hz</translation>
     </message>
     <message>
         <source>Audio format not changed</source>
@@ -929,15 +929,15 @@
     </message>
     <message>
         <source>An error occured while writing temporary data to disk!</source>
-        <translation>Beim Schreiben von temporären Dateienn auf die Festplatte ist ein Fehler aufgetreten!</translation>
+        <translation>Fehler beim Schreiben temporärer Dateien!</translation>
     </message>
     <message>
         <source>This is an unrecoverable error and ocenaudio must quit. This issue might happen if your main disk is running out of free space.</source>
-        <translation>Dies ist ein nicht behebbarer Fehler und Ocenaudio muss beendet werden. Dieses Fehler kann auftreten, wenn Ihre Festplatte voll ist.</translation>
+        <translation>Dies ist ein nicht behebbarer Fehler und Ocenaudio muss beendet werden. Dieser Fehler kann auftreten, wenn Ihre Festplatte voll ist.</translation>
     </message>
     <message>
         <source>Information</source>
-        <translation></translation>
+        <translation>Information</translation>
     </message>
     <message>
         <source>Pasting file %1</source>
@@ -965,7 +965,7 @@
     </message>
     <message>
         <source>An error occurred in the execution of VST plugin application. No VST plugin can be loaded in this condition.</source>
-        <translation>Ein Fehler ereignete sich beim Ausführen des VST Plugins. VST Plugins können nicht geladen werden.</translation>
+        <translation>Ein Fehler ereignete sich beim Ausführen des VST-Plugins. VST-Plugins können nicht geladen werden.</translation>
     </message>
     <message>
         <source>Audio not saved</source>
@@ -1000,11 +1000,11 @@
     </message>
     <message>
         <source>Server:</source>
-        <translation></translation>
+        <translation>Server:</translation>
     </message>
     <message>
         <source>:</source>
-        <translation></translation>
+        <translation>:</translation>
     </message>
     <message>
         <source>Authentication</source>
@@ -1082,7 +1082,7 @@
     </message>
     <message>
         <source>Ok</source>
-        <translation></translation>
+        <translation>Ok</translation>
     </message>
     <message>
         <source>Open File Error</source>
@@ -1149,7 +1149,7 @@
     </message>
     <message>
         <source>To proceed with the installation it is necessary to first update ocenaudio.</source>
-        <translation>Um mit der Installation fortzufahren muss zuerst Ocenaudio aktualisiert werden.</translation>
+        <translation>Um mit der Installation fortzufahren muss Ocenaudio zuerst aktualisiert werden.</translation>
     </message>
     <message>
         <source>Question</source>
@@ -1181,7 +1181,7 @@
     </message>
     <message>
         <source>One or more errors were detected during the installation process. You can try again and if the error persists contact the ocenaudio team.</source>
-        <translation>Ein oder mehrere Fehler traten während der Installation auf. Sie können es nochmal versuchen und wenn der Fehler weiterhin auftritt, wenden Sie sich an das Ocenaudio Team.</translation>
+        <translation>Ein oder mehrere Fehler traten während der Installation auf. Sie können es nochmal versuchen, wenn der Fehler weiterhin auftritt, kontaktieren Sie das Ocenaudio Team.</translation>
     </message>
     <message>
         <source>Invalid Plugin Code Signature</source>
@@ -1189,7 +1189,7 @@
     </message>
     <message>
         <source>This means %1 plugin has been tampered, possibly making it less secure. The plugin cannot be loaded in this state. It is necessary to reinstall the %1 plugin in order to use it.</source>
-        <translation>Dies bedeutet, dass das %1 Plugin manipuliert wurde, um es möglicherweise unsicherer zu machen. Das Plugin kann in diesem Zustand nicht geladen werden. Sie müssen das Plugin %1 neu installieren.</translation>
+        <translation>Dies bedeutet, dass das %1 Plugin manipuliert wurde und möglicherweise unsicher ist. Das Plugin kann in diesem Zustand nicht geladen werden. Sie müssen das Plugin %1 neu installieren.</translation>
     </message>
 </context>
 <context>
@@ -1211,7 +1211,7 @@
     <name>QOcenQuickOpenWidget</name>
     <message>
         <source>File or http address</source>
-        <translation>Datei- oder HTTP-Adress</translation>
+        <translation>Datei- oder HTTP-Adresse</translation>
     </message>
 </context>
 <context>
@@ -1230,7 +1230,7 @@
     </message>
     <message>
         <source>Format</source>
-        <translation></translation>
+        <translation>Format</translation>
     </message>
 </context>
 <context>
@@ -1249,7 +1249,7 @@
     </message>
     <message>
         <source>Move cursor to playback stop position</source>
-        <translation>Verschiebe Zeiger zur Wiedergabe Stop-Position</translation>
+        <translation>Verschiebe Zeiger zur Wiedergabe Stopp-Position</translation>
     </message>
     <message>
         <source>Record Device/Options</source>
@@ -1257,7 +1257,7 @@
     </message>
     <message>
         <source>Move cursor to record stop position</source>
-        <translation>Verschiebe Zeiger zur Aufnahme Stop-Position</translation>
+        <translation>Verschiebe Zeiger zur Aufnahme Stopp-Position</translation>
     </message>
     <message>
         <source>Mixer Sample Rate</source>
@@ -1265,31 +1265,31 @@
     </message>
     <message>
         <source>48000 Hz</source>
-        <translation></translation>
+        <translation>48000 Hz</translation>
     </message>
     <message>
         <source>44100 Hz</source>
-        <translation></translation>
+        <translation>44100 Hz</translation>
     </message>
     <message>
         <source>22050 Hz</source>
-        <translation></translation>
+        <translation>22050 Hz</translation>
     </message>
     <message>
         <source>Mixer Backend</source>
-        <translation></translation>
+        <translation>Mixer Backend</translation>
     </message>
     <message>
         <source>CoreAudio</source>
-        <translation></translation>
+        <translation>CoreAudio</translation>
     </message>
     <message>
         <source>Disabled</source>
-        <translation>Mixer Samplerate</translation>
+        <translation>Deaktiviert</translation>
     </message>
     <message>
         <source>Sound</source>
-        <translation></translation>
+        <translation>Sound</translation>
     </message>
     <message>
         <source>System Default</source>
@@ -1300,7 +1300,7 @@
     <name>QOcenSpectrogramPrefs</name>
     <message>
         <source>Form</source>
-        <translation></translation>
+        <translation>Formular</translation>
     </message>
     <message>
         <source>Presets</source>
@@ -1324,7 +1324,7 @@
     </message>
     <message>
         <source>100%</source>
-        <translation></translation>
+        <translation>100%</translation>
     </message>
     <message>
         <source>Dynamic Range:</source>
@@ -1332,7 +1332,7 @@
     </message>
     <message>
         <source>XXX dB</source>
-        <translation></translation>
+        <translation>XXX dB</translation>
     </message>
     <message>
         <source>Color Settings</source>
@@ -1348,11 +1348,11 @@
     </message>
     <message>
         <source>Narrow Band</source>
-        <translation></translation>
+        <translation>Narrow Band</translation>
     </message>
     <message>
         <source>Wide Band</source>
-        <translation></translation>
+        <translation>Wide Band</translation>
     </message>
     <message>
         <source>Custom</source>
@@ -1360,27 +1360,27 @@
     </message>
     <message>
         <source>Triangular</source>
-        <translation></translation>
+        <translation>Triangular</translation>
     </message>
     <message>
         <source>Blackman</source>
-        <translation></translation>
+        <translation>Blackman</translation>
     </message>
     <message>
         <source>Blackman-Harris</source>
-        <translation></translation>
+        <translation>Blackman-Harris</translation>
     </message>
     <message>
         <source>Blackman-Nuttall</source>
-        <translation></translation>
+        <translation>Blackman-Nuttall</translation>
     </message>
     <message>
         <source>Hanning</source>
-        <translation></translation>
+        <translation>Hanning</translation>
     </message>
     <message>
         <source>Hamming</source>
-        <translation></translation>
+        <translation>Hamming</translation>
     </message>
     <message>
         <source>Inv. Linear Grayscale</source>
@@ -1443,11 +1443,11 @@
     </message>
     <message>
         <source>sextilhão </source>
-        <translation></translation>
+        <translation>sextillion</translation>
     </message>
     <message>
         <source>setilhão </source>
-        <translation></translation>
+        <translation>setilhão</translation>
     </message>
     <message>
         <source>milhões </source>
@@ -1471,11 +1471,11 @@
     </message>
     <message>
         <source>sextilhões </source>
-        <translation></translation>
+        <translation>sextillion</translation>
     </message>
     <message>
         <source>setilhões </source>
-        <translation></translation>
+        <translation>setilhão</translation>
     </message>
     <message>
         <source>zero</source>
