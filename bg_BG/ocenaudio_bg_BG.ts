@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!DOCTYPE TS>
-<TS version="2.1" language="bg_BG">
+<TS version="2.0" language="bg_BG">
 <context>
     <name>AdjustSampleRateDialog</name>
     <message>
@@ -50,37 +50,6 @@
     <message>
         <source>This setting only changes the value of the sample rate. This operation does not resample the signal.</source>
         <translation>Тази настройка променя само стойноста на семплиращата честота. Операцията не променя честотата на сигнала.</translation>
-    </message>
-</context>
-<context>
-    <name>MAC_APPLICATION_MENU</name>
-    <message>
-        <source>Services</source>
-        <translation>Услуги</translation>
-    </message>
-    <message>
-        <source>Hide %1</source>
-        <translation>Скриване на %1</translation>
-    </message>
-    <message>
-        <source>Hide Others</source>
-        <translation>Скриване на другите</translation>
-    </message>
-    <message>
-        <source>Show All</source>
-        <translation>Показване на всички</translation>
-    </message>
-    <message>
-        <source>Preferences...</source>
-        <translation>Предпочитания...</translation>
-    </message>
-    <message>
-        <source>Quit %1</source>
-        <translation>Затваряне на %1</translation>
-    </message>
-    <message>
-        <source>About %1</source>
-        <translation>Относно %1</translation>
     </message>
 </context>
 <context>
@@ -758,6 +727,18 @@
     <message>
         <source>Send Crash Report...</source>
         <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Preferences</source>
+        <translation>Предпочитания</translation>
+    </message>
+    <message>
+        <source>About</source>
+        <translation>Относно</translation>
+    </message>
+    <message>
+        <source>Quit</source>
+        <translation>Затваряне</translation>
     </message>
 </context>
 <context>
@@ -1868,10 +1849,6 @@ Click here to download it.</source>
     <message>
         <source>About</source>
         <translation>Относно</translation>
-    </message>
-    <message>
-        <source>Preferences</source>
-        <translation>Предпочитания</translation>
     </message>
     <message>
         <source>Scanning VST Plugins</source>

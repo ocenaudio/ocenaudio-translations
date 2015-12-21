@@ -53,37 +53,6 @@
     </message>
 </context>
 <context>
-    <name>MAC_APPLICATION_MENU</name>
-    <message>
-        <source>Services</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Hide %1</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Hide Others</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Show All</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Preferences...</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Quit %1</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>About %1</source>
-        <translation type="unfinished"></translation>
-    </message>
-</context>
-<context>
     <name>MainWindow</name>
     <message>
         <source>ocenaudio</source>
@@ -753,6 +722,18 @@
     </message>
     <message>
         <source>Send Crash Report...</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Preferences</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>About</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Quit</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -1862,10 +1843,6 @@ Click here to download it.</source>
     <name>QOcenAudioMainWindow</name>
     <message>
         <source>About</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Preferences</source>
         <translation type="unfinished"></translation>
     </message>
     <message>

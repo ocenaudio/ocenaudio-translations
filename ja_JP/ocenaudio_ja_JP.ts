@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!DOCTYPE TS>
-<TS version="2.1" language="ja_JP">
+<TS version="2.0" language="ja_JP">
 <context>
     <name>AdjustSampleRateDialog</name>
     <message>
@@ -50,37 +50,6 @@
     <message>
         <source>This setting only changes the value of the sample rate. This operation does not resample the signal.</source>
         <translation>こちらの設定でサンプルレートの値のみ変更する。この操作でシグナルがリサンプルされません。</translation>
-    </message>
-</context>
-<context>
-    <name>MAC_APPLICATION_MENU</name>
-    <message>
-        <source>Services</source>
-        <translation>功労</translation>
-    </message>
-    <message>
-        <source>Hide %1</source>
-        <translation>%1を非表示</translation>
-    </message>
-    <message>
-        <source>Hide Others</source>
-        <translation>他のを非表示</translation>
-    </message>
-    <message>
-        <source>Show All</source>
-        <translation>全て表示</translation>
-    </message>
-    <message>
-        <source>Preferences...</source>
-        <translation>詳細設定...</translation>
-    </message>
-    <message>
-        <source>Quit %1</source>
-        <translation>%1 を辞める</translation>
-    </message>
-    <message>
-        <source>About %1</source>
-        <translation>%1　について</translation>
     </message>
 </context>
 <context>
@@ -754,6 +723,18 @@
     <message>
         <source>Send Crash Report...</source>
         <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Preferences</source>
+        <translation>詳細設定</translation>
+    </message>
+    <message>
+        <source>About</source>
+        <translation>について</translation>
+    </message>
+    <message>
+        <source>Quit</source>
+        <translation>終了</translation>
     </message>
 </context>
 <context>
@@ -1868,10 +1849,6 @@ Click here to download it.</source>
     <message>
         <source>About</source>
         <translation>バージョン情報</translation>
-    </message>
-    <message>
-        <source>Preferences</source>
-        <translation>詳細設定</translation>
     </message>
     <message>
         <source>Scanning VST Plugins</source>

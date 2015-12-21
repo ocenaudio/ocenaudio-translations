@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!DOCTYPE TS>
-<TS version="2.1" language="cs_CZ">
+<TS version="2.0" language="cs_CZ">
 <context>
     <name>AdjustSampleRateDialog</name>
     <message>
@@ -50,37 +50,6 @@
     <message>
         <source>This setting only changes the value of the sample rate. This operation does not resample the signal.</source>
         <translation>Toto nastavení změní pouze hodnotu vzorkovací frekvence. Tato operace nepřevzorkovává signál.</translation>
-    </message>
-</context>
-<context>
-    <name>MAC_APPLICATION_MENU</name>
-    <message>
-        <source>Services</source>
-        <translation>Služby</translation>
-    </message>
-    <message>
-        <source>Hide %1</source>
-        <translation>Skryj %1</translation>
-    </message>
-    <message>
-        <source>Hide Others</source>
-        <translation>Skryj ostatní</translation>
-    </message>
-    <message>
-        <source>Show All</source>
-        <translation>Zobrazit vše</translation>
-    </message>
-    <message>
-        <source>Preferences...</source>
-        <translation>Předvolby...</translation>
-    </message>
-    <message>
-        <source>Quit %1</source>
-        <translation>Ukonči %1</translation>
-    </message>
-    <message>
-        <source>About %1</source>
-        <translation>O %1</translation>
     </message>
 </context>
 <context>
@@ -754,6 +723,18 @@
     <message>
         <source>Send Crash Report...</source>
         <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Preferences</source>
+        <translation>Předvolby</translation>
+    </message>
+    <message>
+        <source>About</source>
+        <translation>O</translation>
+    </message>
+    <message>
+        <source>Quit</source>
+        <translation>Ukonči</translation>
     </message>
 </context>
 <context>
@@ -1865,10 +1846,6 @@ Klikněte zde pro jeho stažení.</translation>
     <message>
         <source>About</source>
         <translation>O</translation>
-    </message>
-    <message>
-        <source>Preferences</source>
-        <translation>Předvolby</translation>
     </message>
     <message>
         <source>Scanning VST Plugins</source>

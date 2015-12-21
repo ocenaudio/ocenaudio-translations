@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!DOCTYPE TS>
-<TS version="2.1" language="ru_RU">
+<TS version="2.0" language="ru_RU">
 <context>
     <name>AdjustSampleRateDialog</name>
     <message>
@@ -50,37 +50,6 @@
     <message>
         <source>This setting only changes the value of the sample rate. This operation does not resample the signal.</source>
         <translation>Эти значения позволяют установить частоту дискретизации. Передискретизации сигнала не произойдёт.</translation>
-    </message>
-</context>
-<context>
-    <name>MAC_APPLICATION_MENU</name>
-    <message>
-        <source>Services</source>
-        <translation>Службы</translation>
-    </message>
-    <message>
-        <source>Hide %1</source>
-        <translation>Скрыть %1</translation>
-    </message>
-    <message>
-        <source>Hide Others</source>
-        <translation>Скрыть остальные</translation>
-    </message>
-    <message>
-        <source>Show All</source>
-        <translation>Показать все</translation>
-    </message>
-    <message>
-        <source>Preferences...</source>
-        <translation>Настройки…</translation>
-    </message>
-    <message>
-        <source>Quit %1</source>
-        <translation>Завершить %1</translation>
-    </message>
-    <message>
-        <source>About %1</source>
-        <translation>О программе %1</translation>
     </message>
 </context>
 <context>
@@ -754,6 +723,18 @@
     <message>
         <source>Send Crash Report...</source>
         <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Preferences</source>
+        <translation>Настройки</translation>
+    </message>
+    <message>
+        <source>About</source>
+        <translation>О программе</translation>
+    </message>
+    <message>
+        <source>Quit</source>
+        <translation>Заверш</translation>
     </message>
 </context>
 <context>
@@ -1865,10 +1846,6 @@ Click here to download it.</source>
     <message>
         <source>About</source>
         <translation>О программе</translation>
-    </message>
-    <message>
-        <source>Preferences</source>
-        <translation>Настройки</translation>
     </message>
     <message>
         <source>Scanning VST Plugins</source>

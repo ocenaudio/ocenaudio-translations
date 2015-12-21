@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!DOCTYPE TS>
-<TS version="2.1" language="pt_BR" sourcelanguage="en_US">
+<TS version="2.0" language="pt_BR" sourcelanguage="en_US">
 <context>
     <name>AdjustSampleRateDialog</name>
     <message>
@@ -50,37 +50,6 @@
     <message>
         <source>This setting only changes the value of the sample rate. This operation does not resample the signal.</source>
         <translation>Este ajuste altera somente o valor da taxa de amostragem. Esta operação não faz a reamostragem do sinal.</translation>
-    </message>
-</context>
-<context>
-    <name>MAC_APPLICATION_MENU</name>
-    <message>
-        <source>Services</source>
-        <translation>Serviços</translation>
-    </message>
-    <message>
-        <source>Hide %1</source>
-        <translation>Ocultar %1</translation>
-    </message>
-    <message>
-        <source>Hide Others</source>
-        <translation>Ocultar Outros</translation>
-    </message>
-    <message>
-        <source>Show All</source>
-        <translation>Mostrar Todos</translation>
-    </message>
-    <message>
-        <source>Preferences...</source>
-        <translation>Preferências...</translation>
-    </message>
-    <message>
-        <source>Quit %1</source>
-        <translation>Fechar %1</translation>
-    </message>
-    <message>
-        <source>About %1</source>
-        <translation>Sobre %1</translation>
     </message>
 </context>
 <context>
@@ -756,6 +725,18 @@
     <message>
         <source>Send Crash Report...</source>
         <translation>Enviar Relatório de Erro...</translation>
+    </message>
+    <message>
+        <source>Preferences</source>
+        <translation>Preferências</translation>
+    </message>
+    <message>
+        <source>About</source>
+        <translation>Sobre</translation>
+    </message>
+    <message>
+        <source>Quit</source>
+        <translation>Sair</translation>
     </message>
 </context>
 <context>
@@ -1869,10 +1850,6 @@ Clique aqui para baixá-la.</translation>
     <message>
         <source>About</source>
         <translation>Sobre</translation>
-    </message>
-    <message>
-        <source>Preferences</source>
-        <translation>Preferências</translation>
     </message>
     <message>
         <source>Scanning VST Plugins</source>
