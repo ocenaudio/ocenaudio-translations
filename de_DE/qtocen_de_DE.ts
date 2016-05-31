@@ -442,6 +442,50 @@
         <source>Year</source>
         <translation>Jahr</translation>
     </message>
+    <message>
+        <source>Transform</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Change Gain/Offset</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Cancel</source>
+        <translation type="unfinished">Abbrechen</translation>
+    </message>
+    <message>
+        <source>Waiting for cancellation</source>
+        <translation type="unfinished">Warten auf Abbruch</translation>
+    </message>
+    <message>
+        <source>Remaining</source>
+        <translation type="unfinished">Verbleibend</translation>
+    </message>
+    <message>
+        <source>Question</source>
+        <translation type="unfinished">Frage</translation>
+    </message>
+    <message>
+        <source>Do you really want to discard the changes made in this region?</source>
+        <translation type="unfinished">Wollen Sie wirklich Änderungen an dieser Region verwerfen?</translation>
+    </message>
+    <message>
+        <source>Changes in region text will be lost if you discard.</source>
+        <translation type="unfinished">Bei Verwerfen gehen Änderungen der Regionbeschreibung verloren.</translation>
+    </message>
+    <message>
+        <source>Save</source>
+        <translation type="unfinished">Speichern</translation>
+    </message>
+    <message>
+        <source>Discard</source>
+        <translation type="unfinished">Verwerfen</translation>
+    </message>
+    <message>
+        <source>Track %1</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>QOcenApplication</name>
@@ -576,40 +620,8 @@
 <context>
     <name>QOcenCanvas</name>
     <message>
-        <source>Question</source>
-        <translation>Frage</translation>
-    </message>
-    <message>
-        <source>Do you really want to discard the changes made in this region?</source>
-        <translation>Wollen Sie wirklich Änderungen an dieser Region verwerfen?</translation>
-    </message>
-    <message>
-        <source>Changes in region text will be lost if you discard.</source>
-        <translation>Bei Verwerfen gehen Änderungen der Regionbeschreibung verloren.</translation>
-    </message>
-    <message>
-        <source>Save</source>
-        <translation>Speichern</translation>
-    </message>
-    <message>
-        <source>Discard</source>
-        <translation>Verwerfen</translation>
-    </message>
-    <message>
-        <source>Cancel</source>
-        <translation>Abbrechen</translation>
-    </message>
-    <message>
         <source>You are about to delete %1 regions. Do you really want to do this?</source>
         <translation>Sie sind dabei, %1 Regionen zu löschen. Wollen Sie das wirklich tun?</translation>
-    </message>
-    <message>
-        <source>Waiting for cancellation</source>
-        <translation>Warten auf Abbruch</translation>
-    </message>
-    <message>
-        <source>Remaining</source>
-        <translation>Verbleibend</translation>
     </message>
 </context>
 <context>
@@ -979,6 +991,22 @@
         <source>It was not possible to complete the save of file “%1” because the chosen container does not support metadata.</source>
         <translation>Die Datei %1 konnte nicht gespeichert werden, da der gewählte Container keine Metadaten unterstützt.</translation>
     </message>
+    <message>
+        <source>Your sound “%1” contains informations that can not be saved in the selected format. You want to continue and export to this format?</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Unsuported information will not be present in the exported file.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Export</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Exporting As</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>QOcenNetworkPrefs</name>
@@ -1061,10 +1089,6 @@
         <translation>Warnung</translation>
     </message>
     <message>
-        <source>The file for the sound at %1 is already opened. There are also unsaved changes in ocenaudio.  Do you want to keep the ocenaudio version or revert to the version on disk?</source>
-        <translation>Die Datei für die Spur %1 ist bereits geöffnet und hat nicht gespeicherte Änderungen. Wollen Sie die Ocenaudio-Version behalten oder zurück zur gespeicherten Version?</translation>
-    </message>
-    <message>
         <source>Keep ocenaudio Version</source>
         <translation>Behalte Ocenaudio-Version</translation>
     </message>
@@ -1127,6 +1151,26 @@
     <message>
         <source>Analyzing files in %1</source>
         <translation>Analysiere Dateien in %1</translation>
+    </message>
+    <message>
+        <source>The file for the sound at “%1” is already opened. There are also unsaved changes in ocenaudio.  Do you want to keep the ocenaudio version or revert to the version on disk?</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Cue File Found</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>A cue file containing %2 tracks associated with the “%1” file was found. You want to open these tracks separately?</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Open Tracks</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Open Original</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -1234,6 +1278,17 @@
     </message>
 </context>
 <context>
+    <name>QOcenSettingsDialog</name>
+    <message>
+        <source>Settings</source>
+        <translation type="unfinished">Einstellungen</translation>
+    </message>
+    <message>
+        <source>Search</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
     <name>QOcenSoundPrefs</name>
     <message>
         <source>Form</source>
@@ -1294,6 +1349,18 @@
     <message>
         <source>System Default</source>
         <translation>Systemstandard</translation>
+    </message>
+    <message>
+        <source>Play head follows cursor position</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Preroll</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Destructive Recording</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>

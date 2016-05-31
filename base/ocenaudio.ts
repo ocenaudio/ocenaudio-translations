@@ -736,6 +736,22 @@
         <source>Quit</source>
         <translation type="unfinished"></translation>
     </message>
+    <message>
+        <source>Record Options</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Preroll</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Ctrl+P</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Extract Audio From Regions</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>NavigatorDialog</name>
@@ -1759,6 +1775,22 @@
         <source>Custom</source>
         <translation type="unfinished"></translation>
     </message>
+    <message>
+        <source>Label</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Position</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Duration</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Comment of region “%1”</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>QOcenAboutDialog</name>
@@ -2066,10 +2098,6 @@ Click here to download it.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Show/Hide Markers Label</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>Show/Hide Toolbar</source>
         <translation type="unfinished"></translation>
     </message>
@@ -2151,10 +2179,6 @@ Click here to download it.</source>
     </message>
     <message>
         <source>You have multiple selections. Do you want to save each selection to a separate file?</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Select &quot;separate&quot; to save each selection to a different file. If you select &quot;single&quot; all your selections will be appended and saved to a single file.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -2410,14 +2434,6 @@ Click here to download it.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Hide Markers Label</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Show Markers Label</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>Hide Channels Id</source>
         <translation type="unfinished"></translation>
     </message>
@@ -2455,10 +2471,6 @@ Click here to download it.</source>
     </message>
     <message>
         <source>Repeat %1</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>&amp;Edit</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -2523,6 +2535,58 @@ Click here to download it.</source>
     </message>
     <message>
         <source>The export file cannot be create on the destination path!</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Extract Audio From Regions</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Enable/Disable Preroll on Recording</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Select “separate” to save each selection to a different file. If you select “single”, all your selections will be appended and saved to a single file.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Mix Pasting</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Loading Signal</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Generating Signal</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Part “%1” of </source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Some regions will be ignored because they are very short.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Regions with less than 10 ms are ignored. You have one region ignored.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Regions with less than 10 ms are ignored. You have %1 regions ignored.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>You are about to extract %1 regions from your audio. Are you sure you want to proceed?</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Region “%1” of </source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Region %1 of </source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -2742,6 +2806,14 @@ Click here to download it.</source>
     </message>
     <message>
         <source>Images (*.png *.jpg *.bmp)</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Comment of marker #label</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Comment</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -3161,6 +3233,14 @@ Click here to download it.</source>
         <source>Use “%1” instead</source>
         <translation type="unfinished"></translation>
     </message>
+    <message>
+        <source>Resolution:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>%1 bits</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>QOcenFTPDirListDialog</name>
@@ -3443,10 +3523,6 @@ Click here to download it.</source>
 </context>
 <context>
     <name>QOcenFxDialog</name>
-    <message>
-        <source>Close</source>
-        <translation type="unfinished"></translation>
-    </message>
     <message>
         <source>Apply</source>
         <translation type="unfinished"></translation>
@@ -3855,6 +3931,22 @@ or your network that you want to open:</source>
         <source>Select Directory</source>
         <translation type="unfinished"></translation>
     </message>
+    <message>
+        <source>Show in Finder</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Show Plugins List...</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Remove Path from Search</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Path not Found</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>QOpenFilesPlugin</name>
@@ -4019,6 +4111,50 @@ or your network that you want to open:</source>
     </message>
     <message>
         <source>You must wait for the end of processing to proceed.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Convert to Mono</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Sort</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Disabled</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>By Display Name</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>By Song Name</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>By Artist Name</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>By Album Name</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>By Duration</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>By Date</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Ascending</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Descending</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -4440,313 +4576,6 @@ or your network that you want to open:</source>
     </message>
 </context>
 <context>
-    <name>QSoundInfoDlg</name>
-    <message>
-        <source>Dialog</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>audio.aiff</source>
-        <translation></translation>
-    </message>
-    <message>
-        <source>Wav PCM File</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>1:20:30</source>
-        <translation></translation>
-    </message>
-    <message>
-        <source>General</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>File name:</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Where:</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>File format:</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Bit Rate:</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Sample rate:</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Bits per sample:</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Channels:</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Duration:</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Number of samples:</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Size on disk:</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Size on memory:</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>File.mp3</source>
-        <translation></translation>
-    </message>
-    <message>
-        <source>/Users/ruijunior</source>
-        <translation></translation>
-    </message>
-    <message>
-        <source>WAV PCM File</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>128 kbps</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>44100 Hz</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>16 bits</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>mono</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>01:20:30</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>10293000</source>
-        <translation></translation>
-    </message>
-    <message>
-        <source>12 MB</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>36 MB</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Info</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Title:</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Artist:</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Album:</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Genre:</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Track:</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Disc:</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Year:</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Somebody Told Me</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>The Killers</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>The Killers: Live From The Royal Albert Hall</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Alternative</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>3/17</source>
-        <translation></translation>
-    </message>
-    <message>
-        <source>1/1</source>
-        <translation></translation>
-    </message>
-    <message>
-        <source>2009</source>
-        <translation></translation>
-    </message>
-    <message>
-        <source>Statistics</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Minimum Sample Value:</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Maximum Sample Value:</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Peak Amplitude:</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Possible Clipped Samples:</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>DC Offset:</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Minimum RMS Power:</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Maximum RMS Power:</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Average RMS Power:</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Total RMS Power:</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Channel 0</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>-1230</source>
-        <translation></translation>
-    </message>
-    <message>
-        <source>32700</source>
-        <translation></translation>
-    </message>
-    <message>
-        <source>-3.57 dB</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>0</source>
-        <translation></translation>
-    </message>
-    <message>
-        <source>-0.004%</source>
-        <translation></translation>
-    </message>
-    <message>
-        <source>-65.8 dB</source>
-        <translation></translation>
-    </message>
-    <message>
-        <source>-2.4 dB</source>
-        <translation></translation>
-    </message>
-    <message>
-        <source>-22.3 dB</source>
-        <translation></translation>
-    </message>
-    <message>
-        <source>-22.4 dB</source>
-        <translation></translation>
-    </message>
-    <message>
-        <source>Channel 1</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>-928</source>
-        <translation></translation>
-    </message>
-    <message>
-        <source>30000</source>
-        <translation></translation>
-    </message>
-    <message>
-        <source>-12.4 dB</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>+0.02%</source>
-        <translation></translation>
-    </message>
-    <message>
-        <source>-62.0 dB</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>-3.2 dB</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>-20.0 dB</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>-19.8 dB</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Channel 2</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Channel 3</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Channel 4</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Channel 5</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Sound Inspector</source>
-        <translation type="unfinished"></translation>
-    </message>
-</context>
-<context>
     <name>QTestDialog</name>
     <message>
         <source>Dialog</source>
@@ -4988,6 +4817,10 @@ or your network that you want to open:</source>
     </message>
     <message>
         <source>Both</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>High Dpi Image</source>
         <translation type="unfinished"></translation>
     </message>
 </context>

@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!DOCTYPE TS>
-<TS version="2.1" language="pt_BR">
+<TS version="2.0" language="pt_BR">
 <context>
     <name>QAudioStatistics</name>
     <message>
@@ -442,6 +442,50 @@
         <source>Year</source>
         <translation>Ano</translation>
     </message>
+    <message>
+        <source>Transform</source>
+        <translation>Transformar</translation>
+    </message>
+    <message>
+        <source>Change Gain/Offset</source>
+        <translation>Mudar Ganho/Deslocamento</translation>
+    </message>
+    <message>
+        <source>Cancel</source>
+        <translation>Cancelar</translation>
+    </message>
+    <message>
+        <source>Waiting for cancellation</source>
+        <translation>Aguardando cancelamento</translation>
+    </message>
+    <message>
+        <source>Remaining</source>
+        <translation>Restando</translation>
+    </message>
+    <message>
+        <source>Question</source>
+        <translation>Pergunta</translation>
+    </message>
+    <message>
+        <source>Do you really want to discard the changes made in this region?</source>
+        <translation>Você quer realmente descartar as alterações feitas nesta região?</translation>
+    </message>
+    <message>
+        <source>Changes in region text will be lost if you discard.</source>
+        <translation>Alterações feitas no texto da região serão perdidas se você descartar.</translation>
+    </message>
+    <message>
+        <source>Save</source>
+        <translation>Salvar</translation>
+    </message>
+    <message>
+        <source>Discard</source>
+        <translation>Descartar</translation>
+    </message>
+    <message>
+        <source>Track %1</source>
+        <translation>Trilha %1</translation>
+    </message>
 </context>
 <context>
     <name>QOcenApplication</name>
@@ -576,40 +620,8 @@
 <context>
     <name>QOcenCanvas</name>
     <message>
-        <source>Question</source>
-        <translation>Questão</translation>
-    </message>
-    <message>
-        <source>Do you really want to discard the changes made in this region?</source>
-        <translation>Você quer realmente descartar as alterações feitas nesta região?</translation>
-    </message>
-    <message>
-        <source>Changes in region text will be lost if you discard.</source>
-        <translation>Alterações feitas no texto da região serão perdidas se você descartar.</translation>
-    </message>
-    <message>
-        <source>Save</source>
-        <translation>Salvar</translation>
-    </message>
-    <message>
-        <source>Discard</source>
-        <translation>Descartar</translation>
-    </message>
-    <message>
-        <source>Cancel</source>
-        <translation>Cancelar</translation>
-    </message>
-    <message>
         <source>You are about to delete %1 regions. Do you really want to do this?</source>
         <translation>Você está prestes a apagar %1 regiões. Você realmente deseja fazer isso?</translation>
-    </message>
-    <message>
-        <source>Waiting for cancellation</source>
-        <translation>Aguardando cancelamento</translation>
-    </message>
-    <message>
-        <source>Remaining</source>
-        <translation>Restando</translation>
     </message>
 </context>
 <context>
@@ -979,6 +991,22 @@
         <source>It was not possible to complete the save of file “%1” because the chosen container does not support metadata.</source>
         <translation>Não foi possível completar o salvamento do arquivo “%1” pois o formato escolhido não suporta metadados.</translation>
     </message>
+    <message>
+        <source>Your sound “%1” contains informations that can not be saved in the selected format. You want to continue and export to this format?</source>
+        <translation>Seu arquivo “%1” contém informações que não podem ser salvas no formato escolhido. Você deseja prosseguir exportando para este formato?</translation>
+    </message>
+    <message>
+        <source>Unsuported information will not be present in the exported file.</source>
+        <translation>Informação não suportada não será salva no arquivo exportado.</translation>
+    </message>
+    <message>
+        <source>Export</source>
+        <translation>Exportar</translation>
+    </message>
+    <message>
+        <source>Exporting As</source>
+        <translation>Exportando Como</translation>
+    </message>
 </context>
 <context>
     <name>QOcenNetworkPrefs</name>
@@ -1061,10 +1089,6 @@
         <translation>Aviso</translation>
     </message>
     <message>
-        <source>The file for the sound at %1 is already opened. There are also unsaved changes in ocenaudio.  Do you want to keep the ocenaudio version or revert to the version on disk?</source>
-        <translation>O arquivo de audio %1 já está aberto no ocenaudio e possui alterações que não foram salvas. Você deseja manter a versão do ocenaudio ou reverter para a versão em disco?</translation>
-    </message>
-    <message>
         <source>Keep ocenaudio Version</source>
         <translation>Manter versão do ocenaudio</translation>
     </message>
@@ -1127,6 +1151,26 @@
     <message>
         <source>Analyzing files in %1</source>
         <translation>Analisando arquivos em %1</translation>
+    </message>
+    <message>
+        <source>The file for the sound at “%1” is already opened. There are also unsaved changes in ocenaudio.  Do you want to keep the ocenaudio version or revert to the version on disk?</source>
+        <translation>O arquivo de audio “%1” já está aberto no ocenaudio e possui alterações que não foram salvas. Você deseja manter a versão do ocenaudio ou reverter para a versão em disco?</translation>
+    </message>
+    <message>
+        <source>Cue File Found</source>
+        <translation>Arquivo Cue não Encontrado</translation>
+    </message>
+    <message>
+        <source>A cue file containing %2 tracks associated with the “%1” file was found. You want to open these tracks separately?</source>
+        <translation>Um arquivo Cue contendo %2 trilhas associadas ao arquivo “%1” foi encontrado. Você gostaria de abrir estas trilhas separadamente?</translation>
+    </message>
+    <message>
+        <source>Open Tracks</source>
+        <translation>Abrir Trilhas</translation>
+    </message>
+    <message>
+        <source>Open Original</source>
+        <translation>Abrir Original</translation>
     </message>
 </context>
 <context>
@@ -1234,6 +1278,17 @@
     </message>
 </context>
 <context>
+    <name>QOcenSettingsDialog</name>
+    <message>
+        <source>Settings</source>
+        <translation>Configurações</translation>
+    </message>
+    <message>
+        <source>Search</source>
+        <translation>Procurar</translation>
+    </message>
+</context>
+<context>
     <name>QOcenSoundPrefs</name>
     <message>
         <source>Form</source>
@@ -1294,6 +1349,18 @@
     <message>
         <source>System Default</source>
         <translation>Padrão do Sistema</translation>
+    </message>
+    <message>
+        <source>Play head follows cursor position</source>
+        <translation>Reprodução segue o cursor de posição</translation>
+    </message>
+    <message>
+        <source>Preroll</source>
+        <translation></translation>
+    </message>
+    <message>
+        <source>Destructive Recording</source>
+        <translation>Gravação Destrutiva</translation>
     </message>
 </context>
 <context>

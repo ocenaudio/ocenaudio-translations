@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!DOCTYPE TS>
-<TS version="2.0" language="ja_JP">
+<TS version="2.1" language="ja_JP">
 <context>
     <name>AdjustSampleRateDialog</name>
     <message>
@@ -735,6 +735,22 @@
     <message>
         <source>Quit</source>
         <translation>終了</translation>
+    </message>
+    <message>
+        <source>Record Options</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Preroll</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Ctrl+P</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Extract Audio From Regions</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -1761,6 +1777,22 @@
         <source>Custom</source>
         <translation type="unfinished"></translation>
     </message>
+    <message>
+        <source>Label</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Position</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Duration</source>
+        <translation type="unfinished">長さ</translation>
+    </message>
+    <message>
+        <source>Comment of region “%1”</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>QOcenAboutDialog</name>
@@ -2071,10 +2103,6 @@ Click here to download it.</source>
         <translation>全領域、ループ、マーカーを表示・非表示</translation>
     </message>
     <message>
-        <source>Show/Hide Markers Label</source>
-        <translation>マーカーラベルを表示・非表示</translation>
-    </message>
-    <message>
         <source>Show/Hide Toolbar</source>
         <translation>ツールバーを表示・非表示</translation>
     </message>
@@ -2157,10 +2185,6 @@ Click here to download it.</source>
     <message>
         <source>You have multiple selections. Do you want to save each selection to a separate file?</source>
         <translation>複数なアイテムが選択されています。各選択を別なファイルとして保存しますか?</translation>
-    </message>
-    <message>
-        <source>Select &quot;separate&quot; to save each selection to a different file. If you select &quot;single&quot; all your selections will be appended and saved to a single file.</source>
-        <translation>別なファイルとして保存するには、&quot;別々&quot;にして下さい。&quot;合体&quot;を選択すると、全ての選択が合体され、一つのファイルとして保存されます。</translation>
     </message>
     <message>
         <source>Separate</source>
@@ -2415,14 +2439,6 @@ Click here to download it.</source>
         <translation>マーカーを表示</translation>
     </message>
     <message>
-        <source>Hide Markers Label</source>
-        <translation>マーカーラベルを非表示</translation>
-    </message>
-    <message>
-        <source>Show Markers Label</source>
-        <translation>マーカーのラベルを表示</translation>
-    </message>
-    <message>
         <source>Hide Channels Id</source>
         <translation>チャンネルのＩＤを非表示</translation>
     </message>
@@ -2461,10 +2477,6 @@ Click here to download it.</source>
     <message>
         <source>Repeat %1</source>
         <translation>%1　を繰り返す</translation>
-    </message>
-    <message>
-        <source>&amp;Edit</source>
-        <translation>&amp;編集</translation>
     </message>
     <message>
         <source>Copy</source>
@@ -2529,6 +2541,58 @@ Click here to download it.</source>
     <message>
         <source>The export file cannot be create on the destination path!</source>
         <translation>書き出しファイルが移動先のパスで作成出来ません!</translation>
+    </message>
+    <message>
+        <source>Extract Audio From Regions</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Enable/Disable Preroll on Recording</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Select “separate” to save each selection to a different file. If you select “single”, all your selections will be appended and saved to a single file.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Mix Pasting</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Loading Signal</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Generating Signal</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Part “%1” of </source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Some regions will be ignored because they are very short.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Regions with less than 10 ms are ignored. You have one region ignored.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Regions with less than 10 ms are ignored. You have %1 regions ignored.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>You are about to extract %1 regions from your audio. Are you sure you want to proceed?</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Region “%1” of </source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Region %1 of </source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -2748,6 +2812,14 @@ Click here to download it.</source>
     <message>
         <source>Images (*.png *.jpg *.bmp)</source>
         <translation>(*.png *.jpg *.bmp)の画像</translation>
+    </message>
+    <message>
+        <source>Comment of marker #label</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Comment</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -3168,6 +3240,14 @@ Click here to download it.</source>
         <source>Use “%1” instead</source>
         <translation>変わりに“%1”を利用</translation>
     </message>
+    <message>
+        <source>Resolution:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>%1 bits</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>QOcenFTPDirListDialog</name>
@@ -3450,10 +3530,6 @@ Click here to download it.</source>
 </context>
 <context>
     <name>QOcenFxDialog</name>
-    <message>
-        <source>Close</source>
-        <translation>閉じる</translation>
-    </message>
     <message>
         <source>Apply</source>
         <translation>適用</translation>
@@ -3862,6 +3938,22 @@ or your network that you want to open:</source>
         <source>Select Directory</source>
         <translation>ディレクトリを選択</translation>
     </message>
+    <message>
+        <source>Show in Finder</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Show Plugins List...</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Remove Path from Search</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Path not Found</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>QOpenFilesPlugin</name>
@@ -4028,6 +4120,50 @@ or your network that you want to open:</source>
     <message>
         <source>You must wait for the end of processing to proceed.</source>
         <translation>続行するに、処理が終わるまで待たなければなりません。</translation>
+    </message>
+    <message>
+        <source>Convert to Mono</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Sort</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Disabled</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>By Display Name</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>By Song Name</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>By Artist Name</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>By Album Name</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>By Duration</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>By Date</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Ascending</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Descending</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -4448,313 +4584,6 @@ or your network that you want to open:</source>
     </message>
 </context>
 <context>
-    <name>QSoundInfoDlg</name>
-    <message>
-        <source>Dialog</source>
-        <translation>ダイヤログ</translation>
-    </message>
-    <message>
-        <source>audio.aiff</source>
-        <translation></translation>
-    </message>
-    <message>
-        <source>Wav PCM File</source>
-        <translation>Wav PCMファイル</translation>
-    </message>
-    <message>
-        <source>1:20:30</source>
-        <translation></translation>
-    </message>
-    <message>
-        <source>General</source>
-        <translation>一般</translation>
-    </message>
-    <message>
-        <source>File name:</source>
-        <translation>ファイルの名前:</translation>
-    </message>
-    <message>
-        <source>File format:</source>
-        <translation>ファイルのフォーマット:</translation>
-    </message>
-    <message>
-        <source>Sample rate:</source>
-        <translation>サンプルレート:</translation>
-    </message>
-    <message>
-        <source>Bits per sample:</source>
-        <translation>サンプル毎ビット:</translation>
-    </message>
-    <message>
-        <source>Channels:</source>
-        <translation>チャンネル:</translation>
-    </message>
-    <message>
-        <source>Duration:</source>
-        <translation>長さ:</translation>
-    </message>
-    <message>
-        <source>Number of samples:</source>
-        <translation>サンプルの数:</translation>
-    </message>
-    <message>
-        <source>Size on disk:</source>
-        <translation>ディスクにてのサイズ:</translation>
-    </message>
-    <message>
-        <source>Size on memory:</source>
-        <translation>メモリーにてのサイズ:</translation>
-    </message>
-    <message>
-        <source>Where:</source>
-        <translation>場所:</translation>
-    </message>
-    <message>
-        <source>File.mp3</source>
-        <translation></translation>
-    </message>
-    <message>
-        <source>WAV PCM File</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>44100 Hz</source>
-        <translation></translation>
-    </message>
-    <message>
-        <source>16 bits</source>
-        <translation>16 ビット</translation>
-    </message>
-    <message>
-        <source>mono</source>
-        <translation>モノラル</translation>
-    </message>
-    <message>
-        <source>01:20:30</source>
-        <translation></translation>
-    </message>
-    <message>
-        <source>10293000</source>
-        <translation></translation>
-    </message>
-    <message>
-        <source>12 MB</source>
-        <translation></translation>
-    </message>
-    <message>
-        <source>36 MB</source>
-        <translation></translation>
-    </message>
-    <message>
-        <source>/Users/ruijunior</source>
-        <translation></translation>
-    </message>
-    <message>
-        <source>Bit Rate:</source>
-        <translation>ビットレート:</translation>
-    </message>
-    <message>
-        <source>128 kbps</source>
-        <translation></translation>
-    </message>
-    <message>
-        <source>Info</source>
-        <translation>情報</translation>
-    </message>
-    <message>
-        <source>Title:</source>
-        <translation>タイトル:</translation>
-    </message>
-    <message>
-        <source>Artist:</source>
-        <translation>アーティスト:</translation>
-    </message>
-    <message>
-        <source>Album:</source>
-        <translation>アルバム:</translation>
-    </message>
-    <message>
-        <source>Genre:</source>
-        <translation>ジャンレ:</translation>
-    </message>
-    <message>
-        <source>Track:</source>
-        <translation>トラック:</translation>
-    </message>
-    <message>
-        <source>Disc:</source>
-        <translation>ディスク:</translation>
-    </message>
-    <message>
-        <source>Year:</source>
-        <translation>年:</translation>
-    </message>
-    <message>
-        <source>Somebody Told Me</source>
-        <translation></translation>
-    </message>
-    <message>
-        <source>The Killers</source>
-        <translation></translation>
-    </message>
-    <message>
-        <source>The Killers: Live From The Royal Albert Hall</source>
-        <translation></translation>
-    </message>
-    <message>
-        <source>Alternative</source>
-        <translation></translation>
-    </message>
-    <message>
-        <source>3/17</source>
-        <translation></translation>
-    </message>
-    <message>
-        <source>1/1</source>
-        <translation></translation>
-    </message>
-    <message>
-        <source>2009</source>
-        <translation></translation>
-    </message>
-    <message>
-        <source>Statistics</source>
-        <translation>統計</translation>
-    </message>
-    <message>
-        <source>Minimum Sample Value:</source>
-        <translation>最少サンプル値:</translation>
-    </message>
-    <message>
-        <source>Maximum Sample Value:</source>
-        <translation>最大サンプル値:</translation>
-    </message>
-    <message>
-        <source>Peak Amplitude:</source>
-        <translation>振幅のピーク:</translation>
-    </message>
-    <message>
-        <source>Possible Clipped Samples:</source>
-        <translation>クリップされかねたサンプル:</translation>
-    </message>
-    <message>
-        <source>DC Offset:</source>
-        <translation>DCオフセット:</translation>
-    </message>
-    <message>
-        <source>Minimum RMS Power:</source>
-        <translation>最少ＲＭＰパワー:</translation>
-    </message>
-    <message>
-        <source>Maximum RMS Power:</source>
-        <translation>最大ＲＭＰパワー:</translation>
-    </message>
-    <message>
-        <source>Average RMS Power:</source>
-        <translation>平均ＲＭＰパワー:</translation>
-    </message>
-    <message>
-        <source>Total RMS Power:</source>
-        <translation>合計ＲＭＰパワー:</translation>
-    </message>
-    <message>
-        <source>Channel 0</source>
-        <translation>0チャンネル</translation>
-    </message>
-    <message>
-        <source>-1230</source>
-        <translation></translation>
-    </message>
-    <message>
-        <source>32700</source>
-        <translation></translation>
-    </message>
-    <message>
-        <source>-3.57 dB</source>
-        <translation></translation>
-    </message>
-    <message>
-        <source>0</source>
-        <translation></translation>
-    </message>
-    <message>
-        <source>-0.004%</source>
-        <translation></translation>
-    </message>
-    <message>
-        <source>-65.8 dB</source>
-        <translation></translation>
-    </message>
-    <message>
-        <source>-2.4 dB</source>
-        <translation>-2.4 dB</translation>
-    </message>
-    <message>
-        <source>-22.3 dB</source>
-        <translation>-22.3 dB</translation>
-    </message>
-    <message>
-        <source>-22.4 dB</source>
-        <translation>-22.4 dB</translation>
-    </message>
-    <message>
-        <source>Channel 1</source>
-        <translation>1チャンネル</translation>
-    </message>
-    <message>
-        <source>-928</source>
-        <translation></translation>
-    </message>
-    <message>
-        <source>30000</source>
-        <translation></translation>
-    </message>
-    <message>
-        <source>-12.4 dB</source>
-        <translation></translation>
-    </message>
-    <message>
-        <source>+0.02%</source>
-        <translation></translation>
-    </message>
-    <message>
-        <source>-62.0 dB</source>
-        <translation></translation>
-    </message>
-    <message>
-        <source>-3.2 dB</source>
-        <translation></translation>
-    </message>
-    <message>
-        <source>-20.0 dB</source>
-        <translation></translation>
-    </message>
-    <message>
-        <source>-19.8 dB</source>
-        <translation></translation>
-    </message>
-    <message>
-        <source>Channel 2</source>
-        <translation>2チャンネル</translation>
-    </message>
-    <message>
-        <source>Channel 3</source>
-        <translation>3チャンネル</translation>
-    </message>
-    <message>
-        <source>Channel 4</source>
-        <translation>4チャンネル</translation>
-    </message>
-    <message>
-        <source>Channel 5</source>
-        <translation>5チャンネル</translation>
-    </message>
-    <message>
-        <source>Sound Inspector</source>
-        <translation>サウンドインスペクター</translation>
-    </message>
-</context>
-<context>
     <name>QTestDialog</name>
     <message>
         <source>Dialog</source>
@@ -4998,6 +4827,10 @@ or your network that you want to open:</source>
     <message>
         <source>Both</source>
         <translation>両方</translation>
+    </message>
+    <message>
+        <source>High Dpi Image</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 </TS>

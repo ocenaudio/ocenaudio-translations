@@ -738,6 +738,22 @@
         <source>Quit</source>
         <translation>Sair</translation>
     </message>
+    <message>
+        <source>Record Options</source>
+        <translation>Opções de Gravação</translation>
+    </message>
+    <message>
+        <source>Preroll</source>
+        <translation></translation>
+    </message>
+    <message>
+        <source>Ctrl+P</source>
+        <translation></translation>
+    </message>
+    <message>
+        <source>Extract Audio From Regions</source>
+        <translation>Extrair Áudio das Regiões</translation>
+    </message>
 </context>
 <context>
     <name>NavigatorDialog</name>
@@ -1761,6 +1777,22 @@
         <source>Custom</source>
         <translation>Personalizado</translation>
     </message>
+    <message>
+        <source>Label</source>
+        <translation>Rótulo</translation>
+    </message>
+    <message>
+        <source>Position</source>
+        <translation>Posição</translation>
+    </message>
+    <message>
+        <source>Duration</source>
+        <translation>Duração</translation>
+    </message>
+    <message>
+        <source>Comment of region “%1”</source>
+        <translation>Comentário da região “%1”</translation>
+    </message>
 </context>
 <context>
     <name>QOcenAboutDialog</name>
@@ -2072,10 +2104,6 @@ Clique aqui para baixá-la.</translation>
         <translation>Mostrar/Ocultar Todas as Regiões, Loops e Marcadores</translation>
     </message>
     <message>
-        <source>Show/Hide Markers Label</source>
-        <translation>Mostar/Ocultar Rótulos de Marcadores</translation>
-    </message>
-    <message>
         <source>Show/Hide Toolbar</source>
         <translation>Mostrar/Ocultar Barra de Ferramentas</translation>
     </message>
@@ -2160,12 +2188,8 @@ Clique aqui para baixá-la.</translation>
         <translation>Existem múltiplas seleções ativas. Você deseja salvar cada uma das seleções em arquivos separados?</translation>
     </message>
     <message>
-        <source>Select &quot;separate&quot; to save each selection to a different file. If you select &quot;single&quot; all your selections will be appended and saved to a single file.</source>
-        <translation>Selecione &quot;separado&quot; para salvar cada seleção em um arquivo diferente. Se você escolher &quot;unificar&quot;, todas as suas seleções serão salvas em um único arquivo.</translation>
-    </message>
-    <message>
         <source>Separate</source>
-        <translation>Separado</translation>
+        <translation>Separar</translation>
     </message>
     <message>
         <source>Single</source>
@@ -2416,14 +2440,6 @@ Clique aqui para baixá-la.</translation>
         <translation>Mostrar Marcadores</translation>
     </message>
     <message>
-        <source>Hide Markers Label</source>
-        <translation>Ocultar Rótulos de Marcadores</translation>
-    </message>
-    <message>
-        <source>Show Markers Label</source>
-        <translation>Mostrar Rótulos de Marcadores</translation>
-    </message>
-    <message>
         <source>Hide Channels Id</source>
         <translation>Ocultar Identificação dos Canais</translation>
     </message>
@@ -2462,10 +2478,6 @@ Clique aqui para baixá-la.</translation>
     <message>
         <source>Repeat %1</source>
         <translation>Repetir %1</translation>
-    </message>
-    <message>
-        <source>&amp;Edit</source>
-        <translation>&amp;Editar</translation>
     </message>
     <message>
         <source>Copy</source>
@@ -2530,6 +2542,58 @@ Clique aqui para baixá-la.</translation>
     <message>
         <source>The export file cannot be create on the destination path!</source>
         <translation>O arquivo exportado não pode ser criado no caminho de destino!</translation>
+    </message>
+    <message>
+        <source>Extract Audio From Regions</source>
+        <translation>Extrair Áudio das Regiões</translation>
+    </message>
+    <message>
+        <source>Enable/Disable Preroll on Recording</source>
+        <translation>Habilitar/Desabilitar Preroll na Gravação</translation>
+    </message>
+    <message>
+        <source>Select “separate” to save each selection to a different file. If you select “single”, all your selections will be appended and saved to a single file.</source>
+        <translation>Selecione “separar” para salvar cada seleção em um arquivo diferente. Se você escolher “unificar”, todas as seleções serão salvas em um único arquivo.</translation>
+    </message>
+    <message>
+        <source>Mix Pasting</source>
+        <translation>Colando Mixado</translation>
+    </message>
+    <message>
+        <source>Loading Signal</source>
+        <translation>Carregando Sinal</translation>
+    </message>
+    <message>
+        <source>Generating Signal</source>
+        <translation>Gerando Sinal</translation>
+    </message>
+    <message>
+        <source>Part “%1” of </source>
+        <translation>Parte “%1” de </translation>
+    </message>
+    <message>
+        <source>Some regions will be ignored because they are very short.</source>
+        <translation>Algumas regiões serão ignoradas por serem muito curtas.</translation>
+    </message>
+    <message>
+        <source>Regions with less than 10 ms are ignored. You have one region ignored.</source>
+        <translation>Regiões com menos de 10 ms serão ignoradas. Você tem uma região ignorada.</translation>
+    </message>
+    <message>
+        <source>Regions with less than 10 ms are ignored. You have %1 regions ignored.</source>
+        <translation>Regiões com menos de 10 ms serão ignoradas. Você tem %1 regiões ignoradas.</translation>
+    </message>
+    <message>
+        <source>You are about to extract %1 regions from your audio. Are you sure you want to proceed?</source>
+        <translation>Você está prestes a extrair %1 regiões do seu áudio. Você deseja prosseguir?</translation>
+    </message>
+    <message>
+        <source>Region “%1” of </source>
+        <translation>Região “%1” de </translation>
+    </message>
+    <message>
+        <source>Region %1 of </source>
+        <translation>Região %1 de </translation>
     </message>
 </context>
 <context>
@@ -2749,6 +2813,14 @@ Clique aqui para baixá-la.</translation>
     <message>
         <source>Images (*.png *.jpg *.bmp)</source>
         <translation>Images (*.png *.jpg *.bmp)</translation>
+    </message>
+    <message>
+        <source>Comment of marker #label</source>
+        <translation>Comentário da marca #rótulo</translation>
+    </message>
+    <message>
+        <source>Comment</source>
+        <translation>Comentário</translation>
     </message>
 </context>
 <context>
@@ -3169,6 +3241,14 @@ Clique aqui para baixá-la.</translation>
         <source>Use “%1” instead</source>
         <translation>Usar “%1”</translation>
     </message>
+    <message>
+        <source>Resolution:</source>
+        <translation>Resolução:</translation>
+    </message>
+    <message>
+        <source>%1 bits</source>
+        <translation></translation>
+    </message>
 </context>
 <context>
     <name>QOcenFTPDirListDialog</name>
@@ -3451,10 +3531,6 @@ Clique aqui para baixá-la.</translation>
 </context>
 <context>
     <name>QOcenFxDialog</name>
-    <message>
-        <source>Close</source>
-        <translation>Fechar</translation>
-    </message>
     <message>
         <source>Apply</source>
         <translation>Aplicar</translation>
@@ -3865,6 +3941,22 @@ ou sua rede de trabalho que você deseje abrir:</translation>
         <source>Select Directory</source>
         <translation>Selecionar a Pasta</translation>
     </message>
+    <message>
+        <source>Show in Finder</source>
+        <translation>Mostrar no Finder</translation>
+    </message>
+    <message>
+        <source>Show Plugins List...</source>
+        <translation>Mostrar Lista de Plugins...</translation>
+    </message>
+    <message>
+        <source>Remove Path from Search</source>
+        <translation>Remover Caminho de Procura</translation>
+    </message>
+    <message>
+        <source>Path not Found</source>
+        <translation>Caminho não Encontrado</translation>
+    </message>
 </context>
 <context>
     <name>QOpenFilesPlugin</name>
@@ -4031,6 +4123,50 @@ ou sua rede de trabalho que você deseje abrir:</translation>
     <message>
         <source>You must wait for the end of processing to proceed.</source>
         <translation>Você deve esperar pelo fim do processamento para continuar.</translation>
+    </message>
+    <message>
+        <source>Convert to Mono</source>
+        <translation>Converter para Mono</translation>
+    </message>
+    <message>
+        <source>Sort</source>
+        <translation>Ordenar</translation>
+    </message>
+    <message>
+        <source>Disabled</source>
+        <translation>Desabilitado</translation>
+    </message>
+    <message>
+        <source>By Display Name</source>
+        <translation>Por Nome de Exibição</translation>
+    </message>
+    <message>
+        <source>By Song Name</source>
+        <translation>Por Nome da Música</translation>
+    </message>
+    <message>
+        <source>By Artist Name</source>
+        <translation>Por Nome do Artista</translation>
+    </message>
+    <message>
+        <source>By Album Name</source>
+        <translation>Por Nome do Álbum</translation>
+    </message>
+    <message>
+        <source>By Duration</source>
+        <translation>Por Duração</translation>
+    </message>
+    <message>
+        <source>By Date</source>
+        <translation>Por Data</translation>
+    </message>
+    <message>
+        <source>Ascending</source>
+        <translation>Ascendente</translation>
+    </message>
+    <message>
+        <source>Descending</source>
+        <translation>Descendente</translation>
     </message>
 </context>
 <context>
@@ -4451,313 +4587,6 @@ ou sua rede de trabalho que você deseje abrir:</translation>
     </message>
 </context>
 <context>
-    <name>QSoundInfoDlg</name>
-    <message>
-        <source>Dialog</source>
-        <translation></translation>
-    </message>
-    <message>
-        <source>audio.aiff</source>
-        <translation></translation>
-    </message>
-    <message>
-        <source>Wav PCM File</source>
-        <translation></translation>
-    </message>
-    <message>
-        <source>1:20:30</source>
-        <translation></translation>
-    </message>
-    <message>
-        <source>File format:</source>
-        <translation>Formato do arquivo:</translation>
-    </message>
-    <message>
-        <source>WAV PCM File</source>
-        <translation></translation>
-    </message>
-    <message>
-        <source>Sample rate:</source>
-        <translation>Taxa de amostragem:</translation>
-    </message>
-    <message>
-        <source>44100 Hz</source>
-        <translation></translation>
-    </message>
-    <message>
-        <source>Bits per sample:</source>
-        <translation>Resolução:</translation>
-    </message>
-    <message>
-        <source>16 bits</source>
-        <translation></translation>
-    </message>
-    <message>
-        <source>Channels:</source>
-        <translation>Canais:</translation>
-    </message>
-    <message>
-        <source>mono</source>
-        <translation></translation>
-    </message>
-    <message>
-        <source>Duration:</source>
-        <translation>Duração:</translation>
-    </message>
-    <message>
-        <source>File name:</source>
-        <translation>Nome do Arquivo:</translation>
-    </message>
-    <message>
-        <source>Number of samples:</source>
-        <translation>Número de amostras:</translation>
-    </message>
-    <message>
-        <source>Size on disk:</source>
-        <translation>Tamanho no disco:</translation>
-    </message>
-    <message>
-        <source>Size on memory:</source>
-        <translation>Tamanho na memória:</translation>
-    </message>
-    <message>
-        <source>Where:</source>
-        <translation>Localização:</translation>
-    </message>
-    <message>
-        <source>Bit Rate:</source>
-        <translation>Taxa de Bits:</translation>
-    </message>
-    <message>
-        <source>File.mp3</source>
-        <translation></translation>
-    </message>
-    <message>
-        <source>128 kbps</source>
-        <translation></translation>
-    </message>
-    <message>
-        <source>01:20:30</source>
-        <translation></translation>
-    </message>
-    <message>
-        <source>10293000</source>
-        <translation></translation>
-    </message>
-    <message>
-        <source>12 MB</source>
-        <translation></translation>
-    </message>
-    <message>
-        <source>36 MB</source>
-        <translation></translation>
-    </message>
-    <message>
-        <source>Channel 2</source>
-        <translation>Canal 2</translation>
-    </message>
-    <message>
-        <source>Channel 3</source>
-        <translation>Canal 3</translation>
-    </message>
-    <message>
-        <source>Channel 4</source>
-        <translation>Canal 4</translation>
-    </message>
-    <message>
-        <source>Channel 5</source>
-        <translation>Canal 5</translation>
-    </message>
-    <message>
-        <source>Minimum Sample Value:</source>
-        <translation>Valor mínimo de amostra:</translation>
-    </message>
-    <message>
-        <source>-1230</source>
-        <translation></translation>
-    </message>
-    <message>
-        <source>-928</source>
-        <translation></translation>
-    </message>
-    <message>
-        <source>Maximum Sample Value:</source>
-        <translation>Valor máximo de amostra:</translation>
-    </message>
-    <message>
-        <source>32700</source>
-        <translation></translation>
-    </message>
-    <message>
-        <source>30000</source>
-        <translation></translation>
-    </message>
-    <message>
-        <source>Peak Amplitude:</source>
-        <translation>Amplitude de pico:</translation>
-    </message>
-    <message>
-        <source>-3.57 dB</source>
-        <translation></translation>
-    </message>
-    <message>
-        <source>-12.4 dB</source>
-        <translation></translation>
-    </message>
-    <message>
-        <source>Possible Clipped Samples:</source>
-        <translation>Amostras saturadas:</translation>
-    </message>
-    <message>
-        <source>0</source>
-        <translation></translation>
-    </message>
-    <message>
-        <source>DC Offset:</source>
-        <translation>Nível DC:</translation>
-    </message>
-    <message>
-        <source>-0.004%</source>
-        <translation></translation>
-    </message>
-    <message>
-        <source>+0.02%</source>
-        <translation></translation>
-    </message>
-    <message>
-        <source>Minimum RMS Power:</source>
-        <translation>Potência RMS mínima:</translation>
-    </message>
-    <message>
-        <source>-65.8 dB</source>
-        <translation></translation>
-    </message>
-    <message>
-        <source>-62.0 dB</source>
-        <translation></translation>
-    </message>
-    <message>
-        <source>Maximum RMS Power:</source>
-        <translation>Potência RMS máxima:</translation>
-    </message>
-    <message>
-        <source>-2.4 dB</source>
-        <translation></translation>
-    </message>
-    <message>
-        <source>-3.2 dB</source>
-        <translation></translation>
-    </message>
-    <message>
-        <source>Average RMS Power:</source>
-        <translation>Potência RMS média:</translation>
-    </message>
-    <message>
-        <source>-22.3 dB</source>
-        <translation></translation>
-    </message>
-    <message>
-        <source>-20.0 dB</source>
-        <translation></translation>
-    </message>
-    <message>
-        <source>Total RMS Power:</source>
-        <translation>Potência RMS total:</translation>
-    </message>
-    <message>
-        <source>-22.4 dB</source>
-        <translation></translation>
-    </message>
-    <message>
-        <source>-19.8 dB</source>
-        <translation></translation>
-    </message>
-    <message>
-        <source>Sound Inspector</source>
-        <translation>Propriedades do Áudio</translation>
-    </message>
-    <message>
-        <source>Info</source>
-        <translation>Info</translation>
-    </message>
-    <message>
-        <source>Title:</source>
-        <translation>Título:</translation>
-    </message>
-    <message>
-        <source>Artist:</source>
-        <translation>Artista:</translation>
-    </message>
-    <message>
-        <source>Album:</source>
-        <translation>Álbum:</translation>
-    </message>
-    <message>
-        <source>Genre:</source>
-        <translation>Gênero:</translation>
-    </message>
-    <message>
-        <source>Track:</source>
-        <translation>Faixa:</translation>
-    </message>
-    <message>
-        <source>Disc:</source>
-        <translation>Disco:</translation>
-    </message>
-    <message>
-        <source>Year:</source>
-        <translation>Ano:</translation>
-    </message>
-    <message>
-        <source>Somebody Told Me</source>
-        <translation></translation>
-    </message>
-    <message>
-        <source>The Killers</source>
-        <translation></translation>
-    </message>
-    <message>
-        <source>The Killers: Live From The Royal Albert Hall</source>
-        <translation></translation>
-    </message>
-    <message>
-        <source>Alternative</source>
-        <translation></translation>
-    </message>
-    <message>
-        <source>3/17</source>
-        <translation>3/17</translation>
-    </message>
-    <message>
-        <source>1/1</source>
-        <translation>1/1</translation>
-    </message>
-    <message>
-        <source>2009</source>
-        <translation>2009</translation>
-    </message>
-    <message>
-        <source>General</source>
-        <translation>Geral</translation>
-    </message>
-    <message>
-        <source>/Users/ruijunior</source>
-        <translation></translation>
-    </message>
-    <message>
-        <source>Statistics</source>
-        <translation>Estatísticas</translation>
-    </message>
-    <message>
-        <source>Channel 0</source>
-        <translation>Canal 0</translation>
-    </message>
-    <message>
-        <source>Channel 1</source>
-        <translation>Canal 1</translation>
-    </message>
-</context>
-<context>
     <name>QTestDialog</name>
     <message>
         <source>Dialog</source>
@@ -5001,6 +4830,10 @@ ou sua rede de trabalho que você deseje abrir:</translation>
     <message>
         <source>Both</source>
         <translation>Ambos</translation>
+    </message>
+    <message>
+        <source>High Dpi Image</source>
+        <translation>Imagem em High Dpi</translation>
     </message>
 </context>
 </TS>
