@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!DOCTYPE TS>
-<TS version="2.1" language="es_VE" sourcelanguage="en">
+<TS version="2.0" language="es_VE" sourcelanguage="en">
 <context>
     <name>AdjustSampleRateDialog</name>
     <message>
@@ -722,7 +722,7 @@
     </message>
     <message>
         <source>Send Crash Report...</source>
-        <translation type="unfinished"></translation>
+        <translation>Enviar informe de errores...</translation>
     </message>
     <message>
         <source>Preferences</source>
@@ -738,19 +738,19 @@
     </message>
     <message>
         <source>Record Options</source>
-        <translation type="unfinished"></translation>
+        <translation>Opciones de grabación</translation>
     </message>
     <message>
         <source>Preroll</source>
-        <translation type="unfinished"></translation>
+        <translation>Predesplazamiento</translation>
     </message>
     <message>
         <source>Ctrl+P</source>
-        <translation type="unfinished"></translation>
+        <translation>Ctrl+P</translation>
     </message>
     <message>
         <source>Extract Audio From Regions</source>
-        <translation type="unfinished"></translation>
+        <translation>Extraer audio de las regiones</translation>
     </message>
 </context>
 <context>
@@ -1684,7 +1684,7 @@
     </message>
     <message>
         <source>bins</source>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
     <message>
         <source>Window Function</source>
@@ -1777,19 +1777,19 @@
     </message>
     <message>
         <source>Label</source>
-        <translation type="unfinished"></translation>
+        <translation>Etiqueta</translation>
     </message>
     <message>
         <source>Position</source>
-        <translation type="unfinished"></translation>
+        <translation>Posición</translation>
     </message>
     <message>
         <source>Duration</source>
-        <translation type="unfinished">Duración</translation>
+        <translation>Duración</translation>
     </message>
     <message>
         <source>Comment of region “%1”</source>
-        <translation type="unfinished"></translation>
+        <translation>Comentario de región “%1”</translation>
     </message>
 </context>
 <context>
@@ -2157,7 +2157,7 @@ Haga clic aquí para descargarla.</translation>
     </message>
     <message>
         <source>Send Crash Report</source>
-        <translation type="unfinished"></translation>
+        <translation>Enviar informe de errores</translation>
     </message>
     <message>
         <source>Save Sound Copy As ...</source>
@@ -2541,55 +2541,55 @@ Haga clic aquí para descargarla.</translation>
     </message>
     <message>
         <source>Extract Audio From Regions</source>
-        <translation type="unfinished"></translation>
+        <translation>Extraer el audio de Regiones</translation>
     </message>
     <message>
         <source>Enable/Disable Preroll on Recording</source>
-        <translation type="unfinished"></translation>
+        <translation>Activar/desactivar el predesplazamiento en grabación</translation>
     </message>
     <message>
         <source>Select “separate” to save each selection to a different file. If you select “single”, all your selections will be appended and saved to a single file.</source>
-        <translation type="unfinished"></translation>
+        <translation>Seleccione &quot;separado&quot; para guardar cada selección en un archivo diferente. Si selecciona &quot;solo&quot;, todas las selecciones se añadirán y se guardan en un solo archivo.</translation>
     </message>
     <message>
         <source>Mix Pasting</source>
-        <translation type="unfinished"></translation>
+        <translation>Pegar mezcla</translation>
     </message>
     <message>
         <source>Loading Signal</source>
-        <translation type="unfinished"></translation>
+        <translation>Cargando señal</translation>
     </message>
     <message>
         <source>Generating Signal</source>
-        <translation type="unfinished"></translation>
+        <translation>Generando señal</translation>
     </message>
     <message>
         <source>Part “%1” of </source>
-        <translation type="unfinished"></translation>
+        <translation>Parte “%1” de</translation>
     </message>
     <message>
         <source>Some regions will be ignored because they are very short.</source>
-        <translation type="unfinished"></translation>
+        <translation>Algunas regiones se ignorarán porque son muy cortas.</translation>
     </message>
     <message>
         <source>Regions with less than 10 ms are ignored. You have one region ignored.</source>
-        <translation type="unfinished"></translation>
+        <translation>Las regiones con menos de 10 ms se ignoran. Tiene una región ignorada.</translation>
     </message>
     <message>
         <source>Regions with less than 10 ms are ignored. You have %1 regions ignored.</source>
-        <translation type="unfinished"></translation>
+        <translation>Las regiones con menos de 10 ms se ignoran. Tiene %1 regiones ignoradas.</translation>
     </message>
     <message>
         <source>You are about to extract %1 regions from your audio. Are you sure you want to proceed?</source>
-        <translation type="unfinished"></translation>
+        <translation>Usted está a punto de extraer %1 regiones de su audio. ¿Realmente que desea continuar?</translation>
     </message>
     <message>
         <source>Region “%1” of </source>
-        <translation type="unfinished"></translation>
+        <translation>Región “%1” of </translation>
     </message>
     <message>
         <source>Region %1 of </source>
-        <translation type="unfinished"></translation>
+        <translation>Región %1 of </translation>
     </message>
 </context>
 <context>
@@ -2624,7 +2624,7 @@ Haga clic aquí para descargarla.</translation>
     </message>
     <message>
         <source>File Container</source>
-        <translation type="unfinished"></translation>
+        <translation>Contenedor de archivo</translation>
     </message>
     <message>
         <source>MP4</source>
@@ -2632,15 +2632,15 @@ Haga clic aquí para descargarla.</translation>
     </message>
     <message>
         <source>Audio Codec</source>
-        <translation type="unfinished"></translation>
+        <translation>Codec de audio</translation>
     </message>
     <message>
         <source>AAC Low Complexity</source>
-        <translation type="unfinished"></translation>
+        <translation>AAC baja complejidad</translation>
     </message>
     <message>
         <source>Encoded With</source>
-        <translation type="unfinished"></translation>
+        <translation>Codificado con</translation>
     </message>
     <message>
         <source>LAME3.99</source>
@@ -2684,7 +2684,7 @@ Haga clic aquí para descargarla.</translation>
     </message>
     <message>
         <source>26 seconds</source>
-        <translation type="unfinished"></translation>
+        <translation>26 segundos</translation>
     </message>
     <message>
         <source>Number of Samples</source>
@@ -2712,7 +2712,7 @@ Haga clic aquí para descargarla.</translation>
     </message>
     <message>
         <source>Modification Date</source>
-        <translation type="unfinished"></translation>
+        <translation>Fecha de modificación</translation>
     </message>
     <message>
         <source>12/09/2014 23:00</source>
@@ -2720,7 +2720,7 @@ Haga clic aquí para descargarla.</translation>
     </message>
     <message>
         <source>Location</source>
-        <translation type="unfinished"></translation>
+        <translation>Ubicación</translation>
     </message>
     <message>
         <source>/Users/ruijunior/Music/iTunes/iTunes Media/Music/Enanitos Verdes/Unknown Album/Lamento Boliviano.aif</source>
@@ -2728,23 +2728,23 @@ Haga clic aquí para descargarla.</translation>
     </message>
     <message>
         <source>Details</source>
-        <translation type="unfinished"></translation>
+        <translation>Detalles</translation>
     </message>
     <message>
         <source>Song Name</source>
-        <translation type="unfinished"></translation>
+        <translation>Nombre de cancion</translation>
     </message>
     <message>
         <source>Album Artist</source>
-        <translation type="unfinished"></translation>
+        <translation>Artista del álbum</translation>
     </message>
     <message>
         <source>Composer</source>
-        <translation type="unfinished"></translation>
+        <translation>Compositor</translation>
     </message>
     <message>
         <source>Grouping</source>
-        <translation type="unfinished"></translation>
+        <translation>Agrupación</translation>
     </message>
     <message>
         <source>Genre</source>
@@ -2756,7 +2756,7 @@ Haga clic aquí para descargarla.</translation>
     </message>
     <message>
         <source>Disk Number</source>
-        <translation type="unfinished"></translation>
+        <translation>Número de disco</translation>
     </message>
     <message>
         <source>of</source>
@@ -2768,15 +2768,15 @@ Haga clic aquí para descargarla.</translation>
     </message>
     <message>
         <source>bpm</source>
-        <translation type="unfinished"></translation>
+        <translation>bpm</translation>
     </message>
     <message>
         <source>Keywords</source>
-        <translation type="unfinished"></translation>
+        <translation>Palabras clave</translation>
     </message>
     <message>
         <source>Comments</source>
-        <translation type="unfinished"></translation>
+        <translation>Comentarios</translation>
     </message>
     <message>
         <source>Artwork</source>
@@ -2784,7 +2784,7 @@ Haga clic aquí para descargarla.</translation>
     </message>
     <message>
         <source>Album Artwork</source>
-        <translation type="unfinished"></translation>
+        <translation>Ilustración del álbum</translation>
     </message>
     <message>
         <source>PNG / 256 x 256</source>
@@ -2812,11 +2812,11 @@ Haga clic aquí para descargarla.</translation>
     </message>
     <message>
         <source>Comment of marker #label</source>
-        <translation type="unfinished"></translation>
+        <translation>Comentario de marcador #etiqueta</translation>
     </message>
     <message>
         <source>Comment</source>
-        <translation type="unfinished"></translation>
+        <translation>Comentario</translation>
     </message>
 </context>
 <context>
@@ -3237,11 +3237,11 @@ Haga clic aquí para descargarla.</translation>
     </message>
     <message>
         <source>Resolution:</source>
-        <translation type="unfinished"></translation>
+        <translation>Resolución:</translation>
     </message>
     <message>
         <source>%1 bits</source>
-        <translation type="unfinished"></translation>
+        <translation>%1 bits</translation>
     </message>
 </context>
 <context>
@@ -3744,7 +3744,7 @@ Haga clic aquí para descargarla.</translation>
     </message>
     <message>
         <source>Multichannel</source>
-        <translation type="unfinished"></translation>
+        <translation>Multicanal</translation>
     </message>
     <message>
         <source>3 channels</source>
@@ -3936,19 +3936,19 @@ su ordenador, o red que desea abrir:</translation>
     </message>
     <message>
         <source>Show in Finder</source>
-        <translation type="unfinished"></translation>
+        <translation>Mostrar en el buscador</translation>
     </message>
     <message>
         <source>Show Plugins List...</source>
-        <translation type="unfinished"></translation>
+        <translation>Mostrar lista de complementos ...</translation>
     </message>
     <message>
         <source>Remove Path from Search</source>
-        <translation type="unfinished"></translation>
+        <translation>Quitar ruta de búsqueda</translation>
     </message>
     <message>
         <source>Path not Found</source>
-        <translation type="unfinished"></translation>
+        <translation>Ruta no encontrada</translation>
     </message>
 </context>
 <context>
@@ -4118,47 +4118,47 @@ su ordenador, o red que desea abrir:</translation>
     </message>
     <message>
         <source>Convert to Mono</source>
-        <translation type="unfinished"></translation>
+        <translation>Convertir a Mono</translation>
     </message>
     <message>
         <source>Sort</source>
-        <translation type="unfinished"></translation>
+        <translation>Tipo</translation>
     </message>
     <message>
         <source>Disabled</source>
-        <translation type="unfinished"></translation>
+        <translation>Desactivado</translation>
     </message>
     <message>
         <source>By Display Name</source>
-        <translation type="unfinished"></translation>
+        <translation>Por nombre para mostrar</translation>
     </message>
     <message>
         <source>By Song Name</source>
-        <translation type="unfinished"></translation>
+        <translation>Por nombre de canción</translation>
     </message>
     <message>
         <source>By Artist Name</source>
-        <translation type="unfinished"></translation>
+        <translation>Por nombre de artista</translation>
     </message>
     <message>
         <source>By Album Name</source>
-        <translation type="unfinished"></translation>
+        <translation>Por nombre de álbum</translation>
     </message>
     <message>
         <source>By Duration</source>
-        <translation type="unfinished"></translation>
+        <translation>Por duración</translation>
     </message>
     <message>
         <source>By Date</source>
-        <translation type="unfinished"></translation>
+        <translation>Por fecha</translation>
     </message>
     <message>
         <source>Ascending</source>
-        <translation type="unfinished"></translation>
+        <translation>Ascendente</translation>
     </message>
     <message>
         <source>Descending</source>
-        <translation type="unfinished"></translation>
+        <translation>Descendente</translation>
     </message>
 </context>
 <context>
@@ -4824,7 +4824,7 @@ su ordenador, o red que desea abrir:</translation>
     </message>
     <message>
         <source>High Dpi Image</source>
-        <translation type="unfinished"></translation>
+        <translation>Imagen de alto Dpi</translation>
     </message>
 </context>
 </TS>

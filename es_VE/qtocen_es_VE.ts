@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!DOCTYPE TS>
-<TS version="2.1" language="es_VE" sourcelanguage="en">
+<TS version="2.0" language="es_VE" sourcelanguage="en">
 <context>
     <name>QAudioStatistics</name>
     <message>
@@ -360,11 +360,11 @@
     </message>
     <message>
         <source>Paste Channel</source>
-        <translation type="unfinished"></translation>
+        <translation>Pegar canal</translation>
     </message>
     <message>
         <source>Paste From File</source>
-        <translation type="unfinished"></translation>
+        <translation>Pegar desde archivo</translation>
     </message>
     <message>
         <source>Paste Silence</source>
@@ -444,47 +444,47 @@
     </message>
     <message>
         <source>Transform</source>
-        <translation type="unfinished"></translation>
+        <translation>Transformar</translation>
     </message>
     <message>
         <source>Change Gain/Offset</source>
-        <translation type="unfinished"></translation>
+        <translation>Cambiar Ganancia/Desplazamiento</translation>
     </message>
     <message>
         <source>Cancel</source>
-        <translation type="unfinished">Cancelar</translation>
+        <translation>Cancelar</translation>
     </message>
     <message>
         <source>Waiting for cancellation</source>
-        <translation type="unfinished"></translation>
+        <translation>Esperando cancelación</translation>
     </message>
     <message>
         <source>Remaining</source>
-        <translation type="unfinished"></translation>
+        <translation>Restante</translation>
     </message>
     <message>
         <source>Question</source>
-        <translation type="unfinished">Pregunta</translation>
+        <translation>Pregunta</translation>
     </message>
     <message>
         <source>Do you really want to discard the changes made in this region?</source>
-        <translation type="unfinished">¿Realmente desea descartar los cambios realizados en esta región?</translation>
+        <translation>¿Realmente desea descartar los cambios realizados en esta región?</translation>
     </message>
     <message>
         <source>Changes in region text will be lost if you discard.</source>
-        <translation type="unfinished">Los cambios en el texto de región se perderán si los descarta.</translation>
+        <translation>Los cambios en el texto de región se perderán si los descarta.</translation>
     </message>
     <message>
         <source>Save</source>
-        <translation type="unfinished">Guardar</translation>
+        <translation>Guardar</translation>
     </message>
     <message>
         <source>Discard</source>
-        <translation type="unfinished">Descartar</translation>
+        <translation>Descartar</translation>
     </message>
     <message>
         <source>Track %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Pista %1</translation>
     </message>
 </context>
 <context>
@@ -503,7 +503,7 @@
     </message>
     <message>
         <source>ocenaudio Clipboard with %1 seconds in %2 %3</source>
-        <translation type="unfinished"></translation>
+        <translation>Portapapeles de ocenaudio %1 segundos en %2 %3</translation>
     </message>
 </context>
 <context>
@@ -686,19 +686,19 @@
     </message>
     <message>
         <source>Color Scheme</source>
-        <translation type="unfinished"></translation>
+        <translation>Esquema de colores</translation>
     </message>
     <message>
         <source>Classic</source>
-        <translation type="unfinished"></translation>
+        <translation>Clásico</translation>
     </message>
     <message>
         <source>Light</source>
-        <translation type="unfinished"></translation>
+        <translation>Claro</translation>
     </message>
     <message>
         <source>Dark</source>
-        <translation type="unfinished"></translation>
+        <translation>Oscuro</translation>
     </message>
 </context>
 <context>
@@ -949,63 +949,63 @@
     </message>
     <message>
         <source>Information</source>
-        <translation type="unfinished"></translation>
+        <translation>Información</translation>
     </message>
     <message>
         <source>Pasting file %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Pegando archivo  %1</translation>
     </message>
     <message>
         <source>Unsupported Format</source>
-        <translation type="unfinished"></translation>
+        <translation>Formato no soportado</translation>
     </message>
     <message>
         <source>The maximum number of channels supported is %1 channels.</source>
-        <translation type="unfinished"></translation>
+        <translation>El número máximo de canales soportados es %1 canales.</translation>
     </message>
     <message>
         <source>The minimum sample rate supported is %1 Hz.</source>
-        <translation type="unfinished"></translation>
+        <translation>La frecuencia de muestreo mínima soportada es %1 Hz.</translation>
     </message>
     <message>
         <source>The maximum sample rate supported is %1 Hz.</source>
-        <translation type="unfinished"></translation>
+        <translation>La frecuencia de muestreo máxima soportada es %1 Hz.</translation>
     </message>
     <message>
         <source>Audio VST Check Failed</source>
-        <translation type="unfinished"></translation>
+        <translation>Ha fallado la verificación de audio VST</translation>
     </message>
     <message>
         <source>An error occurred in the execution of VST plugin application. No VST plugin can be loaded in this condition.</source>
-        <translation type="unfinished"></translation>
+        <translation>Se produjo un error en la ejecución de la aplicación del complemento VST. Ningún complemento VST se puede cargar en esta condición.</translation>
     </message>
     <message>
         <source>Audio not saved</source>
-        <translation type="unfinished"></translation>
+        <translation>Audio no guardado</translation>
     </message>
     <message>
         <source>An error was encountered while saving your sound file “%1”!</source>
-        <translation type="unfinished"></translation>
+        <translation>Se encontró un error al guardar el archivo de sonido “%1”!</translation>
     </message>
     <message>
         <source>It was not possible to complete the save of file “%1” because the chosen container does not support metadata.</source>
-        <translation type="unfinished"></translation>
+        <translation>No fue posible completa el el guardado del archivo “%1 porque el contenedor elegido no soporta metadatos.</translation>
     </message>
     <message>
         <source>Your sound “%1” contains informations that can not be saved in the selected format. You want to continue and export to this format?</source>
-        <translation type="unfinished"></translation>
+        <translation>Su sonido “%1” contiene informaciones que no se pueden guardar en el formato seleccionado. ¿Desea continuar y exportar a este formato?</translation>
     </message>
     <message>
         <source>Unsuported information will not be present in the exported file.</source>
-        <translation type="unfinished"></translation>
+        <translation>La información no soportada no estará presente en el archivo exportado.</translation>
     </message>
     <message>
         <source>Export</source>
-        <translation type="unfinished"></translation>
+        <translation>Exportar</translation>
     </message>
     <message>
         <source>Exporting As</source>
-        <translation type="unfinished"></translation>
+        <translation>Exportando como</translation>
     </message>
 </context>
 <context>
@@ -1146,31 +1146,31 @@
     </message>
     <message>
         <source>Analyzing files in %1 %2</source>
-        <translation type="unfinished"></translation>
+        <translation>Analisando archivos en %1 %2</translation>
     </message>
     <message>
         <source>Analyzing files in %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Analisando archivos en %1</translation>
     </message>
     <message>
         <source>The file for the sound at “%1” is already opened. There are also unsaved changes in ocenaudio.  Do you want to keep the ocenaudio version or revert to the version on disk?</source>
-        <translation type="unfinished"></translation>
+        <translation>El archivo de sonido en “%1” ya está abierto. También hay cambios sin guardar en ocenaudio.  ¿Desea mantener la versión de ocenaudio o volver a la versión en el disco?</translation>
     </message>
     <message>
         <source>Cue File Found</source>
-        <translation type="unfinished"></translation>
+        <translation>Archivo Cue encontrado</translation>
     </message>
     <message>
         <source>A cue file containing %2 tracks associated with the “%1” file was found. You want to open these tracks separately?</source>
-        <translation type="unfinished"></translation>
+        <translation>Se encontró un archivo cue que contiene %2 pistas asociados con el archivo “%1”. ¿Desea abrir estas pistas por separado?</translation>
     </message>
     <message>
         <source>Open Tracks</source>
-        <translation type="unfinished"></translation>
+        <translation>Abrir pistas</translation>
     </message>
     <message>
         <source>Open Original</source>
-        <translation type="unfinished"></translation>
+        <translation>Abrir original</translation>
     </message>
 </context>
 <context>
@@ -1255,7 +1255,7 @@
     <name>QOcenQuickOpenWidget</name>
     <message>
         <source>File or http address</source>
-        <translation type="unfinished"></translation>
+        <translation>Archivo o dirección http</translation>
     </message>
 </context>
 <context>
@@ -1281,11 +1281,11 @@
     <name>QOcenSettingsDialog</name>
     <message>
         <source>Settings</source>
-        <translation type="unfinished">Ajustes</translation>
+        <translation>Ajustes</translation>
     </message>
     <message>
         <source>Search</source>
-        <translation type="unfinished"></translation>
+        <translation>Buscar</translation>
     </message>
 </context>
 <context>
@@ -1316,7 +1316,7 @@
     </message>
     <message>
         <source>Mixer Sample Rate</source>
-        <translation type="unfinished"></translation>
+        <translation>Mezclador de frecuencia de muestreo</translation>
     </message>
     <message>
         <source>48000 Hz</source>
@@ -1332,19 +1332,19 @@
     </message>
     <message>
         <source>Mixer Backend</source>
-        <translation type="unfinished"></translation>
+        <translation>Mezclador de fondo</translation>
     </message>
     <message>
         <source>CoreAudio</source>
-        <translation type="unfinished"></translation>
+        <translation>CoreAudio</translation>
     </message>
     <message>
         <source>Disabled</source>
-        <translation type="unfinished"></translation>
+        <translation>Desactivado</translation>
     </message>
     <message>
         <source>Sound</source>
-        <translation type="unfinished"></translation>
+        <translation>Sonido</translation>
     </message>
     <message>
         <source>System Default</source>
@@ -1352,15 +1352,15 @@
     </message>
     <message>
         <source>Play head follows cursor position</source>
-        <translation type="unfinished"></translation>
+        <translation>La cabeza de reproduccion sigue la posición del cursor</translation>
     </message>
     <message>
         <source>Preroll</source>
-        <translation type="unfinished"></translation>
+        <translation>Predesplazamiento</translation>
     </message>
     <message>
         <source>Destructive Recording</source>
-        <translation type="unfinished"></translation>
+        <translation>Grabación destructiva</translation>
     </message>
 </context>
 <context>
