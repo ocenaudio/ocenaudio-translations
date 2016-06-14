@@ -1,8 +1,8 @@
 ###About ocenaudio
 
-Ocenaudio is a cross-platform, easy to use, fast and functional audio editor. Ocenaudio is available in ([official site](http://www.ocenaudio.com.br)).
+Ocenaudio is a cross-platform, easy to use, fast and functional audio editor. Ocenaudio is available in ([official site](http://www.ocenaudio.com)).
 
-![ocenaudio screenshot](http://www.ocenaudio.com.br/imgs/screenshot_mac01.png)
+![ocenaudio screenshot](http://www.ocenaudio.com/imgs/screenshot_mac01.png)
 
 ___
 
@@ -15,7 +15,7 @@ If you would like to add a new translation for ocenaudio please
 [submit a pull request](https://github.com/ocenaudio/ocenaudio-translations/pull/new/master) using the files inside `**base**` folder and renaming them as follows the
 [ISO 639 'underscore' ISO 3166](http://www.localeplanet.com/icu/) format.
 
-If you have any questions, please write us in [http://www.ocenaudio.com.br/feedback](http://www.ocenaudio.com.br/feedback).
+If you have any questions, please write us in [http://www.ocenaudio.com/feedback](http://www.ocenaudio.com/feedback).
 
 ___
 
