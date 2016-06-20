@@ -168,7 +168,7 @@
     </message>
     <message>
         <source>New...</source>
-        <translation>新建 ...</translation>
+        <translation>新建...</translation>
     </message>
     <message>
         <source>Duplicate</source>
@@ -176,7 +176,7 @@
     </message>
     <message>
         <source>Open...</source>
-        <translation>打开 ...</translation>
+        <translation>打开...</translation>
     </message>
     <message>
         <source>Undo</source>
@@ -208,11 +208,11 @@
     </message>
     <message>
         <source>Save As...</source>
-        <translation>另存为 ...</translation>
+        <translation>另存为...</translation>
     </message>
     <message>
         <source>Save Selection...</source>
-        <translation>保存所选 ...</translation>
+        <translation>保存所选...</translation>
     </message>
     <message>
         <source>Paste to New</source>
@@ -220,7 +220,7 @@
     </message>
     <message>
         <source>Paste Special...</source>
-        <translation>特殊粘贴 ...</translation>
+        <translation>特殊粘贴...</translation>
     </message>
     <message>
         <source>Select All</source>
@@ -236,11 +236,11 @@
     </message>
     <message>
         <source>Adjust Sample Rate...</source>
-        <translation>调整采样率 ...</translation>
+        <translation>调整采样率...</translation>
     </message>
     <message>
         <source>Convert Sample Type...</source>
-        <translation>采样类型转换 ...</translation>
+        <translation>采样类型转换...</translation>
     </message>
     <message>
         <source>Waveform View</source>
@@ -405,7 +405,7 @@
     </message>
     <message>
         <source>Normalize...</source>
-        <translation>音量标准化 ...</translation>
+        <translation>音量标准化...</translation>
     </message>
     <message>
         <source>DC Offset...</source>
@@ -462,11 +462,11 @@
     </message>
     <message>
         <source>Lowpass Filter...</source>
-        <translation>低通过滤器 ...</translation>
+        <translation>低通过滤器...</translation>
     </message>
     <message>
         <source>Highpass Filter...</source>
-        <translation>高通过滤器 ...</translation>
+        <translation>高通过滤器...</translation>
     </message>
     <message>
         <source>Bandpass Filter...</source>
@@ -478,11 +478,11 @@
     </message>
     <message>
         <source>31-Band Graphic Equalizer...</source>
-        <translation>31段图形均衡器 ...</translation>
+        <translation>31段图形均衡器...</translation>
     </message>
     <message>
         <source>11-Band Graphic Equalizer...</source>
-        <translation>11段图形均衡器 ...</translation>
+        <translation>11段图形均衡器...</translation>
     </message>
     <message>
         <source>Clipboard</source>
@@ -498,19 +498,19 @@
     </message>
     <message>
         <source>Delay...</source>
-        <translation>延迟 ...</translation>
+        <translation>延迟...</translation>
     </message>
     <message>
         <source>Flanger...</source>
-        <translation>镶边 ...</translation>
+        <translation>镶边...</translation>
     </message>
     <message>
         <source>Chorus...</source>
-        <translation>合唱 ...</translation>
+        <translation>合唱...</translation>
     </message>
     <message>
         <source>Reverb...</source>
-        <translation>混响 ...</translation>
+        <translation>混响...</translation>
     </message>
     <message>
         <source>Vibrato...</source>
@@ -518,7 +518,7 @@
     </message>
     <message>
         <source>Compressor...</source>
-        <translation>压缩 ...</translation>
+        <translation>压缩...</translation>
     </message>
     <message>
         <source>Expander...</source>
@@ -526,11 +526,11 @@
     </message>
     <message>
         <source>Limiter...</source>
-        <translation>限制器 ...</translation>
+        <translation>限制器...</translation>
     </message>
     <message>
         <source>Noise Gate...</source>
-        <translation>噪声门 ...</translation>
+        <translation>噪声门...</translation>
     </message>
     <message>
         <source>Normalize</source>
@@ -554,7 +554,7 @@
     </message>
     <message>
         <source>Add Random Noise...</source>
-        <translation type="unfinished">添加随机噪声 ...</translation>
+        <translation type="unfinished">添加随机噪声...</translation>
     </message>
     <message>
         <source>Invert</source>
@@ -562,11 +562,11 @@
     </message>
     <message>
         <source>Export...</source>
-        <translation>导出 ...</translation>
+        <translation>导出...</translation>
     </message>
     <message>
         <source>Export Selection...</source>
-        <translation>导出所选 ...</translation>
+        <translation>导出所选...</translation>
     </message>
     <message>
         <source>PlaceHolder</source>
@@ -594,7 +594,7 @@
     </message>
     <message>
         <source>Create iPhone Ringtone...</source>
-        <translation type="unfinished">创建iPhone铃声 ...</translation>
+        <translation type="unfinished">创建iPhone铃声...</translation>
     </message>
     <message>
         <source>Snap to Scale Tick</source>
@@ -606,11 +606,11 @@
     </message>
     <message>
         <source>Metadata...</source>
-        <translation>元数据 ...</translation>
+        <translation>元数据...</translation>
     </message>
     <message>
         <source>Regions and Markers...</source>
-        <translation>区块和标记 ...</translation>
+        <translation>区块和标记...</translation>
     </message>
     <message>
         <source>Remove All Metadata</source>
@@ -658,7 +658,7 @@
     </message>
     <message>
         <source>FTP Export...</source>
-        <translation>导出到FTP服务器 ...</translation>
+        <translation>导出到FTP服务器...</translation>
     </message>
     <message>
         <source>Show Navigator Window</source>
