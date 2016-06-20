@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!DOCTYPE TS>
-<TS version="2.1" language="en_US">
+<TS version="2.0" language="zh_CN">
 <context>
     <name>AdjustSampleRateDialog</name>
     <message>
         <source>Adjust Sample Rate</source>
-        <translation type="unfinished"></translation>
+        <translation>调整采样率</translation>
     </message>
     <message>
         <source>Sample Rate</source>
-        <translation type="unfinished"></translation>
+        <translation>采样率</translation>
     </message>
     <message>
         <source>16000</source>
@@ -17,7 +17,7 @@
     </message>
     <message>
         <source>Hz</source>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
     <message>
         <source>48000</source>
@@ -49,42 +49,42 @@
     </message>
     <message>
         <source>This setting only changes the value of the sample rate. This operation does not resample the signal.</source>
-        <translation type="unfinished"></translation>
+        <translation>此设置仅改变采样率数值。此操作不会对信号重新采样。</translation>
     </message>
 </context>
 <context>
     <name>MainWindow</name>
     <message>
         <source>ocenaudio</source>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
     <message>
         <source>&amp;File</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;文件</translation>
     </message>
     <message>
         <source>Open Recent Audio</source>
-        <translation type="unfinished"></translation>
+        <translation>打开最近音频文件</translation>
     </message>
     <message>
         <source>New From</source>
-        <translation type="unfinished"></translation>
+        <translation>从新建</translation>
     </message>
     <message>
         <source>&amp;Edit</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;编辑</translation>
     </message>
     <message>
         <source>Adjust Selection</source>
-        <translation type="unfinished"></translation>
+        <translation>调整所选</translation>
     </message>
     <message>
         <source>&amp;View</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;视图</translation>
     </message>
     <message>
         <source>Display Time Format</source>
-        <translation type="unfinished"></translation>
+        <translation>显示时间格式</translation>
     </message>
     <message>
         <source>Vertical Scale Format</source>
@@ -96,163 +96,163 @@
     </message>
     <message>
         <source>Zoom</source>
-        <translation type="unfinished"></translation>
+        <translation>放大</translation>
     </message>
     <message>
         <source>Extra Tracks</source>
-        <translation type="unfinished"></translation>
+        <translation>更多音轨</translation>
     </message>
     <message>
         <source>Regions and Markers</source>
-        <translation type="unfinished"></translation>
+        <translation>区块和标记</translation>
     </message>
     <message>
         <source>Level Meter</source>
-        <translation type="unfinished"></translation>
+        <translation>电平表</translation>
     </message>
     <message>
         <source>Effec&amp;ts</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;效果</translation>
     </message>
     <message>
         <source>Amplitude</source>
-        <translation type="unfinished"></translation>
+        <translation>增益</translation>
     </message>
     <message>
         <source>Filter</source>
-        <translation type="unfinished"></translation>
+        <translation>过滤器</translation>
     </message>
     <message>
         <source>Equalization</source>
-        <translation type="unfinished"></translation>
+        <translation>均衡</translation>
     </message>
     <message>
         <source>Delay</source>
-        <translation type="unfinished"></translation>
+        <translation>延迟</translation>
     </message>
     <message>
         <source>Dynamics Processing</source>
-        <translation type="unfinished"></translation>
+        <translation>动态处理</translation>
     </message>
     <message>
         <source>Specials</source>
-        <translation type="unfinished"></translation>
+        <translation>特殊</translation>
     </message>
     <message>
         <source>Time and Pitch</source>
-        <translation type="unfinished"></translation>
+        <translation>时值和音调</translation>
     </message>
     <message>
         <source>&amp;Generate</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;生成</translation>
     </message>
     <message>
         <source>&amp;Analyze</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;分析</translation>
     </message>
     <message>
         <source>&amp;Help</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;帮助</translation>
     </message>
     <message>
         <source>&amp;Controls</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;控制</translation>
     </message>
     <message>
         <source>Play Options</source>
-        <translation type="unfinished"></translation>
+        <translation>播放选项</translation>
     </message>
     <message>
         <source>Move Cursor</source>
-        <translation type="unfinished"></translation>
+        <translation>移动光标</translation>
     </message>
     <message>
         <source>New...</source>
-        <translation type="unfinished"></translation>
+        <translation>新建 ...</translation>
     </message>
     <message>
         <source>Duplicate</source>
-        <translation type="unfinished"></translation>
+        <translation>复制</translation>
     </message>
     <message>
         <source>Open...</source>
-        <translation type="unfinished"></translation>
+        <translation>打开 ...</translation>
     </message>
     <message>
         <source>Undo</source>
-        <translation type="unfinished"></translation>
+        <translation>撤销</translation>
     </message>
     <message>
         <source>Cut</source>
-        <translation type="unfinished"></translation>
+        <translation>剪切</translation>
     </message>
     <message>
         <source>Copy</source>
-        <translation type="unfinished"></translation>
+        <translation>拷贝</translation>
     </message>
     <message>
         <source>Paste</source>
-        <translation type="unfinished"></translation>
+        <translation>粘贴</translation>
     </message>
     <message>
         <source>Close</source>
-        <translation type="unfinished"></translation>
+        <translation>关闭</translation>
     </message>
     <message>
         <source>Close All</source>
-        <translation type="unfinished"></translation>
+        <translation>关闭所有</translation>
     </message>
     <message>
         <source>Save</source>
-        <translation type="unfinished"></translation>
+        <translation>保存</translation>
     </message>
     <message>
         <source>Save As...</source>
-        <translation type="unfinished"></translation>
+        <translation>另存为 ...</translation>
     </message>
     <message>
         <source>Save Selection...</source>
-        <translation type="unfinished"></translation>
+        <translation>保存所选 ...</translation>
     </message>
     <message>
         <source>Paste to New</source>
-        <translation type="unfinished"></translation>
+        <translation>粘贴到新文件</translation>
     </message>
     <message>
         <source>Paste Special...</source>
-        <translation type="unfinished"></translation>
+        <translation>特殊粘贴 ...</translation>
     </message>
     <message>
         <source>Select All</source>
-        <translation type="unfinished"></translation>
+        <translation>全选</translation>
     </message>
     <message>
         <source>Delete Selection</source>
-        <translation type="unfinished"></translation>
+        <translation>删除所选</translation>
     </message>
     <message>
         <source>Trim</source>
-        <translation type="unfinished"></translation>
+        <translation>裁剪</translation>
     </message>
     <message>
         <source>Adjust Sample Rate...</source>
-        <translation type="unfinished"></translation>
+        <translation>调整采样率 ...</translation>
     </message>
     <message>
         <source>Convert Sample Type...</source>
-        <translation type="unfinished"></translation>
+        <translation>采样类型转换 ...</translation>
     </message>
     <message>
         <source>Waveform View</source>
-        <translation type="unfinished"></translation>
+        <translation>波形视图</translation>
     </message>
     <message>
         <source>Spectral View</source>
-        <translation type="unfinished"></translation>
+        <translation>光谱视图</translation>
     </message>
     <message>
         <source>Waveform &amp;&amp; Spectral View</source>
-        <translation type="unfinished"></translation>
+        <translation>混合视图</translation>
     </message>
     <message>
         <source>Decimal (mm:ss.ddd)</source>
@@ -260,7 +260,7 @@
     </message>
     <message>
         <source>Samples</source>
-        <translation type="unfinished"></translation>
+        <translation>采样</translation>
     </message>
     <message>
         <source>Sample Value</source>
@@ -337,23 +337,23 @@
     </message>
     <message>
         <source>Save All</source>
-        <translation type="unfinished"></translation>
+        <translation>保存全部</translation>
     </message>
     <message>
         <source>Revert to Saved</source>
-        <translation type="unfinished"></translation>
+        <translation>撤销至上次保存</translation>
     </message>
     <message>
         <source>Play</source>
-        <translation type="unfinished"></translation>
+        <translation>播放</translation>
     </message>
     <message>
         <source>Next</source>
-        <translation type="unfinished"></translation>
+        <translation>下一个</translation>
     </message>
     <message>
         <source>Previous</source>
-        <translation type="unfinished"></translation>
+        <translation>上一个</translation>
     </message>
     <message>
         <source>Off</source>
@@ -373,7 +373,7 @@
     </message>
     <message>
         <source>Statistics</source>
-        <translation type="unfinished"></translation>
+        <translation>统计信息</translation>
     </message>
     <message>
         <source>Tones</source>
@@ -381,7 +381,7 @@
     </message>
     <message>
         <source>Noise</source>
-        <translation type="unfinished"></translation>
+        <translation>噪音</translation>
     </message>
     <message>
         <source>DTMF</source>
@@ -389,7 +389,7 @@
     </message>
     <message>
         <source>Frames</source>
-        <translation type="unfinished"></translation>
+        <translation>帧</translation>
     </message>
     <message>
         <source>Show File Folder...</source>
@@ -405,7 +405,7 @@
     </message>
     <message>
         <source>Normalize...</source>
-        <translation type="unfinished"></translation>
+        <translation>音量标准化 ...</translation>
     </message>
     <message>
         <source>DC Offset...</source>
@@ -417,19 +417,19 @@
     </message>
     <message>
         <source>Hide Toolbar</source>
-        <translation type="unfinished"></translation>
+        <translation>隐藏工具栏</translation>
     </message>
     <message>
         <source>Hide Waveform Navigator</source>
-        <translation type="unfinished"></translation>
+        <translation>隐藏波形导航条</translation>
     </message>
     <message>
         <source>Show Sidebar</source>
-        <translation type="unfinished"></translation>
+        <translation>显示侧边栏</translation>
     </message>
     <message>
         <source>Create Region</source>
-        <translation type="unfinished"></translation>
+        <translation>创建区块</translation>
     </message>
     <message>
         <source>Apply Quantization...</source>
@@ -446,27 +446,27 @@
     <message>
         <source>Silence</source>
         <comment>Generator</comment>
-        <translation type="unfinished"></translation>
+        <translation>静音</translation>
     </message>
     <message>
         <source>Fade In</source>
-        <translation type="unfinished"></translation>
+        <translation>渐入</translation>
     </message>
     <message>
         <source>Fade Out</source>
-        <translation type="unfinished"></translation>
+        <translation>渐出</translation>
     </message>
     <message>
         <source>Clear History</source>
-        <translation type="unfinished"></translation>
+        <translation>清除历史</translation>
     </message>
     <message>
         <source>Lowpass Filter...</source>
-        <translation type="unfinished"></translation>
+        <translation>低通过滤器 ...</translation>
     </message>
     <message>
         <source>Highpass Filter...</source>
-        <translation type="unfinished"></translation>
+        <translation>高通过滤器 ...</translation>
     </message>
     <message>
         <source>Bandpass Filter...</source>
@@ -478,15 +478,15 @@
     </message>
     <message>
         <source>31-Band Graphic Equalizer...</source>
-        <translation type="unfinished"></translation>
+        <translation>31段图形均衡器 ...</translation>
     </message>
     <message>
         <source>11-Band Graphic Equalizer...</source>
-        <translation type="unfinished"></translation>
+        <translation>11段图形均衡器 ...</translation>
     </message>
     <message>
         <source>Clipboard</source>
-        <translation type="unfinished"></translation>
+        <translation>剪切板</translation>
     </message>
     <message>
         <source>Swap Channels</source>
@@ -494,23 +494,23 @@
     </message>
     <message>
         <source>FFT Analysis</source>
-        <translation type="unfinished"></translation>
+        <translation>FFT分析</translation>
     </message>
     <message>
         <source>Delay...</source>
-        <translation type="unfinished"></translation>
+        <translation>延迟 ...</translation>
     </message>
     <message>
         <source>Flanger...</source>
-        <translation type="unfinished"></translation>
+        <translation>镶边 ...</translation>
     </message>
     <message>
         <source>Chorus...</source>
-        <translation type="unfinished"></translation>
+        <translation>合唱 ...</translation>
     </message>
     <message>
         <source>Reverb...</source>
-        <translation type="unfinished"></translation>
+        <translation>混响 ...</translation>
     </message>
     <message>
         <source>Vibrato...</source>
@@ -518,7 +518,7 @@
     </message>
     <message>
         <source>Compressor...</source>
-        <translation type="unfinished"></translation>
+        <translation>压缩 ...</translation>
     </message>
     <message>
         <source>Expander...</source>
@@ -526,15 +526,15 @@
     </message>
     <message>
         <source>Limiter...</source>
-        <translation type="unfinished"></translation>
+        <translation>限制器 ...</translation>
     </message>
     <message>
         <source>Noise Gate...</source>
-        <translation type="unfinished"></translation>
+        <translation>噪声门 ...</translation>
     </message>
     <message>
         <source>Normalize</source>
-        <translation type="unfinished"></translation>
+        <translation>音量标准化</translation>
     </message>
     <message>
         <source>Sample Delay...</source>
@@ -542,19 +542,19 @@
     </message>
     <message>
         <source>Loop</source>
-        <translation type="unfinished"></translation>
+        <translation>循环</translation>
     </message>
     <message>
         <source>Mute Left Channel</source>
-        <translation type="unfinished"></translation>
+        <translation>左声道静音</translation>
     </message>
     <message>
         <source>Mute Right Channel</source>
-        <translation type="unfinished"></translation>
+        <translation>右声道静音</translation>
     </message>
     <message>
         <source>Add Random Noise...</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">添加随机噪声 ...</translation>
     </message>
     <message>
         <source>Invert</source>
@@ -562,11 +562,11 @@
     </message>
     <message>
         <source>Export...</source>
-        <translation type="unfinished"></translation>
+        <translation>导出 ...</translation>
     </message>
     <message>
         <source>Export Selection...</source>
-        <translation type="unfinished"></translation>
+        <translation>导出所选 ...</translation>
     </message>
     <message>
         <source>PlaceHolder</source>
@@ -574,27 +574,27 @@
     </message>
     <message>
         <source>Add Marker</source>
-        <translation type="unfinished"></translation>
+        <translation>添加标记</translation>
     </message>
     <message>
         <source>Show All</source>
-        <translation type="unfinished"></translation>
+        <translation>显示全部</translation>
     </message>
     <message>
         <source>Show Regions</source>
-        <translation type="unfinished"></translation>
+        <translation>显示区块</translation>
     </message>
     <message>
         <source>Show Loops</source>
-        <translation type="unfinished"></translation>
+        <translation>显示循环</translation>
     </message>
     <message>
         <source>Show Markers</source>
-        <translation type="unfinished"></translation>
+        <translation>显示标记</translation>
     </message>
     <message>
         <source>Create iPhone Ringtone...</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">创建iPhone铃声 ...</translation>
     </message>
     <message>
         <source>Snap to Scale Tick</source>
@@ -606,19 +606,19 @@
     </message>
     <message>
         <source>Metadata...</source>
-        <translation type="unfinished"></translation>
+        <translation>元数据 ...</translation>
     </message>
     <message>
         <source>Regions and Markers...</source>
-        <translation type="unfinished"></translation>
+        <translation>区块和标记 ...</translation>
     </message>
     <message>
         <source>Remove All Metadata</source>
-        <translation type="unfinished"></translation>
+        <translation>删除所有元数据</translation>
     </message>
     <message>
         <source>Show Channels Id</source>
-        <translation type="unfinished"></translation>
+        <translation>显示音轨编号</translation>
     </message>
     <message>
         <source>Repeat ___ Effect</source>
@@ -642,15 +642,15 @@
     </message>
     <message>
         <source>Redo</source>
-        <translation type="unfinished"></translation>
+        <translation>重做</translation>
     </message>
     <message>
         <source>Mini Level Meter</source>
-        <translation type="unfinished"></translation>
+        <translation>迷你电平表</translation>
     </message>
     <message>
         <source>Full-size Level Meter</source>
-        <translation type="unfinished"></translation>
+        <translation>大电平表</translation>
     </message>
     <message>
         <source>Play and Select</source>
@@ -658,11 +658,11 @@
     </message>
     <message>
         <source>FTP Export...</source>
-        <translation type="unfinished"></translation>
+        <translation>导出到FTP服务器 ...</translation>
     </message>
     <message>
         <source>Show Navigator Window</source>
-        <translation type="unfinished"></translation>
+        <translation>显示导航窗口</translation>
     </message>
     <message>
         <source>Dirac LE</source>
@@ -670,7 +670,7 @@
     </message>
     <message>
         <source>Split Audio at Markers</source>
-        <translation type="unfinished"></translation>
+        <translation>从标记处分段</translation>
     </message>
     <message>
         <source>Goto Preview Marker</source>
@@ -678,7 +678,7 @@
     </message>
     <message>
         <source>Next Marker</source>
-        <translation type="unfinished"></translation>
+        <translation>下一标记</translation>
     </message>
     <message>
         <source>Ctrl+Alt+Right</source>
@@ -706,7 +706,7 @@
     </message>
     <message>
         <source>Hide Markers Label</source>
-        <translation type="unfinished"></translation>
+        <translation>隐藏标记名称</translation>
     </message>
     <message>
         <source>Detect DTMF Tones</source>
@@ -714,7 +714,7 @@
     </message>
     <message>
         <source>Rescan Audio Devices</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">搜索音频设备</translation>
     </message>
     <message>
         <source>Meta+Space</source>
@@ -726,19 +726,19 @@
     </message>
     <message>
         <source>Preferences</source>
-        <translation type="unfinished"></translation>
+        <translation>设置</translation>
     </message>
     <message>
         <source>About</source>
-        <translation type="unfinished"></translation>
+        <translation>关于</translation>
     </message>
     <message>
         <source>Quit</source>
-        <translation type="unfinished"></translation>
+        <translation>退出</translation>
     </message>
     <message>
         <source>Record Options</source>
-        <translation type="unfinished"></translation>
+        <translation>录音选项</translation>
     </message>
     <message>
         <source>Preroll</source>
@@ -750,7 +750,7 @@
     </message>
     <message>
         <source>Extract Audio From Regions</source>
-        <translation type="unfinished"></translation>
+        <translation>从区块提取音频</translation>
     </message>
 </context>
 <context>
@@ -777,11 +777,11 @@
     </message>
     <message>
         <source>Begin</source>
-        <translation type="unfinished"></translation>
+        <translation>开始</translation>
     </message>
     <message>
         <source>End</source>
-        <translation type="unfinished"></translation>
+        <translation>结束</translation>
     </message>
     <message>
         <source>Selection</source>
