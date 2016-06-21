@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!DOCTYPE TS>
-<TS version="2.1" language="zh_Hans">
+<TS version="2.0" language="zh_CN">
 <context>
     <name>QAudioStatistics</name>
     <message>
@@ -28,19 +28,19 @@
     <name>QObject</name>
     <message>
         <source>Waiting</source>
-        <translation type="unfinished"></translation>
+        <translation>等待中</translation>
     </message>
     <message>
         <source>Drop Files Here</source>
-        <translation type="unfinished"></translation>
+        <translation>拖放文件到这里</translation>
     </message>
     <message>
         <source>playlist</source>
-        <translation type="unfinished"></translation>
+        <translation>播放列表</translation>
     </message>
     <message>
         <source>directory</source>
-        <translation type="unfinished"></translation>
+        <translation>目录</translation>
     </message>
     <message>
         <source>archive</source>
@@ -60,7 +60,7 @@
     </message>
     <message>
         <source>Unsupported Language</source>
-        <translation type="unfinished"></translation>
+        <translation>不支持的语言</translation>
     </message>
     <message>
         <source>English</source>
@@ -120,47 +120,47 @@
     </message>
     <message>
         <source>Sound Files</source>
-        <translation type="unfinished"></translation>
+        <translation>声音文件</translation>
     </message>
     <message>
         <source>All Files</source>
-        <translation type="unfinished"></translation>
+        <translation>所有文件</translation>
     </message>
     <message>
         <source>Reverting to Saved</source>
-        <translation type="unfinished"></translation>
+        <translation>撤销至上次保存</translation>
     </message>
     <message>
         <source>Opening %1</source>
-        <translation type="unfinished"></translation>
+        <translation>正在打开%1</translation>
     </message>
     <message>
         <source>Saving %1</source>
-        <translation type="unfinished"></translation>
+        <translation>正在保存%1</translation>
     </message>
     <message>
         <source>Ringtone created by ocenaudio</source>
-        <translation type="unfinished"></translation>
+        <translation>铃声由ocenaudio创建</translation>
     </message>
     <message>
         <source>Creating iTunes Ringtone</source>
-        <translation type="unfinished"></translation>
+        <translation>正在创建iTunes铃声</translation>
     </message>
     <message>
         <source>Undoing</source>
-        <translation type="unfinished"></translation>
+        <translation>撤销中</translation>
     </message>
     <message>
         <source>Redoing</source>
-        <translation type="unfinished"></translation>
+        <translation>重做中</translation>
     </message>
     <message>
         <source>Undefined</source>
-        <translation type="unfinished"></translation>
+        <translation>未定义</translation>
     </message>
     <message>
         <source>Undefined Format</source>
-        <translation type="unfinished"></translation>
+        <translation>未定义的格式</translation>
     </message>
     <message>
         <source>Where</source>
@@ -168,59 +168,59 @@
     </message>
     <message>
         <source>Cutting</source>
-        <translation type="unfinished"></translation>
+        <translation>剪切中</translation>
     </message>
     <message>
         <source>Cut</source>
-        <translation type="unfinished"></translation>
+        <translation>剪切</translation>
     </message>
     <message>
         <source>Copying</source>
-        <translation type="unfinished"></translation>
+        <translation>拷贝中</translation>
     </message>
     <message>
         <source>Pasting</source>
-        <translation type="unfinished"></translation>
+        <translation>粘贴中</translation>
     </message>
     <message>
         <source>Paste</source>
-        <translation type="unfinished"></translation>
+        <translation>粘贴</translation>
     </message>
     <message>
         <source>Deleting</source>
-        <translation type="unfinished"></translation>
+        <translation>删除中</translation>
     </message>
     <message>
         <source>Delete</source>
-        <translation type="unfinished"></translation>
+        <translation>删除</translation>
     </message>
     <message>
         <source>Trimming</source>
-        <translation type="unfinished"></translation>
+        <translation>裁剪中</translation>
     </message>
     <message>
         <source>Trim</source>
-        <translation type="unfinished"></translation>
+        <translation>裁剪</translation>
     </message>
     <message>
         <source>Mix pasting</source>
-        <translation type="unfinished"></translation>
+        <translation>混合粘贴中</translation>
     </message>
     <message>
         <source>Mix Paste</source>
-        <translation type="unfinished"></translation>
+        <translation>混合粘贴</translation>
     </message>
     <message>
         <source>Mono</source>
-        <translation type="unfinished"></translation>
+        <translation>单声道</translation>
     </message>
     <message>
         <source>Left</source>
-        <translation type="unfinished"></translation>
+        <translation>左</translation>
     </message>
     <message>
         <source>Right</source>
-        <translation type="unfinished"></translation>
+        <translation>右</translation>
     </message>
     <message>
         <source>0</source>
@@ -260,27 +260,27 @@
     </message>
     <message>
         <source>Reversing</source>
-        <translation type="unfinished"></translation>
+        <translation>反向中</translation>
     </message>
     <message>
         <source>Reverse</source>
-        <translation type="unfinished"></translation>
+        <translation>反向</translation>
     </message>
     <message>
         <source>Inverting</source>
-        <translation type="unfinished"></translation>
+        <translation>倒置中</translation>
     </message>
     <message>
         <source>Invert</source>
-        <translation type="unfinished"></translation>
+        <translation>倒置</translation>
     </message>
     <message>
         <source>Silencing</source>
-        <translation type="unfinished"></translation>
+        <translation>静音中</translation>
     </message>
     <message>
         <source>Silence</source>
-        <translation type="unfinished"></translation>
+        <translation>静音</translation>
     </message>
     <message>
         <source>Removing DC</source>
@@ -292,43 +292,43 @@
     </message>
     <message>
         <source>Normalize</source>
-        <translation type="unfinished"></translation>
+        <translation>标准化</translation>
     </message>
     <message>
         <source>Changing Audio Format</source>
-        <translation type="unfinished"></translation>
+        <translation>正在改变音频格式</translation>
     </message>
     <message>
         <source>Change Audio Format</source>
-        <translation type="unfinished"></translation>
+        <translation>改变音频格式</translation>
     </message>
     <message>
         <source>Channels Swap</source>
-        <translation type="unfinished"></translation>
+        <translation>声道交换</translation>
     </message>
     <message>
         <source>Adjust Sample Rate</source>
-        <translation type="unfinished"></translation>
+        <translation>调整采样率</translation>
     </message>
     <message>
         <source>Remove all metadata</source>
-        <translation type="unfinished"></translation>
+        <translation>删除所有元数据</translation>
     </message>
     <message>
         <source>marker %1</source>
-        <translation type="unfinished"></translation>
+        <translation>标记%1</translation>
     </message>
     <message>
         <source>Create Region</source>
-        <translation type="unfinished"></translation>
+        <translation>创建区块</translation>
     </message>
     <message>
         <source>Create Regions</source>
-        <translation type="unfinished"></translation>
+        <translation>创建多个区块</translation>
     </message>
     <message>
         <source>New Region</source>
-        <translation type="unfinished"></translation>
+        <translation>新区块</translation>
     </message>
     <message>
         <source>Detecting Dtmf</source>
@@ -340,55 +340,55 @@
     </message>
     <message>
         <source>Save As</source>
-        <translation type="unfinished"></translation>
+        <translation>另存为</translation>
     </message>
     <message>
         <source>Export As</source>
-        <translation type="unfinished"></translation>
+        <translation>导出为</translation>
     </message>
     <message>
         <source>Exporting Selection As</source>
-        <translation type="unfinished"></translation>
+        <translation>导出所选为</translation>
     </message>
     <message>
         <source>Exporting Region As</source>
-        <translation type="unfinished"></translation>
+        <translation>导出区块为</translation>
     </message>
     <message>
         <source>Exporting Regions As</source>
-        <translation type="unfinished"></translation>
+        <translation>导出多个区块为</translation>
     </message>
     <message>
         <source>Paste Channel</source>
-        <translation type="unfinished"></translation>
+        <translation>粘贴声道</translation>
     </message>
     <message>
         <source>Paste From File</source>
-        <translation type="unfinished"></translation>
+        <translation>粘贴自文件</translation>
     </message>
     <message>
         <source>Paste Silence</source>
-        <translation type="unfinished"></translation>
+        <translation>粘贴静音</translation>
     </message>
     <message>
         <source>Append Audio</source>
-        <translation type="unfinished"></translation>
+        <translation>追加音频</translation>
     </message>
     <message>
         <source>Append Silence</source>
-        <translation type="unfinished"></translation>
+        <translation>追加静音</translation>
     </message>
     <message>
         <source>Append From File</source>
-        <translation type="unfinished"></translation>
+        <translation>从文件追加</translation>
     </message>
     <message>
         <source>Change Metadata</source>
-        <translation type="unfinished"></translation>
+        <translation>改变元数据</translation>
     </message>
     <message>
         <source>Record</source>
-        <translation type="unfinished"></translation>
+        <translation>录音</translation>
     </message>
     <message>
         <source>m s e c</source>
@@ -416,7 +416,7 @@
     </message>
     <message>
         <source>mono</source>
-        <translation type="unfinished"></translation>
+        <translation>单声道</translation>
     </message>
     <message>
         <source>stereo</source>
@@ -428,78 +428,78 @@
     </message>
     <message>
         <source>Title</source>
-        <translation type="unfinished"></translation>
+        <translation>标题</translation>
     </message>
     <message>
         <source>Artist</source>
-        <translation type="unfinished"></translation>
+        <translation>艺术家</translation>
     </message>
     <message>
         <source>Album</source>
-        <translation type="unfinished"></translation>
+        <translation>专辑</translation>
     </message>
     <message>
         <source>Year</source>
-        <translation type="unfinished"></translation>
+        <translation>年</translation>
     </message>
     <message>
         <source>Transform</source>
-        <translation type="unfinished"></translation>
+        <translation>转换</translation>
     </message>
     <message>
         <source>Change Gain/Offset</source>
-        <translation type="unfinished"></translation>
+        <translation>改变增益/偏移量</translation>
     </message>
     <message>
         <source>Cancel</source>
-        <translation type="unfinished"></translation>
+        <translation>取消</translation>
     </message>
     <message>
         <source>Waiting for cancellation</source>
-        <translation type="unfinished"></translation>
+        <translation>正在等待取消</translation>
     </message>
     <message>
         <source>Remaining</source>
-        <translation type="unfinished"></translation>
+        <translation>剩余</translation>
     </message>
     <message>
         <source>Question</source>
-        <translation type="unfinished"></translation>
+        <translation>问题</translation>
     </message>
     <message>
         <source>Do you really want to discard the changes made in this region?</source>
-        <translation type="unfinished"></translation>
+        <translation>确认放弃区块中已更新的内容吗?</translation>
     </message>
     <message>
         <source>Changes in region text will be lost if you discard.</source>
-        <translation type="unfinished"></translation>
+        <translation>若放弃，区块文本的更新将丢失。</translation>
     </message>
     <message>
         <source>Save</source>
-        <translation type="unfinished"></translation>
+        <translation>保存</translation>
     </message>
     <message>
         <source>Discard</source>
-        <translation type="unfinished"></translation>
+        <translation>放弃</translation>
     </message>
     <message>
         <source>Track %1</source>
-        <translation type="unfinished"></translation>
+        <translation>音轨%1</translation>
     </message>
 </context>
 <context>
     <name>QOcenApplication</name>
     <message>
         <source>Regions Comment</source>
-        <translation type="unfinished"></translation>
+        <translation>区块备注</translation>
     </message>
     <message>
         <source>New Sound Device Found</source>
-        <translation type="unfinished"></translation>
+        <translation>发现新音频设备</translation>
     </message>
     <message>
         <source>New Plugin Installed</source>
-        <translation type="unfinished"></translation>
+        <translation>新插件已安装</translation>
     </message>
     <message>
         <source>ocenaudio Clipboard with %1 seconds in %2 %3</source>
@@ -510,100 +510,100 @@
     <name>QOcenAudio</name>
     <message>
         <source>Add Marker</source>
-        <translation type="unfinished"></translation>
+        <translation>添加标记</translation>
     </message>
     <message>
         <source>Move Marker</source>
-        <translation type="unfinished"></translation>
+        <translation>移动标记</translation>
     </message>
     <message>
         <source>Import Regions</source>
-        <translation type="unfinished"></translation>
+        <translation>导入区块</translation>
     </message>
     <message>
         <source>Add Region</source>
-        <translation type="unfinished"></translation>
+        <translation>添加区块</translation>
     </message>
     <message>
         <source>Delete Region</source>
-        <translation type="unfinished"></translation>
+        <translation>删除区块</translation>
     </message>
     <message>
         <source>Undelete Region</source>
-        <translation type="unfinished"></translation>
+        <translation>撤销删除区块</translation>
     </message>
     <message>
         <source>Delete Regions</source>
-        <translation type="unfinished"></translation>
+        <translation>删除多个区块</translation>
     </message>
     <message>
         <source>Convert Region to Loop</source>
-        <translation type="unfinished"></translation>
+        <translation>将区块转成循环</translation>
     </message>
     <message>
         <source>Convert Loop to Region</source>
-        <translation type="unfinished"></translation>
+        <translation>将循环转成区块</translation>
     </message>
     <message>
         <source>Merge Regions</source>
-        <translation type="unfinished"></translation>
+        <translation>合并区块</translation>
     </message>
     <message>
         <source>Change Region Comment</source>
-        <translation type="unfinished"></translation>
+        <translation>改变区块备注</translation>
     </message>
     <message>
         <source>Change Region Label</source>
-        <translation type="unfinished"></translation>
+        <translation>改变区块名称</translation>
     </message>
     <message>
         <source>Change Region Track</source>
-        <translation type="unfinished"></translation>
+        <translation>改变区块音轨</translation>
     </message>
     <message>
         <source>Offset Region</source>
-        <translation type="unfinished"></translation>
+        <translation>偏移区块</translation>
     </message>
     <message>
         <source>Change Region Begin</source>
-        <translation type="unfinished"></translation>
+        <translation>改变区块开起始点</translation>
     </message>
     <message>
         <source>Change Region End</source>
-        <translation type="unfinished"></translation>
+        <translation>改变区块结束点</translation>
     </message>
     <message>
         <source>Resize Region</source>
-        <translation type="unfinished"></translation>
+        <translation>调整区块尺寸</translation>
     </message>
 </context>
 <context>
     <name>QOcenAudioDelegate</name>
     <message>
         <source>Duration</source>
-        <translation type="unfinished"></translation>
+        <translation>持续时间</translation>
     </message>
 </context>
 <context>
     <name>QOcenAudioJob_Append</name>
     <message>
         <source>Appending</source>
-        <translation type="unfinished"></translation>
+        <translation>追加中</translation>
     </message>
     <message>
         <source>Append</source>
-        <translation type="unfinished"></translation>
+        <translation>追加</translation>
     </message>
 </context>
 <context>
     <name>QOcenAudioListView</name>
     <message>
         <source>Drop Files Here</source>
-        <translation type="unfinished"></translation>
+        <translation>拖放文件到这里</translation>
     </message>
     <message>
         <source>You can drop audio files, folders, archives, urls and playlists.</source>
-        <translation type="unfinished"></translation>
+        <translation>你可以拖放音频文件，目录，压缩包，链接和播放列表。</translation>
     </message>
 </context>
 <context>
@@ -621,14 +621,14 @@
     <name>QOcenCanvas</name>
     <message>
         <source>You are about to delete %1 regions. Do you really want to do this?</source>
-        <translation type="unfinished"></translation>
+        <translation>你将要删除%1个区块，确认要删除吗?</translation>
     </message>
 </context>
 <context>
     <name>QOcenCheckableMessageBox</name>
     <message>
         <source>Warning</source>
-        <translation type="unfinished"></translation>
+        <translation>警告</translation>
     </message>
     <message>
         <source>Message box text</source>
@@ -647,19 +647,19 @@
     <name>QOcenConfirmCloseDialog</name>
     <message>
         <source>Confirm Files Close</source>
-        <translation type="unfinished"></translation>
+        <translation>确认关闭文件</translation>
     </message>
     <message>
         <source>The following files have unsaved changes</source>
-        <translation type="unfinished"></translation>
+        <translation>以下文件有未保存的内容</translation>
     </message>
     <message>
         <source>&amp;Save All</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;保存全部</translation>
     </message>
     <message>
         <source>&amp;Save Selected</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;保存所选</translation>
     </message>
 </context>
 <context>
@@ -670,11 +670,11 @@
     </message>
     <message>
         <source>Language</source>
-        <translation type="unfinished"></translation>
+        <translation>语言</translation>
     </message>
     <message>
         <source>Automatically check for updates</source>
-        <translation type="unfinished"></translation>
+        <translation>自动检查更新</translation>
     </message>
     <message>
         <source>General</source>
@@ -682,30 +682,30 @@
     </message>
     <message>
         <source>Options</source>
-        <translation type="unfinished"></translation>
+        <translation>选项</translation>
     </message>
     <message>
         <source>Color Scheme</source>
-        <translation type="unfinished"></translation>
+        <translation>颜色主题</translation>
     </message>
     <message>
         <source>Classic</source>
-        <translation type="unfinished"></translation>
+        <translation>经典</translation>
     </message>
     <message>
         <source>Light</source>
-        <translation type="unfinished"></translation>
+        <translation>淡色</translation>
     </message>
     <message>
         <source>Dark</source>
-        <translation type="unfinished"></translation>
+        <translation>深色</translation>
     </message>
 </context>
 <context>
     <name>QOcenGetTextDialog</name>
     <message>
         <source>Dialog</source>
-        <translation type="unfinished"></translation>
+        <translation>对话框</translation>
     </message>
     <message>
         <source>TextLabel</source>
@@ -716,19 +716,19 @@
     <name>QOcenKeyBindings</name>
     <message>
         <source>Command</source>
-        <translation type="unfinished"></translation>
+        <translation>命令</translation>
     </message>
     <message>
         <source>Key</source>
-        <translation type="unfinished"></translation>
+        <translation>键</translation>
     </message>
     <message>
         <source>Restore to default (no shortcut)</source>
-        <translation type="unfinished"></translation>
+        <translation>还原到默认(无快捷方式)</translation>
     </message>
     <message>
         <source>Restore to default shortcut (&apos;%1&apos;)</source>
-        <translation type="unfinished"></translation>
+        <translation>还原到默认快捷方式(&apos;%1&apos;)</translation>
     </message>
 </context>
 <context>
@@ -739,65 +739,65 @@
     </message>
     <message>
         <source>Key Bindings</source>
-        <translation type="unfinished"></translation>
+        <translation>键绑定</translation>
     </message>
     <message>
         <source>Command</source>
-        <translation type="unfinished"></translation>
+        <translation>命令</translation>
     </message>
     <message>
         <source>Key</source>
-        <translation type="unfinished"></translation>
+        <translation>键</translation>
     </message>
 </context>
 <context>
     <name>QOcenListViewModeSelector</name>
     <message>
         <source>Show files with details</source>
-        <translation type="unfinished"></translation>
+        <translation>明细方式显示文件</translation>
     </message>
     <message>
         <source>Show files in list</source>
-        <translation type="unfinished"></translation>
+        <translation>列表方式显示文件</translation>
     </message>
     <message>
         <source>Show files in grid</source>
-        <translation type="unfinished"></translation>
+        <translation>格子方式显示文件</translation>
     </message>
 </context>
 <context>
     <name>QOcenMainWindow</name>
     <message>
         <source>Sound Files</source>
-        <translation type="unfinished"></translation>
+        <translation>声音文件</translation>
     </message>
     <message>
         <source>Raw Sound Files</source>
-        <translation type="unfinished"></translation>
+        <translation>原始声音文件</translation>
     </message>
     <message>
         <source>Text Sound Files</source>
-        <translation type="unfinished"></translation>
+        <translation>文本声音文件</translation>
     </message>
     <message>
         <source>All Files</source>
-        <translation type="unfinished"></translation>
+        <translation>所有文件</translation>
     </message>
     <message>
         <source>Open Sound File</source>
-        <translation type="unfinished"></translation>
+        <translation>打开声音文件</translation>
     </message>
     <message>
         <source>Warning</source>
-        <translation type="unfinished"></translation>
+        <translation>警告</translation>
     </message>
     <message>
         <source>Save Sound As ...</source>
-        <translation type="unfinished"></translation>
+        <translation>声音另存为...</translation>
     </message>
     <message>
         <source>The following files have unsaved changes</source>
-        <translation type="unfinished"></translation>
+        <translation>以下文件有未保存的内容</translation>
     </message>
     <message>
         <source>Question</source>
@@ -805,43 +805,43 @@
     </message>
     <message>
         <source>Do you want to save the changes you made in the sound “%1”?</source>
-        <translation type="unfinished"></translation>
+        <translation>要保存声音文件&quot;%1&quot;中更新过的内容吗?</translation>
     </message>
     <message>
         <source>Your changes will be lost if you don’t save them.</source>
-        <translation type="unfinished"></translation>
+        <translation>若不保存，之前所做的更新将会丢失。</translation>
     </message>
     <message>
         <source>Save As...</source>
-        <translation type="unfinished"></translation>
+        <translation>另存为...</translation>
     </message>
     <message>
         <source>Save</source>
-        <translation type="unfinished"></translation>
+        <translation>保存</translation>
     </message>
     <message>
         <source>Cancel</source>
-        <translation type="unfinished"></translation>
+        <translation>取消</translation>
     </message>
     <message>
         <source>Don&apos;t Save</source>
-        <translation type="unfinished"></translation>
+        <translation>不保存</translation>
     </message>
     <message>
         <source>Save...</source>
-        <translation type="unfinished"></translation>
+        <translation>保存...</translation>
     </message>
     <message>
         <source>&amp;Cancel</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;取消</translation>
     </message>
     <message>
         <source>Closing Files</source>
-        <translation type="unfinished"></translation>
+        <translation>文件关闭中</translation>
     </message>
     <message>
         <source>Closing %1 files...</source>
-        <translation type="unfinished"></translation>
+        <translation>正在关闭%1个文件...</translation>
     </message>
     <message>
         <source>The file for the sound at %1 has been modified by another application.  There are also unsaved changes in ocenaudio.  Do you want to keep the ocenaudio version or revert to the version on disk?</source>
@@ -865,11 +865,11 @@
     </message>
     <message>
         <source>Re-Save</source>
-        <translation type="unfinished"></translation>
+        <translation>重新保存</translation>
     </message>
     <message>
         <source>Close</source>
-        <translation type="unfinished"></translation>
+        <translation>关闭</translation>
     </message>
     <message>
         <source>The file for the sound that was at %1 has disappeared.  Do you want to re-save the sound or close it?</source>
@@ -885,7 +885,7 @@
     </message>
     <message>
         <source>If you proceed, you will have to save the file with a different format.</source>
-        <translation type="unfinished"></translation>
+        <translation>若继续，请将文件保存为其它格式。</translation>
     </message>
     <message>
         <source>The current file&apos;s format does not support regions and/or markers. Do you want to create this region anyway?</source>
@@ -901,27 +901,27 @@
     </message>
     <message>
         <source>Undo</source>
-        <translation type="unfinished"></translation>
+        <translation>撤销</translation>
     </message>
     <message>
         <source>Don&apos;t Undo</source>
-        <translation type="unfinished"></translation>
+        <translation>不撤销</translation>
     </message>
     <message>
         <source>You are about to combine two mono files with different sample rates. In order to proceed you must choose which sample rate use in the new combined audio.</source>
-        <translation type="unfinished"></translation>
+        <translation>要合成两个不同采样率的单声道文件，你需要指定新的合成文件使用哪一个采样率。</translation>
     </message>
     <message>
         <source>Which sample rate you want to use?</source>
-        <translation type="unfinished"></translation>
+        <translation>要使用哪一个采样率?</translation>
     </message>
     <message>
         <source>%1 Hz</source>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
     <message>
         <source>Audio format not changed</source>
-        <translation type="unfinished"></translation>
+        <translation>音频格式未改变</translation>
     </message>
     <message>
         <source>The audio signal has already the selected format!</source>
@@ -933,63 +933,63 @@
     </message>
     <message>
         <source>If you continue, all comments, from this region, will be removed.</source>
-        <translation type="unfinished"></translation>
+        <translation>若继续，此区块中所有备注将被删除。</translation>
     </message>
     <message>
         <source>Fatal Error</source>
-        <translation type="unfinished"></translation>
+        <translation>致命错误</translation>
     </message>
     <message>
         <source>An error occured while writing temporary data to disk!</source>
-        <translation type="unfinished"></translation>
+        <translation>临时数据写入磁盘时遇到了错误!</translation>
     </message>
     <message>
         <source>This is an unrecoverable error and ocenaudio must quit. This issue might happen if your main disk is running out of free space.</source>
-        <translation type="unfinished"></translation>
+        <translation>发生了不可恢复的错误，ocenaudio必须关闭。这个问题可能由于磁盘空余空间不足导致的。</translation>
     </message>
     <message>
         <source>Information</source>
-        <translation type="unfinished"></translation>
+        <translation>信息</translation>
     </message>
     <message>
         <source>Pasting file %1</source>
-        <translation type="unfinished"></translation>
+        <translation>正在粘贴文件%1</translation>
     </message>
     <message>
         <source>Unsupported Format</source>
-        <translation type="unfinished"></translation>
+        <translation>不支持的格式</translation>
     </message>
     <message>
         <source>The maximum number of channels supported is %1 channels.</source>
-        <translation type="unfinished"></translation>
+        <translation>支持的最多声道数为%1声道。</translation>
     </message>
     <message>
         <source>The minimum sample rate supported is %1 Hz.</source>
-        <translation type="unfinished"></translation>
+        <translation>支持的最小采样率为%1Hz。</translation>
     </message>
     <message>
         <source>The maximum sample rate supported is %1 Hz.</source>
-        <translation type="unfinished"></translation>
+        <translation>支持的最高采样率为%1Hz。</translation>
     </message>
     <message>
         <source>Audio VST Check Failed</source>
-        <translation type="unfinished"></translation>
+        <translation>检查VST失败</translation>
     </message>
     <message>
         <source>An error occurred in the execution of VST plugin application. No VST plugin can be loaded in this condition.</source>
-        <translation type="unfinished"></translation>
+        <translation>调用VST插件时发生了错误。此条件下不能加载任何VST插件。</translation>
     </message>
     <message>
         <source>Audio not saved</source>
-        <translation type="unfinished"></translation>
+        <translation>音频未保存</translation>
     </message>
     <message>
         <source>An error was encountered while saving your sound file “%1”!</source>
-        <translation type="unfinished"></translation>
+        <translation>保存声音文件“%1”时遇到了错误!</translation>
     </message>
     <message>
         <source>It was not possible to complete the save of file “%1” because the chosen container does not support metadata.</source>
-        <translation type="unfinished"></translation>
+        <translation>不能保存文件&quot;%1&quot;，所选的容器不支持元数据。</translation>
     </message>
     <message>
         <source>Your sound “%1” contains informations that can not be saved in the selected format. You want to continue and export to this format?</source>
@@ -997,15 +997,15 @@
     </message>
     <message>
         <source>Unsuported information will not be present in the exported file.</source>
-        <translation type="unfinished"></translation>
+        <translation>不支持的信息将不会在导出的文件中展示。</translation>
     </message>
     <message>
         <source>Export</source>
-        <translation type="unfinished"></translation>
+        <translation>导出</translation>
     </message>
     <message>
         <source>Exporting As</source>
-        <translation type="unfinished"></translation>
+        <translation>正在导出为</translation>
     </message>
 </context>
 <context>
@@ -1016,19 +1016,19 @@
     </message>
     <message>
         <source>HTTP/HTTPS Proxy Configuration</source>
-        <translation type="unfinished"></translation>
+        <translation>HTTP/HTTPS 代理设置</translation>
     </message>
     <message>
         <source>Enable Proxy</source>
-        <translation type="unfinished"></translation>
+        <translation>启用代理</translation>
     </message>
     <message>
         <source>Network OK</source>
-        <translation type="unfinished"></translation>
+        <translation>网络OK</translation>
     </message>
     <message>
         <source>Server:</source>
-        <translation type="unfinished"></translation>
+        <translation>服务器:</translation>
     </message>
     <message>
         <source>:</source>
@@ -1036,38 +1036,38 @@
     </message>
     <message>
         <source>Authentication</source>
-        <translation type="unfinished"></translation>
+        <translation>身份验证</translation>
     </message>
     <message>
         <source>Proxy server requires authentication</source>
-        <translation type="unfinished"></translation>
+        <translation>代理服务器需要身份验证</translation>
     </message>
     <message>
         <source>Username:</source>
-        <translation type="unfinished"></translation>
+        <translation>用户名:</translation>
     </message>
     <message>
         <source>Password:</source>
-        <translation type="unfinished"></translation>
+        <translation>密码:</translation>
     </message>
     <message>
         <source>Network</source>
-        <translation type="unfinished"></translation>
+        <translation>网络</translation>
     </message>
     <message>
         <source>Checking connectivity</source>
-        <translation type="unfinished"></translation>
+        <translation>正在检查连接</translation>
     </message>
     <message>
         <source>No connectivity</source>
-        <translation type="unfinished"></translation>
+        <translation>无连接</translation>
     </message>
 </context>
 <context>
     <name>QOcenNotificationWidget</name>
     <message>
         <source>Press &apos;alt&apos; to close all</source>
-        <translation type="unfinished"></translation>
+        <translation>按&apos;alt&apos;关闭所有</translation>
     </message>
 </context>
 <context>
@@ -1086,7 +1086,7 @@
     </message>
     <message>
         <source>Warning</source>
-        <translation type="unfinished"></translation>
+        <translation>警告</translation>
     </message>
     <message>
         <source>Keep ocenaudio Version</source>
@@ -1098,7 +1098,7 @@
     </message>
     <message>
         <source>File not found.</source>
-        <translation type="unfinished"></translation>
+        <translation>文件未找到。</translation>
     </message>
     <message>
         <source>The file that was at %1 no longer exists.</source>
@@ -1106,19 +1106,19 @@
     </message>
     <message>
         <source>Ok</source>
-        <translation type="unfinished"></translation>
+        <translation>好</translation>
     </message>
     <message>
         <source>Open File Error</source>
-        <translation type="unfinished"></translation>
+        <translation>文件打开错误</translation>
     </message>
     <message>
         <source>An error occurred while trying to open the file “%1”.</source>
-        <translation type="unfinished"></translation>
+        <translation>尝试打开文件&quot;%1&quot;时发生了错误。</translation>
     </message>
     <message>
         <source>Apparently your file is empty.</source>
-        <translation type="unfinished"></translation>
+        <translation>文件居然是空的。</translation>
     </message>
     <message>
         <source>The number of audio channels in this file has exceeded the maximum number of audio channels supported.</source>
@@ -1126,11 +1126,11 @@
     </message>
     <message>
         <source>Check if your file have an incorrect or unsuported format.</source>
-        <translation type="unfinished"></translation>
+        <translation>请检查文件是否为错误或不支持的格式。</translation>
     </message>
     <message>
         <source>No supported audio files found!</source>
-        <translation type="unfinished"></translation>
+        <translation>未找到支持的音频文件!</translation>
     </message>
     <message>
         <source>The package “%1” does not contains any supported audio file.</source>
@@ -1138,7 +1138,7 @@
     </message>
     <message>
         <source>File not found!</source>
-        <translation type="unfinished"></translation>
+        <translation>文件未找到!</translation>
     </message>
     <message>
         <source>The file “%1” was not found. Check if your filename is valid and you have permission to open it.</source>
@@ -1166,7 +1166,7 @@
     </message>
     <message>
         <source>Open Tracks</source>
-        <translation type="unfinished"></translation>
+        <translation>打开音轨</translation>
     </message>
     <message>
         <source>Open Original</source>
@@ -1177,43 +1177,43 @@
     <name>QOcenPluginManager</name>
     <message>
         <source>Warning</source>
-        <translation type="unfinished"></translation>
+        <translation>警告</translation>
     </message>
     <message>
         <source>The plugin &quot;%1&quot; is already installed on your system.</source>
-        <translation type="unfinished"></translation>
+        <translation>“%1”插件已经安装过了。</translation>
     </message>
     <message>
         <source>To proceed with the installation it is necessary to first remove the currently installed version of this plugin.</source>
-        <translation type="unfinished"></translation>
+        <translation>此插件已安装，若要继续请先删除该插件的现有版本。</translation>
     </message>
     <message>
         <source>The plugin &quot;%1&quot; is not compatible with your ocenaudio version.</source>
-        <translation type="unfinished"></translation>
+        <translation>“%1”插件与当前ocenaudio版本不兼容。</translation>
     </message>
     <message>
         <source>To proceed with the installation it is necessary to first update ocenaudio.</source>
-        <translation type="unfinished"></translation>
+        <translation>若要继续安装，请先更新 ocenaudio软件版本。</translation>
     </message>
     <message>
         <source>Question</source>
-        <translation type="unfinished"></translation>
+        <translation>问题</translation>
     </message>
     <message>
         <source>Do you want to proceed with the installation of the plugin &quot;%1&quot;?</source>
-        <translation type="unfinished"></translation>
+        <translation>要继续安装&quot;%1&quot;插件吗?</translation>
     </message>
     <message>
         <source>If you proceed ocenaudio will check the integrity, install and load the selected plugin package.</source>
-        <translation type="unfinished"></translation>
+        <translation>若继续，ocenaudio将校验插件的完整性，安装和加载所选的插件包。</translation>
     </message>
     <message>
         <source>Error</source>
-        <translation type="unfinished"></translation>
+        <translation>错误</translation>
     </message>
     <message>
         <source>The verification process has detected errors in the &quot;%1&quot; plugin package.</source>
-        <translation type="unfinished"></translation>
+        <translation>在校验&quot;%1&quot;插件包时发现了错误。</translation>
     </message>
     <message>
         <source>The verification process has detected one or more inconsistency in this package. Therefore this installation process was interrupted.</source>
@@ -1221,15 +1221,15 @@
     </message>
     <message>
         <source>Unable to install the plugin &quot;%1&quot;.</source>
-        <translation type="unfinished"></translation>
+        <translation>无法安装插件“%1”。</translation>
     </message>
     <message>
         <source>One or more errors were detected during the installation process. You can try again and if the error persists contact the ocenaudio team.</source>
-        <translation type="unfinished"></translation>
+        <translation>安装过程中发生了错误，如果重新操作问题依旧请联系ocenaudio团队。</translation>
     </message>
     <message>
         <source>Invalid Plugin Code Signature</source>
-        <translation type="unfinished"></translation>
+        <translation>无效的插件代码签名</translation>
     </message>
     <message>
         <source>This means %1 plugin has been tampered, possibly making it less secure. The plugin cannot be loaded in this state. It is necessary to reinstall the %1 plugin in order to use it.</source>
@@ -1240,52 +1240,52 @@
     <name>QOcenPluginPrefs</name>
     <message>
         <source>Preferences</source>
-        <translation type="unfinished"></translation>
+        <translation>设置</translation>
     </message>
     <message>
         <source>Done</source>
-        <translation type="unfinished"></translation>
+        <translation>完成</translation>
     </message>
     <message>
         <source>Back</source>
-        <translation type="unfinished"></translation>
+        <translation>返回</translation>
     </message>
 </context>
 <context>
     <name>QOcenQuickOpenWidget</name>
     <message>
         <source>File or http address</source>
-        <translation type="unfinished"></translation>
+        <translation>文件地址或网址</translation>
     </message>
 </context>
 <context>
     <name>QOcenSaveFileDialog</name>
     <message>
         <source>Question</source>
-        <translation type="unfinished"></translation>
+        <translation>问题</translation>
     </message>
     <message>
         <source>The selected format doesn&apos;t support regions and markers. Do you want to proceed without save regions?</source>
-        <translation type="unfinished"></translation>
+        <translation>所选的格式不支持区块和标记，要继续且不保存区块吗?</translation>
     </message>
     <message>
         <source>If you continue the saved file will not contain the regions created in this audio.</source>
-        <translation type="unfinished"></translation>
+        <translation>若继续，已保存的文件将不会包含此音频中已创建的区块。</translation>
     </message>
     <message>
         <source>Format</source>
-        <translation type="unfinished"></translation>
+        <translation>格式</translation>
     </message>
 </context>
 <context>
     <name>QOcenSettingsDialog</name>
     <message>
         <source>Settings</source>
-        <translation type="unfinished"></translation>
+        <translation>设置项</translation>
     </message>
     <message>
         <source>Search</source>
-        <translation type="unfinished"></translation>
+        <translation>搜索</translation>
     </message>
 </context>
 <context>
@@ -1296,59 +1296,59 @@
     </message>
     <message>
         <source>Playback Device/Options</source>
-        <translation type="unfinished"></translation>
+        <translation>播放设备/选项</translation>
     </message>
     <message>
         <source>Options</source>
-        <translation type="unfinished"></translation>
+        <translation>选项</translation>
     </message>
     <message>
         <source>Move cursor to playback stop position</source>
-        <translation type="unfinished"></translation>
+        <translation>移动光标到播放结束位置</translation>
     </message>
     <message>
         <source>Record Device/Options</source>
-        <translation type="unfinished"></translation>
+        <translation>录音设备/选项</translation>
     </message>
     <message>
         <source>Move cursor to record stop position</source>
-        <translation type="unfinished"></translation>
+        <translation>移动光标到录音结束位置</translation>
     </message>
     <message>
         <source>Mixer Sample Rate</source>
-        <translation type="unfinished"></translation>
+        <translation>调音台采样率</translation>
     </message>
     <message>
         <source>48000 Hz</source>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
     <message>
         <source>44100 Hz</source>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
     <message>
         <source>22050 Hz</source>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
     <message>
         <source>Mixer Backend</source>
-        <translation type="unfinished"></translation>
+        <translation>高音台后台</translation>
     </message>
     <message>
         <source>CoreAudio</source>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
     <message>
         <source>Disabled</source>
-        <translation type="unfinished"></translation>
+        <translation>已禁用</translation>
     </message>
     <message>
         <source>Sound</source>
-        <translation type="unfinished"></translation>
+        <translation>声音</translation>
     </message>
     <message>
         <source>System Default</source>
-        <translation type="unfinished"></translation>
+        <translation>系统默认</translation>
     </message>
     <message>
         <source>Play head follows cursor position</source>
@@ -1360,7 +1360,7 @@
     </message>
     <message>
         <source>Destructive Recording</source>
-        <translation type="unfinished"></translation>
+        <translation>有损录音</translation>
     </message>
 </context>
 <context>
@@ -1371,11 +1371,11 @@
     </message>
     <message>
         <source>Presets</source>
-        <translation type="unfinished"></translation>
+        <translation>预设</translation>
     </message>
     <message>
         <source>Settings</source>
-        <translation type="unfinished"></translation>
+        <translation>设置项</translation>
     </message>
     <message>
         <source>Number of Bins:</source>
@@ -1383,11 +1383,11 @@
     </message>
     <message>
         <source>Window Type:</source>
-        <translation type="unfinished"></translation>
+        <translation>窗口类型:</translation>
     </message>
     <message>
         <source>Window Size:</source>
-        <translation type="unfinished"></translation>
+        <translation>窗口尺寸:</translation>
     </message>
     <message>
         <source>100%</source>
@@ -1395,7 +1395,7 @@
     </message>
     <message>
         <source>Dynamic Range:</source>
-        <translation type="unfinished"></translation>
+        <translation>动态范围:</translation>
     </message>
     <message>
         <source>XXX dB</source>
@@ -1403,15 +1403,15 @@
     </message>
     <message>
         <source>Color Settings</source>
-        <translation type="unfinished"></translation>
+        <translation>颜色设置</translation>
     </message>
     <message>
         <source>Color Scheme:</source>
-        <translation type="unfinished"></translation>
+        <translation>颜色主题:</translation>
     </message>
     <message>
         <source>Normalize</source>
-        <translation type="unfinished"></translation>
+        <translation>标准化</translation>
     </message>
     <message>
         <source>Narrow Band</source>
@@ -1423,7 +1423,7 @@
     </message>
     <message>
         <source>Custom</source>
-        <translation type="unfinished"></translation>
+        <translation>自定义</translation>
     </message>
     <message>
         <source>Triangular</source>
@@ -1455,11 +1455,11 @@
     </message>
     <message>
         <source>Linear Grayscale</source>
-        <translation type="unfinished"></translation>
+        <translation>线性灰度</translation>
     </message>
     <message>
         <source>Grayscale</source>
-        <translation type="unfinished"></translation>
+        <translation>灰度</translation>
     </message>
     <message>
         <source>Inv. Grayscale</source>
@@ -1467,7 +1467,7 @@
     </message>
     <message>
         <source>Color</source>
-        <translation type="unfinished"></translation>
+        <translation>颜色</translation>
     </message>
     <message>
         <source>Spectrogram</source>
