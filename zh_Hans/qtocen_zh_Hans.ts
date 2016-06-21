@@ -224,15 +224,15 @@
     </message>
     <message>
         <source>0</source>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
     <message>
         <source>L</source>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
     <message>
         <source>R</source>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
     <message>
         <source>%1 channel of</source>
@@ -392,27 +392,27 @@
     </message>
     <message>
         <source>m s e c</source>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
     <message>
         <source>s e c</source>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
     <message>
         <source>m i n</source>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
     <message>
         <source>h r</source>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
     <message>
         <source>s m p l</source>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
     <message>
         <source>f r a m e s</source>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
     <message>
         <source>mono</source>
@@ -420,11 +420,11 @@
     </message>
     <message>
         <source>stereo</source>
-        <translation type="unfinished"></translation>
+        <translation>立体声</translation>
     </message>
     <message>
         <source>%1 channels</source>
-        <translation type="unfinished"></translation>
+        <translation>%1声道</translation>
     </message>
     <message>
         <source>Title</source>
@@ -801,7 +801,7 @@
     </message>
     <message>
         <source>Question</source>
-        <translation type="unfinished"></translation>
+        <translation>问题</translation>
     </message>
     <message>
         <source>Do you want to save the changes you made in the sound “%1”?</source>
@@ -853,7 +853,7 @@
     </message>
     <message>
         <source>Revert</source>
-        <translation type="unfinished"></translation>
+        <translation>恢复</translation>
     </message>
     <message>
         <source>The file for the sound that was at %1 is now empty. Do you want to re-save the sound or close it?</source>
@@ -1352,11 +1352,11 @@
     </message>
     <message>
         <source>Play head follows cursor position</source>
-        <translation type="unfinished"></translation>
+        <translation>播放点跟随光标位置</translation>
     </message>
     <message>
         <source>Preroll</source>
-        <translation type="unfinished"></translation>
+        <translation>抢录</translation>
     </message>
     <message>
         <source>Destructive Recording</source>
@@ -1391,7 +1391,7 @@
     </message>
     <message>
         <source>100%</source>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
     <message>
         <source>Dynamic Range:</source>

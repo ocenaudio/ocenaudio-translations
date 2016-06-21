@@ -280,11 +280,11 @@
     </message>
     <message>
         <source>Hz</source>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
     <message>
         <source>Mels</source>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
     <message>
         <source>Zoom Selection</source>
@@ -433,7 +433,7 @@
     </message>
     <message>
         <source>Apply Quantization...</source>
-        <translation type="unfinished"></translation>
+        <translation>应用量化...</translation>
     </message>
     <message>
         <source>Audio Screenshot...</source>
@@ -666,7 +666,7 @@
     </message>
     <message>
         <source>Dirac LE</source>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
     <message>
         <source>Split Audio at Markers</source>
@@ -686,7 +686,7 @@
     </message>
     <message>
         <source>Previous Marker</source>
-        <translation type="unfinished"></translation>
+        <translation>上一标记</translation>
     </message>
     <message>
         <source>Ctrl+Alt+Left</source>
@@ -742,7 +742,7 @@
     </message>
     <message>
         <source>Preroll</source>
-        <translation type="unfinished"></translation>
+        <translation>抢录</translation>
     </message>
     <message>
         <source>Ctrl+P</source>
@@ -879,7 +879,7 @@
     </message>
     <message>
         <source>100.0 ms</source>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
     <message>
         <source>Feedback</source>
@@ -887,19 +887,19 @@
     </message>
     <message>
         <source>-100%</source>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
     <message>
         <source>0</source>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
     <message>
         <source>100%</source>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
     <message>
         <source>-100.0 %</source>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
     <message>
         <source>Blend</source>
@@ -915,7 +915,7 @@
     </message>
     <message>
         <source>10,6 ms</source>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
     <message>
         <source>Flanger</source>
@@ -951,7 +951,7 @@
     </message>
     <message>
         <source>100.0 %</source>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
     <message>
         <source>Reverb</source>
@@ -967,7 +967,7 @@
     </message>
     <message>
         <source>20.00 Hz</source>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
     <message>
         <source>Applying Delay</source>
@@ -998,7 +998,7 @@
     </message>
     <message>
         <source>Time Stretch</source>
-        <translation type="unfinished"></translation>
+        <translation>时间拉伸</translation>
     </message>
     <message>
         <source>100</source>
@@ -1022,7 +1022,7 @@
     </message>
     <message>
         <source>DIRAC Time Stretch / Pitch Shift technology licensed from The DSP Dimension, http://www.dspdimension.com. DIRAC is (c) Stephan M. Bernsee</source>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
     <message>
         <source>Information</source>
@@ -1046,7 +1046,7 @@
     </message>
     <message>
         <source>Dirac</source>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
 </context>
 <context>
@@ -1073,7 +1073,7 @@
     </message>
     <message>
         <source>-20 dB</source>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
     <message>
         <source>Ratio</source>
@@ -1089,7 +1089,7 @@
     </message>
     <message>
         <source>-30 dB</source>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
     <message>
         <source>Limiter</source>
@@ -1097,7 +1097,7 @@
     </message>
     <message>
         <source>-2dB</source>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
     <message>
         <source>Noise Gate</source>
@@ -1105,11 +1105,11 @@
     </message>
     <message>
         <source>-60 dB</source>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
     <message>
         <source>Attack</source>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
     <message>
         <source>Fast</source>
@@ -1121,15 +1121,15 @@
     </message>
     <message>
         <source>0.1 ms</source>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
     <message>
         <source>Release</source>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
     <message>
         <source>5 ms</source>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
     <message>
         <source>Gain</source>
@@ -1137,15 +1137,15 @@
     </message>
     <message>
         <source>-40 dB</source>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
     <message>
         <source>0 dB</source>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
     <message>
         <source>40 dB</source>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
     <message>
         <source>Dynamics Processing / %1</source>
@@ -1247,7 +1247,7 @@
     </message>
     <message>
         <source>10,6 ms</source>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
     <message>
         <source>Highpass</source>
@@ -1326,7 +1326,7 @@
     </message>
     <message>
         <source>dB</source>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
     <message>
         <source>Invert</source>
@@ -1362,7 +1362,7 @@
     </message>
     <message>
         <source>%</source>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
     <message>
         <source>Gain Unit</source>
@@ -1493,59 +1493,59 @@
     </message>
     <message>
         <source>1k</source>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
     <message>
         <source>1.25k</source>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
     <message>
         <source>1.6k</source>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
     <message>
         <source>2k</source>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
     <message>
         <source>2.5k</source>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
     <message>
         <source>3.15k</source>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
     <message>
         <source>4k</source>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
     <message>
         <source>5k</source>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
     <message>
         <source>6.3k</source>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
     <message>
         <source>8k</source>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
     <message>
         <source>10k</source>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
     <message>
         <source>12.5k</source>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
     <message>
         <source>16k</source>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
     <message>
         <source>20k</source>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
     <message>
         <source>Gain</source>
@@ -1576,99 +1576,99 @@
     <name>QObject</name>
     <message>
         <source>No Gap</source>
-        <translation type="unfinished"></translation>
+        <translation>无间断</translation>
     </message>
     <message>
         <source>½ s Gap</source>
-        <translation type="unfinished"></translation>
+        <translation>间隔0.5秒</translation>
     </message>
     <message>
         <source>1 s Gap</source>
-        <translation type="unfinished"></translation>
+        <translation>间隔1秒</translation>
     </message>
     <message>
         <source>2 s Gap</source>
-        <translation type="unfinished"></translation>
+        <translation>间隔2秒</translation>
     </message>
     <message>
         <source>3 s Gap</source>
-        <translation type="unfinished"></translation>
+        <translation>间隔3秒</translation>
     </message>
     <message>
         <source>4 s Gap</source>
-        <translation type="unfinished"></translation>
+        <translation>间隔4秒</translation>
     </message>
     <message>
         <source>5 s Gap</source>
-        <translation type="unfinished"></translation>
+        <translation>间隔5秒</translation>
     </message>
     <message>
         <source>Lowest</source>
-        <translation type="unfinished"></translation>
+        <translation>最低</translation>
     </message>
     <message>
         <source>Low</source>
-        <translation type="unfinished"></translation>
+        <translation>低</translation>
     </message>
     <message>
         <source>Medium Low</source>
-        <translation type="unfinished"></translation>
+        <translation>中低</translation>
     </message>
     <message>
         <source>Medium</source>
-        <translation type="unfinished"></translation>
+        <translation>中</translation>
     </message>
     <message>
         <source>Medium High</source>
-        <translation type="unfinished"></translation>
+        <translation>中高</translation>
     </message>
     <message>
         <source>High</source>
-        <translation type="unfinished"></translation>
+        <translation>高</translation>
     </message>
     <message>
         <source>Highest</source>
-        <translation type="unfinished"></translation>
+        <translation>最高</translation>
     </message>
     <message>
         <source>Normal</source>
-        <translation type="unfinished"></translation>
+        <translation>普通</translation>
     </message>
     <message>
         <source>Joint Stereo</source>
-        <translation type="unfinished"></translation>
+        <translation>联合立体声</translation>
     </message>
     <message>
         <source>Low Complexity (Default)</source>
-        <translation type="unfinished"></translation>
+        <translation>低复杂度(默认)</translation>
     </message>
     <message>
         <source>Main</source>
-        <translation type="unfinished"></translation>
+        <translation>主要</translation>
     </message>
     <message>
         <source>AAC - Advanced Audio Conding</source>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
     <message>
         <source>ALAC - Apple Lossless Audio Codec</source>
-        <translation type="unfinished"></translation>
+        <translation> ALAC - Apple无损音频编码</translation>
     </message>
     <message>
         <source>AMR - Adaptative Multi Rate Coder (8000 kHz)</source>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
     <message>
         <source>Variable Bit Rate (VBR)</source>
-        <translation type="unfinished"></translation>
+        <translation>可变比特 率(VBR)</translation>
     </message>
     <message>
         <source>Constant Bit Rate (CBR)</source>
-        <translation type="unfinished"></translation>
+        <translation>固定比特率(CBR)</translation>
     </message>
     <message>
         <source>Limited Variable Bit Rate (ABR)</source>
-        <translation type="unfinished"></translation>
+        <translation>有限可变比特率(ABR)</translation>
     </message>
     <message>
         <source>32 bits</source>
@@ -1696,52 +1696,52 @@
     </message>
     <message>
         <source>Scale Kind</source>
-        <translation type="unfinished"></translation>
+        <translation>标尺类型</translation>
     </message>
     <message>
         <source>Other Options</source>
-        <translation type="unfinished"></translation>
+        <translation>其它选项</translation>
     </message>
     <message>
         <source>Follow Play Cursor</source>
-        <translation type="unfinished"></translation>
+        <translation>跟随播放光标</translation>
     </message>
     <message>
         <source>Separated channels view</source>
-        <translation type="unfinished"></translation>
+        <translation>分声道视图</translation>
     </message>
     <message>
         <source>Show each audio channel on a separated view.</source>
-        <translation type="unfinished"></translation>
+        <translation>在不同的视图中显示各声道。</translation>
     </message>
     <message>
         <source>Display Cursor Position</source>
-        <translation type="unfinished"></translation>
+        <translation>显示光标位置</translation>
     </message>
     <message>
         <source>%1 Scale</source>
         <comment>Ex: Linear Scale (Dont remove %1)</comment>
-        <translation type="unfinished"></translation>
+        <translation>%1标尺</translation>
     </message>
     <message>
         <source>Drop Artwork Here</source>
-        <translation type="unfinished"></translation>
+        <translation>拖放封面图到这里</translation>
     </message>
     <message>
         <source>Minimum Sample Value</source>
-        <translation type="unfinished"></translation>
+        <translation>最小采样值</translation>
     </message>
     <message>
         <source>Maximum Sample Value</source>
-        <translation type="unfinished"></translation>
+        <translation>最大采样值</translation>
     </message>
     <message>
         <source>Peak Amplitude</source>
-        <translation type="unfinished"></translation>
+        <translation>峰值音量</translation>
     </message>
     <message>
         <source>Possible Clipped Samples</source>
-        <translation type="unfinished"></translation>
+        <translation>可能削峰的采样</translation>
     </message>
     <message>
         <source>DC Offset</source>
@@ -1773,23 +1773,23 @@
     </message>
     <message>
         <source>Custom</source>
-        <translation type="unfinished"></translation>
+        <translation>自定义</translation>
     </message>
     <message>
         <source>Label</source>
-        <translation type="unfinished"></translation>
+        <translation>名称</translation>
     </message>
     <message>
         <source>Position</source>
-        <translation type="unfinished"></translation>
+        <translation>位置</translation>
     </message>
     <message>
         <source>Duration</source>
-        <translation type="unfinished"></translation>
+        <translation>时长</translation>
     </message>
     <message>
         <source>Comment of region “%1”</source>
-        <translation type="unfinished"></translation>
+        <translation>&quot;%1&quot;区块的备注</translation>
     </message>
 </context>
 <context>
@@ -1800,15 +1800,15 @@
     </message>
     <message>
         <source>ocenaudio</source>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
     <message>
         <source>Version 2.6.0 (Build 2292)</source>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
     <message>
         <source>© Copyright OcenAudio Team</source>
-        <translation type="unfinished">© OcenAudio团队</translation>
+        <translation>© OcenAudio团队</translation>
     </message>
     <message>
         <source>All rights reserved.</source>
@@ -1820,7 +1820,7 @@
     </message>
     <message>
         <source>Version 2.0.0.rc1 (Build 2292)</source>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
     <message>
         <source>© Copyright ocenaudio Team</source>
@@ -1839,12 +1839,13 @@
     <name>QOcenAudioApplication</name>
     <message>
         <source>Stay Updated with ocenaudio!</source>
-        <translation type="unfinished"></translation>
+        <translation>保持更新!</translation>
     </message>
     <message>
         <source>A new version might be available.
 Click here and check!</source>
-        <translation type="unfinished"></translation>
+        <translation>可能有新版本。
+点击查看!</translation>
     </message>
     <message>
         <source>New release available</source>
@@ -1916,7 +1917,7 @@ Click here to download it.</source>
     </message>
     <message>
         <source>Apple Peak Limiter</source>
-        <translation type="unfinished"></translation>
+        <translation>Apple峰值限制器</translation>
     </message>
     <message>
         <source>Apple Multiband Compressor</source>
@@ -1972,7 +1973,7 @@ Click here to download it.</source>
     </message>
     <message>
         <source>Audio Unit</source>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
     <message>
         <source>File Menu</source>
@@ -2280,19 +2281,20 @@ Click here to download it.</source>
     </message>
     <message>
         <source>Markers less than 10 ms apart are merged in the split process. You have one marker merged.</source>
-        <translation type="unfinished"></translation>
+        <translation>短于10毫秒的标记将在分割时被合并，有一个标记已被合并。</translation>
     </message>
     <message>
         <source>Markers less than 10 ms apart are merged in the split process. You have %1 markers merged.</source>
-        <translation type="unfinished"></translation>
+        <translation>短于10毫秒的标记将在分割时被合并，有%1个标记已被合并。</translation>
     </message>
     <message>
         <source>You are about to split your audio by %1 parts. Are you sure you want to proceed?</source>
-        <translation type="unfinished"></translation>
+        <translation>音频文件将要被分割成%1块，确认继续吗?</translation>
     </message>
     <message>
         <source>If you proceed this operation will generate %1 new audio files.</source>
-        <translation type="unfinished"></translation>
+        <translatorcomment>若继续，此操作将生成%1个新音频文件。</translatorcomment>
+        <translation></translation>
     </message>
     <message>
         <source>Part %1 of </source>
@@ -2544,7 +2546,7 @@ Click here to download it.</source>
     </message>
     <message>
         <source>Enable/Disable Preroll on Recording</source>
-        <translation type="unfinished"></translation>
+        <translation>启用/禁用抢录功能</translation>
     </message>
     <message>
         <source>Select “separate” to save each selection to a different file. If you select “single”, all your selections will be appended and saved to a single file.</source>
@@ -2635,15 +2637,15 @@ Click here to download it.</source>
     </message>
     <message>
         <source>AAC Low Complexity</source>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
     <message>
         <source>Encoded With</source>
-        <translation type="unfinished"></translation>
+        <translation>编码器</translation>
     </message>
     <message>
         <source>LAME3.99</source>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
     <message>
         <source>Bit Rate</source>
@@ -2659,7 +2661,7 @@ Click here to download it.</source>
     </message>
     <message>
         <source>44100 Hz</source>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
     <message>
         <source>Channels</source>
@@ -2691,7 +2693,7 @@ Click here to download it.</source>
     </message>
     <message>
         <source>192900</source>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
     <message>
         <source>Size on Memory</source>
@@ -2699,7 +2701,7 @@ Click here to download it.</source>
     </message>
     <message>
         <source>100 Kb</source>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
     <message>
         <source>Size on Disk</source>
@@ -2707,7 +2709,7 @@ Click here to download it.</source>
     </message>
     <message>
         <source>192 Kb</source>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
     <message>
         <source>Modification Date</source>
@@ -2787,7 +2789,7 @@ Click here to download it.</source>
     </message>
     <message>
         <source>PNG / 256 x 256</source>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
     <message>
         <source>Change Artwork...</source>
@@ -2830,7 +2832,7 @@ Click here to download it.</source>
     </message>
     <message>
         <source>Do you want to send details on the crash to ocenaudio&apos;s development team?</source>
-        <translation type="unfinished"></translation>
+        <translation>是否将详细错误报告发送给ocenaudio的开发者团队?</translation>
     </message>
     <message>
         <source>If you want, you can enter a few lines on what you did before ocenaudio crashed along with other helpful information: sample file, os crash report, screen shots, ...</source>
@@ -2838,7 +2840,7 @@ Click here to download it.</source>
     </message>
     <message>
         <source>If you agree to be contacted about this bug report enter your email below:</source>
-        <translation type="unfinished"></translation>
+        <translation>如果愿意让我们就这个BUG联系你，请在下方输入你的邮件地址:</translation>
     </message>
     <message>
         <source>Attach File...</source>
@@ -2924,7 +2926,7 @@ Click here to download it.</source>
     </message>
     <message>
         <source>RAW</source>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
     <message>
         <source>Data Type:</source>
@@ -2932,15 +2934,15 @@ Click here to download it.</source>
     </message>
     <message>
         <source>Pulse-code Modulation (PCM Linear)</source>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
     <message>
         <source>A-Law companding PCM (G.711a)</source>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
     <message>
         <source>μ-Law companding PCM (G.711u)</source>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
     <message>
         <source>Precision:</source>
@@ -2948,11 +2950,11 @@ Click here to download it.</source>
     </message>
     <message>
         <source>PCM Little-Endian (MSB/LSB) Intel</source>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
     <message>
         <source>WAV</source>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
     <message>
         <source>Audio Format:</source>
@@ -2960,15 +2962,15 @@ Click here to download it.</source>
     </message>
     <message>
         <source>IMA ADPCM</source>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
     <message>
         <source>CAF</source>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
     <message>
         <source>MP3</source>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
     <message>
         <source>Use Variable Bit Rate Encoding (VBR)</source>
@@ -3100,7 +3102,7 @@ Click here to download it.</source>
     </message>
     <message>
         <source>ALAC - Apple Lossless Audio Codec</source>
-        <translation type="unfinished"></translation>
+        <translation>ALAC - Apple无损音频编码</translation>
     </message>
     <message>
         <source>Profile:</source>
@@ -3108,7 +3110,7 @@ Click here to download it.</source>
     </message>
     <message>
         <source>Low Complexity (Default)</source>
-        <translation type="unfinished">低复杂度(默认)</translation>
+        <translation>低复杂度(默认)</translation>
     </message>
     <message>
         <source>Main</source>
@@ -3120,11 +3122,11 @@ Click here to download it.</source>
     </message>
     <message>
         <source>Quantizer Quality:</source>
-        <translation type="unfinished"></translation>
+        <translation>量化器质量:</translation>
     </message>
     <message>
         <source>OGG</source>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
     <message>
         <source>Mode:</source>
@@ -3156,7 +3158,7 @@ Click here to download it.</source>
     </message>
     <message>
         <source>AIF</source>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
     <message>
         <source>MUSEPACK</source>
@@ -3168,7 +3170,7 @@ Click here to download it.</source>
     </message>
     <message>
         <source>FLAC</source>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
     <message>
         <source>Filename</source>
@@ -3188,11 +3190,11 @@ Click here to download it.</source>
     </message>
     <message>
         <source>%1 kbps</source>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
     <message>
         <source>Save each %1 to a separate file</source>
-        <translation type="unfinished"></translation>
+        <translation>将%1分开保存成多个文件</translation>
     </message>
     <message>
         <source>Export Audio As</source>
@@ -3208,7 +3210,7 @@ Click here to download it.</source>
     </message>
     <message>
         <source>A audio file with the same name already exists in the selected folder. Replacing it will overwrite its current contents.</source>
-        <translation type="unfinished"></translation>
+        <translation>同名音频文件已存在于选中的目录下，替换将覆盖其原有内容。</translation>
     </message>
     <message>
         <source>Replace</source>
@@ -3220,19 +3222,19 @@ Click here to download it.</source>
     </message>
     <message>
         <source>Are you sure you want to use the “%1” extension?</source>
-        <translation type="unfinished"></translation>
+        <translation>确认要使用&quot;%1&quot;作为扩展名吗?</translation>
     </message>
     <message>
         <source>The default extension for the selected format is “%1”. If you choose a different extension, you might not be able to open the exported file.</source>
-        <translation type="unfinished"></translation>
+        <translation>已选格式默认的扩展名为&quot;%1&quot;，使用其它扩展名可能会导致导出的文件打不开。</translation>
     </message>
     <message>
         <source>Keep “%1”</source>
-        <translation type="unfinished"></translation>
+        <translation>保留&quot;%1&quot;</translation>
     </message>
     <message>
         <source>Use “%1” instead</source>
-        <translation type="unfinished"></translation>
+        <translation>使用&quot;%1&quot;</translation>
     </message>
     <message>
         <source>Resolution:</source>
@@ -3240,85 +3242,85 @@ Click here to download it.</source>
     </message>
     <message>
         <source>%1 bits</source>
-        <translation type="unfinished"></translation>
+        <translation>%1位</translation>
     </message>
 </context>
 <context>
     <name>QOcenFTPDirListDialog</name>
     <message>
         <source>Directory List</source>
-        <translation type="unfinished"></translation>
+        <translation>目录列表</translation>
     </message>
     <message>
         <source>Directory</source>
-        <translation type="unfinished"></translation>
+        <translation>目录</translation>
     </message>
     <message>
         <source>/</source>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
     <message>
         <source>data</source>
-        <translation type="unfinished"></translation>
+        <translation>数据</translation>
     </message>
     <message>
         <source>Selected Path</source>
-        <translation type="unfinished"></translation>
+        <translation>已选路径</translation>
     </message>
 </context>
 <context>
     <name>QOcenFTPExportDialog</name>
     <message>
         <source>Export Audio using FTP</source>
-        <translation type="unfinished"></translation>
+        <translation>使用FTP导出音频</translation>
     </message>
     <message>
         <source>Ftp Server</source>
-        <translation type="unfinished"></translation>
+        <translation>FTP服务器</translation>
     </message>
     <message>
         <source>Profile Name</source>
-        <translation type="unfinished"></translation>
+        <translation>概要名称</translation>
     </message>
     <message>
         <source>Address</source>
-        <translation type="unfinished"></translation>
+        <translation>地址</translation>
     </message>
     <message>
         <source>Port</source>
-        <translation type="unfinished"></translation>
+        <translation>端口</translation>
     </message>
     <message>
         <source>Anonymous Login</source>
-        <translation type="unfinished"></translation>
+        <translation>匿名登录</translation>
     </message>
     <message>
         <source>Username</source>
-        <translation type="unfinished"></translation>
+        <translation>用户名</translation>
     </message>
     <message>
         <source>Password</source>
-        <translation type="unfinished"></translation>
+        <translation>密码</translation>
     </message>
     <message>
         <source>Server Path</source>
-        <translation type="unfinished"></translation>
+        <translation>服务器路径</translation>
     </message>
     <message>
         <source>...</source>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
     <message>
         <source>File Info</source>
-        <translation type="unfinished"></translation>
+        <translation>文件信息</translation>
     </message>
     <message>
         <source>Filename</source>
-        <translation type="unfinished"></translation>
+        <translation>文件名</translation>
     </message>
     <message>
         <source>File Format</source>
-        <translation type="unfinished"></translation>
+        <translation>文件格式</translation>
     </message>
     <message>
         <source>Wav PCM (*.wav)</source>
@@ -3330,120 +3332,120 @@ Click here to download it.</source>
     </message>
     <message>
         <source>Upload only selection</source>
-        <translation type="unfinished"></translation>
+        <translation>仅上传已选</translation>
     </message>
     <message>
         <source>Upload</source>
-        <translation type="unfinished"></translation>
+        <translation>上传</translation>
     </message>
     <message>
         <source>Uploading audio</source>
-        <translation type="unfinished"></translation>
+        <translation>正在上传音频</translation>
     </message>
     <message>
         <source>Cancel</source>
-        <translation type="unfinished"></translation>
+        <translation>取消</translation>
     </message>
     <message>
         <source>Error</source>
-        <translation type="unfinished"></translation>
+        <translation>错误</translation>
     </message>
     <message>
         <source>The upload process was failed.</source>
-        <translation type="unfinished"></translation>
+        <translation>上传失败。</translation>
     </message>
     <message>
         <source>Upload Finished</source>
-        <translation type="unfinished"></translation>
+        <translation>上传完成</translation>
     </message>
     <message>
         <source>The file was successfully uploaded to your FTP server.</source>
-        <translation type="unfinished"></translation>
+        <translation>文件已经成功上传到指定FTP服务器。</translation>
     </message>
     <message>
         <source>Warning</source>
-        <translation type="unfinished"></translation>
+        <translation>警告</translation>
     </message>
     <message>
         <source>The file %1 already exists in the FTP server.</source>
-        <translation type="unfinished"></translation>
+        <translation>FTP服务器已存在文件%1。</translation>
     </message>
 </context>
 <context>
     <name>QOcenFTPExportThread</name>
     <message>
         <source>Connecting to FTP server...</source>
-        <translation type="unfinished"></translation>
+        <translation>正在连接FTP服务器...</translation>
     </message>
     <message>
         <source>Connected to FTP server</source>
-        <translation type="unfinished"></translation>
+        <translation>FTP服务器已连接</translation>
     </message>
     <message>
         <source>Connection refused. Please, check the server address, username and password.</source>
-        <translation type="unfinished"></translation>
+        <translation>连接被拒绝，请核对服务器地址，用户名和密码是否正确。</translation>
     </message>
     <message>
         <source>Preparing audio file to upload...</source>
-        <translation type="unfinished"></translation>
+        <translation>正在处理要上传的音频文件...</translation>
     </message>
     <message>
         <source>Fail to prepare file!</source>
-        <translation type="unfinished"></translation>
+        <translation>文件处理失败!</translation>
     </message>
     <message>
         <source>Fail to prepare audio file!</source>
-        <translation type="unfinished"></translation>
+        <translation>音频文件处理失败!</translation>
     </message>
     <message>
         <source>Fail to remove existing file!</source>
-        <translation type="unfinished"></translation>
+        <translation>已存在的文件删除失败!</translation>
     </message>
     <message>
         <source>Uploading audio file...</source>
-        <translation type="unfinished"></translation>
+        <translation>音频文件上传中...</translation>
     </message>
     <message>
         <source>Upload finished</source>
-        <translation type="unfinished"></translation>
+        <translation>上传完成</translation>
     </message>
     <message>
         <source>Disconnected</source>
-        <translation type="unfinished"></translation>
+        <translation>连接已断开</translation>
     </message>
 </context>
 <context>
     <name>QOcenFTPListThread</name>
     <message>
         <source>Connecting to FTP server...</source>
-        <translation type="unfinished"></translation>
+        <translation>正在连接FTP服务器...</translation>
     </message>
     <message>
         <source>Connected to FTP server</source>
-        <translation type="unfinished"></translation>
+        <translation>FTP服务器已连接</translation>
     </message>
     <message>
         <source>Connection refused. Please, check the server address, username and password.</source>
-        <translation type="unfinished"></translation>
+        <translation>连接被拒绝，请核对服务器地址，用户名和密码是否正确。</translation>
     </message>
     <message>
         <source>Listing...</source>
-        <translation type="unfinished"></translation>
+        <translation>列表处理中...</translation>
     </message>
     <message>
         <source>List finished</source>
-        <translation type="unfinished"></translation>
+        <translation>列表完成</translation>
     </message>
 </context>
 <context>
     <name>QOcenFormatSamplesDialog</name>
     <message>
         <source>Convert Audio Format</source>
-        <translation type="unfinished"></translation>
+        <translation>转换音频格式</translation>
     </message>
     <message>
         <source>Sample Rate</source>
-        <translation type="unfinished"></translation>
+        <translation>采样率</translation>
     </message>
     <message>
         <source>16000</source>
@@ -3451,7 +3453,7 @@ Click here to download it.</source>
     </message>
     <message>
         <source>Hz</source>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
     <message>
         <source>48000</source>
@@ -3483,23 +3485,23 @@ Click here to download it.</source>
     </message>
     <message>
         <source>Channels</source>
-        <translation type="unfinished"></translation>
+        <translation>声道</translation>
     </message>
     <message>
         <source>Mono</source>
-        <translation type="unfinished"></translation>
+        <translation>单声道</translation>
     </message>
     <message>
         <source>Stereo</source>
-        <translation type="unfinished"></translation>
+        <translation>立体声</translation>
     </message>
     <message>
         <source>Swap L/R Channels</source>
-        <translation type="unfinished"></translation>
+        <translation>交换左/右声道</translation>
     </message>
     <message>
         <source>Left Mix:</source>
-        <translation type="unfinished"></translation>
+        <translation>左声道混音:</translation>
     </message>
     <message>
         <source>50</source>
@@ -3511,132 +3513,132 @@ Click here to download it.</source>
     </message>
     <message>
         <source>Right Mix:</source>
-        <translation type="unfinished"></translation>
+        <translation>右声道混音:</translation>
     </message>
     <message>
         <source>L</source>
-        <translation type="unfinished"></translation>
+        <translation>左</translation>
     </message>
     <message>
         <source>R</source>
-        <translation type="unfinished"></translation>
+        <translation>右</translation>
     </message>
 </context>
 <context>
     <name>QOcenFxDialog</name>
     <message>
         <source>Apply</source>
-        <translation type="unfinished"></translation>
+        <translation>应用</translation>
     </message>
     <message>
         <source>bypass</source>
-        <translation type="unfinished"></translation>
+        <translation>旁路</translation>
     </message>
     <message>
         <source>Save Preset</source>
-        <translation type="unfinished"></translation>
+        <translation>保存预设</translation>
     </message>
     <message>
         <source>Manage Presets</source>
-        <translation type="unfinished"></translation>
+        <translation>管理预设</translation>
     </message>
     <message>
         <source>Playback Loop</source>
-        <translation type="unfinished"></translation>
+        <translation>循环播放</translation>
     </message>
     <message>
         <source>Default Settings</source>
-        <translation type="unfinished"></translation>
+        <translation>默认设置</translation>
     </message>
     <message>
         <source>Last Used Settings</source>
-        <translation type="unfinished"></translation>
+        <translation>最后使用的设置</translation>
     </message>
     <message>
         <source>Last Used Settings in this file</source>
-        <translation type="unfinished"></translation>
+        <translation>此文件中最后使用的设置</translation>
     </message>
     <message>
         <source>Built-in Presets</source>
-        <translation type="unfinished"></translation>
+        <translation>内置预设</translation>
     </message>
     <message>
         <source>Saved Presets</source>
-        <translation type="unfinished"></translation>
+        <translation>已保存的预设</translation>
     </message>
     <message>
         <source>Save Preset As</source>
-        <translation type="unfinished"></translation>
+        <translation>预设另存为</translation>
     </message>
     <message>
         <source>Preset Name</source>
-        <translation type="unfinished"></translation>
+        <translation>预设名称</translation>
     </message>
     <message>
         <source>The name &quot;%1&quot; is already taken.</source>
-        <translation type="unfinished"></translation>
+        <translation>此名称“%1”已存在。</translation>
     </message>
     <message>
         <source>Do you want to choose another name or replace the previous saved preset?</source>
-        <translation type="unfinished"></translation>
+        <translation>选择另外一个名称还是替换之前已保存的预设?</translation>
     </message>
     <message>
         <source>Replace</source>
-        <translation type="unfinished"></translation>
+        <translation>替换</translation>
     </message>
     <message>
         <source>Choose Another Name</source>
-        <translation type="unfinished"></translation>
+        <translation>选择另外一个名称</translation>
     </message>
 </context>
 <context>
     <name>QOcenFxManagePresetDialog</name>
     <message>
         <source>Manage Presets</source>
-        <translation type="unfinished"></translation>
+        <translation>管理预设</translation>
     </message>
     <message>
         <source>Current Setting (before open preset manager)</source>
-        <translation type="unfinished"></translation>
+        <translation>当前设置(打开预设管理器之前的)</translation>
     </message>
     <message>
         <source>Setting 1</source>
-        <translation type="unfinished"></translation>
+        <translation>设置1</translation>
     </message>
     <message>
         <source>Setting 2</source>
-        <translation type="unfinished"></translation>
+        <translation>设置2</translation>
     </message>
     <message>
         <source>%1 Preset Manager</source>
-        <translation type="unfinished"></translation>
+        <translation>%1预设管理器</translation>
     </message>
     <message>
         <source>Current Preset (user&apos;s changes)</source>
-        <translation type="unfinished"></translation>
+        <translation>当前预设(已修改的)</translation>
     </message>
     <message>
         <source>Rename Preset</source>
-        <translation type="unfinished"></translation>
+        <translation>重命名预设</translation>
     </message>
     <message>
         <source>The name &quot;%1&quot; is already taken.</source>
-        <translation type="unfinished"></translation>
+        <translation>此名称&quot;%1&quot;已存在。</translation>
     </message>
     <message>
         <source>Please choose another name.</source>
-        <translation type="unfinished"></translation>
+        <translation>请选择另外一个名称。</translation>
     </message>
 </context>
 <context>
     <name>QOcenMixPasteDialog</name>
     <message>
         <source>Paste Special</source>
-        <translation type="unfinished"></translation>
+        <translation>特殊粘贴</translation>
     </message>
     <message>
         <source>Volume</source>
-        <translation type="unfinished"></translation>
+        <translation>音量</translation>
     </message>
     <message>
         <source>100</source>
@@ -3644,156 +3646,156 @@ Click here to download it.</source>
     </message>
     <message>
         <source>Invert</source>
-        <translation type="unfinished"></translation>
+        <translation>倒置</translation>
     </message>
     <message>
         <source>Left</source>
-        <translation type="unfinished"></translation>
+        <translation>左</translation>
     </message>
     <message>
         <source>Right</source>
-        <translation type="unfinished"></translation>
+        <translation>右</translation>
     </message>
     <message>
         <source>Lock Left/Right Channel</source>
-        <translation type="unfinished"></translation>
+        <translation>锁定左/右声道</translation>
     </message>
     <message>
         <source>Paste Operation</source>
-        <translation type="unfinished"></translation>
+        <translation>粘贴操作</translation>
     </message>
     <message>
         <source>Insert</source>
-        <translation type="unfinished"></translation>
+        <translation>插入</translation>
     </message>
     <message>
         <source>Overlap (Mix)</source>
-        <translation type="unfinished"></translation>
+        <translation>叠加(混合)</translation>
     </message>
     <message>
         <source>Replace</source>
-        <translation type="unfinished"></translation>
+        <translation>替换</translation>
     </message>
     <message>
         <source>Signal Source</source>
-        <translation type="unfinished"></translation>
+        <translation>数据源</translation>
     </message>
     <message>
         <source>From Clipboard</source>
-        <translation type="unfinished"></translation>
+        <translation>从剪切板</translation>
     </message>
     <message>
         <source>From File</source>
-        <translation type="unfinished"></translation>
+        <translation>从文件</translation>
     </message>
     <message>
         <source>From Generator</source>
-        <translation type="unfinished"></translation>
+        <translation>从生成器</translation>
     </message>
 </context>
 <context>
     <name>QOcenNewAudioDialog</name>
     <message>
         <source>New Audio ...</source>
-        <translation type="unfinished"></translation>
+        <translation>新音频...</translation>
     </message>
     <message>
         <source>Sample Rate</source>
-        <translation type="unfinished"></translation>
+        <translation>采样率</translation>
     </message>
     <message>
         <source>44.1 kHz</source>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
     <message>
         <source>48 kHz</source>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
     <message>
         <source>Other</source>
-        <translation type="unfinished"></translation>
+        <translation>其它</translation>
     </message>
     <message>
         <source>8 kHz</source>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
     <message>
         <source>11025 Hz</source>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
     <message>
         <source>16 kHz</source>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
     <message>
         <source>Custom</source>
-        <translation type="unfinished"></translation>
+        <translation>自定义</translation>
     </message>
     <message>
         <source>Channels</source>
-        <translation type="unfinished"></translation>
+        <translation>声道</translation>
     </message>
     <message>
         <source>Mono</source>
-        <translation type="unfinished"></translation>
+        <translation>单声道</translation>
     </message>
     <message>
         <source>Stereo</source>
-        <translation type="unfinished"></translation>
+        <translation>立体声</translation>
     </message>
     <message>
         <source>Multichannel</source>
-        <translation type="unfinished"></translation>
+        <translation>多声道</translation>
     </message>
     <message>
         <source>3 channels</source>
-        <translation type="unfinished"></translation>
+        <translation>3声道</translation>
     </message>
     <message>
         <source>4 channels</source>
-        <translation type="unfinished"></translation>
+        <translation>4声道</translation>
     </message>
     <message>
         <source>5 channels</source>
-        <translation type="unfinished"></translation>
+        <translation>5声道</translation>
     </message>
     <message>
         <source>6 channels</source>
-        <translation type="unfinished"></translation>
+        <translation>6声道</translation>
     </message>
     <message>
         <source>7 channels</source>
-        <translation type="unfinished"></translation>
+        <translation>7声道</translation>
     </message>
     <message>
         <source>8 channels</source>
-        <translation type="unfinished"></translation>
+        <translation>8声道</translation>
     </message>
     <message>
         <source>44100 Hz</source>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
     <message>
         <source>48000 Hz</source>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
 </context>
 <context>
     <name>QOcenNewAudioDialog::Data</name>
     <message>
         <source>Custom</source>
-        <translation type="unfinished"></translation>
+        <translation>自定义</translation>
     </message>
 </context>
 <context>
     <name>QOcenRecentMenu</name>
     <message>
         <source>Recent Files</source>
-        <translation type="unfinished"></translation>
+        <translation>最近文件</translation>
     </message>
     <message>
         <source>Clear History</source>
-        <translation type="unfinished"></translation>
+        <translation>清空历史</translation>
     </message>
     <message>
         <source>Open both streams in this file</source>
@@ -3805,7 +3807,7 @@ Click here to download it.</source>
     </message>
     <message>
         <source>Open all files in this directory</source>
-        <translation type="unfinished"></translation>
+        <translation>打开此目录下的全部文件</translation>
     </message>
     <message>
         <source>Open both files in this %1</source>
@@ -3824,54 +3826,55 @@ Click here to download it.</source>
     <name>QOcenUrlDialog</name>
     <message>
         <source>Dialog</source>
-        <translation type="unfinished"></translation>
+        <translation>对话框</translation>
     </message>
     <message>
         <source>Enter the URL or path to a sound file on the Internet, your computer,
 or your network that you want to open:</source>
-        <translation type="unfinished"></translation>
+        <translation>输入声音文件的网址或路径，也可以是本地电脑,
+或局域网络中要打开的文件:</translation>
     </message>
 </context>
 <context>
     <name>QOcenVSTWidget</name>
     <message>
         <source>VST Effect</source>
-        <translation type="unfinished"></translation>
+        <translation>VST效果器</translation>
     </message>
     <message>
         <source>Applying %1|%1</source>
-        <translation type="unfinished"></translation>
+        <translation>正在应用%1|%1</translation>
     </message>
     <message>
         <source>Plugin crashed</source>
-        <translation type="unfinished"></translation>
+        <translation>插件已崩溃</translation>
     </message>
     <message>
         <source>The plugin %1 crashed and will be finalized.</source>
-        <translation type="unfinished"></translation>
+        <translation>插件%1已崩溃，将被停止运行。</translation>
     </message>
     <message>
         <source>Ocenaudio was not affected by this crash and will continue running normally.</source>
-        <translation type="unfinished"></translation>
+        <translation>Ocenaudio不会受此影响，将继续工作。</translation>
     </message>
     <message>
         <source>VST Effect:</source>
-        <translation type="unfinished"></translation>
+        <translation>VST效果器:</translation>
     </message>
     <message>
         <source>Manufacturer:</source>
-        <translation type="unfinished"></translation>
+        <translation>生产商:</translation>
     </message>
 </context>
 <context>
     <name>QOcenVstList</name>
     <message>
         <source>Dialog</source>
-        <translation type="unfinished"></translation>
+        <translation>对话框</translation>
     </message>
     <message>
         <source>List of VST Plugins</source>
-        <translation type="unfinished"></translation>
+        <translation>VST插件列表</translation>
     </message>
     <message>
         <source>/Library/Audio/plugins/VST/delay.vst</source>
@@ -3883,31 +3886,31 @@ or your network that you want to open:</source>
     </message>
     <message>
         <source>Enable All</source>
-        <translation type="unfinished"></translation>
+        <translation>全部启用</translation>
     </message>
     <message>
         <source>Disable All</source>
-        <translation type="unfinished"></translation>
+        <translation>全部禁用</translation>
     </message>
     <message>
         <source>Effects in Folder %1</source>
-        <translation type="unfinished"></translation>
+        <translation>&quot;%1&quot;目录下的效果器</translation>
     </message>
     <message>
         <source>Crashed</source>
-        <translation type="unfinished"></translation>
+        <translation>已崩溃</translation>
     </message>
     <message>
         <source>Duplicated / Older Version</source>
-        <translation type="unfinished"></translation>
+        <translation>重复的/旧版本</translation>
     </message>
     <message>
         <source>Unsupported</source>
-        <translation type="unfinished"></translation>
+        <translation>不支持的</translation>
     </message>
     <message>
         <source>Not Loaded</source>
-        <translation type="unfinished"></translation>
+        <translation>未加载的</translation>
     </message>
 </context>
 <context>
@@ -3918,53 +3921,53 @@ or your network that you want to open:</source>
     </message>
     <message>
         <source>VST Search Path</source>
-        <translation type="unfinished"></translation>
+        <translation>VST查找路径</translation>
     </message>
     <message>
         <source>Scanning Plugins</source>
-        <translation type="unfinished"></translation>
+        <translation>正在扫描插件</translation>
     </message>
     <message>
         <source>VST</source>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
     <message>
         <source>Select Directory</source>
-        <translation type="unfinished"></translation>
+        <translation>选择目录</translation>
     </message>
     <message>
         <source>Show in Finder</source>
-        <translation type="unfinished"></translation>
+        <translation>在资源管理器中显示</translation>
     </message>
     <message>
         <source>Show Plugins List...</source>
-        <translation type="unfinished"></translation>
+        <translation>显示插件列表...</translation>
     </message>
     <message>
         <source>Remove Path from Search</source>
-        <translation type="unfinished"></translation>
+        <translation>删除搜索路径</translation>
     </message>
     <message>
         <source>Path not Found</source>
-        <translation type="unfinished"></translation>
+        <translation>路径未找到</translation>
     </message>
 </context>
 <context>
     <name>QOpenFilesPlugin</name>
     <message>
         <source>Opened Files</source>
-        <translation type="unfinished"></translation>
+        <translation>已打开的文件</translation>
     </message>
     <message>
         <source>Current open files in ocenaudio</source>
-        <translation type="unfinished"></translation>
+        <translation>当前已打开文件</translation>
     </message>
 </context>
 <context>
     <name>QOpenFilesView</name>
     <message>
         <source>Repeat %1 in Selected Files</source>
-        <translation type="unfinished"></translation>
+        <translation>在已选文件中重复%1</translation>
     </message>
     <message>
         <source>Extract %1 Channel</source>
@@ -3972,71 +3975,71 @@ or your network that you want to open:</source>
     </message>
     <message>
         <source>Stop</source>
-        <translation type="unfinished"></translation>
+        <translation>停止</translation>
     </message>
     <message>
         <source>Play</source>
-        <translation type="unfinished"></translation>
+        <translation>播放</translation>
     </message>
     <message>
         <source>View/Edit</source>
-        <translation type="unfinished"></translation>
+        <translation>视图/编辑</translation>
     </message>
     <message>
         <source>View</source>
-        <translation type="unfinished"></translation>
+        <translation>视图</translation>
     </message>
     <message>
         <source>Close</source>
-        <translation type="unfinished"></translation>
+        <translation>关闭</translation>
     </message>
     <message>
         <source>Save</source>
-        <translation type="unfinished"></translation>
+        <translation>保存</translation>
     </message>
     <message>
         <source>Close selected Files</source>
-        <translation type="unfinished"></translation>
+        <translation>关闭已选文件</translation>
     </message>
     <message>
         <source>Save Selected Files</source>
-        <translation type="unfinished"></translation>
+        <translation>保存已选文件</translation>
     </message>
     <message>
         <source>Join</source>
-        <translation type="unfinished"></translation>
+        <translation>拼接</translation>
     </message>
     <message>
         <source>Merge...</source>
-        <translation type="unfinished"></translation>
+        <translation>合并...</translation>
     </message>
     <message>
         <source>Compare</source>
-        <translation type="unfinished"></translation>
+        <translation>对比</translation>
     </message>
     <message>
         <source>Compare...</source>
-        <translation type="unfinished"></translation>
+        <translation>对比...</translation>
     </message>
     <message>
         <source>Swap Channels</source>
-        <translation type="unfinished"></translation>
+        <translation>交换声道</translation>
     </message>
     <message>
         <source>Convert Sample Type...</source>
-        <translation type="unfinished"></translation>
+        <translation>转换采样类型...</translation>
     </message>
     <message>
         <source>Repeat Effect</source>
-        <translation type="unfinished"></translation>
+        <translation>重复效果器</translation>
     </message>
     <message>
         <source>Split to Mono Files</source>
-        <translation type="unfinished"></translation>
+        <translation>分离成单声道文件</translation>
     </message>
     <message>
         <source>Combine to Stereo</source>
-        <translation type="unfinished"></translation>
+        <translation>合并成立体声</translation>
     </message>
     <message>
         <source>Extract Channel %1</source>
@@ -4044,174 +4047,174 @@ or your network that you want to open:</source>
     </message>
     <message>
         <source>Downmix to a Stereo File</source>
-        <translation type="unfinished"></translation>
+        <translation>混缩成立体声文件</translation>
     </message>
     <message>
         <source>Downmix to a Quadraphonic File</source>
-        <translation type="unfinished"></translation>
+        <translation>混缩成四声道文件</translation>
     </message>
     <message>
         <source>Get Info</source>
-        <translation type="unfinished"></translation>
+        <translation>查看信息</translation>
     </message>
     <message>
         <source>View File</source>
-        <translation type="unfinished"></translation>
+        <translation>查看文件</translation>
     </message>
     <message>
         <source>Paste to New</source>
-        <translation type="unfinished"></translation>
+        <translation>粘贴到新的</translation>
     </message>
     <message>
         <source>Save As...</source>
-        <translation type="unfinished"></translation>
+        <translation>另存为...</translation>
     </message>
     <message>
         <source>Select All</source>
-        <translation type="unfinished"></translation>
+        <translation>全选</translation>
     </message>
     <message>
         <source>Close File</source>
-        <translation type="unfinished"></translation>
+        <translation>关闭文件</translation>
     </message>
     <message>
         <source>Append Multiple Files</source>
-        <translation type="unfinished"></translation>
+        <translation>追加多个文件</translation>
     </message>
     <message>
         <source>You are about to append %1 files in the selected audio. Are you sure you want to proceed?</source>
-        <translation type="unfinished"></translation>
+        <translation>将追加%1个文件到已选音频，确认继续吗?</translation>
     </message>
     <message>
         <source>This operation may take a long time.</source>
-        <translation type="unfinished"></translation>
+        <translation>此操作可能比较耗时。</translation>
     </message>
     <message>
         <source>Confirm</source>
-        <translation type="unfinished"></translation>
+        <translation>确认</translation>
     </message>
     <message>
         <source>Cancel</source>
-        <translation type="unfinished"></translation>
+        <translation>取消</translation>
     </message>
     <message>
         <source>Appending File</source>
-        <translation type="unfinished"></translation>
+        <translation>正在追加文件</translation>
     </message>
     <message>
         <source>Append File</source>
-        <translation type="unfinished"></translation>
+        <translation>追加文件</translation>
     </message>
     <message>
         <source>Information</source>
-        <translation type="unfinished"></translation>
+        <translation>信息</translation>
     </message>
     <message>
         <source>Some files are still under processing!</source>
-        <translation type="unfinished"></translation>
+        <translation>部分文件仍然在处理中!</translation>
     </message>
     <message>
         <source>You must wait for the end of processing to proceed.</source>
-        <translation type="unfinished"></translation>
+        <translation>需要等到处理结束才可以继续其它操作。</translation>
     </message>
     <message>
         <source>Convert to Mono</source>
-        <translation type="unfinished"></translation>
+        <translation>转为单声道</translation>
     </message>
     <message>
         <source>Sort</source>
-        <translation type="unfinished"></translation>
+        <translation>分类</translation>
     </message>
     <message>
         <source>Disabled</source>
-        <translation type="unfinished"></translation>
+        <translation>已禁用</translation>
     </message>
     <message>
         <source>By Display Name</source>
-        <translation type="unfinished"></translation>
+        <translation>按显示名称</translation>
     </message>
     <message>
         <source>By Song Name</source>
-        <translation type="unfinished"></translation>
+        <translation>按歌曲名</translation>
     </message>
     <message>
         <source>By Artist Name</source>
-        <translation type="unfinished"></translation>
+        <translation>按艺术家名</translation>
     </message>
     <message>
         <source>By Album Name</source>
-        <translation type="unfinished"></translation>
+        <translation>按专辑名称</translation>
     </message>
     <message>
         <source>By Duration</source>
-        <translation type="unfinished"></translation>
+        <translation>按时长</translation>
     </message>
     <message>
         <source>By Date</source>
-        <translation type="unfinished"></translation>
+        <translation>按日期</translation>
     </message>
     <message>
         <source>Ascending</source>
-        <translation type="unfinished"></translation>
+        <translation>升序</translation>
     </message>
     <message>
         <source>Descending</source>
-        <translation type="unfinished"></translation>
+        <translation>降序</translation>
     </message>
 </context>
 <context>
     <name>QSignalGeneratorDialog</name>
     <message>
         <source>Signal Generator</source>
-        <translation type="unfinished"></translation>
+        <translation>信号生成器</translation>
     </message>
     <message>
         <source>Noise</source>
-        <translation type="unfinished"></translation>
+        <translation>噪声</translation>
     </message>
     <message>
         <source>Color</source>
-        <translation type="unfinished"></translation>
+        <translation>调性</translation>
     </message>
     <message>
         <source>Black (silence)</source>
-        <translation type="unfinished"></translation>
+        <translation>黑(静音)</translation>
     </message>
     <message>
         <source>White</source>
-        <translation type="unfinished"></translation>
+        <translation>白</translation>
     </message>
     <message>
         <source>Pink</source>
-        <translation type="unfinished"></translation>
+        <translation>粉</translation>
     </message>
     <message>
         <source>Brown</source>
-        <translation type="unfinished"></translation>
+        <translation>棕</translation>
     </message>
     <message>
         <source>Distribution</source>
-        <translation type="unfinished"></translation>
+        <translation>分布</translation>
     </message>
     <message>
         <source>Gaussian</source>
-        <translation type="unfinished"></translation>
+        <translation>高斯</translation>
     </message>
     <message>
         <source>Uniform</source>
-        <translation type="unfinished"></translation>
+        <translation>均匀</translation>
     </message>
     <message>
         <source>Tones</source>
-        <translation type="unfinished"></translation>
+        <translation>音调</translation>
     </message>
     <message>
         <source>Frequency</source>
-        <translation type="unfinished"></translation>
+        <translation>频率</translation>
     </message>
     <message>
         <source>Start</source>
-        <translation type="unfinished"></translation>
+        <translation>起始</translation>
     </message>
     <message>
         <source>300</source>
@@ -4219,135 +4222,135 @@ or your network that you want to open:</source>
     </message>
     <message>
         <source>Hz</source>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
     <message>
         <source>End</source>
-        <translation type="unfinished"></translation>
+        <translation>截止</translation>
     </message>
     <message>
         <source>Options</source>
-        <translation type="unfinished"></translation>
+        <translation>选项</translation>
     </message>
     <message>
         <source>Flavor</source>
-        <translation type="unfinished"></translation>
+        <translation>波形</translation>
     </message>
     <message>
         <source>Sine</source>
-        <translation type="unfinished"></translation>
+        <translation>正弦波</translation>
     </message>
     <message>
         <source>Triangular</source>
-        <translation type="unfinished"></translation>
+        <translation>三角波</translation>
     </message>
     <message>
         <source>Sawtooth</source>
-        <translation type="unfinished"></translation>
+        <translation>锯齿波</translation>
     </message>
     <message>
         <source>Square</source>
-        <translation type="unfinished"></translation>
+        <translation>方波</translation>
     </message>
     <message>
         <source>Lock start and end frequencies</source>
-        <translation type="unfinished"></translation>
+        <translation>锁定起始和截止频率</translation>
     </message>
     <message>
         <source>Fade-in and Fade-out borders</source>
-        <translation type="unfinished"></translation>
+        <translation>边界渐入渐出</translation>
     </message>
     <message>
         <source>DTMF</source>
-        <translation type="unfinished"></translation>
+        <translation>电话拨号音</translation>
     </message>
     <message>
         <source>DTMF Sequence (Valid chars: 123...90#*ABCD,)</source>
-        <translation type="unfinished"></translation>
+        <translation>拨号音序列(支持字符: 123...90#*ABCD,)</translation>
     </message>
     <message>
         <source>DTMF Codes</source>
-        <translation type="unfinished"></translation>
+        <translation>拨号盘</translation>
     </message>
     <message>
         <source>1</source>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
     <message>
         <source>2</source>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
     <message>
         <source>3</source>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
     <message>
         <source>A</source>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
     <message>
         <source>4</source>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
     <message>
         <source>5</source>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
     <message>
         <source>6</source>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
     <message>
         <source>B</source>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
     <message>
         <source>7</source>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
     <message>
         <source>8</source>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
     <message>
         <source>9</source>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
     <message>
         <source>C</source>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
     <message>
         <source>*</source>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
     <message>
         <source>0</source>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
     <message>
         <source>#</source>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
     <message>
         <source>D</source>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
     <message>
         <source>Code Duration</source>
-        <translation type="unfinished"></translation>
+        <translation>号码时长</translation>
     </message>
     <message>
         <source>100</source>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
     <message>
         <source>ms</source>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
     <message>
         <source>Break Duration</source>
-        <translation type="unfinished"></translation>
+        <translation>中断时长</translation>
     </message>
     <message>
         <source>40</source>
@@ -4355,7 +4358,7 @@ or your network that you want to open:</source>
     </message>
     <message>
         <source>Pause Duration</source>
-        <translation type="unfinished"></translation>
+        <translation>暂停时长</translation>
     </message>
     <message>
         <source>500</source>
@@ -4363,15 +4366,15 @@ or your network that you want to open:</source>
     </message>
     <message>
         <source>Fade Borders</source>
-        <translation type="unfinished"></translation>
+        <translation>边界渐变</translation>
     </message>
     <message>
         <source>Configuration</source>
-        <translation type="unfinished"></translation>
+        <translation>配置</translation>
     </message>
     <message>
         <source>Intensity</source>
-        <translation type="unfinished"></translation>
+        <translation>强度</translation>
     </message>
     <message>
         <source>-6</source>
@@ -4379,11 +4382,11 @@ or your network that you want to open:</source>
     </message>
     <message>
         <source>dB</source>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
     <message>
         <source>Duration</source>
-        <translation type="unfinished"></translation>
+        <translation>时长</translation>
     </message>
     <message>
         <source>10</source>
@@ -4391,50 +4394,50 @@ or your network that you want to open:</source>
     </message>
     <message>
         <source>seconds</source>
-        <translation type="unfinished"></translation>
+        <translation>秒</translation>
     </message>
     <message>
         <source>DTMF Sequence (Valid chars: 1234567890#*ABCD,)</source>
-        <translation type="unfinished"></translation>
+        <translation>拨号音序列(支持字符: 1234567890#*ABCD,)</translation>
     </message>
     <message>
         <source>Preview</source>
-        <translation type="unfinished"></translation>
+        <translation>预览</translation>
     </message>
     <message>
         <source>Generating %1 Noise</source>
-        <translation type="unfinished"></translation>
+        <translation>正在生成%1噪声</translation>
     </message>
     <message>
         <source>%1 Noise Generation</source>
-        <translation type="unfinished"></translation>
+        <translation>生成%1噪声</translation>
     </message>
     <message>
         <source>Generating %1 Tone</source>
-        <translation type="unfinished"></translation>
+        <translation>正在生成%1音调</translation>
     </message>
     <message>
         <source>%1 Tone Generation</source>
-        <translation type="unfinished"></translation>
+        <translation>生成%1音调</translation>
     </message>
     <message>
         <source>Generating DTMF</source>
-        <translation type="unfinished"></translation>
+        <translation>正在生成拨号音</translation>
     </message>
     <message>
         <source>DTMF Generation</source>
-        <translation type="unfinished"></translation>
+        <translation>生成拨号音</translation>
     </message>
 </context>
 <context>
     <name>QSilenceGeneratorDialog</name>
     <message>
         <source>Silence</source>
-        <translation type="unfinished"></translation>
+        <translation>静音</translation>
     </message>
     <message>
         <source>Silence Duration</source>
-        <translation type="unfinished"></translation>
+        <translation>静音长度</translation>
     </message>
     <message>
         <source>10</source>
@@ -4442,18 +4445,18 @@ or your network that you want to open:</source>
     </message>
     <message>
         <source>seconds</source>
-        <translation type="unfinished"></translation>
+        <translation>秒</translation>
     </message>
 </context>
 <context>
     <name>QSoundFormatDialog</name>
     <message>
         <source>Configure Sound Format</source>
-        <translation type="unfinished"></translation>
+        <translation>配置声音格式</translation>
     </message>
     <message>
         <source>File name</source>
-        <translation type="unfinished"></translation>
+        <translation>文件名称</translation>
     </message>
     <message>
         <source>/Users/ruijunior/teste/arquivos de audio/arquivo.pcm</source>
@@ -4461,7 +4464,7 @@ or your network that you want to open:</source>
     </message>
     <message>
         <source>Raw Data Format</source>
-        <translation type="unfinished"></translation>
+        <translation>原始数据格式</translation>
     </message>
     <message>
         <source>Item1</source>
@@ -4477,7 +4480,7 @@ or your network that you want to open:</source>
     </message>
     <message>
         <source>Sample Rate</source>
-        <translation type="unfinished"></translation>
+        <translation>采样率</translation>
     </message>
     <message>
         <source>48000</source>
@@ -4513,74 +4516,74 @@ or your network that you want to open:</source>
     </message>
     <message>
         <source>Hz</source>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
     <message>
         <source>Channels</source>
-        <translation type="unfinished"></translation>
+        <translation>声道</translation>
     </message>
     <message>
         <source>mono</source>
-        <translation type="unfinished"></translation>
+        <translation>单声道</translation>
     </message>
     <message>
         <source>stereo</source>
-        <translation type="unfinished"></translation>
+        <translation>立体声</translation>
     </message>
     <message>
         <source>Use this configuration for next files having extension &apos;.dat&apos;</source>
-        <translation type="unfinished"></translation>
+        <translation>将此设置应用到后续的扩展名为&apos;.dat&apos;的文件</translation>
     </message>
     <message>
         <source>Raw Sound Format</source>
-        <translation type="unfinished"></translation>
+        <translation>原始声音格式</translation>
     </message>
     <message>
         <source>Preview</source>
-        <translation type="unfinished"></translation>
+        <translation>预览</translation>
     </message>
     <message>
         <source>Skip</source>
-        <translation type="unfinished"></translation>
+        <translation>跳过</translation>
     </message>
     <message>
         <source>Use this configuration for next files having extension &apos;.%1&apos;</source>
-        <translation type="unfinished"></translation>
+        <translation>将此设置应用到后续的扩展名为&apos;.%1&apos;的文件</translation>
     </message>
     <message>
         <source>Use this configuration for next files having no extension</source>
-        <translation type="unfinished"></translation>
+        <translation>将此设置应用到后续的无扩展名的文件</translation>
     </message>
     <message>
         <source>3 channels</source>
-        <translation type="unfinished"></translation>
+        <translation>3声道</translation>
     </message>
     <message>
         <source>4 channels</source>
-        <translation type="unfinished"></translation>
+        <translation>4声道</translation>
     </message>
     <message>
         <source>5 channels</source>
-        <translation type="unfinished"></translation>
+        <translation>5声道</translation>
     </message>
     <message>
         <source>6 channels</source>
-        <translation type="unfinished"></translation>
+        <translation>6声道</translation>
     </message>
     <message>
         <source>Custom</source>
-        <translation type="unfinished"></translation>
+        <translation>自定义</translation>
     </message>
     <message>
         <source>%1 channels</source>
-        <translation type="unfinished"></translation>
+        <translation>%1声道</translation>
     </message>
 </context>
 <context>
     <name>QTestDialog</name>
     <message>
         <source>Dialog</source>
-        <translation type="unfinished"></translation>
+        <translation>对话框</translation>
     </message>
     <message>
         <source>Test Graph</source>
@@ -4591,171 +4594,171 @@ or your network that you want to open:</source>
     <name>QuantizerDialog</name>
     <message>
         <source>Apply Quantization</source>
-        <translation type="unfinished"></translation>
+        <translation>应用量化</translation>
     </message>
     <message>
         <source>Quantization Method</source>
-        <translation type="unfinished"></translation>
+        <translation>量化方式</translation>
     </message>
     <message>
         <source>8 bits - PCM Linear</source>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
     <message>
         <source>16 bits - a-Law companding PCM (G.711a)</source>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
     <message>
         <source>16 bits - μ-Law companding PCM (G.711u)</source>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
     <message>
         <source>16 bits - PCM Linear</source>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
     <message>
         <source>16 bits - DVI/IMA Adaptive DPCM</source>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
     <message>
         <source>16 bits - MS Adaptive DPCM (MS-ADPCM)</source>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
     <message>
         <source>16 bits - ETSI GSM 06.10</source>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
     <message>
         <source>24 bits - PCM Linear</source>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
     <message>
         <source>32 bits - PCM Linear</source>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
     <message>
         <source>16 bits - ETSI GSM AMR</source>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
     <message>
         <source>16 bits - ITU-T G729 Annex A ( 8.0 kbps)</source>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
     <message>
         <source>16 bits - ITU-T G729 Annex D ( 6.4 kbps)</source>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
     <message>
         <source>16 bits - ITU-T G729 Annex E (11.8 kbps)</source>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
     <message>
         <source>16 bits - ITU-T G723.1 (6.3 kbps)</source>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
     <message>
         <source>16 bits - ITU-T G723.1 (5.3 kbps)</source>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
     <message>
         <source>16 bits - iLBC 13.3 kbps</source>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
     <message>
         <source>16 bits - iLBC 15.0 kbps</source>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
     <message>
         <source>16 bits - iSAC</source>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
     <message>
         <source>16 bits - GSMAMR-WB ( 6.60 kbps)</source>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
     <message>
         <source>16 bits - GSMAMR-WB ( 8.85 kbps)</source>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
     <message>
         <source>16 bits - GSMAMR-WB (12.65 kbps)</source>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
     <message>
         <source>16 bits - GSMAMR-WB (14.25 kbps)</source>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
     <message>
         <source>16 bits - GSMAMR-WB (15.85 kbps)</source>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
     <message>
         <source>16 bits - GSMAMR-WB (18.25 kbps)</source>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
     <message>
         <source>16 bits - GSMAMR-WB (19.85 kbps)</source>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
     <message>
         <source>16 bits - GSMAMR-WB (23.05 kbps)</source>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
     <message>
         <source>16 bits - GSMAMR-WB (23.85 kbps)</source>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
     <message>
         <source>16 bits - G722.1 ( 24 kbps)</source>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
     <message>
         <source>16 bits - G722.1 ( 32 kbps)</source>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
     <message>
         <source>16 bits - GSM HR 06.20 ( 6.4 kbps)</source>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
     <message>
         <source>16 bits - G.711.1 Mode 1 (a-law)</source>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
     <message>
         <source>16 bits - G.711.1 Mode 1 (μ-law)</source>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
     <message>
         <source>16 bits - G.711.1 Mode 2 (a-law)</source>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
     <message>
         <source>16 bits - G.711.1 Mode 2 (μ-law)</source>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
     <message>
         <source>16 bits - G.711.1 Mode 3 (a-law)</source>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
     <message>
         <source>16 bits - G.711.1 Mode 3 (μ-law)</source>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
     <message>
         <source>16 bits - G.711.1 Mode 4 (a-law)</source>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
     <message>
         <source>16 bits - G.711.1 Mode 4 (μ-law)</source>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
     <message>
         <source>16 bits - G.729.1</source>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
     <message>
         <source>Applying %1 quantization</source>
-        <translation type="unfinished"></translation>
+        <translation>正在应用%1量化</translation>
     </message>
 </context>
 <context>
