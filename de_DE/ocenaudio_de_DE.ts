@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!DOCTYPE TS>
-<TS version="2.1" language="de_DE">
+<TS version="2.0" language="de_DE">
 <context>
     <name>AdjustSampleRateDialog</name>
     <message>
@@ -413,10 +413,6 @@
         <translation>DC Offset...</translation>
     </message>
     <message>
-        <source>Open Url...</source>
-        <translation>URL öffnen...</translation>
-    </message>
-    <message>
         <source>Hide Toolbar</source>
         <translation>Werkzeugleiste verbergen</translation>
     </message>
@@ -739,19 +735,23 @@
     </message>
     <message>
         <source>Record Options</source>
-        <translation type="unfinished"></translation>
+        <translation>Preroll Optionen</translation>
     </message>
     <message>
         <source>Preroll</source>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
     <message>
         <source>Ctrl+P</source>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
     <message>
         <source>Extract Audio From Regions</source>
-        <translation type="unfinished"></translation>
+        <translation>Extrahieren Audio von Regionen</translation>
+    </message>
+    <message>
+        <source>Quick Open...</source>
+        <translation></translation>
     </message>
 </context>
 <context>
@@ -1778,19 +1778,19 @@
     </message>
     <message>
         <source>Label</source>
-        <translation type="unfinished"></translation>
+        <translation>Markerbeschriftung</translation>
     </message>
     <message>
         <source>Position</source>
-        <translation type="unfinished"></translation>
+        <translation>Position</translation>
     </message>
     <message>
         <source>Duration</source>
-        <translation type="unfinished">Länge</translation>
+        <translation>Länge</translation>
     </message>
     <message>
         <source>Comment of region “%1”</source>
-        <translation type="unfinished"></translation>
+        <translation>Kommentar von Region “%1”</translation>
     </message>
 </context>
 <context>
@@ -1816,10 +1816,6 @@
         <translation>Alle Rechte vorbehalten.</translation>
     </message>
     <message>
-        <source>http://www.ocenaudio.com.br</source>
-        <translation>http://www.ocenaudio.com.br</translation>
-    </message>
-    <message>
         <source>Version 2.0.0.rc1 (Build 2292)</source>
         <translation>Version 2.0.0.rc1 (Build 2292)</translation>
     </message>
@@ -1834,6 +1830,10 @@
     <message>
         <source>About ocenaudio</source>
         <translation>Über Ocenaudio</translation>
+    </message>
+    <message>
+        <source>http://www.ocenaudio.com</source>
+        <translation></translation>
     </message>
 </context>
 <context>
@@ -2542,55 +2542,55 @@ Klicken Sie hier zum Herunterladen.</translation>
     </message>
     <message>
         <source>Extract Audio From Regions</source>
-        <translation type="unfinished"></translation>
+        <translation>Extrahieren Audio von Regionen</translation>
     </message>
     <message>
         <source>Enable/Disable Preroll on Recording</source>
-        <translation type="unfinished"></translation>
+        <translation>Aktivieren/Deaktivieren der Effekt auf die Aufnahme</translation>
     </message>
     <message>
         <source>Select “separate” to save each selection to a different file. If you select “single”, all your selections will be appended and saved to a single file.</source>
-        <translation type="unfinished"></translation>
+        <translation>Wählen Sie “trennen”, um jede Auswahl in einer anderen Datei speichern. Wenn Sie “einzelne” auswählen, werden alle Ihre Auswahl wird in eine einzelne Datei angehängt und gespeichert werden.</translation>
     </message>
     <message>
         <source>Mix Pasting</source>
-        <translation type="unfinished"></translation>
+        <translation>Mischen Einfügen</translation>
     </message>
     <message>
         <source>Loading Signal</source>
-        <translation type="unfinished"></translation>
+        <translation>Laden Signal</translation>
     </message>
     <message>
         <source>Generating Signal</source>
-        <translation type="unfinished"></translation>
+        <translation>Erzeuge Signal</translation>
     </message>
     <message>
         <source>Part “%1” of </source>
-        <translation type="unfinished"></translation>
+        <translation>Teil “%1” von</translation>
     </message>
     <message>
         <source>Some regions will be ignored because they are very short.</source>
-        <translation type="unfinished"></translation>
+        <translation>Einige Regionen wird ignoriert, weil sie sehr kurz sind.</translation>
     </message>
     <message>
         <source>Regions with less than 10 ms are ignored. You have one region ignored.</source>
-        <translation type="unfinished"></translation>
+        <translation>Regionen mit weniger als 10 ms, werden ignoriert. Sie haben eine Region ignoriert.</translation>
     </message>
     <message>
         <source>Regions with less than 10 ms are ignored. You have %1 regions ignored.</source>
-        <translation type="unfinished"></translation>
+        <translation>Regionen mit weniger als 10 ms, werden ignoriert. Sie haben %1 Regionen ignoriert.</translation>
     </message>
     <message>
         <source>You are about to extract %1 regions from your audio. Are you sure you want to proceed?</source>
-        <translation type="unfinished"></translation>
+        <translation>Sie sind etwa %1 Regionen von Ihrer Audio zu extrahieren. Sind Sie sicher, dass Sie fortfahren möchten?</translation>
     </message>
     <message>
         <source>Region “%1” of </source>
-        <translation type="unfinished"></translation>
+        <translation>Region “%1” von</translation>
     </message>
     <message>
         <source>Region %1 of </source>
-        <translation type="unfinished"></translation>
+        <translation>Region %1 von </translation>
     </message>
 </context>
 <context>
@@ -2813,11 +2813,11 @@ Klicken Sie hier zum Herunterladen.</translation>
     </message>
     <message>
         <source>Comment of marker #label</source>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
     <message>
         <source>Comment</source>
-        <translation type="unfinished"></translation>
+        <translation>Kommentar</translation>
     </message>
 </context>
 <context>
@@ -3238,11 +3238,11 @@ Klicken Sie hier zum Herunterladen.</translation>
     </message>
     <message>
         <source>Resolution:</source>
-        <translation type="unfinished"></translation>
+        <translation>Auflösung:</translation>
     </message>
     <message>
         <source>%1 bits</source>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
 </context>
 <context>
@@ -3937,19 +3937,19 @@ auf Ihrem Computer oder in Ihrem Netzwerk ein, um sie zu öffnen:</translation>
     </message>
     <message>
         <source>Show in Finder</source>
-        <translation type="unfinished"></translation>
+        <translation>Im Finder anzeigen</translation>
     </message>
     <message>
         <source>Show Plugins List...</source>
-        <translation type="unfinished"></translation>
+        <translation>Plugins Liste Anzeigen...</translation>
     </message>
     <message>
         <source>Remove Path from Search</source>
-        <translation type="unfinished"></translation>
+        <translation>Entfernen Pfad von Suche</translation>
     </message>
     <message>
         <source>Path not Found</source>
-        <translation type="unfinished"></translation>
+        <translation>Pfad nicht gefunden</translation>
     </message>
 </context>
 <context>
@@ -4120,47 +4120,47 @@ auf Ihrem Computer oder in Ihrem Netzwerk ein, um sie zu öffnen:</translation>
     </message>
     <message>
         <source>Convert to Mono</source>
-        <translation type="unfinished"></translation>
+        <translation>Konvertiere in Mono</translation>
     </message>
     <message>
         <source>Sort</source>
-        <translation type="unfinished"></translation>
+        <translation>Sortieren</translation>
     </message>
     <message>
         <source>Disabled</source>
-        <translation type="unfinished"></translation>
+        <translation>Behindert</translation>
     </message>
     <message>
         <source>By Display Name</source>
-        <translation type="unfinished"></translation>
+        <translation>nach Anzeigenamen</translation>
     </message>
     <message>
         <source>By Song Name</source>
-        <translation type="unfinished"></translation>
+        <translation>nach Song-Namen</translation>
     </message>
     <message>
         <source>By Artist Name</source>
-        <translation type="unfinished"></translation>
+        <translation>nach Name des Künstlers</translation>
     </message>
     <message>
         <source>By Album Name</source>
-        <translation type="unfinished"></translation>
+        <translation>nach Albumname </translation>
     </message>
     <message>
         <source>By Duration</source>
-        <translation type="unfinished"></translation>
+        <translation>nach Dauer</translation>
     </message>
     <message>
         <source>By Date</source>
-        <translation type="unfinished"></translation>
+        <translation>nach Datum</translation>
     </message>
     <message>
         <source>Ascending</source>
-        <translation type="unfinished"></translation>
+        <translation>Aufsteigend</translation>
     </message>
     <message>
         <source>Descending</source>
-        <translation type="unfinished"></translation>
+        <translation>Absteigend</translation>
     </message>
 </context>
 <context>
@@ -4827,7 +4827,7 @@ auf Ihrem Computer oder in Ihrem Netzwerk ein, um sie zu öffnen:</translation>
     </message>
     <message>
         <source>High Dpi Image</source>
-        <translation type="unfinished"></translation>
+        <translation>High Dpi Bild</translation>
     </message>
 </context>
 </TS>

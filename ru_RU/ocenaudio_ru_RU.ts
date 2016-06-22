@@ -412,10 +412,6 @@
         <translation>Смещение DC...</translation>
     </message>
     <message>
-        <source>Open Url...</source>
-        <translation>Открыть ссылку...</translation>
-    </message>
-    <message>
         <source>Hide Toolbar</source>
         <translation>Скрыть панель инструментов</translation>
     </message>
@@ -750,6 +746,10 @@
     </message>
     <message>
         <source>Extract Audio From Regions</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Quick Open...</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -1815,10 +1815,6 @@
         <translation>Все права защищены.</translation>
     </message>
     <message>
-        <source>http://www.ocenaudio.com.br</source>
-        <translation>http://www.ocenaudio.com.br</translation>
-    </message>
-    <message>
         <source>Version 2.0.0.rc1 (Build 2292)</source>
         <translation>Версия 2.0.0.rc1 (Build 2292)</translation>
     </message>
@@ -1833,6 +1829,10 @@
     <message>
         <source>About ocenaudio</source>
         <translation>Об ocenaudio</translation>
+    </message>
+    <message>
+        <source>http://www.ocenaudio.com</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>

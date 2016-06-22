@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!DOCTYPE TS>
-<TS version="2.1" language="de_DE">
+<TS version="2.0" language="de_DE">
 <context>
     <name>QAudioStatistics</name>
     <message>
@@ -444,47 +444,47 @@
     </message>
     <message>
         <source>Transform</source>
-        <translation type="unfinished"></translation>
+        <translation>Verwandeln</translation>
     </message>
     <message>
         <source>Change Gain/Offset</source>
-        <translation type="unfinished"></translation>
+        <translation>Audioverstärkung/Offset ändern</translation>
     </message>
     <message>
         <source>Cancel</source>
-        <translation type="unfinished">Abbrechen</translation>
+        <translation>Abbrechen</translation>
     </message>
     <message>
         <source>Waiting for cancellation</source>
-        <translation type="unfinished">Warten auf Abbruch</translation>
+        <translation>Warten auf Abbruch</translation>
     </message>
     <message>
         <source>Remaining</source>
-        <translation type="unfinished">Verbleibend</translation>
+        <translation>Verbleibend</translation>
     </message>
     <message>
         <source>Question</source>
-        <translation type="unfinished">Frage</translation>
+        <translation>Frage</translation>
     </message>
     <message>
         <source>Do you really want to discard the changes made in this region?</source>
-        <translation type="unfinished">Wollen Sie wirklich Änderungen an dieser Region verwerfen?</translation>
+        <translation>Wollen Sie wirklich Änderungen an dieser Region verwerfen?</translation>
     </message>
     <message>
         <source>Changes in region text will be lost if you discard.</source>
-        <translation type="unfinished">Bei Verwerfen gehen Änderungen der Regionbeschreibung verloren.</translation>
+        <translation>Bei Verwerfen gehen Änderungen der Regionbeschreibung verloren.</translation>
     </message>
     <message>
         <source>Save</source>
-        <translation type="unfinished">Speichern</translation>
+        <translation>Speichern</translation>
     </message>
     <message>
         <source>Discard</source>
-        <translation type="unfinished">Verwerfen</translation>
+        <translation>Verwerfen</translation>
     </message>
     <message>
         <source>Track %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Track %1</translation>
     </message>
 </context>
 <context>
@@ -993,19 +993,19 @@
     </message>
     <message>
         <source>Your sound “%1” contains informations that can not be saved in the selected format. You want to continue and export to this format?</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Unsuported information will not be present in the exported file.</source>
-        <translation type="unfinished"></translation>
+        <translation>Die audio “%1” enthält Informationen, die nicht in dem ausgewählten Format gespeichert werden kann. Sie wollen dieses Format fortzusetzen und exportieren?</translation>
     </message>
     <message>
         <source>Export</source>
-        <translation type="unfinished"></translation>
+        <translation>Exportieren</translation>
     </message>
     <message>
         <source>Exporting As</source>
-        <translation type="unfinished"></translation>
+        <translation>Exportieren als</translation>
+    </message>
+    <message>
+        <source>Unsupported information will not be present in the exported file.</source>
+        <translation>Nicht unterstützte Daten werden nicht in die exportierte Datei gespeichert werden.</translation>
     </message>
 </context>
 <context>
@@ -1154,23 +1154,23 @@
     </message>
     <message>
         <source>The file for the sound at “%1” is already opened. There are also unsaved changes in ocenaudio.  Do you want to keep the ocenaudio version or revert to the version on disk?</source>
-        <translation type="unfinished"></translation>
+        <translation>Die Datei für die audio bei “%1” ist bereits geöffnet. Es gibt auch nicht gespeicherte änderungen in ocenaudio. Haben Sie die ocenaudio version oder wieder auf die version auf der festplatte behalten wollen?</translation>
     </message>
     <message>
         <source>Cue File Found</source>
-        <translation type="unfinished"></translation>
+        <translation>Cue-Datei gefunden</translation>
     </message>
     <message>
         <source>A cue file containing %2 tracks associated with the “%1” file was found. You want to open these tracks separately?</source>
-        <translation type="unfinished"></translation>
+        <translation>Ein Cue-Datei enthält %2 Spuren mit der “%1” Datei zugeordnet wurde gefunden. Sie wollen separat diese Spuren zu öffnen?</translation>
     </message>
     <message>
         <source>Open Tracks</source>
-        <translation type="unfinished"></translation>
+        <translation>Öffne Tracks</translation>
     </message>
     <message>
         <source>Open Original</source>
-        <translation type="unfinished"></translation>
+        <translation>Öffnen Original</translation>
     </message>
 </context>
 <context>
@@ -1281,11 +1281,11 @@
     <name>QOcenSettingsDialog</name>
     <message>
         <source>Settings</source>
-        <translation type="unfinished">Einstellungen</translation>
+        <translation>Einstellungen</translation>
     </message>
     <message>
         <source>Search</source>
-        <translation type="unfinished"></translation>
+        <translation>Suche</translation>
     </message>
 </context>
 <context>
@@ -1352,15 +1352,15 @@
     </message>
     <message>
         <source>Play head follows cursor position</source>
-        <translation type="unfinished"></translation>
+        <translation>Abspielposition folgt Zeigerposition</translation>
     </message>
     <message>
         <source>Preroll</source>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
     <message>
         <source>Destructive Recording</source>
-        <translation type="unfinished"></translation>
+        <translation>Destruktiven Aufnahme</translation>
     </message>
 </context>
 <context>

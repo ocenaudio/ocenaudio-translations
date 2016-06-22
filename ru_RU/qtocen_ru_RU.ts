@@ -996,15 +996,15 @@
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Unsuported information will not be present in the exported file.</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>Export</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Exporting As</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Unsupported information will not be present in the exported file.</source>
         <translation type="unfinished"></translation>
     </message>
 </context>

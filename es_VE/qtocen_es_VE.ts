@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!DOCTYPE TS>
-<TS version="2.0" language="es_VE" sourcelanguage="en">
+<TS version="2.1" language="es_VE" sourcelanguage="en">
 <context>
     <name>QAudioStatistics</name>
     <message>
@@ -996,16 +996,16 @@
         <translation>Su sonido “%1” contiene informaciones que no se pueden guardar en el formato seleccionado. ¿Desea continuar y exportar a este formato?</translation>
     </message>
     <message>
-        <source>Unsuported information will not be present in the exported file.</source>
-        <translation>La información no soportada no estará presente en el archivo exportado.</translation>
-    </message>
-    <message>
         <source>Export</source>
         <translation>Exportar</translation>
     </message>
     <message>
         <source>Exporting As</source>
         <translation>Exportando como</translation>
+    </message>
+    <message>
+        <source>Unsupported information will not be present in the exported file.</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>

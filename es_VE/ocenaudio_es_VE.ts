@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!DOCTYPE TS>
-<TS version="2.0" language="es_VE" sourcelanguage="en">
+<TS version="2.1" language="es_VE" sourcelanguage="en">
 <context>
     <name>AdjustSampleRateDialog</name>
     <message>
@@ -412,10 +412,6 @@
         <translation>DC Offset...</translation>
     </message>
     <message>
-        <source>Open Url...</source>
-        <translation>Abrir URL...</translation>
-    </message>
-    <message>
         <source>Hide Toolbar</source>
         <translation>Ocultar barra de herramientas</translation>
     </message>
@@ -751,6 +747,10 @@
     <message>
         <source>Extract Audio From Regions</source>
         <translation>Extraer audio de las regiones</translation>
+    </message>
+    <message>
+        <source>Quick Open...</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -1815,10 +1815,6 @@
         <translation>Todos los derechos reservados.</translation>
     </message>
     <message>
-        <source>http://www.ocenaudio.com.br</source>
-        <translation>http://www.ocenaudio.com.br</translation>
-    </message>
-    <message>
         <source>Version 2.0.0.rc1 (Build 2292)</source>
         <translation>Versión 2.0.0.rc1 (Build 2292)</translation>
     </message>
@@ -1833,6 +1829,10 @@
     <message>
         <source>About ocenaudio</source>
         <translation>Acerca de ocenaudio</translation>
+    </message>
+    <message>
+        <source>http://www.ocenaudio.com</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>

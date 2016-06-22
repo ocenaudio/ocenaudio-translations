@@ -536,10 +536,6 @@
         <translation>DC偏り...</translation>
     </message>
     <message>
-        <source>Open Url...</source>
-        <translation>Urlを開く...</translation>
-    </message>
-    <message>
         <source>Hide Toolbar</source>
         <translation>ツールバーを非表示</translation>
     </message>
@@ -750,6 +746,10 @@
     </message>
     <message>
         <source>Extract Audio From Regions</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Quick Open...</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -1834,8 +1834,8 @@
         <translation>オセンオーディオについて</translation>
     </message>
     <message>
-        <source>http://www.ocenaudio.com.br</source>
-        <translation></translation>
+        <source>http://www.ocenaudio.com</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>

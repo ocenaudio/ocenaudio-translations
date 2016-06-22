@@ -996,16 +996,16 @@
         <translation>Seu arquivo “%1” contém informações que não podem ser salvas no formato escolhido. Você deseja prosseguir exportando para este formato?</translation>
     </message>
     <message>
-        <source>Unsuported information will not be present in the exported file.</source>
-        <translation>Informação não suportada não será salva no arquivo exportado.</translation>
-    </message>
-    <message>
         <source>Export</source>
         <translation>Exportar</translation>
     </message>
     <message>
         <source>Exporting As</source>
         <translation>Exportando Como</translation>
+    </message>
+    <message>
+        <source>Unsupported information will not be present in the exported file.</source>
+        <translation>Informação não suportada não será salva no arquivo exportado.</translation>
     </message>
 </context>
 <context>

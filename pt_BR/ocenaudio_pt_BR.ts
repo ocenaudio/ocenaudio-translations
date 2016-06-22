@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!DOCTYPE TS>
-<TS version="2.0" language="pt_BR" sourcelanguage="en_US">
+<TS version="2.1" language="pt_BR" sourcelanguage="en_US">
 <context>
     <name>AdjustSampleRateDialog</name>
     <message>
@@ -372,10 +372,6 @@
     <message>
         <source>DC Offset...</source>
         <translation>Offset DC...</translation>
-    </message>
-    <message>
-        <source>Open Url...</source>
-        <translation>Abrir Url...</translation>
     </message>
     <message>
         <source>Create Region</source>
@@ -753,6 +749,10 @@
     <message>
         <source>Extract Audio From Regions</source>
         <translation>Extrair Áudio das Regiões</translation>
+    </message>
+    <message>
+        <source>Quick Open...</source>
+        <translation></translation>
     </message>
 </context>
 <context>
@@ -1835,8 +1835,8 @@
         <translation></translation>
     </message>
     <message>
-        <source>http://www.ocenaudio.com.br</source>
-        <translation>http://www.ocenaudio.com.br</translation>
+        <source>http://www.ocenaudio.com</source>
+        <translation></translation>
     </message>
 </context>
 <context>

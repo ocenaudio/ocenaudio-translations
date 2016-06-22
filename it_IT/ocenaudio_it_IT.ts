@@ -413,10 +413,6 @@
         <translation>Offset DC...</translation>
     </message>
     <message>
-        <source>Open Url...</source>
-        <translation>Apri Url...</translation>
-    </message>
-    <message>
         <source>Hide Toolbar</source>
         <translation>Nascondi la barra strumenti</translation>
     </message>
@@ -757,6 +753,10 @@
     </message>
     <message>
         <source>Extract Audio From Regions</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Quick Open...</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -1822,10 +1822,6 @@
         <translation>Tutti i diritti riservati.</translation>
     </message>
     <message>
-        <source>http://www.ocenaudio.com.br</source>
-        <translation></translation>
-    </message>
-    <message>
         <source>Version 2.0.0.rc1 (Build 2292)</source>
         <translation></translation>
     </message>
@@ -1840,6 +1836,10 @@
     <message>
         <source>About ocenaudio</source>
         <translation>Informazioni su ocenaudio</translation>
+    </message>
+    <message>
+        <source>http://www.ocenaudio.com</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>

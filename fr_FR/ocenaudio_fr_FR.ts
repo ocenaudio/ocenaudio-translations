@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!DOCTYPE TS>
-<TS version="2.1" language="fr_FR">
+<TS version="2.0" language="fr_FR">
 <context>
     <name>AdjustSampleRateDialog</name>
     <message>
@@ -536,10 +536,6 @@
         <translation>Décalage DC...</translation>
     </message>
     <message>
-        <source>Open Url...</source>
-        <translation>Ouvrir Url...</translation>
-    </message>
-    <message>
         <source>Hide Toolbar</source>
         <translation>Cacher la barre d&apos;outils</translation>
     </message>
@@ -738,19 +734,23 @@
     </message>
     <message>
         <source>Record Options</source>
-        <translation type="unfinished"></translation>
+        <translation>Options d&apos;enregistrement</translation>
     </message>
     <message>
         <source>Preroll</source>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
     <message>
         <source>Ctrl+P</source>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
     <message>
         <source>Extract Audio From Regions</source>
-        <translation type="unfinished"></translation>
+        <translation>Extraire l&apos;audio des régions</translation>
+    </message>
+    <message>
+        <source>Quick Open...</source>
+        <translation></translation>
     </message>
 </context>
 <context>
@@ -1777,19 +1777,19 @@
     </message>
     <message>
         <source>Label</source>
-        <translation type="unfinished"></translation>
+        <translation>Étiquette</translation>
     </message>
     <message>
         <source>Position</source>
-        <translation type="unfinished"></translation>
+        <translation>Position</translation>
     </message>
     <message>
         <source>Duration</source>
-        <translation type="unfinished">Durrée</translation>
+        <translation>Durrée</translation>
     </message>
     <message>
         <source>Comment of region “%1”</source>
-        <translation type="unfinished"></translation>
+        <translation>Commentaire de la région “%1”</translation>
     </message>
 </context>
 <context>
@@ -1832,8 +1832,8 @@
         <translation>À propos de ocenaudio</translation>
     </message>
     <message>
-        <source>http://www.ocenaudio.com.br</source>
-        <translation>http://www.ocenaudio.com.br</translation>
+        <source>http://www.ocenaudio.com</source>
+        <translation></translation>
     </message>
 </context>
 <context>
@@ -2542,55 +2542,55 @@ Cliquez ici pour le télécharger.</translation>
     </message>
     <message>
         <source>Extract Audio From Regions</source>
-        <translation type="unfinished"></translation>
+        <translation>Extraire l&apos;audio des régions</translation>
     </message>
     <message>
         <source>Enable/Disable Preroll on Recording</source>
-        <translation type="unfinished"></translation>
+        <translation>Activer/Désactiver Preroll dans l&apos;enregistrement</translation>
     </message>
     <message>
         <source>Select “separate” to save each selection to a different file. If you select “single”, all your selections will be appended and saved to a single file.</source>
-        <translation type="unfinished"></translation>
+        <translation>Sélectionnez “séparée” pour enregistrer chaque sélection dans un fichier différent. Si vous sélectionnez “single”, toutes vos sélections seront ajoutées et enregistrées dans un seul fichier.</translation>
     </message>
     <message>
         <source>Mix Pasting</source>
-        <translation type="unfinished"></translation>
+        <translation>Coller spéciale</translation>
     </message>
     <message>
         <source>Loading Signal</source>
-        <translation type="unfinished"></translation>
+        <translation>Chargement du signal</translation>
     </message>
     <message>
         <source>Generating Signal</source>
-        <translation type="unfinished"></translation>
+        <translation>Générer le signal</translation>
     </message>
     <message>
         <source>Part “%1” of </source>
-        <translation type="unfinished"></translation>
+        <translation>Partie %1 de </translation>
     </message>
     <message>
         <source>Some regions will be ignored because they are very short.</source>
-        <translation type="unfinished"></translation>
+        <translation>Certaines régions seront ignorées car elles sont très courtes.</translation>
     </message>
     <message>
         <source>Regions with less than 10 ms are ignored. You have one region ignored.</source>
-        <translation type="unfinished"></translation>
+        <translation>Les régions de moins de 10 ms sont ignorées. Vous avez une région ignorée.</translation>
     </message>
     <message>
         <source>Regions with less than 10 ms are ignored. You have %1 regions ignored.</source>
-        <translation type="unfinished"></translation>
+        <translation>Les régions de moins de 10 ms sont ignorées. Vous avez %1 régions ignorées.</translation>
     </message>
     <message>
         <source>You are about to extract %1 regions from your audio. Are you sure you want to proceed?</source>
-        <translation type="unfinished"></translation>
+        <translation>Vous êtes sur le point d&apos;extraire %1 régions de votre audio. Êtes-vous sûr de vouloir continuer?</translation>
     </message>
     <message>
         <source>Region “%1” of </source>
-        <translation type="unfinished"></translation>
+        <translation>Région “%1” de </translation>
     </message>
     <message>
         <source>Region %1 of </source>
-        <translation type="unfinished"></translation>
+        <translation>Région %1 de </translation>
     </message>
 </context>
 <context>
@@ -2813,11 +2813,11 @@ Cliquez ici pour le télécharger.</translation>
     </message>
     <message>
         <source>Comment of marker #label</source>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
     <message>
         <source>Comment</source>
-        <translation type="unfinished"></translation>
+        <translation>Commentaire</translation>
     </message>
 </context>
 <context>
@@ -3240,11 +3240,11 @@ Cliquez ici pour le télécharger.</translation>
     </message>
     <message>
         <source>Resolution:</source>
-        <translation type="unfinished"></translation>
+        <translation>Résolution:</translation>
     </message>
     <message>
         <source>%1 bits</source>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
 </context>
 <context>
@@ -3939,19 +3939,19 @@ ou votre réseau que vous souhaitez ouvrir:</translation>
     </message>
     <message>
         <source>Show in Finder</source>
-        <translation type="unfinished"></translation>
+        <translation>Afficher dans le Finder</translation>
     </message>
     <message>
         <source>Show Plugins List...</source>
-        <translation type="unfinished"></translation>
+        <translation>Voir Plugins Liste...</translation>
     </message>
     <message>
         <source>Remove Path from Search</source>
-        <translation type="unfinished"></translation>
+        <translation>Supprimer Chemin de Recherche</translation>
     </message>
     <message>
         <source>Path not Found</source>
-        <translation type="unfinished"></translation>
+        <translation>Chemin introuvable</translation>
     </message>
 </context>
 <context>
@@ -4122,47 +4122,47 @@ ou votre réseau que vous souhaitez ouvrir:</translation>
     </message>
     <message>
         <source>Convert to Mono</source>
-        <translation type="unfinished"></translation>
+        <translation>Convertir en mono</translation>
     </message>
     <message>
         <source>Sort</source>
-        <translation type="unfinished"></translation>
+        <translation>Trier</translation>
     </message>
     <message>
         <source>Disabled</source>
-        <translation type="unfinished"></translation>
+        <translation>Désactivé</translation>
     </message>
     <message>
         <source>By Display Name</source>
-        <translation type="unfinished"></translation>
+        <translation>Par nom d&apos;affichage</translation>
     </message>
     <message>
         <source>By Song Name</source>
-        <translation type="unfinished"></translation>
+        <translation>Par nom de la chanson</translation>
     </message>
     <message>
         <source>By Artist Name</source>
-        <translation type="unfinished"></translation>
+        <translation>Par nom d&apos;artiste</translation>
     </message>
     <message>
         <source>By Album Name</source>
-        <translation type="unfinished"></translation>
+        <translation>Par nom de l&apos;album</translation>
     </message>
     <message>
         <source>By Duration</source>
-        <translation type="unfinished"></translation>
+        <translation>Par durée</translation>
     </message>
     <message>
         <source>By Date</source>
-        <translation type="unfinished"></translation>
+        <translation>Par date</translation>
     </message>
     <message>
         <source>Ascending</source>
-        <translation type="unfinished"></translation>
+        <translation>Ordre croissant</translation>
     </message>
     <message>
         <source>Descending</source>
-        <translation type="unfinished"></translation>
+        <translation>Ordre décroissant</translation>
     </message>
 </context>
 <context>
@@ -4829,7 +4829,7 @@ ou votre réseau que vous souhaitez ouvrir:</translation>
     </message>
     <message>
         <source>High Dpi Image</source>
-        <translation type="unfinished"></translation>
+        <translation>High Dpi Image</translation>
     </message>
 </context>
 </TS>
