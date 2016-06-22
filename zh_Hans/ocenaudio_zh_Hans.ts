@@ -84,7 +84,7 @@
     </message>
     <message>
         <source>Display Time Format</source>
-        <translation>显示时间格式</translation>
+        <translation>时间显示格式</translation>
     </message>
     <message>
         <source>Vertical Scale Format</source>
@@ -100,7 +100,7 @@
     </message>
     <message>
         <source>Extra Tracks</source>
-        <translation>更多音轨</translation>
+        <translation>扩展轨</translation>
     </message>
     <message>
         <source>Regions and Markers</source>
@@ -248,7 +248,7 @@
     </message>
     <message>
         <source>Spectral View</source>
-        <translation>光谱视图</translation>
+        <translation>频谱视图</translation>
     </message>
     <message>
         <source>Waveform &amp;&amp; Spectral View</source>
@@ -381,7 +381,7 @@
     </message>
     <message>
         <source>Noise</source>
-        <translation>噪音</translation>
+        <translation>噪声</translation>
     </message>
     <message>
         <source>DTMF</source>
@@ -437,11 +437,11 @@
     </message>
     <message>
         <source>Audio Screenshot...</source>
-        <translation>波形截图...</translation>
+        <translation>音频截图...</translation>
     </message>
     <message>
         <source>Invert Selection</source>
-        <translation>倒置所选</translation>
+        <translation>反向选中</translation>
     </message>
     <message>
         <source>Silence</source>
@@ -710,7 +710,7 @@
     </message>
     <message>
         <source>Detect DTMF Tones</source>
-        <translation>检测电话拨号声</translation>
+        <translation>检测电话拨号音</translation>
     </message>
     <message>
         <source>Rescan Audio Devices</source>
@@ -1692,7 +1692,7 @@
     </message>
     <message>
         <source>Number of Bins</source>
-        <translation type="unfinished"></translation>
+        <translation>样本数</translation>
     </message>
     <message>
         <source>Scale Kind</source>
@@ -2241,7 +2241,7 @@ Click here to download it.</source>
     </message>
     <message>
         <source>Your current changes will be lost.</source>
-        <translation>当前更新过的内容将丢失。</translation>
+        <translation>当前修改过的内容将丢失。</translation>
     </message>
     <message>
         <source>Revert</source>
@@ -2253,7 +2253,7 @@ Click here to download it.</source>
     </message>
     <message>
         <source>Save Audio Screenshot</source>
-        <translation>保存波形截图</translation>
+        <translation>保存音频截图</translation>
     </message>
     <message>
         <source>Images (*.png *.xpm *.jpg)</source>
@@ -2613,7 +2613,7 @@ Click here to download it.</source>
     </message>
     <message>
         <source>General</source>
-        <translation></translation>
+        <translation>通用</translation>
     </message>
     <message>
         <source>File Name</source>
@@ -2769,7 +2769,7 @@ Click here to download it.</source>
     </message>
     <message>
         <source>bpm</source>
-        <translation type="unfinished"></translation>
+        <translation>曲速</translation>
     </message>
     <message>
         <source>Keywords</source>
@@ -2824,11 +2824,11 @@ Click here to download it.</source>
     <name>QOcenCrashReportDialog</name>
     <message>
         <source>ocenaudio Crashed Previously</source>
-        <translation type="unfinished"></translation>
+        <translation>ocenaudio刚刚挂掉了</translation>
     </message>
     <message>
         <source>ocenaudio crashed previously</source>
-        <translation type="unfinished"></translation>
+        <translation>ocenaudio刚刚挂掉了</translation>
     </message>
     <message>
         <source>Do you want to send details on the crash to ocenaudio&apos;s development team?</source>
@@ -2836,7 +2836,7 @@ Click here to download it.</source>
     </message>
     <message>
         <source>If you want, you can enter a few lines on what you did before ocenaudio crashed along with other helpful information: sample file, os crash report, screen shots, ...</source>
-        <translation type="unfinished"></translation>
+        <translation>如果愿意，你可以罗列一下软件挂掉之前所做过的操作，若能提供截图，系统日志或其它有用的信息那就最好了...</translation>
     </message>
     <message>
         <source>If you agree to be contacted about this bug report enter your email below:</source>
