@@ -300,7 +300,7 @@
     </message>
     <message>
         <source>Change Audio Format</source>
-        <translation>改变音频格式</translation>
+        <translation>修改音频格式</translation>
     </message>
     <message>
         <source>Channels Swap</source>
@@ -384,7 +384,7 @@
     </message>
     <message>
         <source>Change Metadata</source>
-        <translation>改变元数据</translation>
+        <translation>修改元数据</translation>
     </message>
     <message>
         <source>Record</source>
@@ -448,7 +448,7 @@
     </message>
     <message>
         <source>Change Gain/Offset</source>
-        <translation>改变增益/偏移量</translation>
+        <translation>修改增益/偏移量</translation>
     </message>
     <message>
         <source>Cancel</source>
@@ -468,11 +468,11 @@
     </message>
     <message>
         <source>Do you really want to discard the changes made in this region?</source>
-        <translation>确认放弃区块中已更新的内容吗?</translation>
+        <translation>确认放弃区块中已修改的内容吗?</translation>
     </message>
     <message>
         <source>Changes in region text will be lost if you discard.</source>
-        <translation>若放弃，区块文本的更新将丢失。</translation>
+        <translation>若放弃，区块文本的修改将丢失。</translation>
     </message>
     <message>
         <source>Save</source>
@@ -550,15 +550,15 @@
     </message>
     <message>
         <source>Change Region Comment</source>
-        <translation>改变区块备注</translation>
+        <translation>修改区块备注</translation>
     </message>
     <message>
         <source>Change Region Label</source>
-        <translation>改变区块名称</translation>
+        <translation>修改区块名称</translation>
     </message>
     <message>
         <source>Change Region Track</source>
-        <translation>改变区块音轨</translation>
+        <translation>修改区块音轨</translation>
     </message>
     <message>
         <source>Offset Region</source>
@@ -678,7 +678,7 @@
     </message>
     <message>
         <source>General</source>
-        <translation type="unfinished"></translation>
+        <translation>通用</translation>
     </message>
     <message>
         <source>Options</source>
@@ -720,7 +720,7 @@
     </message>
     <message>
         <source>Key</source>
-        <translation>键</translation>
+        <translation>快捷键</translation>
     </message>
     <message>
         <source>Restore to default (no shortcut)</source>
@@ -739,7 +739,7 @@
     </message>
     <message>
         <source>Key Bindings</source>
-        <translation>键绑定</translation>
+        <translation>快捷键</translation>
     </message>
     <message>
         <source>Command</source>
@@ -747,7 +747,7 @@
     </message>
     <message>
         <source>Key</source>
-        <translation>键</translation>
+        <translation>快捷键</translation>
     </message>
 </context>
 <context>
@@ -805,11 +805,11 @@
     </message>
     <message>
         <source>Do you want to save the changes you made in the sound “%1”?</source>
-        <translation>要保存声音文件&quot;%1&quot;中更新过的内容吗?</translation>
+        <translation>要保存声音文件&quot;%1&quot;中修改过的内容吗?</translation>
     </message>
     <message>
         <source>Your changes will be lost if you don’t save them.</source>
-        <translation>若不保存，之前所做的更新将会丢失。</translation>
+        <translation>若不保存，之前所做的修改将会丢失。</translation>
     </message>
     <message>
         <source>Save As...</source>
@@ -921,7 +921,7 @@
     </message>
     <message>
         <source>Audio format not changed</source>
-        <translation>音频格式未改变</translation>
+        <translation>音频格式未修改</translation>
     </message>
     <message>
         <source>The audio signal has already the selected format!</source>
@@ -1193,7 +1193,7 @@
     </message>
     <message>
         <source>To proceed with the installation it is necessary to first update ocenaudio.</source>
-        <translation>若要继续安装，请先更新 ocenaudio软件版本。</translation>
+        <translation>若要继续安装，请先更新ocenaudio软件版本。</translation>
     </message>
     <message>
         <source>Question</source>
@@ -1316,7 +1316,7 @@
     </message>
     <message>
         <source>Mixer Sample Rate</source>
-        <translation>调音台采样率</translation>
+        <translation>混音采样率</translation>
     </message>
     <message>
         <source>48000 Hz</source>
@@ -1332,7 +1332,7 @@
     </message>
     <message>
         <source>Mixer Backend</source>
-        <translation>高音台后台</translation>
+        <translation>混音引擎</translation>
     </message>
     <message>
         <source>CoreAudio</source>
@@ -1379,7 +1379,7 @@
     </message>
     <message>
         <source>Number of Bins:</source>
-        <translation type="unfinished"></translation>
+        <translation>取样数:</translation>
     </message>
     <message>
         <source>Window Type:</source>
@@ -1415,11 +1415,11 @@
     </message>
     <message>
         <source>Narrow Band</source>
-        <translation type="unfinished"></translation>
+        <translation>窄波段</translation>
     </message>
     <message>
         <source>Wide Band</source>
-        <translation type="unfinished"></translation>
+        <translation>宽波段</translation>
     </message>
     <message>
         <source>Custom</source>
@@ -1451,7 +1451,7 @@
     </message>
     <message>
         <source>Inv. Linear Grayscale</source>
-        <translation type="unfinished"></translation>
+        <translation>反向线性灰度</translation>
     </message>
     <message>
         <source>Linear Grayscale</source>
@@ -1463,7 +1463,7 @@
     </message>
     <message>
         <source>Inv. Grayscale</source>
-        <translation type="unfinished"></translation>
+        <translation>反向灰度</translation>
     </message>
     <message>
         <source>Color</source>
@@ -1471,7 +1471,7 @@
     </message>
     <message>
         <source>Spectrogram</source>
-        <translation type="unfinished"></translation>
+        <translation>频谱图</translation>
     </message>
 </context>
 <context>
