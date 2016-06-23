@@ -881,7 +881,7 @@
     </message>
     <message>
         <source>The current file&apos;s format does not support these settings. Do you want to make this changes anyway?</source>
-        <translation type="unfinished"></translation>
+        <translation>当前的文件格式不支持此设置，确认要修改吗?</translation>
     </message>
     <message>
         <source>If you proceed, you will have to save the file with a different format.</source>
@@ -889,7 +889,7 @@
     </message>
     <message>
         <source>The current file&apos;s format does not support regions and/or markers. Do you want to create this region anyway?</source>
-        <translation type="unfinished"></translation>
+        <translation>当前的文件格式不支持区块或标记，还要创建区块吗?</translation>
     </message>
     <message>
         <source>You are about to undo past the last point this sound was saved. Do you want to do this?</source>
@@ -929,7 +929,7 @@
     </message>
     <message>
         <source>The conversion from region to loop will discard comments. You want to proceed?</source>
-        <translation type="unfinished"></translation>
+        <translation>将区块转换成循环段后区块原有备注将会丢失，确认继续吗?</translation>
     </message>
     <message>
         <source>If you continue, all comments, from this region, will be removed.</source>
@@ -993,7 +993,7 @@
     </message>
     <message>
         <source>Your sound “%1” contains informations that can not be saved in the selected format. You want to continue and export to this format?</source>
-        <translation type="unfinished"></translation>
+        <translation>声音文件&quot;%1&quot;包含的有些信息无法以此格式保存，确认继续此格式导出吗?</translation>
     </message>
     <message>
         <source>Unsuported information will not be present in the exported file.</source>
@@ -1078,7 +1078,7 @@
     </message>
     <message>
         <source>Opening &quot;%1&quot;</source>
-        <translation type="unfinished"></translation>
+        <translation>正在打开&quot;%1&quot;</translation>
     </message>
     <message>
         <source>Question</source>
@@ -1094,7 +1094,7 @@
     </message>
     <message>
         <source>Revert</source>
-        <translation type="unfinished"></translation>
+        <translation>恢复</translation>
     </message>
     <message>
         <source>File not found.</source>
@@ -1122,7 +1122,7 @@
     </message>
     <message>
         <source>The number of audio channels in this file has exceeded the maximum number of audio channels supported.</source>
-        <translation type="unfinished"></translation>
+        <translation>此文件的声道数目超出了最多支持的声道数。</translation>
     </message>
     <message>
         <source>Check if your file have an incorrect or unsuported format.</source>
@@ -1134,7 +1134,7 @@
     </message>
     <message>
         <source>The package “%1” does not contains any supported audio file.</source>
-        <translation type="unfinished"></translation>
+        <translation>”%1“中未包含支持的音频文件。</translation>
     </message>
     <message>
         <source>File not found!</source>
@@ -1142,7 +1142,7 @@
     </message>
     <message>
         <source>The file “%1” was not found. Check if your filename is valid and you have permission to open it.</source>
-        <translation type="unfinished"></translation>
+        <translation>文件&quot;%1&quot;未找到，请先确认文件名是否正确或有打开权限。</translation>
     </message>
     <message>
         <source>Analyzing files in %1 %2</source>
