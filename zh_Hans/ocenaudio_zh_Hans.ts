@@ -172,7 +172,7 @@
     </message>
     <message>
         <source>Duplicate</source>
-        <translation>复制</translation>
+        <translation>克隆</translation>
     </message>
     <message>
         <source>Open...</source>
@@ -752,6 +752,10 @@
         <source>Extract Audio From Regions</source>
         <translation>从区块提取音频</translation>
     </message>
+    <message>
+        <source>Quick Open...</source>
+        <translation>快速打开...</translation>
+    </message>
 </context>
 <context>
     <name>NavigatorDialog</name>
@@ -773,7 +777,7 @@
     </message>
     <message>
         <source>Duration</source>
-        <translation>持续时间</translation>
+        <translation>时长</translation>
     </message>
     <message>
         <source>Begin</source>
