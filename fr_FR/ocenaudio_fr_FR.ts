@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!DOCTYPE TS>
-<TS version="2.0" language="fr_FR">
+<TS version="2.1" language="fr_FR">
 <context>
     <name>AdjustSampleRateDialog</name>
     <message>
@@ -794,10 +794,6 @@
 </context>
 <context>
     <name>QAddNoiseWidget</name>
-    <message>
-        <source>Form</source>
-        <translation></translation>
-    </message>
     <message>
         <source>Color</source>
         <translation>Couleur</translation>
@@ -1857,6 +1853,14 @@ Cliquez ici et vérifiez!</translation>
 Click here to download it.</source>
         <translation>Une nouvelle version de ocenaudio disponibles.
 Cliquez ici pour le télécharger.</translation>
+    </message>
+    <message>
+        <source>Use ocenaudio 64-bit!</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>You are using a 64-bit operating system and ocenaudio is available for this architecture. For better performance use the 64-bit version of ocenaudio.</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -3531,10 +3535,6 @@ Cliquez ici pour le télécharger.</translation>
     <message>
         <source>Apply</source>
         <translation>Appliquer</translation>
-    </message>
-    <message>
-        <source>bypass</source>
-        <translation></translation>
     </message>
     <message>
         <source>Save Preset</source>

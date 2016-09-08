@@ -797,10 +797,6 @@
 <context>
     <name>QAddNoiseWidget</name>
     <message>
-        <source>Form</source>
-        <translation></translation>
-    </message>
-    <message>
         <source>Color</source>
         <translation>Coloração</translation>
     </message>
@@ -1860,6 +1856,14 @@ Clique aqui para verificar!</translation>
 Click here to download it.</source>
         <translation>Uma nova versão do ocenaudio está disponível.
 Clique aqui para baixá-la.</translation>
+    </message>
+    <message>
+        <source>Use ocenaudio 64-bit!</source>
+        <translation>Use ocenaudio 64 bits!</translation>
+    </message>
+    <message>
+        <source>You are using a 64-bit operating system and ocenaudio is available for this architecture. For better performance use the 64-bit version of ocenaudio.</source>
+        <translation>Você está usando um sistema operacional de 64 bits e o ocenaudio está disponível para esta arquitetura. Para um melhor desempenho, use a versão de 64 bits do ocenaudio.</translation>
     </message>
 </context>
 <context>
@@ -3534,10 +3538,6 @@ Clique aqui para baixá-la.</translation>
     <message>
         <source>Apply</source>
         <translation>Aplicar</translation>
-    </message>
-    <message>
-        <source>bypass</source>
-        <translation></translation>
     </message>
     <message>
         <source>Save Preset</source>

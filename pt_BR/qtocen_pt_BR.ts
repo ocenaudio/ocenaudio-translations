@@ -486,6 +486,10 @@
         <source>Track %1</source>
         <translation>Trilha %1</translation>
     </message>
+    <message>
+        <source>@%1 (unlinked)</source>
+        <translation>@%1 (desvinculado)</translation>
+    </message>
 </context>
 <context>
     <name>QOcenApplication</name>
@@ -604,6 +608,38 @@
     <message>
         <source>You can drop audio files, folders, archives, urls and playlists.</source>
         <translation>Você pode soltar arquivos de áudio, pastas, pacotes, urls e playlists.</translation>
+    </message>
+    <message>
+        <source>Cancel</source>
+        <translation>Cancelar</translation>
+    </message>
+    <message>
+        <source>Close</source>
+        <translation>Fechar</translation>
+    </message>
+    <message>
+        <source>Play</source>
+        <translation>Reproduzir</translation>
+    </message>
+    <message>
+        <source>Stop</source>
+        <translation>Parar</translation>
+    </message>
+    <message>
+        <source>Link the view state of this audio to the current visible audio</source>
+        <translation>Vincular o estado de visão deste áudio com o áudio visível atualmente</translation>
+    </message>
+    <message>
+        <source>Unlink the view state of this audio</source>
+        <translation>Desvincular o estado de visão deste áudio</translation>
+    </message>
+    <message>
+        <source>Link the view state of this audio to others linked audios (if any)</source>
+        <translation>Vincular o estado de visão deste áudio com outros áudios vinculados (se houverem)</translation>
+    </message>
+    <message>
+        <source>Save</source>
+        <translation>Salvar</translation>
     </message>
 </context>
 <context>
@@ -868,32 +904,8 @@
         <translation>Fechando %1 arquivos...</translation>
     </message>
     <message>
-        <source>The file for the sound at %1 has been modified by another application.  There are also unsaved changes in ocenaudio.  Do you want to keep the ocenaudio version or revert to the version on disk?</source>
-        <translation>O arquivo de áudio %1 foi modificado por algum outro aplicativo e existem alterações ainda não salvas no ocenaudio. Você gostaria de manter a versão do ocenaudio ou reverter para a versão em disco?</translation>
-    </message>
-    <message>
-        <source>The file for the sound that was at %1 is now empty. Do you want to re-save the sound or close it?</source>
-        <translation>O arquivo de audio previamente salvo como %1 está vazio. Você quer re-salvar ou fechar este arquivo?</translation>
-    </message>
-    <message>
-        <source>The file for the sound that was at %1 is now corrupted. Do you want to re-save the sound or close it?</source>
-        <translation>O arquivo de audio previamente salvo como %1 está corrompido. Você quer re-salvar ou fechar este arquivo?</translation>
-    </message>
-    <message>
-        <source>The file for the sound that was at %1 has disappeared.  Do you want to re-save the sound or close it?</source>
-        <translation>O arquivo de audio %1 desapareceu. Você gostaria de re-salvar este arquivo ou fechá-lo?</translation>
-    </message>
-    <message>
-        <source>Re-Save</source>
-        <translation>Re-Salvar</translation>
-    </message>
-    <message>
         <source>Close</source>
         <translation>Fechar</translation>
-    </message>
-    <message>
-        <source>The file for the sound that was at %1 has disappeared. The document has previously unsaved changes. Do you want to re-save the sound or close it?</source>
-        <translation>O arquivo de audio %1 desapareceu. Entretanto, este audio possui alterações que nunca foram salvas. Você gostaria de re-salvar este arquivo ou fechá-lo?</translation>
     </message>
     <message>
         <source>The current file&apos;s format does not support these settings. Do you want to make this changes anyway?</source>
@@ -1006,6 +1018,38 @@
     <message>
         <source>Unsupported information will not be present in the exported file.</source>
         <translation>Informação não suportada não será salva no arquivo exportado.</translation>
+    </message>
+    <message>
+        <source>The file for the sound that was at %1 is now empty. Do you want to keep as new, save or close the sound?</source>
+        <translation>O arquivo para o áudio que estava em %1 agora está vazio. Deseja manter como novo, salvar ou fechar o áudio?</translation>
+    </message>
+    <message>
+        <source>The file for the sound that was at %1 is now corrupted. Do you want to keep as new, save or close the sound?</source>
+        <translation>O arquivo para o áudio que estava em %1 está corrompido. Deseja manter como novo, salvar ou fechar o áudio?</translation>
+    </message>
+    <message>
+        <source>Keep as New</source>
+        <translation>Manter como Novo</translation>
+    </message>
+    <message>
+        <source>The file for the sound that was at %1 has disappeared. The document has previously unsaved changes. Do you want to keep as new, save or close the sound?</source>
+        <translation>O arquivo para o áudio que estava em %1 não existe mais. O documento tem mudanção não salvas. Deseja manter como novo, salvar ou fechar o áudio?</translation>
+    </message>
+    <message>
+        <source>Would you like to proceed and reencode the audio?</source>
+        <translation>Deseja prosseguir e recodificar o áudio?</translation>
+    </message>
+    <message>
+        <source>Your changes affect only the metadata, however ocenaudio don&apos;t supports metadata update for this format. If you proceed, a complete rewrite of your file will be done (this may re-encode your audio signal).</source>
+        <translation>Suas modificações afetam somente os metadados, mas o ocenaudio não suporta atualização de metadados para este formato. Se você continuar, uma reescrita completa do seu arquivo será feita (isso pode recodificar o seu sinal de áudio).</translation>
+    </message>
+    <message>
+        <source>The file for the sound at %1 has been modified by another application. There are also unsaved changes in ocenaudio. Do you want to keep the ocenaudio version or revert to the version on disk?</source>
+        <translation>O arquivo para o áudio em %1 foi modificado por outra aplicação. Também existem mudanças não salvas no ocenaudio. Deseja manter como novo, salvar ou fechar o áudio?</translation>
+    </message>
+    <message>
+        <source>The file for the sound that was at %1 has disappeared. Do you want to keep as new, save or close the sound?</source>
+        <translation>O arquivo para o áudio que estava em %1 não existe mais. Deseja manter como novo, salvar ou fechar o áudio?</translation>
     </message>
 </context>
 <context>

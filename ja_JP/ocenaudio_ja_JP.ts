@@ -795,10 +795,6 @@
 <context>
     <name>QAddNoiseWidget</name>
     <message>
-        <source>Form</source>
-        <translation>フォーム</translation>
-    </message>
-    <message>
         <source>Color</source>
         <translation>色</translation>
     </message>
@@ -1859,6 +1855,14 @@ Click here and check!</source>
 Click here to download it.</source>
         <translation>新しいオセンオーディオのバージョンがあります。
 ダウンロードするに、ここにクリックして下さい。</translation>
+    </message>
+    <message>
+        <source>Use ocenaudio 64-bit!</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>You are using a 64-bit operating system and ocenaudio is available for this architecture. For better performance use the 64-bit version of ocenaudio.</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -3533,10 +3537,6 @@ Click here to download it.</source>
     <message>
         <source>Apply</source>
         <translation>適用</translation>
-    </message>
-    <message>
-        <source>bypass</source>
-        <translation>バイパス</translation>
     </message>
     <message>
         <source>Save Preset</source>

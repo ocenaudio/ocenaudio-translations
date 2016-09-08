@@ -486,6 +486,10 @@
         <source>Track %1</source>
         <translation>Pista %1</translation>
     </message>
+    <message>
+        <source>@%1 (unlinked)</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>QOcenApplication</name>
@@ -604,6 +608,38 @@
     <message>
         <source>You can drop audio files, folders, archives, urls and playlists.</source>
         <translation>Puede arrastrar archivos de audio, carpetas, direcciones URLs y listas de reproducción.</translation>
+    </message>
+    <message>
+        <source>Cancel</source>
+        <translation type="unfinished">Cancelar</translation>
+    </message>
+    <message>
+        <source>Close</source>
+        <translation type="unfinished">Cerrar</translation>
+    </message>
+    <message>
+        <source>Play</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Stop</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Link the view state of this audio to the current visible audio</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Unlink the view state of this audio</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Link the view state of this audio to others linked audios (if any)</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Save</source>
+        <translation type="unfinished">Guardar</translation>
     </message>
 </context>
 <context>
@@ -844,10 +880,6 @@
         <translation>Cerrando %1 archivos...</translation>
     </message>
     <message>
-        <source>The file for the sound at %1 has been modified by another application.  There are also unsaved changes in ocenaudio.  Do you want to keep the ocenaudio version or revert to the version on disk?</source>
-        <translation>El archivo para el sonido en %1 ha sido modificado por otra aplicación.  También hay cambios sin guardar en ocenaudio.  ¿Desea mantener la versión de ocenaudio o volver a la versión en el disco?</translation>
-    </message>
-    <message>
         <source>Keep ocenaudio Version</source>
         <translation>Mantener versión de ocenaudio</translation>
     </message>
@@ -856,28 +888,8 @@
         <translation>Revertir</translation>
     </message>
     <message>
-        <source>The file for the sound that was at %1 is now empty. Do you want to re-save the sound or close it?</source>
-        <translation>El archivo para el sonido que estaba en %1 ahora está vacío. ¿Dessea volver a guardar el sonido o cerrarlo?</translation>
-    </message>
-    <message>
-        <source>The file for the sound that was at %1 is now corrupted. Do you want to re-save the sound or close it?</source>
-        <translation>El archivo para el sonido que estaba en %1 ahora está dañado. ¿Desea volver a guardar el sonido o cerrarlo?</translation>
-    </message>
-    <message>
-        <source>Re-Save</source>
-        <translation>Volver a guardar</translation>
-    </message>
-    <message>
         <source>Close</source>
         <translation>Cerrar</translation>
-    </message>
-    <message>
-        <source>The file for the sound that was at %1 has disappeared.  Do you want to re-save the sound or close it?</source>
-        <translation>El archivo para el sonido que estaba en %1 ha desaparecido.  ¿Desea volver a guardar el sonido o cerrarlo?</translation>
-    </message>
-    <message>
-        <source>The file for the sound that was at %1 has disappeared. The document has previously unsaved changes. Do you want to re-save the sound or close it?</source>
-        <translation>El archivo para el sonido que estaba en %1 ha desaparecido. El documento tiene cambios no guardados previamente. ¿Desea volver a guardar el sonido o cerrarlo?</translation>
     </message>
     <message>
         <source>The current file&apos;s format does not support these settings. Do you want to make this changes anyway?</source>
@@ -1005,6 +1017,38 @@
     </message>
     <message>
         <source>Unsupported information will not be present in the exported file.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>The file for the sound that was at %1 is now empty. Do you want to keep as new, save or close the sound?</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>The file for the sound that was at %1 is now corrupted. Do you want to keep as new, save or close the sound?</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Keep as New</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>The file for the sound that was at %1 has disappeared. The document has previously unsaved changes. Do you want to keep as new, save or close the sound?</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Would you like to proceed and reencode the audio?</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Your changes affect only the metadata, however ocenaudio don&apos;t supports metadata update for this format. If you proceed, a complete rewrite of your file will be done (this may re-encode your audio signal).</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>The file for the sound at %1 has been modified by another application. There are also unsaved changes in ocenaudio. Do you want to keep the ocenaudio version or revert to the version on disk?</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>The file for the sound that was at %1 has disappeared. Do you want to keep as new, save or close the sound?</source>
         <translation type="unfinished"></translation>
     </message>
 </context>

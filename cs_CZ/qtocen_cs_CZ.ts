@@ -486,6 +486,10 @@
         <source>Track %1</source>
         <translation type="unfinished"></translation>
     </message>
+    <message>
+        <source>@%1 (unlinked)</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>QOcenApplication</name>
@@ -604,6 +608,38 @@
     <message>
         <source>You can drop audio files, folders, archives, urls and playlists.</source>
         <translation>Můžete přetáhnout zvukové soubory, složky, archivy, URL a seznamy skladeb.</translation>
+    </message>
+    <message>
+        <source>Cancel</source>
+        <translation type="unfinished">Zrušit</translation>
+    </message>
+    <message>
+        <source>Close</source>
+        <translation type="unfinished">Zavřít</translation>
+    </message>
+    <message>
+        <source>Play</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Stop</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Link the view state of this audio to the current visible audio</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Unlink the view state of this audio</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Link the view state of this audio to others linked audios (if any)</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Save</source>
+        <translation type="unfinished">uložit</translation>
     </message>
 </context>
 <context>
@@ -844,10 +880,6 @@
         <translation>Zavři %1 soubory...</translation>
     </message>
     <message>
-        <source>The file for the sound at %1 has been modified by another application.  There are also unsaved changes in ocenaudio.  Do you want to keep the ocenaudio version or revert to the version on disk?</source>
-        <translation>Soubor pro zvuk, který byl v %1. zmizel. Chcete oddělit - uložit zvuk nebo zavřít?</translation>
-    </message>
-    <message>
         <source>Keep ocenaudio Version</source>
         <translation>Ocenaudio verze</translation>
     </message>
@@ -856,28 +888,8 @@
         <translation>Zpět</translation>
     </message>
     <message>
-        <source>The file for the sound that was at %1 is now empty. Do you want to re-save the sound or close it?</source>
-        <translation>Soubor pro zvuk, který byl na %1 je nyní prázdný. Chcete oddělit - uložit zvuk nebo zavřít?</translation>
-    </message>
-    <message>
-        <source>The file for the sound that was at %1 is now corrupted. Do you want to re-save the sound or close it?</source>
-        <translation>Soubor pro zvuk, který byl na %1 je nyní poškozen. Chcete oddělit - uložit zvuk nebo zavřít?</translation>
-    </message>
-    <message>
-        <source>Re-Save</source>
-        <translation>Ulož znovu</translation>
-    </message>
-    <message>
         <source>Close</source>
         <translation>Zavřít</translation>
-    </message>
-    <message>
-        <source>The file for the sound that was at %1 has disappeared.  Do you want to re-save the sound or close it?</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>The file for the sound that was at %1 has disappeared. The document has previously unsaved changes. Do you want to re-save the sound or close it?</source>
-        <translation>Soubor pro zvuk, který byl v %1. zmizel. Tento dokument má již dříve neuložené změny. Chcete oddělit-uložit zvuk nebo zavřít?</translation>
     </message>
     <message>
         <source>The current file&apos;s format does not support these settings. Do you want to make this changes anyway?</source>
@@ -1005,6 +1017,38 @@
     </message>
     <message>
         <source>Unsupported information will not be present in the exported file.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>The file for the sound that was at %1 is now empty. Do you want to keep as new, save or close the sound?</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>The file for the sound that was at %1 is now corrupted. Do you want to keep as new, save or close the sound?</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Keep as New</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>The file for the sound that was at %1 has disappeared. The document has previously unsaved changes. Do you want to keep as new, save or close the sound?</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Would you like to proceed and reencode the audio?</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Your changes affect only the metadata, however ocenaudio don&apos;t supports metadata update for this format. If you proceed, a complete rewrite of your file will be done (this may re-encode your audio signal).</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>The file for the sound at %1 has been modified by another application. There are also unsaved changes in ocenaudio. Do you want to keep the ocenaudio version or revert to the version on disk?</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>The file for the sound that was at %1 has disappeared. Do you want to keep as new, save or close the sound?</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
