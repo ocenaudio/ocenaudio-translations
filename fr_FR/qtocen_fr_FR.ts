@@ -119,10 +119,6 @@
         <translation></translation>
     </message>
     <message>
-        <source>Sound Files</source>
-        <translation>Fichiers sonores</translation>
-    </message>
-    <message>
         <source>All Files</source>
         <translation>Tous les fichiers</translation>
     </message>
@@ -415,18 +411,6 @@
         <translation></translation>
     </message>
     <message>
-        <source>mono</source>
-        <translation>mono</translation>
-    </message>
-    <message>
-        <source>stereo</source>
-        <translation>stéréo</translation>
-    </message>
-    <message>
-        <source>%1 channels</source>
-        <translation>%1 canaux</translation>
-    </message>
-    <message>
         <source>Title</source>
         <translation>Nom</translation>
     </message>
@@ -490,20 +474,60 @@
         <source>@%1 (unlinked)</source>
         <translation type="unfinished"></translation>
     </message>
+    <message>
+        <source>Smooth</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>General</source>
+        <translation type="unfinished">Générale</translation>
+    </message>
+    <message>
+        <source>General Preferences</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Key Bindings</source>
+        <translation type="unfinished">Raccourcis clavier</translation>
+    </message>
+    <message>
+        <source>Key Bindings Preferences</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Network</source>
+        <translation type="unfinished">Réseau</translation>
+    </message>
+    <message>
+        <source>Network Preferences</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Supported Sound Files</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Sound</source>
+        <translation type="unfinished">Son</translation>
+    </message>
+    <message>
+        <source>Sound Preferences</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Spectrogram</source>
+        <translation type="unfinished">Spectrogramme</translation>
+    </message>
+    <message>
+        <source>Spectogram Preferences</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>QOcenApplication</name>
     <message>
-        <source>Regions Comment</source>
-        <translation>Régions commentaires</translation>
-    </message>
-    <message>
         <source>New Sound Device Found</source>
         <translation>Nouveau dispositif sonore trouvé</translation>
-    </message>
-    <message>
-        <source>New Plugin Installed</source>
-        <translation>Nouveau plugin installé</translation>
     </message>
     <message>
         <source>ocenaudio Clipboard with %1 seconds in %2 %3</source>
@@ -586,6 +610,10 @@
     <message>
         <source>Duration</source>
         <translation>Durée</translation>
+    </message>
+    <message>
+        <source>readonly</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -701,20 +729,12 @@
 <context>
     <name>QOcenGeneralPrefs</name>
     <message>
-        <source>Form</source>
-        <translation></translation>
-    </message>
-    <message>
         <source>Language</source>
         <translation>Langue</translation>
     </message>
     <message>
         <source>Automatically check for updates</source>
         <translation>Vérifier automatiquement les mises à jour</translation>
-    </message>
-    <message>
-        <source>General</source>
-        <translation>Générale</translation>
     </message>
     <message>
         <source>Options</source>
@@ -735,6 +755,30 @@
     <message>
         <source>Dark</source>
         <translation>Noir</translation>
+    </message>
+    <message>
+        <source>Select ocenaudio interface language</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Select color scheme to be used in ocenaudio interface</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Smooth Cut and Delete boundaries</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Keep a backup copy of original file before overwrite</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>System Language (%1)</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Aqua</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -774,16 +818,32 @@
         <translation></translation>
     </message>
     <message>
-        <source>Key Bindings</source>
-        <translation>Raccourcis clavier</translation>
-    </message>
-    <message>
         <source>Command</source>
         <translation></translation>
     </message>
     <message>
         <source>Key</source>
         <translation>Clé</translation>
+    </message>
+    <message>
+        <source>Key binding action list</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>List of ocenaudio actions and theirs key bindings</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Key bindings action filter</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Filter the key bindings action list</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Filter</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -803,18 +863,6 @@
 </context>
 <context>
     <name>QOcenMainWindow</name>
-    <message>
-        <source>Sound Files</source>
-        <translation>Fichiers sonores</translation>
-    </message>
-    <message>
-        <source>Raw Sound Files</source>
-        <translation>Fichiers son brut</translation>
-    </message>
-    <message>
-        <source>Text Sound Files</source>
-        <translation>Fichiers texte sonores</translation>
-    </message>
     <message>
         <source>All Files</source>
         <translation>Tous les fichiers</translation>
@@ -1051,13 +1099,25 @@
         <source>The file for the sound that was at %1 has disappeared. Do you want to keep as new, save or close the sound?</source>
         <translation type="unfinished"></translation>
     </message>
+    <message>
+        <source>Supported Sound Files</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Do you want to overwrite the backup copy of the original file?</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>The file “%1” already has a backup. If you proceed it will be replaced by the current version of this file.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>readonly</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>QOcenNetworkPrefs</name>
-    <message>
-        <source>Form</source>
-        <translation></translation>
-    </message>
     <message>
         <source>HTTP/HTTPS Proxy Configuration</source>
         <translation>Configuration du proxy HTTP/HTTPS</translation>
@@ -1093,10 +1153,6 @@
     <message>
         <source>Password:</source>
         <translation>Mot de passe:</translation>
-    </message>
-    <message>
-        <source>Network</source>
-        <translation>Réseau</translation>
     </message>
     <message>
         <source>Checking connectivity</source>
@@ -1296,6 +1352,13 @@
     </message>
 </context>
 <context>
+    <name>QOcenPreferences</name>
+    <message>
+        <source>Settings</source>
+        <translation type="unfinished">Réglages</translation>
+    </message>
+</context>
+<context>
     <name>QOcenQuickOpenWidget</name>
     <message>
         <source>File or http address</source>
@@ -1334,10 +1397,6 @@
 </context>
 <context>
     <name>QOcenSoundPrefs</name>
-    <message>
-        <source>Form</source>
-        <translation></translation>
-    </message>
     <message>
         <source>Playback Device/Options</source>
         <translation>Dispositif de lecture/Options</translation>
@@ -1387,10 +1446,6 @@
         <translation>Désactivé</translation>
     </message>
     <message>
-        <source>Sound</source>
-        <translation>Son</translation>
-    </message>
-    <message>
         <source>System Default</source>
         <translation>Défaut du Système</translation>
     </message>
@@ -1405,6 +1460,74 @@
     <message>
         <source>Destructive Recording</source>
         <translation>Enregistrement destructive</translation>
+    </message>
+    <message>
+        <source>Play only visible portion of the audio</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Select Playback device</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Record Device</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Select record device</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Preroll Time</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Sets the preroll time.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Sample Rate</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Select the mixer sample rate</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Buffer Size</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>128 samples</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>256 samples</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>512 samples</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>1024 samples</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>2048 samples</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Select the mixer backend API</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>samples</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Playback Device</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -1514,8 +1637,56 @@
         <translation>Couleur</translation>
     </message>
     <message>
-        <source>Spectrogram</source>
-        <translation>Spectrogramme</translation>
+        <source>Spectrogram Presets</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Select spectrogram preset</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Number of bins</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Window Size</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Dynamic Range</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Window Type</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Select the windowing function type. Window functions are used in signal processing to minimize the effect of spectral leakages</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Color Scheme</source>
+        <translation type="unfinished">Schéma de couleur</translation>
+    </message>
+    <message>
+        <source>Select Spectrogram Color Scheme</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Sets the spectrogram range normalization on/off</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Select the number of frequency bins to be used to construct the spectrogram</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Select spectrogram dynamic range. The chosen value will be used as lower energy displayed in the spectrogram</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Select spectrogram window size. The window size is a percentage of two times the number of bins</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>

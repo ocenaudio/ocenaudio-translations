@@ -752,6 +752,22 @@
         <source>Quick Open...</source>
         <translation type="unfinished"></translation>
     </message>
+    <message>
+        <source>Noise Reduction</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Smooth</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Noise Reduction...</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Automatic Noise Reduction</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>NavigatorDialog</name>
@@ -1333,10 +1349,6 @@
         <translation>Derecha</translation>
     </message>
     <message>
-        <source>Lock Left/Right Channels</source>
-        <translation>Bloquear canales izquierdo/derecho</translation>
-    </message>
-    <message>
         <source>Normalize</source>
         <translation>Normalizar</translation>
     </message>
@@ -1399,6 +1411,54 @@
     <message>
         <source>Change DC Offset</source>
         <translation>Cambiar Offset DC</translation>
+    </message>
+    <message>
+        <source>Ch #6</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Ch #7</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Ch #3</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Ch #8</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Ch #4</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Ch #5</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Show channel names</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Lock channels</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Limit gain values to avoid clipping</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Limit offset values to avoid clipping</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Lock Channels</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Channel %1</source>
+        <translation type="unfinished">Canal %1</translation>
     </message>
 </context>
 <context>
@@ -1635,26 +1695,6 @@
         <translation>Estéreo unido</translation>
     </message>
     <message>
-        <source>Low Complexity (Default)</source>
-        <translation>Baja complejidad (por defecto)</translation>
-    </message>
-    <message>
-        <source>Main</source>
-        <translation>Principal</translation>
-    </message>
-    <message>
-        <source>AAC - Advanced Audio Conding</source>
-        <translation>AAC - Advanced Audio Conding</translation>
-    </message>
-    <message>
-        <source>ALAC - Apple Lossless Audio Codec</source>
-        <translation>ALAC - Apple Lossless Audio Codec</translation>
-    </message>
-    <message>
-        <source>AMR - Adaptative Multi Rate Coder (8000 kHz)</source>
-        <translation>AMR - Adaptative Multi Rate Coder (8000 kHz)</translation>
-    </message>
-    <message>
         <source>Variable Bit Rate (VBR)</source>
         <translation>Velocidad de bits variable (VBR)</translation>
     </message>
@@ -1787,6 +1827,38 @@
         <source>Comment of region “%1”</source>
         <translation>Comentario de región “%1”</translation>
     </message>
+    <message>
+        <source>VST</source>
+        <translation type="unfinished">VST</translation>
+    </message>
+    <message>
+        <source>VST Preferences</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>No Dithering</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Rectangular PDF</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Triangular PDF</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Noise Shaping</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Other</source>
+        <translation type="unfinished">Otros</translation>
+    </message>
+    <message>
+        <source>From stream</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>QOcenAboutDialog</name>
@@ -1859,6 +1931,14 @@ Haga clic aquí para descargarla.</translation>
     </message>
     <message>
         <source>You are using a 64-bit operating system and ocenaudio is available for this architecture. For better performance use the 64-bit version of ocenaudio.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Regions Comment</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>New Plugin Installed</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -2595,6 +2675,211 @@ Haga clic aquí para descargarla.</translation>
         <source>Region %1 of </source>
         <translation>Región %1 of </translation>
     </message>
+    <message>
+        <source>Apple Reverb 2</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Swap Channels from Selections</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Applying Automatic Noise Reduction</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Noise Reduction</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>QOcenAudioNoiseReductionWidget</name>
+    <message>
+        <source>Form</source>
+        <translation type="unfinished">Forma</translation>
+    </message>
+    <message>
+        <source>Noise Profiler</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Get profile</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Update profile</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Noise Reductor</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Noise</source>
+        <translation type="unfinished">Ruido</translation>
+    </message>
+    <message>
+        <source>Reduction factor</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>0 dB</source>
+        <translation type="unfinished">0 dB</translation>
+    </message>
+    <message>
+        <source>60 dB</source>
+        <translation type="unfinished">0 dB {60 ?}</translation>
+    </message>
+    <message>
+        <source>0.0 dB</source>
+        <translation type="unfinished">0 dB {0.0 ?}</translation>
+    </message>
+    <message>
+        <source>Output</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Reduce noise</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Remove noise</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Gate Settings</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>3 bands</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Smoothing</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Sensitivity</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Fast</source>
+        <translation type="unfinished">Rápido</translation>
+    </message>
+    <message>
+        <source>Slow</source>
+        <translation type="unfinished">Lento</translation>
+    </message>
+    <message>
+        <source>Less</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>More</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>0.1 ms</source>
+        <translation type="unfinished">0.1 ms</translation>
+    </message>
+    <message>
+        <source>5 ms</source>
+        <translation type="unfinished">5 ms</translation>
+    </message>
+    <message>
+        <source>6 ㏑(10)</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Release</source>
+        <translation type="unfinished">Liberar</translation>
+    </message>
+    <message>
+        <source>Attack</source>
+        <translation type="unfinished">Ataque</translation>
+    </message>
+    <message>
+        <source>Window Settings</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Analysis:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Synthesis:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Only for Noise Reductor</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Size:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Only for Noise Profiler</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Overlap:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Updating noise profile...</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Noise Reduction</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Reducing Noise</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Removing Noise</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Estimating Noise</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Creating noise profile...</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>On Update Profile</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Could not update profile</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>The selected audio must have the same configuration of the one used to estimate the noise profile.</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>QOcenAudioNoiseReductionWidget::Data</name>
+    <message>
+        <source>no overlap</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>QOcenAudioOpenFilesPlugin</name>
+    <message>
+        <source>Opened Files</source>
+        <translation type="unfinished">Archivos abiertos</translation>
+    </message>
+    <message>
+        <source>Current open files in ocenaudio</source>
+        <translation type="unfinished">Archivos abiertos actualmente en ocenaudio</translation>
+    </message>
 </context>
 <context>
     <name>QOcenAudioPropertiesDialog</name>
@@ -2936,24 +3221,8 @@ Haga clic aquí para descargarla.</translation>
         <translation>Tipo de datos:</translation>
     </message>
     <message>
-        <source>Pulse-code Modulation (PCM Linear)</source>
-        <translation>Modulación por Impulsos Codificados (PCM Lineal)</translation>
-    </message>
-    <message>
-        <source>A-Law companding PCM (G.711a)</source>
-        <translation>A-Law companding PCM (G.711a)</translation>
-    </message>
-    <message>
-        <source>μ-Law companding PCM (G.711u)</source>
-        <translation>μ-Law companding PCM (G.711u)</translation>
-    </message>
-    <message>
         <source>Precision:</source>
         <translation>Precisión:</translation>
-    </message>
-    <message>
-        <source>PCM Little-Endian (MSB/LSB) Intel</source>
-        <translation>PCM Little-Endian (MSB/LSB) Intel</translation>
     </message>
     <message>
         <source>WAV</source>
@@ -2962,10 +3231,6 @@ Haga clic aquí para descargarla.</translation>
     <message>
         <source>Audio Format:</source>
         <translation>Formato de audio:</translation>
-    </message>
-    <message>
-        <source>IMA ADPCM</source>
-        <translation>IMA ADPCM</translation>
     </message>
     <message>
         <source>CAF</source>
@@ -3108,18 +3373,6 @@ Haga clic aquí para descargarla.</translation>
         <translation>ALAC - Apple Lossless Audio Codec</translation>
     </message>
     <message>
-        <source>Profile:</source>
-        <translation>Perfil:</translation>
-    </message>
-    <message>
-        <source>Low Complexity (Default)</source>
-        <translation>Baja complejidad (por defecto)</translation>
-    </message>
-    <message>
-        <source>Main</source>
-        <translation>Principal</translation>
-    </message>
-    <message>
         <source>Bit Rate:</source>
         <translation>Tasa de Bits:</translation>
     </message>
@@ -3158,18 +3411,6 @@ Haga clic aquí para descargarla.</translation>
     <message>
         <source>File Format:</source>
         <translation>Formato de archivo:</translation>
-    </message>
-    <message>
-        <source>AIF</source>
-        <translation>AIF</translation>
-    </message>
-    <message>
-        <source>MUSEPACK</source>
-        <translation>MUSEPACK</translation>
-    </message>
-    <message>
-        <source>WAVPACK</source>
-        <translation>WAVPACK</translation>
     </message>
     <message>
         <source>FLAC</source>
@@ -3224,28 +3465,44 @@ Haga clic aquí para descargarla.</translation>
         <translation>Cancelar</translation>
     </message>
     <message>
-        <source>Are you sure you want to use the “%1” extension?</source>
-        <translation>¿Realmente desea usar la extensión “%1” ?</translation>
-    </message>
-    <message>
-        <source>The default extension for the selected format is “%1”. If you choose a different extension, you might not be able to open the exported file.</source>
-        <translation>La extensión por defecto para el formato seleccionado es “%1”. Si elige una extensión diferente, es posible que no pueda abrir el archivo exportado.</translation>
-    </message>
-    <message>
-        <source>Keep “%1”</source>
-        <translation>Mantener “%1”</translation>
-    </message>
-    <message>
-        <source>Use “%1” instead</source>
-        <translation>Usar “%1” en su lugar</translation>
-    </message>
-    <message>
         <source>Resolution:</source>
         <translation>Resolución:</translation>
     </message>
     <message>
         <source>%1 bits</source>
         <translation>%1 bits</translation>
+    </message>
+    <message>
+        <source>Dithering:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Vorbis</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Opus</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>%1</source>
+        <translation type="unfinished">%1</translation>
+    </message>
+    <message>
+        <source>Are you sure you want to use the “.%1” extension?</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>The default extension for the selected format is “.%1”. If you choose a different extension, you might not be able to open the exported file.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Keep “.%1”</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Use “.%1” instead</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -3927,10 +4184,6 @@ su ordenador, o red que desea abrir:</translation>
         <translation>Escaneando complementos</translation>
     </message>
     <message>
-        <source>VST</source>
-        <translation>VST</translation>
-    </message>
-    <message>
         <source>Select Directory</source>
         <translation>Seleccionar directorio</translation>
     </message>
@@ -3950,16 +4203,29 @@ su ordenador, o red que desea abrir:</translation>
         <source>Path not Found</source>
         <translation>Ruta no encontrada</translation>
     </message>
-</context>
-<context>
-    <name>QOpenFilesPlugin</name>
     <message>
-        <source>Opened Files</source>
-        <translation>Archivos abiertos</translation>
+        <source>Add VST Path</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Current open files in ocenaudio</source>
-        <translation>Archivos abiertos actualmente en ocenaudio</translation>
+        <source>Add a new path to search for VST effects</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Remove VST Path</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Remove path from VST path list</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Refresh VST Effects</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Search for VST effects in the selected path</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>

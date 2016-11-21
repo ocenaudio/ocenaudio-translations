@@ -119,10 +119,6 @@
         <translation>Faixa %1</translation>
     </message>
     <message>
-        <source>Sound Files</source>
-        <translation>Arquivos de Som</translation>
-    </message>
-    <message>
         <source>All Files</source>
         <translation>Todos os Arquivos</translation>
     </message>
@@ -415,18 +411,6 @@
         <translation></translation>
     </message>
     <message>
-        <source>mono</source>
-        <translation>mono</translation>
-    </message>
-    <message>
-        <source>stereo</source>
-        <translation>stereo</translation>
-    </message>
-    <message>
-        <source>%1 channels</source>
-        <translation>%1 canais</translation>
-    </message>
-    <message>
         <source>Title</source>
         <translation>Título</translation>
     </message>
@@ -490,20 +474,60 @@
         <source>@%1 (unlinked)</source>
         <translation>@%1 (desvinculado)</translation>
     </message>
+    <message>
+        <source>Smooth</source>
+        <translation>Suavização</translation>
+    </message>
+    <message>
+        <source>General</source>
+        <translation>Geral</translation>
+    </message>
+    <message>
+        <source>General Preferences</source>
+        <translation>Preferências Gerais</translation>
+    </message>
+    <message>
+        <source>Key Bindings</source>
+        <translation>Atalhos de Teclado</translation>
+    </message>
+    <message>
+        <source>Key Bindings Preferences</source>
+        <translation>Preferências dos Atalhos de Teclado</translation>
+    </message>
+    <message>
+        <source>Network</source>
+        <translation>Rede</translation>
+    </message>
+    <message>
+        <source>Network Preferences</source>
+        <translation>Preferências de Rede</translation>
+    </message>
+    <message>
+        <source>Supported Sound Files</source>
+        <translation>Arquivos de Som Suportados</translation>
+    </message>
+    <message>
+        <source>Sound</source>
+        <translation>Som</translation>
+    </message>
+    <message>
+        <source>Sound Preferences</source>
+        <translation>Preferências de Som</translation>
+    </message>
+    <message>
+        <source>Spectrogram</source>
+        <translation>Espectrograma</translation>
+    </message>
+    <message>
+        <source>Spectogram Preferences</source>
+        <translation>Preferências do Espectograma</translation>
+    </message>
 </context>
 <context>
     <name>QOcenApplication</name>
     <message>
-        <source>Regions Comment</source>
-        <translation>Comentários da Região</translation>
-    </message>
-    <message>
         <source>New Sound Device Found</source>
         <translation>Novo Dispositivo de Som Encontrado</translation>
-    </message>
-    <message>
-        <source>New Plugin Installed</source>
-        <translation>Novo Plugin Instalado</translation>
     </message>
     <message>
         <source>ocenaudio Clipboard with %1 seconds in %2 %3</source>
@@ -586,6 +610,10 @@
     <message>
         <source>Duration</source>
         <translation>Duração</translation>
+    </message>
+    <message>
+        <source>readonly</source>
+        <translation></translation>
     </message>
 </context>
 <context>
@@ -701,20 +729,12 @@
 <context>
     <name>QOcenGeneralPrefs</name>
     <message>
-        <source>Form</source>
-        <translation>Formulário</translation>
-    </message>
-    <message>
         <source>Automatically check for updates</source>
         <translation>Verificar automaticamente se existem atualizações</translation>
     </message>
     <message>
         <source>Language</source>
         <translation>Idioma</translation>
-    </message>
-    <message>
-        <source>General</source>
-        <translation>Geral</translation>
     </message>
     <message>
         <source>Options</source>
@@ -735,6 +755,30 @@
     <message>
         <source>Dark</source>
         <translation>Escuro</translation>
+    </message>
+    <message>
+        <source>Select ocenaudio interface language</source>
+        <translation>Selecione o idioma da interface do ocenaudio</translation>
+    </message>
+    <message>
+        <source>Select color scheme to be used in ocenaudio interface</source>
+        <translation>Selecione o esquema de cores a ser usado na interface do ocenaudio</translation>
+    </message>
+    <message>
+        <source>Smooth Cut and Delete boundaries</source>
+        <translation>Suavizar limites de Corte e Deleção</translation>
+    </message>
+    <message>
+        <source>Keep a backup copy of original file before overwrite</source>
+        <translation>Manter uma cópia de backup do arquivo original antes de sobrescrevê-lo</translation>
+    </message>
+    <message>
+        <source>System Language (%1)</source>
+        <translation>Idioma do Sistema (%1)</translation>
+    </message>
+    <message>
+        <source>Aqua</source>
+        <translation></translation>
     </message>
 </context>
 <context>
@@ -774,16 +818,32 @@
         <translation>Formulário</translation>
     </message>
     <message>
-        <source>Key Bindings</source>
-        <translation>Atalhos de Teclado</translation>
-    </message>
-    <message>
         <source>Command</source>
         <translation>Comando</translation>
     </message>
     <message>
         <source>Key</source>
         <translation>Atalho</translation>
+    </message>
+    <message>
+        <source>Key binding action list</source>
+        <translation>List de ações dos atalhos de teclado</translation>
+    </message>
+    <message>
+        <source>List of ocenaudio actions and theirs key bindings</source>
+        <translation>Lista de ações do ocenaudio e seus atalhos de teclado</translation>
+    </message>
+    <message>
+        <source>Key bindings action filter</source>
+        <translation>Filtro de ações de atalho de teclado</translation>
+    </message>
+    <message>
+        <source>Filter the key bindings action list</source>
+        <translation>Filtro de lista de ações de atalho de teclado</translation>
+    </message>
+    <message>
+        <source>Filter</source>
+        <translation>Filtro</translation>
     </message>
 </context>
 <context>
@@ -803,18 +863,6 @@
 </context>
 <context>
     <name>QOcenMainWindow</name>
-    <message>
-        <source>Sound Files</source>
-        <translation>Arquivos de Som</translation>
-    </message>
-    <message>
-        <source>Raw Sound Files</source>
-        <translation>Arquivos de Som Raw</translation>
-    </message>
-    <message>
-        <source>Text Sound Files</source>
-        <translation>Arquivos de Som Texto</translation>
-    </message>
     <message>
         <source>All Files</source>
         <translation>Todos os Arquivos</translation>
@@ -1051,13 +1099,25 @@
         <source>The file for the sound that was at %1 has disappeared. Do you want to keep as new, save or close the sound?</source>
         <translation>O arquivo para o áudio que estava em %1 não existe mais. Deseja manter como novo, salvar ou fechar o áudio?</translation>
     </message>
+    <message>
+        <source>Supported Sound Files</source>
+        <translation>Arquivos de Som suportados</translation>
+    </message>
+    <message>
+        <source>Do you want to overwrite the backup copy of the original file?</source>
+        <translation>Deseja sobrescrever a cópia de backup do arquivo original?</translation>
+    </message>
+    <message>
+        <source>The file “%1” already has a backup. If you proceed it will be replaced by the current version of this file.</source>
+        <translation>O arquivo “%1” já possui backup. Se você prosseguir ele será substituído pela versão atual do arquivo.</translation>
+    </message>
+    <message>
+        <source>readonly</source>
+        <translation></translation>
+    </message>
 </context>
 <context>
     <name>QOcenNetworkPrefs</name>
-    <message>
-        <source>Form</source>
-        <translation>Formulário</translation>
-    </message>
     <message>
         <source>HTTP/HTTPS Proxy Configuration</source>
         <translation>Configuração de Proxy HTTP/HTTPS</translation>
@@ -1093,10 +1153,6 @@
     <message>
         <source>Password:</source>
         <translation>Senha:</translation>
-    </message>
-    <message>
-        <source>Network</source>
-        <translation>Rede</translation>
     </message>
     <message>
         <source>Checking connectivity</source>
@@ -1296,6 +1352,13 @@
     </message>
 </context>
 <context>
+    <name>QOcenPreferences</name>
+    <message>
+        <source>Settings</source>
+        <translation>Configurações</translation>
+    </message>
+</context>
+<context>
     <name>QOcenQuickOpenWidget</name>
     <message>
         <source>File or http address</source>
@@ -1334,10 +1397,6 @@
 </context>
 <context>
     <name>QOcenSoundPrefs</name>
-    <message>
-        <source>Form</source>
-        <translation>Formulário</translation>
-    </message>
     <message>
         <source>Playback Device/Options</source>
         <translation>Dispositivo e Opções de Reprodução</translation>
@@ -1387,10 +1446,6 @@
         <translation>Desabilitado</translation>
     </message>
     <message>
-        <source>Sound</source>
-        <translation>Som</translation>
-    </message>
-    <message>
         <source>System Default</source>
         <translation>Padrão do Sistema</translation>
     </message>
@@ -1405,6 +1460,74 @@
     <message>
         <source>Destructive Recording</source>
         <translation>Gravação Destrutiva</translation>
+    </message>
+    <message>
+        <source>Play only visible portion of the audio</source>
+        <translation>Reproduzir somente parte visível do áudio</translation>
+    </message>
+    <message>
+        <source>Select Playback device</source>
+        <translation>Escolha o Dispositivo de Reprodução</translation>
+    </message>
+    <message>
+        <source>Record Device</source>
+        <translation>Dispositivo de Gravação</translation>
+    </message>
+    <message>
+        <source>Select record device</source>
+        <translation>Escolha o Dispositivo de Gravação</translation>
+    </message>
+    <message>
+        <source>Preroll Time</source>
+        <translation>Tempo de Preroll</translation>
+    </message>
+    <message>
+        <source>Sets the preroll time.</source>
+        <translation>Define o tempo de preroll.</translation>
+    </message>
+    <message>
+        <source>Sample Rate</source>
+        <translation>Taxa de Amostragem</translation>
+    </message>
+    <message>
+        <source>Select the mixer sample rate</source>
+        <translation>Selecione a taxa de amostragem do mixer</translation>
+    </message>
+    <message>
+        <source>Buffer Size</source>
+        <translation>Tamanho do Buffer</translation>
+    </message>
+    <message>
+        <source>128 samples</source>
+        <translation>128 amostras</translation>
+    </message>
+    <message>
+        <source>256 samples</source>
+        <translation>256 amostras</translation>
+    </message>
+    <message>
+        <source>512 samples</source>
+        <translation>512 amostras</translation>
+    </message>
+    <message>
+        <source>1024 samples</source>
+        <translation>1024 amostras</translation>
+    </message>
+    <message>
+        <source>2048 samples</source>
+        <translation>2048 amostras</translation>
+    </message>
+    <message>
+        <source>Select the mixer backend API</source>
+        <translation>Selecione a API de backend do mixer</translation>
+    </message>
+    <message>
+        <source>samples</source>
+        <translation>amostras</translation>
+    </message>
+    <message>
+        <source>Playback Device</source>
+        <translation>Dispositivo de Reprodução</translation>
     </message>
 </context>
 <context>
@@ -1514,8 +1637,56 @@
         <translation>Colorido</translation>
     </message>
     <message>
-        <source>Spectrogram</source>
-        <translation>Espectrograma</translation>
+        <source>Spectrogram Presets</source>
+        <translation>Predefinições de Espectrograma</translation>
+    </message>
+    <message>
+        <source>Select spectrogram preset</source>
+        <translation>Escolha a Predefinição de Espectrograma</translation>
+    </message>
+    <message>
+        <source>Number of bins</source>
+        <translation>Número de bins</translation>
+    </message>
+    <message>
+        <source>Window Size</source>
+        <translation>Tamanho da Janela</translation>
+    </message>
+    <message>
+        <source>Dynamic Range</source>
+        <translation>Faixa Dinâmica</translation>
+    </message>
+    <message>
+        <source>Window Type</source>
+        <translation>Tipo da Janela</translation>
+    </message>
+    <message>
+        <source>Select the windowing function type. Window functions are used in signal processing to minimize the effect of spectral leakages</source>
+        <translation>Selecione o tipo de função de janelamento. Funções de janelamento são usadas em processamento de sinais para minimizar o efeito das perdas espectrais</translation>
+    </message>
+    <message>
+        <source>Color Scheme</source>
+        <translation>Esquema de Cores</translation>
+    </message>
+    <message>
+        <source>Select Spectrogram Color Scheme</source>
+        <translation>Selecione o Esquema de Cores do Espectrograma</translation>
+    </message>
+    <message>
+        <source>Sets the spectrogram range normalization on/off</source>
+        <translation>Define a ativação/desativação da normalização da faixa do espectrograma</translation>
+    </message>
+    <message>
+        <source>Select the number of frequency bins to be used to construct the spectrogram</source>
+        <translation>Selecione o número de bins de freqüência a ser usado para construir o espectrograma</translation>
+    </message>
+    <message>
+        <source>Select spectrogram dynamic range. The chosen value will be used as lower energy displayed in the spectrogram</source>
+        <translation>Selecione a faixa dinâmica do espectrograma. O valor escolhido será usado como menor energia exibida no espectrograma</translation>
+    </message>
+    <message>
+        <source>Select spectrogram window size. The window size is a percentage of two times the number of bins</source>
+        <translation>Selecione o tamanho da janela do espectrograma. O tamanho da janela é uma porcentagem de duas vezes o número de bins</translation>
     </message>
 </context>
 <context>
