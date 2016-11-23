@@ -1529,6 +1529,10 @@
         <source>Playback Device</source>
         <translation>Dispositivo de Reprodução</translation>
     </message>
+    <message>
+        <source>%1 channels</source>
+        <translation>%1 canais</translation>
+    </message>
 </context>
 <context>
     <name>QOcenSpectrogramPrefs</name>

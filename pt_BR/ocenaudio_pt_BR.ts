@@ -155,11 +155,6 @@
         <translation></translation>
     </message>
     <message>
-        <source>Play Options</source>
-        <oldsource>Playback Options</oldsource>
-        <translation>Opções de Reprodução</translation>
-    </message>
-    <message>
         <source>Move Cursor</source>
         <translation>Mover o Cursor</translation>
     </message>
@@ -769,6 +764,18 @@
     <message>
         <source>Automatic Noise Reduction</source>
         <translation>Redução de Ruído Automática</translation>
+    </message>
+    <message>
+        <source>Playback Options</source>
+        <translation>Opções de Reprodução</translation>
+    </message>
+    <message>
+        <source>Record Mixer Config...</source>
+        <translation>Configuração do Mixer de Gravação...</translation>
+    </message>
+    <message>
+        <source>Playback Mixer Config...</source>
+        <translation>Configuração do Mixer de Reprodução...</translation>
     </message>
 </context>
 <context>
@@ -2695,6 +2702,14 @@ Clique aqui para baixá-la.</translation>
         <source>Noise Reduction</source>
         <translation>Redução de Ruído</translation>
     </message>
+    <message>
+        <source>Playback Mixer Config</source>
+        <translation>Configuração do Mixer de Reprodução</translation>
+    </message>
+    <message>
+        <source>Record Mixer Config</source>
+        <translation>Configuração do Mixer de Gravação</translation>
+    </message>
 </context>
 <context>
     <name>QOcenAudioNoiseReductionWidget</name>
@@ -4082,6 +4097,77 @@ Clique aqui para baixá-la.</translation>
     <message>
         <source>and %1 other files</source>
         <translation>e %1 outros arquivos</translation>
+    </message>
+</context>
+<context>
+    <name>QOcenSoundMixerConfigDialog</name>
+    <message>
+        <source>Sound Mixer Configuration</source>
+        <translation>Configuração do Mixer de Som</translation>
+    </message>
+    <message>
+        <source>Playback</source>
+        <translation>Reprodução</translation>
+    </message>
+    <message>
+        <source>1 Channel (Mono)</source>
+        <translation>1 Canal (Mono)</translation>
+    </message>
+    <message>
+        <source> ➨ </source>
+        <translation></translation>
+    </message>
+    <message>
+        <source>Built-In Output (2 Channels)</source>
+        <translation>Built-In Output (2 Canais)</translation>
+    </message>
+    <message>
+        <source>Capture</source>
+        <translation>Captura</translation>
+    </message>
+    <message>
+        <source>Built-In Input (2 Channels)</source>
+        <translation>Built-In Input (2 Canais)</translation>
+    </message>
+    <message>
+        <source>1 channel (mono)</source>
+        <translation>1 canal (mono)</translation>
+    </message>
+    <message>
+        <source>2 channels (stereo)</source>
+        <translation>2 canais (estéreo)</translation>
+    </message>
+    <message>
+        <source>%1 channels</source>
+        <translation>%1 canais</translation>
+    </message>
+    <message>
+        <source>Input #%1 </source>
+        <translation>Entrada #%1</translation>
+    </message>
+    <message>
+        <source>Channel
+#%1</source>
+        <translation>Canal
+#%1</translation>
+    </message>
+    <message>
+        <source>Channel #%1 </source>
+        <translation>Canal #%1 </translation>
+    </message>
+    <message>
+        <source>Output
+#%1</source>
+        <translation>Saída
+#%1</translation>
+    </message>
+    <message>
+        <source>No recording devices found!</source>
+        <translation>Nenhum dispositivo de gravação encontrado!</translation>
+    </message>
+    <message>
+        <source>No playback devices found!</source>
+        <translation>Nenhum dispositivo de reprodução encontrado!</translation>
     </message>
 </context>
 <context>

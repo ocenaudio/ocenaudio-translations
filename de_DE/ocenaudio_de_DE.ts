@@ -159,11 +159,6 @@
         <translation>&amp;Transport</translation>
     </message>
     <message>
-        <source>Play Options</source>
-        <oldsource>Playback Options</oldsource>
-        <translation>Wiedergabeinstellungen</translation>
-    </message>
-    <message>
         <source>Move Cursor</source>
         <translation>Zeiger verschieben</translation>
     </message>
@@ -767,6 +762,18 @@
     </message>
     <message>
         <source>Automatic Noise Reduction</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Playback Options</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Record Mixer Config...</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Playback Mixer Config...</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -2692,6 +2699,14 @@ Klicken Sie hier zum Herunterladen.</translation>
         <source>Noise Reduction</source>
         <translation type="unfinished"></translation>
     </message>
+    <message>
+        <source>Playback Mixer Config</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Record Mixer Config</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>QOcenAudioNoiseReductionWidget</name>
@@ -4077,6 +4092,75 @@ Klicken Sie hier zum Herunterladen.</translation>
     <message>
         <source>and %1 other files</source>
         <translation>und %1 andere Dateien</translation>
+    </message>
+</context>
+<context>
+    <name>QOcenSoundMixerConfigDialog</name>
+    <message>
+        <source>Sound Mixer Configuration</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Playback</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>1 Channel (Mono)</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source> ➨ </source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Built-In Output (2 Channels)</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Capture</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Built-In Input (2 Channels)</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>1 channel (mono)</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>2 channels (stereo)</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>%1 channels</source>
+        <translation type="unfinished">%1 Kanäle</translation>
+    </message>
+    <message>
+        <source>Input #%1 </source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Channel
+#%1</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Channel #%1 </source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Output
+#%1</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>No recording devices found!</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>No playback devices found!</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
