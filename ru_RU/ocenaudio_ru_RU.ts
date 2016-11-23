@@ -4117,10 +4117,6 @@ Click here to download it.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Capture</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>Built-In Input (2 Channels)</source>
         <translation type="unfinished"></translation>
     </message>
@@ -4161,6 +4157,10 @@ Click here to download it.</source>
     <message>
         <source>No playback devices found!</source>
         <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Record</source>
+        <translation type="unfinished">Запись</translation>
     </message>
 </context>
 <context>

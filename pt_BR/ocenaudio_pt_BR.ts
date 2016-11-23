@@ -4122,10 +4122,6 @@ Clique aqui para baixá-la.</translation>
         <translation>Built-In Output (2 Canais)</translation>
     </message>
     <message>
-        <source>Capture</source>
-        <translation>Captura</translation>
-    </message>
-    <message>
         <source>Built-In Input (2 Channels)</source>
         <translation>Built-In Input (2 Canais)</translation>
     </message>
@@ -4168,6 +4164,10 @@ Clique aqui para baixá-la.</translation>
     <message>
         <source>No playback devices found!</source>
         <translation>Nenhum dispositivo de reprodução encontrado!</translation>
+    </message>
+    <message>
+        <source>Record</source>
+        <translation>Gravação</translation>
     </message>
 </context>
 <context>

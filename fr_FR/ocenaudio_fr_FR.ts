@@ -4119,10 +4119,6 @@ Cliquez ici pour le télécharger.</translation>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Capture</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>Built-In Input (2 Channels)</source>
         <translation type="unfinished"></translation>
     </message>
@@ -4163,6 +4159,10 @@ Cliquez ici pour le télécharger.</translation>
     <message>
         <source>No playback devices found!</source>
         <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Record</source>
+        <translation type="unfinished">Enregistrement</translation>
     </message>
 </context>
 <context>
