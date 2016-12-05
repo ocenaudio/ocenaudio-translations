@@ -1549,24 +1549,8 @@
         <translation>Impostazioni</translation>
     </message>
     <message>
-        <source>Number of Bins:</source>
-        <translation>Numero di Bins:</translation>
-    </message>
-    <message>
-        <source>Window Type:</source>
-        <translation>Tipo di Finestra:</translation>
-    </message>
-    <message>
-        <source>Window Size:</source>
-        <translation>Dimensione della Finestra:</translation>
-    </message>
-    <message>
         <source>100%</source>
         <translation></translation>
-    </message>
-    <message>
-        <source>Dynamic Range:</source>
-        <translation>Gamma dinamica:</translation>
     </message>
     <message>
         <source>XXX dB</source>
@@ -1575,10 +1559,6 @@
     <message>
         <source>Color Settings</source>
         <translation>Impostazione colori</translation>
-    </message>
-    <message>
-        <source>Color Scheme:</source>
-        <translation>Schema colori:</translation>
     </message>
     <message>
         <source>Normalize</source>
@@ -1690,6 +1670,10 @@
     </message>
     <message>
         <source>Select spectrogram window size. The window size is a percentage of two times the number of bins</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Number of Bins</source>
         <translation type="unfinished"></translation>
     </message>
 </context>

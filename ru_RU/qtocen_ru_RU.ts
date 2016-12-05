@@ -1549,24 +1549,8 @@
         <translation>Установки</translation>
     </message>
     <message>
-        <source>Number of Bins:</source>
-        <translation>Количество Bins:</translation>
-    </message>
-    <message>
-        <source>Window Type:</source>
-        <translation>Тип окна:</translation>
-    </message>
-    <message>
-        <source>Window Size:</source>
-        <translation>Размер окна:</translation>
-    </message>
-    <message>
         <source>100%</source>
         <translation>100 %</translation>
-    </message>
-    <message>
-        <source>Dynamic Range:</source>
-        <translation>Динамический диапазон:</translation>
     </message>
     <message>
         <source>XXX dB</source>
@@ -1575,10 +1559,6 @@
     <message>
         <source>Color Settings</source>
         <translation>Настройки цвета</translation>
-    </message>
-    <message>
-        <source>Color Scheme:</source>
-        <translation>Цветовая схема:</translation>
     </message>
     <message>
         <source>Normalize</source>
@@ -1690,6 +1670,10 @@
     </message>
     <message>
         <source>Select spectrogram window size. The window size is a percentage of two times the number of bins</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Number of Bins</source>
         <translation type="unfinished"></translation>
     </message>
 </context>

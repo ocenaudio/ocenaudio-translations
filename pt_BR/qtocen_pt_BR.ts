@@ -1549,24 +1549,8 @@
         <translation>Configurações</translation>
     </message>
     <message>
-        <source>Window Type:</source>
-        <translation>Tipo da Janela:</translation>
-    </message>
-    <message>
-        <source>Number of Bins:</source>
-        <translation>Número de Bins:</translation>
-    </message>
-    <message>
-        <source>Window Size:</source>
-        <translation>Tamanho da Janela:</translation>
-    </message>
-    <message>
         <source>100%</source>
         <translation></translation>
-    </message>
-    <message>
-        <source>Dynamic Range:</source>
-        <translation>Faixa Dinâmica:</translation>
     </message>
     <message>
         <source>XXX dB</source>
@@ -1575,10 +1559,6 @@
     <message>
         <source>Color Settings</source>
         <translation>Configurações de Cor</translation>
-    </message>
-    <message>
-        <source>Color Scheme:</source>
-        <translation>Esquema de Cores:</translation>
     </message>
     <message>
         <source>Normalize</source>
@@ -1691,6 +1671,10 @@
     <message>
         <source>Select spectrogram window size. The window size is a percentage of two times the number of bins</source>
         <translation>Selecione o tamanho da janela do espectrograma. O tamanho da janela é uma porcentagem de duas vezes o número de bins</translation>
+    </message>
+    <message>
+        <source>Number of Bins</source>
+        <translation>Número de Bins</translation>
     </message>
 </context>
 <context>

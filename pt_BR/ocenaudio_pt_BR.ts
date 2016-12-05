@@ -1817,10 +1817,6 @@
         <translation>Pular</translation>
     </message>
     <message>
-        <source>Custom</source>
-        <translation>Personalizado</translation>
-    </message>
-    <message>
         <source>Label</source>
         <translation>Rótulo</translation>
     </message>
@@ -1867,6 +1863,34 @@
     <message>
         <source>From stream</source>
         <translation>A partir da faixa</translation>
+    </message>
+    <message>
+        <source>From &lt;b&gt;%1 Hz&lt;/b&gt;</source>
+        <translation>De &lt;b&gt;%1 Hz&lt;/b&gt;</translation>
+    </message>
+    <message>
+        <source>From &lt;b&gt;multiples sample rates&lt;b&gt;</source>
+        <translation>De &lt;b&gt;múltiplas taxas de amostragem&lt;b&gt;</translation>
+    </message>
+    <message>
+        <source>From &lt;b&gt;multiples number of channels&lt;b&gt;</source>
+        <translation>De &lt;b&gt;múltiplos número de canais&lt;b&gt;</translation>
+    </message>
+    <message>
+        <source>From &lt;b&gt;1 channel (mono)&lt;b&gt;</source>
+        <translation>De &lt;b&gt;1 canal (mono)&lt;/b&gt;</translation>
+    </message>
+    <message>
+        <source>From &lt;b&gt;2 channels (stereo)&lt;b&gt;</source>
+        <translation>De &lt;b&gt;2 canais (estéreo)&lt;/b&gt;</translation>
+    </message>
+    <message>
+        <source>From &lt;b&gt;%1 channels&lt;b&gt;</source>
+        <translation>De &lt;b&gt;%1 canais&lt;/b&gt;</translation>
+    </message>
+    <message>
+        <source>Custom Sample Rate</source>
+        <translation>Taxa de Amostragem Personalizada</translation>
     </message>
 </context>
 <context>
@@ -1951,6 +1975,145 @@ Clique aqui para baixá-la.</translation>
     <message>
         <source>New Plugin Installed</source>
         <translation>Novo Plugin Instalado</translation>
+    </message>
+</context>
+<context>
+    <name>QOcenAudioChangeFormatDialog</name>
+    <message>
+        <source>Convert Audio Format</source>
+        <translation>Converter Formato do Sinal</translation>
+    </message>
+    <message>
+        <source>Change Sample Rate</source>
+        <translation>Mudar Taxa de Amostragem</translation>
+    </message>
+    <message>
+        <source>From &lt;b&gt;22050 Hz&lt;/b&gt;</source>
+        <translation>De &lt;b&gt;22500 Hz&lt;/b&gt;</translation>
+    </message>
+    <message>
+        <source>➨</source>
+        <translation></translation>
+    </message>
+    <message>
+        <source>Don&apos;t Change (22050 Hz)</source>
+        <translation>Não modificar (22050 Hz)</translation>
+    </message>
+    <message>
+        <source>6000 Hz</source>
+        <translation></translation>
+    </message>
+    <message>
+        <source>8000 Hz</source>
+        <translation></translation>
+    </message>
+    <message>
+        <source>11025 Hz</source>
+        <translation></translation>
+    </message>
+    <message>
+        <source>16000 Hz</source>
+        <translation></translation>
+    </message>
+    <message>
+        <source>22050 Hz</source>
+        <translation></translation>
+    </message>
+    <message>
+        <source>24000 Hz</source>
+        <translation></translation>
+    </message>
+    <message>
+        <source>32000 Hz</source>
+        <translation></translation>
+    </message>
+    <message>
+        <source>44100 Hz</source>
+        <translation></translation>
+    </message>
+    <message>
+        <source>88200 Hz</source>
+        <translation></translation>
+    </message>
+    <message>
+        <source>96000 Hz</source>
+        <translation></translation>
+    </message>
+    <message>
+        <source>Change Number of Channels</source>
+        <translation>Mudar Número de Canais</translation>
+    </message>
+    <message>
+        <source>From &lt;b&gt;1 channel (mono)&lt;/b&gt;</source>
+        <translation>De &lt;b&gt;1 canal (mono)&lt;/b&gt;</translation>
+    </message>
+    <message>
+        <source>Don&apos;t Change (mono)</source>
+        <translation>Não modificar (mono)</translation>
+    </message>
+    <message>
+        <source>2 channels (stereo)</source>
+        <translation>2 canais (estéreo)</translation>
+    </message>
+    <message>
+        <source>3 channels</source>
+        <translation>3 canais</translation>
+    </message>
+    <message>
+        <source>4 channels</source>
+        <translation>4 canais</translation>
+    </message>
+    <message>
+        <source>5 channels</source>
+        <translation>5 canais</translation>
+    </message>
+    <message>
+        <source>6 channels</source>
+        <translation>6 canais</translation>
+    </message>
+    <message>
+        <source>7 channels</source>
+        <translation>7 canais</translation>
+    </message>
+    <message>
+        <source>8 channels</source>
+        <translation>8 canais</translation>
+    </message>
+    <message>
+        <source>Just Swap Left/Right Channels</source>
+        <translation>Somente Trocar Canais Esquerdo/Direito</translation>
+    </message>
+    <message>
+        <source>Don&apos;t Change</source>
+        <translation>Não modificar</translation>
+    </message>
+    <message>
+        <source>Select Custom Sample Rate</source>
+        <translation>Selecionar Taxa de Amostragem Personalizada</translation>
+    </message>
+    <message>
+        <source>Custom Sample Rate (%1)</source>
+        <translation>Taxa de Amostragem Personalizada (%1)</translation>
+    </message>
+    <message>
+        <source>1 channel (mono)</source>
+        <translation>1 canal (mono)</translation>
+    </message>
+    <message>
+        <source>%1 channels</source>
+        <translation>%1 canais</translation>
+    </message>
+    <message>
+        <source>Output
+Channel
+#%1</source>
+        <translation>Canal
+Saída
+#%1</translation>
+    </message>
+    <message>
+        <source>Channel #%1</source>
+        <translation>Canal #%1</translation>
     </message>
 </context>
 <context>
@@ -4820,10 +4983,6 @@ ou sua rede de trabalho que você deseje abrir:</translation>
         <translation></translation>
     </message>
     <message>
-        <source>Hz</source>
-        <translation></translation>
-    </message>
-    <message>
         <source>48000</source>
         <translation></translation>
     </message>
@@ -4926,14 +5085,6 @@ ou sua rede de trabalho que você deseje abrir:</translation>
     <message>
         <source>6 channels</source>
         <translation>6 canais</translation>
-    </message>
-    <message>
-        <source>Custom</source>
-        <translation>Personalizado</translation>
-    </message>
-    <message>
-        <source>%1 channels</source>
-        <translation>%1 canais</translation>
     </message>
 </context>
 <context>

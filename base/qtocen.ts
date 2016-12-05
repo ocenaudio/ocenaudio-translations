@@ -1549,23 +1549,7 @@
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Number of Bins:</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Window Type:</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Window Size:</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>100%</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Dynamic Range:</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -1574,10 +1558,6 @@
     </message>
     <message>
         <source>Color Settings</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Color Scheme:</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -1690,6 +1670,10 @@
     </message>
     <message>
         <source>Select spectrogram window size. The window size is a percentage of two times the number of bins</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Number of Bins</source>
         <translation type="unfinished"></translation>
     </message>
 </context>

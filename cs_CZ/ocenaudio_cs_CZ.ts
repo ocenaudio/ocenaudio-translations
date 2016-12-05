@@ -1816,10 +1816,6 @@
         <translation>Přeskočit</translation>
     </message>
     <message>
-        <source>Custom</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>Label</source>
         <translation type="unfinished"></translation>
     </message>
@@ -1865,6 +1861,34 @@
     </message>
     <message>
         <source>From stream</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>From &lt;b&gt;%1 Hz&lt;/b&gt;</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>From &lt;b&gt;multiples sample rates&lt;b&gt;</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>From &lt;b&gt;multiples number of channels&lt;b&gt;</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>From &lt;b&gt;1 channel (mono)&lt;b&gt;</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>From &lt;b&gt;2 channels (stereo)&lt;b&gt;</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>From &lt;b&gt;%1 channels&lt;b&gt;</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Custom Sample Rate</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -1947,6 +1971,143 @@ Klikněte zde pro jeho stažení.</translation>
     </message>
     <message>
         <source>New Plugin Installed</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>QOcenAudioChangeFormatDialog</name>
+    <message>
+        <source>Convert Audio Format</source>
+        <translation type="unfinished">Převod zvukového formátu</translation>
+    </message>
+    <message>
+        <source>Change Sample Rate</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>From &lt;b&gt;22050 Hz&lt;/b&gt;</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>➨</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Don&apos;t Change (22050 Hz)</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>6000 Hz</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>8000 Hz</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>11025 Hz</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>16000 Hz</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>22050 Hz</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>24000 Hz</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>32000 Hz</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>44100 Hz</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>88200 Hz</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>96000 Hz</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Change Number of Channels</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>From &lt;b&gt;1 channel (mono)&lt;/b&gt;</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Don&apos;t Change (mono)</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>2 channels (stereo)</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>3 channels</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>4 channels</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>5 channels</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>6 channels</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>7 channels</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>8 channels</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Just Swap Left/Right Channels</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Don&apos;t Change</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Select Custom Sample Rate</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Custom Sample Rate (%1)</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>1 channel (mono)</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>%1 channels</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Output
+Channel
+#%1</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Channel #%1</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -4864,10 +5025,6 @@ or your network that you want to open:</source>
         <translation></translation>
     </message>
     <message>
-        <source>Hz</source>
-        <translation></translation>
-    </message>
-    <message>
         <source>Channels</source>
         <translation>Kanály</translation>
     </message>
@@ -4917,14 +5074,6 @@ or your network that you want to open:</source>
     </message>
     <message>
         <source>6 channels</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Custom</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>%1 channels</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
