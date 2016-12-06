@@ -777,6 +777,14 @@
         <source>Playback Mixer Config...</source>
         <translation>Configuração do Mixer de Reprodução...</translation>
     </message>
+    <message>
+        <source>Destructive Recording</source>
+        <translation>Gravação Destrutiva</translation>
+    </message>
+    <message>
+        <source>Ctrl+D</source>
+        <translation></translation>
+    </message>
 </context>
 <context>
     <name>NavigatorDialog</name>
@@ -2872,6 +2880,10 @@ Saída
     <message>
         <source>Record Mixer Config</source>
         <translation>Configuração do Mixer de Gravação</translation>
+    </message>
+    <message>
+        <source>Enable/Disable Destructive Recording</source>
+        <translation>Habilitar/Desabilitar Gravação Destrutiva</translation>
     </message>
 </context>
 <context>

@@ -776,6 +776,14 @@
         <source>Playback Mixer Config...</source>
         <translation type="unfinished"></translation>
     </message>
+    <message>
+        <source>Destructive Recording</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Ctrl+D</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>NavigatorDialog</name>
@@ -2869,6 +2877,10 @@ Channel
     </message>
     <message>
         <source>Record Mixer Config</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Enable/Disable Destructive Recording</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
