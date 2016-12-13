@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!DOCTYPE TS>
-<TS version="2.1" language="pt_BR">
+<TS version="2.0" language="pt_BR">
 <context>
     <name>QAudioStatistics</name>
     <message>
@@ -1532,6 +1532,22 @@
     <message>
         <source>%1 channels</source>
         <translation>%1 canais</translation>
+    </message>
+    <message>
+        <source>%1 s</source>
+        <translation></translation>
+    </message>
+    <message>
+        <source>Custom</source>
+        <translation>Personalizado</translation>
+    </message>
+    <message>
+        <source>No Devices Found</source>
+        <translation>Nenhum Dispositivo Encontrado</translation>
+    </message>
+    <message>
+        <source>No common sampling rate</source>
+        <translation>Sem Taxa de Amostragem Comum</translation>
     </message>
 </context>
 <context>
