@@ -3296,6 +3296,14 @@ Channel
         <source>Comment</source>
         <translation>Kommentar</translation>
     </message>
+    <message>
+        <source>Revert</source>
+        <translation type="unfinished">Neu laden</translation>
+    </message>
+    <message>
+        <source>Close</source>
+        <translation type="unfinished">Schließen</translation>
+    </message>
 </context>
 <context>
     <name>QOcenCrashReportDialog</name>

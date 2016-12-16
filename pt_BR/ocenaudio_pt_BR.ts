@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!DOCTYPE TS>
-<TS version="2.1" language="pt_BR" sourcelanguage="en_US">
+<TS version="2.0" language="pt_BR" sourcelanguage="en_US">
 <context>
     <name>AdjustSampleRateDialog</name>
     <message>
@@ -3300,6 +3300,14 @@ Saída
     <message>
         <source>Comment</source>
         <translation>Comentário</translation>
+    </message>
+    <message>
+        <source>Revert</source>
+        <translation>Reverter</translation>
+    </message>
+    <message>
+        <source>Close</source>
+        <translation>Fechar</translation>
     </message>
 </context>
 <context>

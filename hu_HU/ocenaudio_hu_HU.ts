@@ -693,10 +693,6 @@
         <translation>Lejátszás és kiválasztás</translation>
     </message>
     <message>
-        <source>FTP export...</source>
-        <translation>FTP exportálás...</translation>
-    </message>
-    <message>
         <source>Hide Markers Label</source>
         <translation>Jelölő-címke elrejtése</translation>
     </message>
@@ -783,6 +779,10 @@
     <message>
         <source>Ctrl+D</source>
         <translation></translation>
+    </message>
+    <message>
+        <source>FTP Export...</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -1715,10 +1715,6 @@
         <translation>Változó bitráta (VBR)</translation>
     </message>
     <message>
-        <source>Constant Bit ráta (CBR)</source>
-        <translation>Állandó bitráta (CBR)</translation>
-    </message>
-    <message>
         <source>Limited Variable Bit Rate (ABR)</source>
         <translation>Korlátoltan változó bitráta (ABR)</translation>
     </message>
@@ -1856,10 +1852,6 @@
         <translation>Négyszög PDF</translation>
     </message>
     <message>
-        <source>HorTriangular PDF</source>
-        <translation>Háromszög alakú PDF</translation>
-    </message>
-    <message>
         <source>Noise Shaping</source>
         <translation>Zajszűrés</translation>
     </message>
@@ -1898,6 +1890,14 @@
     <message>
         <source>Custom Sample Rate</source>
         <translation>Egyedi mintavételi ráta</translation>
+    </message>
+    <message>
+        <source>Constant Bit Rate (CBR)</source>
+        <translation>Állandó bitráta (CBR)</translation>
+    </message>
+    <message>
+        <source>Triangular PDF</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -3295,6 +3295,14 @@ Channel
     <message>
         <source>Comment</source>
         <translation>Megjegyzés</translation>
+    </message>
+    <message>
+        <source>Revert</source>
+        <translation>Újra betöltés</translation>
+    </message>
+    <message>
+        <source>Close</source>
+        <translation>Bezárás</translation>
     </message>
 </context>
 <context>
@@ -5056,10 +5064,6 @@ a PC-n vagy hálózatán a megnyitáshoz:</translation>
         <translation>Használja ezeket a beállításokat a következő fájlvégződésű fájlokhoz: &apos;.dat&apos;</translation>
     </message>
     <message>
-        <source>Raw hangformátum</source>
-        <translation>Raw adatformátum</translation>
-    </message>
-    <message>
         <source>Preview</source>
         <translation>Előhallgatás</translation>
     </message>
@@ -5090,6 +5094,10 @@ a PC-n vagy hálózatán a megnyitáshoz:</translation>
     <message>
         <source>6 channels</source>
         <translation>6 csatorna</translation>
+    </message>
+    <message>
+        <source>Raw Sound Format</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>

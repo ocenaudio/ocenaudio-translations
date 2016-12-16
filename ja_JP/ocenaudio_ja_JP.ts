@@ -3299,6 +3299,14 @@ Channel
         <source>Comment</source>
         <translation type="unfinished"></translation>
     </message>
+    <message>
+        <source>Revert</source>
+        <translation type="unfinished">復帰する</translation>
+    </message>
+    <message>
+        <source>Close</source>
+        <translation type="unfinished">閉じる</translation>
+    </message>
 </context>
 <context>
     <name>QOcenCrashReportDialog</name>

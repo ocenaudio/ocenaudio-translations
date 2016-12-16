@@ -1533,6 +1533,22 @@
         <source>%1 channels</source>
         <translation>%1 csatorna</translation>
     </message>
+    <message>
+        <source>%1 s</source>
+        <translation></translation>
+    </message>
+    <message>
+        <source>Custom</source>
+        <translation>Egyedi</translation>
+    </message>
+    <message>
+        <source>No Devices Found</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>No common sampling rate</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>QOcenSpectrogramPrefs</name>
