@@ -868,11 +868,11 @@
     </message>
     <message>
         <source>-6</source>
-        <translation>-6</translation>
+        <translation></translation>
     </message>
     <message>
         <source>dB</source>
-        <translation>dB</translation>
+        <translation></translation>
     </message>
     <message>
         <source>Add Noise</source>
@@ -2006,31 +2006,31 @@ Kattintson itt a letöltéshez.</translation>
     </message>
     <message>
         <source>6000 Hz</source>
-        <translation>6000 Hz</translation>
+        <translation></translation>
     </message>
     <message>
         <source>8000 Hz</source>
-        <translation>48000 Hz {8000 ?}</translation>
+        <translation></translation>
     </message>
     <message>
         <source>11025 Hz</source>
-        <translation>11025 Hz</translation>
+        <translation></translation>
     </message>
     <message>
         <source>16000 Hz</source>
-        <translation>48000 Hz {16000 ?}</translation>
+        <translation></translation>
     </message>
     <message>
         <source>22050 Hz</source>
-        <translation>48000 Hz {22050 ?}</translation>
+        <translation></translation>
     </message>
     <message>
         <source>24000 Hz</source>
-        <translation>48000 Hz {24000 ?}</translation>
+        <translation></translation>
     </message>
     <message>
         <source>32000 Hz</source>
-        <translation>48000 Hz {32000 ?}</translation>
+        <translation></translation>
     </message>
     <message>
         <source>44100 Hz</source>
@@ -2038,11 +2038,11 @@ Kattintson itt a letöltéshez.</translation>
     </message>
     <message>
         <source>88200 Hz</source>
-        <translation>48000 Hz {88200 ?}</translation>
+        <translation></translation>
     </message>
     <message>
         <source>96000 Hz</source>
-        <translation>48000 Hz {96000 ?}</translation>
+        <translation></translation>
     </message>
     <message>
         <source>Change Number of Channels</source>
@@ -2498,7 +2498,7 @@ Channel
     </message>
     <message>
         <source>Do you want to revert to the most recently saved version of the document “%1”?</source>
-        <translation>Újra betölti a &quot;%1&quot; fájl mentett verzióját??</translation>
+        <translation>Újra betölti a &quot;%1&quot; fájl mentett verzióját?</translation>
     </message>
     <message>
         <source>Your current changes will be lost.</source>
@@ -2917,11 +2917,11 @@ Channel
     </message>
     <message>
         <source>60 dB</source>
-        <translation>0 dB {60 ?}</translation>
+        <translation></translation>
     </message>
     <message>
         <source>0.0 dB</source>
-        <translation>0 dB {0.0 ?}</translation>
+        <translation></translation>
     </message>
     <message>
         <source>Output</source>
@@ -2977,7 +2977,7 @@ Channel
     </message>
     <message>
         <source>6 ㏑(10)</source>
-        <translation> 6 (10)-ből</translation>
+        <translation></translation>
     </message>
     <message>
         <source>Release</source>
