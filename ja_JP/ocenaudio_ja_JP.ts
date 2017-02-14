@@ -13,7 +13,7 @@
     </message>
     <message>
         <source>16000</source>
-        <translation>16000</translation>
+        <translation></translation>
     </message>
     <message>
         <source>Hz</source>
@@ -21,35 +21,35 @@
     </message>
     <message>
         <source>48000</source>
-        <translation>48000</translation>
+        <translation></translation>
     </message>
     <message>
         <source>44100</source>
-        <translation>44100</translation>
+        <translation></translation>
     </message>
     <message>
         <source>32000</source>
-        <translation>32000</translation>
+        <translation></translation>
     </message>
     <message>
         <source>22050</source>
-        <translation>22050</translation>
+        <translation></translation>
     </message>
     <message>
         <source>11025</source>
-        <translation>11025</translation>
+        <translation></translation>
     </message>
     <message>
         <source>8000</source>
-        <translation>8000</translation>
+        <translation></translation>
     </message>
     <message>
         <source>6000</source>
-        <translation>6000</translation>
+        <translation></translation>
     </message>
     <message>
         <source>This setting only changes the value of the sample rate. This operation does not resample the signal.</source>
-        <translation>こちらの設定でサンプルレートの値のみを変更する。シグナル自体がリサンプルされません。</translation>
+        <translation>こちらの設定でサンプルレートの値のみ変更する。この操作でシグナルがリサンプルされません。</translation>
     </message>
 </context>
 <context>
@@ -64,7 +64,7 @@
     </message>
     <message>
         <source>New From</source>
-        <translation>...から新しく作成</translation>
+        <translation>新しいやつから</translation>
     </message>
     <message>
         <source>&amp;Edit</source>
@@ -72,19 +72,19 @@
     </message>
     <message>
         <source>&amp;View</source>
-        <translation>&amp;表示</translation>
+        <translation>&amp;閲覧</translation>
     </message>
     <message>
         <source>Display Time Format</source>
-        <translation>時間書式を表示</translation>
+        <translation>時間正式を表示</translation>
     </message>
     <message>
         <source>Vertical Scale Format</source>
-        <translation>縦拡の書式</translation>
+        <translation>縦拡をフォーマット</translation>
     </message>
     <message>
         <source>Spectral Scale Format</source>
-        <translation>分光拡の書式</translation>
+        <translation>分光拡をフォーマット</translation>
     </message>
     <message>
         <source>Zoom</source>
@@ -96,15 +96,15 @@
     </message>
     <message>
         <source>Effec&amp;ts</source>
-        <translation>効果</translation>
+        <translation>エフェクト</translation>
     </message>
     <message>
         <source>Amplitude</source>
-        <translation>振幅</translation>
+        <translation>広さ</translation>
     </message>
     <message>
         <source>Filter</source>
-        <translation>フィルター</translation>
+        <translation>フィルタ</translation>
     </message>
     <message>
         <source>Equalization</source>
@@ -140,7 +140,7 @@
     </message>
     <message>
         <source>New...</source>
-        <translation>新しく作成...</translation>
+        <translation>新作成...</translation>
     </message>
     <message>
         <source>Duplicate</source>
@@ -309,11 +309,11 @@
     </message>
     <message>
         <source>Save All</source>
-        <translation>全てを保存</translation>
+        <translation>全保存</translation>
     </message>
-    <message>　
+    <message>
         <source>Revert to Saved</source>
-        <translation>保存したバージョンに戻す</translation>
+        <translation>保存バージョンに復帰する</translation>
     </message>
     <message>
         <source>Play</source>
@@ -333,7 +333,7 @@
     </message>
     <message>
         <source>All Sound</source>
-        <translation>全てのサウンド</translation>
+        <translation>全サウンド</translation>
     </message>
     <message>
         <source>Selection</source>
@@ -341,7 +341,7 @@
     </message>
     <message>
         <source>Show File Folder...</source>
-        <translation>ファイルのフォルダーを表示する...</translation>
+        <translation>ファイルフォルダーを表示する...</translation>
     </message>
     <message>
         <source>Hide Waveform Navigator</source>
@@ -473,7 +473,7 @@
     </message>
     <message>
         <source>ocenaudio</source>
-        <translation>ocenaudio</translation>
+        <translation>オセンオーディオ</translation>
     </message>
     <message>
         <source>Extra Tracks</source>
@@ -505,7 +505,7 @@
     </message>
     <message>
         <source>Noise</source>
-        <translation>ノイズ</translation>
+        <translation>雑音</translation>
     </message>
     <message>
         <source>DTMF</source>
@@ -590,11 +590,11 @@
     </message>
     <message>
         <source>31-Band Graphic Equalizer...</source>
-        <translation>31-バンド図形等化器...</translation>
+        <translation>31条図形等化器...</translation>
     </message>
     <message>
         <source>11-Band Graphic Equalizer...</source>
-        <translation>11-バンド図形等化器...</translation>
+        <translation>11条図形等化器...</translation>
     </message>
     <message>
         <source>Clipboard</source>
@@ -642,7 +642,7 @@
     </message>
     <message>
         <source>Noise Gate...</source>
-        <translation>ノイズゲート...</translation>
+        <translation>雑音ゲート...</translation>
     </message>
     <message>
         <source>Normalize</source>
@@ -666,7 +666,7 @@
     </message>
     <message>
         <source>Add Random Noise...</source>
-        <translation>ランダムなノイズを追加...</translation>
+        <translation>ランダムな雑音を追加...</translation>
     </message>
     <message>
         <source>Invert</source>
@@ -710,11 +710,11 @@
     </message>
     <message>
         <source>Meta+Space</source>
-        <translation>Meta+Space</translation>
+        <translation></translation>
     </message>
     <message>
         <source>Send Crash Report...</source>
-        <translation>クラッシュ報告を送信中...</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Preferences</source>
@@ -730,59 +730,59 @@
     </message>
     <message>
         <source>Record Options</source>
-        <translation>録音オプション</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Preroll</source>
-        <translation>プリロール</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Ctrl+P</source>
-        <translation>Ctrl+P</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Extract Audio From Regions</source>
-        <translation>領域からオーディオを抜き出す</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Quick Open...</source>
-        <translation>クイック開き</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Noise Reduction</source>
-        <translation>ノイズ減少</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Smooth</source>
-        <translation>和らげる</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Noise Reduction...</source>
-        <translation>ノイズ減少...</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Automatic Noise Reduction</source>
-        <translation>ノイズを自動的に減少する</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Playback Options</source>
-        <translation>再生オプション</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Record Mixer Config...</source>
-        <translation>録音ミクサー設定...</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Playback Mixer Config...</source>
-        <translation>再生ミクサー設定...</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Destructive Recording</source>
-        <translation>破壊的な録音</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Ctrl+D</source>
-        <translation>Ctrl+D</translation>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -793,11 +793,11 @@
     </message>
     <message>
         <source>00:00:00.000</source>
-        <translation>00:00:00.000</translation>
+        <translation></translation>
     </message>
     <message>
         <source>View</source>
-        <translation>表示</translation>
+        <translation>ビュー</translation>
     </message>
     <message>
         <source>Selections</source>
@@ -876,15 +876,15 @@
     </message>
     <message>
         <source>Add Noise</source>
-        <translation>ノイズを追加</translation>
+        <translation>雑音を追加</translation>
     </message>
     <message>
         <source>Adding Noise</source>
-        <translation>ノイズ追加中</translation>
+        <translation>雑音追加中</translation>
     </message>
     <message>
         <source>Addition of Noise</source>
-        <translation>ノイズの追加</translation>
+        <translation>雑音の追加</translation>
     </message>
 </context>
 <context>
@@ -995,7 +995,7 @@
     </message>
     <message>
         <source>20.00 Hz</source>
-        <translation>20.00 Hz</translation>
+        <translation></translation>
     </message>
     <message>
         <source>Applying Delay</source>
@@ -1062,7 +1062,7 @@
     </message>
     <message>
         <source>In current version, ocenaudio uses DIRAC LE library that supports only one audio channel with sampling rate of 44100 Hz or 48000 Hz.</source>
-        <translation>現在のocenaudioバージョン上で　利用されてるDIRAC LEライブラリが44100 Hz 又は 48000 Hzサンプルレートオーディオチャンネル一つしか対応されていません。</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Time and Pitch Adjust</source>
@@ -1129,7 +1129,7 @@
     </message>
     <message>
         <source>Noise Gate</source>
-        <translation>ノイズゲート</translation>
+        <translation>雑音ゲート</translation>
     </message>
     <message>
         <source>-60 dB</source>
@@ -1185,38 +1185,38 @@
     </message>
     <message>
         <source>Applying Compressor</source>
-        <translation>圧縮器を適用中</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Applying Expansor</source>
-        <translation>拡張器を適用中</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Expansor</source>
-        <translation>拡張器</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Applying Limiter</source>
-        <translation>制限器を適用中</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Applying Noise Gate</source>
-        <translation>ノイズゲートを適用中</translation>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
     <name>QFadeDialog</name>
     <message>
         <source>Apply Fade</source>
-        <translation>フェードを適用する</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Fade Options</source>
-        <translation>フェードオプション</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Direction</source>
-        <translation>方向</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Fade In</source>
@@ -1228,7 +1228,7 @@
     </message>
     <message>
         <source>Curve</source>
-        <translation>カーブ</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Linear</source>
@@ -1236,27 +1236,27 @@
     </message>
     <message>
         <source>Cosine</source>
-        <translation>コサイン（余弦）</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Exponential</source>
-        <translation>指数</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Use this curve for all fade operations</source>
-        <translation>全てのフェードにこのカーブを使用する</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>S-Curve</source>
-        <translation>Sカーブ</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Logarithmic</source>
-        <translation>対数的</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Applying %1 </source>
-        <translation>%1 を適用中</translation>
+        <translation>%1 を適用中 </translation>
     </message>
 </context>
 <context>
@@ -1271,11 +1271,11 @@
     </message>
     <message>
         <source>Passband Limit</source>
-        <translation>パスバンドの制限</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>10,6 ms</source>
-        <translation>10,6 ms</translation>
+        <translation></translation>
     </message>
     <message>
         <source>Highpass</source>
@@ -1283,27 +1283,27 @@
     </message>
     <message>
         <source>Bandpass</source>
-        <translation>バンドパス</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Passband Limits</source>
-        <translation>パスバンドの制限</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Bandstop</source>
-        <translation>バンドストップ</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Rolloff</source>
-        <translation>ロールオフ</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Passband Atenuation</source>
-        <translation>パスバンドの減衰</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>%1 dB/decade</source>
-        <translation>%1 dB/decade</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Applying Lowpass Filter</source>
@@ -1323,19 +1323,19 @@
     </message>
     <message>
         <source>Applying Bandpass Filter</source>
-        <translation>バンドパスフィルターを適用中</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Bandpass Filter</source>
-        <translation>バンドパスフィルター</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Applying Bandstop Filter</source>
-        <translation>帯域除去フィルターを適用中</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Bandstop Filter</source>
-        <translation>バンドストップフィルター</translation>
+        <translation></translation>
     </message>
 </context>
 <context>
@@ -1350,15 +1350,15 @@
     </message>
     <message>
         <source>-25.0</source>
-        <translation>-25.0</translation>
+        <translation></translation>
     </message>
     <message>
         <source>dB</source>
-        <translation>dB</translation>
+        <translation></translation>
     </message>
     <message>
         <source>Invert</source>
-        <translation>逆にする</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Right</source>
@@ -1370,19 +1370,19 @@
     </message>
     <message>
         <source>Normalize to</source>
-        <translation>に正常化する</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Remove DC before normalizing</source>
-        <translation>正常化する前に、DCを抜く</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Normalize Channels Independently</source>
-        <translation>単独的にチャンネルを正常化する</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>DC Offset</source>
-        <translation>DCオフセット</translation>
+        <translation type="unfinished">DCオフセット</translation>
     </message>
     <message>
         <source>%</source>
@@ -1390,11 +1390,11 @@
     </message>
     <message>
         <source>Gain Unit</source>
-        <translation>増幅単位</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Percentual</source>
-        <translation>比率</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Decibels</source>
@@ -1402,222 +1402,222 @@
     </message>
     <message>
         <source>Offset</source>
-        <translation>オフセット</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Change Gain</source>
-        <translation>増幅を変更する</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Amplitude</source>
-        <translation>振幅</translation>
+        <translation>広さ</translation>
     </message>
     <message>
         <source>Changing gain</source>
-        <translation>増幅を変更中</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Normalizing</source>
-        <translation>正常化中</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Changing DC offset</source>
-        <translation>DCオフセットを変更中</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Change DC Offset</source>
-        <translation>DCオフセットを変更</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Ch #6</source>
-        <translation>Ch #6</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Ch #7</source>
-        <translation>Ch #7</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Ch #3</source>
-        <translation>Ch #3</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Ch #8</source>
-        <translation>Ch #8</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Ch #4</source>
-        <translation>Ch #4</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Ch #5</source>
-        <translation>Ch #5</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Show channel names</source>
-        <translation>チャンネル名を表示する</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Lock channels</source>
-        <translation>チャンネルをロック</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Limit gain values to avoid clipping</source>
-        <translation>クリップされない様　増幅値を制限する</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Limit offset values to avoid clipping</source>
-        <translation>クリップされない様　オフセット値を制限する</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Lock Channels</source>
-        <translation>チャンネルをロック</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Channel %1</source>
-        <translation>チャンネル %1</translation>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
     <name>QGraphEqWidget</name>
     <message>
         <source>Form</source>
-        <translation>形</translation>
+        <translation></translation>
     </message>
     <message>
         <source>20 dB</source>
-        <translation>20 dB</translation>
+        <translation></translation>
     </message>
     <message>
         <source>0 dB</source>
-        <translation>0 dB</translation>
+        <translation></translation>
     </message>
     <message>
         <source>-20 dB</source>
-        <translation>20 dB</translation>
+        <translation></translation>
     </message>
     <message>
         <source>20</source>
-        <translation>20</translation>
+        <translation></translation>
     </message>
     <message>
         <source>25</source>
-        <translation>25</translation>
+        <translation></translation>
     </message>
     <message>
         <source>31.5</source>
-        <translation>31.5</translation>
+        <translation></translation>
     </message>
     <message>
         <source>40</source>
-        <translation>40</translation>
+        <translation></translation>
     </message>
     <message>
         <source>50</source>
-        <translation>50</translation>
+        <translation></translation>
     </message>
     <message>
         <source>63</source>
-        <translation>63</translation>
+        <translation></translation>
     </message>
     <message>
         <source>80</source>
-        <translation>80</translation>
+        <translation></translation>
     </message>
     <message>
         <source>100</source>
-        <translation>100</translation>
+        <translation></translation>
     </message>
     <message>
         <source>125</source>
-        <translation>125</translation>
+        <translation></translation>
     </message>
     <message>
         <source>160</source>
-        <translation>160</translation>
+        <translation></translation>
     </message>
     <message>
         <source>200</source>
-        <translation>200</translation>
+        <translation></translation>
     </message>
     <message>
         <source>250</source>
-        <translation>250</translation>
+        <translation></translation>
     </message>
     <message>
         <source>315</source>
-        <translation>315</translation>
+        <translation></translation>
     </message>
     <message>
         <source>400</source>
-        <translation>400</translation>
+        <translation></translation>
     </message>
     <message>
         <source>500</source>
-        <translation>500</translation>
+        <translation></translation>
     </message>
     <message>
         <source>630</source>
-        <translation>630</translation>
+        <translation></translation>
     </message>
     <message>
         <source>800</source>
-        <translation>800</translation>
+        <translation></translation>
     </message>
     <message>
         <source>1k</source>
-        <translation>1k</translation>
+        <translation></translation>
     </message>
     <message>
         <source>1.25k</source>
-        <translation>1.25k</translation>
+        <translation></translation>
     </message>
     <message>
         <source>1.6k</source>
-        <translation>1.6k</translation>
+        <translation></translation>
     </message>
     <message>
         <source>2k</source>
-        <translation>2k</translation>
+        <translation></translation>
     </message>
     <message>
         <source>2.5k</source>
-        <translation>2.5k</translation>
+        <translation></translation>
     </message>
     <message>
         <source>3.15k</source>
-        <translation>3.15k</translation>
+        <translation></translation>
     </message>
     <message>
         <source>4k</source>
-        <translation>4k</translation>
+        <translation></translation>
     </message>
     <message>
         <source>5k</source>
-        <translation>5k</translation>
+        <translation></translation>
     </message>
     <message>
         <source>6.3k</source>
-        <translation>6.3k</translation>
+        <translation></translation>
     </message>
     <message>
         <source>8k</source>
-        <translation>8k</translation>
+        <translation></translation>
     </message>
     <message>
         <source>10k</source>
-        <translation>10k</translation>
+        <translation></translation>
     </message>
     <message>
         <source>12.5k</source>
-        <translation>12.5k</translation>
+        <translation></translation>
     </message>
     <message>
         <source>16k</source>
-        <translation>16k</translation>
+        <translation></translation>
     </message>
     <message>
         <source>20k</source>
-        <translation>20k</translation>
+        <translation></translation>
     </message>
     <message>
         <source>Gain</source>
@@ -1656,7 +1656,7 @@
     </message>
     <message>
         <source>Medium Low</source>
-        <translation>中-低</translation>
+        <translation>中低</translation>
     </message>
     <message>
         <source>Medium</source>
@@ -1664,7 +1664,7 @@
     </message>
     <message>
         <source>Medium High</source>
-        <translation>中-高</translation>
+        <translation>中高</translation>
     </message>
     <message>
         <source>High</source>
@@ -1692,7 +1692,7 @@
     </message>
     <message>
         <source>Limited Variable Bit Rate (ABR)</source>
-        <translation>制限した可変ビットレート(ABR)</translation>
+        <translation>制限されてる可変ビットレート(ABR)</translation>
     </message>
     <message>
         <source>No Gap</source>
@@ -1700,35 +1700,35 @@
     </message>
     <message>
         <source>½ s Gap</source>
-        <translation>0.5秒 の隙間</translation>
+        <translation>½分の1秒隙間</translation>
     </message>
     <message>
         <source>1 s Gap</source>
-        <translation>1秒 の隙間</translation>
+        <translation>1秒隙間</translation>
     </message>
     <message>
         <source>2 s Gap</source>
-        <translation>2秒 の隙間</translation>
+        <translation>2秒隙間</translation>
     </message>
     <message>
         <source>3 s Gap</source>
-        <translation>3秒 の隙間</translation>
+        <translation>3秒隙間</translation>
     </message>
     <message>
         <source>4 s Gap</source>
-        <translation>4秒 の隙間</translation>
+        <translation>4秒隙間</translation>
     </message>
     <message>
         <source>5 s Gap</source>
-        <translation>5秒 の隙間</translation>
+        <translation>5秒隙間</translation>
     </message>
     <message>
         <source>32 bits</source>
-        <translation>32 ビット</translation>
+        <translation type="unfinished">16 ビット {32 ?}</translation>
     </message>
     <message>
         <source>64 bits</source>
-        <translation>64 ビット</translation>
+        <translation type="unfinished">16 ビット {64 ?}</translation>
     </message>
     <message>
         <source>Preview</source>
@@ -1736,49 +1736,49 @@
     </message>
     <message>
         <source>bins</source>
-        <translation>ビン</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Window Function</source>
-        <translation>ウィンドー性能</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Number of Bins</source>
-        <translation>ビンの数</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Scale Kind</source>
-        <translation>スケールの種類</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Other Options</source>
-        <translation>その他の設定</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Follow Play Cursor</source>
-        <translation>再生カーソルを追う</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Separated channels view</source>
-        <translation>分かれてるチャネルを表示</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Show each audio channel on a separated view.</source>
-        <translation>各チャンネルを別に表示する</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Display Cursor Position</source>
-        <translation>カーソルの位置を表示する</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>%1 Scale</source>
         <comment>Ex: Linear Scale (Dont remove %1)</comment>
-        <translation>%1 スケール</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Drop Artwork Here</source>
         <translation>アートワークを
-ここにドラッグアンド
+ここに
 ドロップ</translation>
     </message>
     <message>
@@ -1819,7 +1819,7 @@
     </message>
     <message>
         <source>Channel %1</source>
-        <translation>チャンネル %1</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Skip</source>
@@ -1827,79 +1827,79 @@
     </message>
     <message>
         <source>Label</source>
-        <translation>ラベル</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Position</source>
-        <translation>位置</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Duration</source>
-        <translation>長さ</translation>
+        <translation type="unfinished">長さ</translation>
     </message>
     <message>
         <source>Comment of region “%1”</source>
-        <translation>領域“%1” の備考</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>VST</source>
-        <translation>VST</translation>
+        <translation type="unfinished">VST</translation>
     </message>
     <message>
         <source>VST Preferences</source>
-        <translation>VSTの詳細設定</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>No Dithering</source>
-        <translation>ディザリングなし</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Rectangular PDF</source>
-        <translation>長方形のPDF</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Triangular PDF</source>
-        <translation>三角のPDF</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Noise Shaping</source>
-        <translation>ノイズ形状</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Other</source>
-        <translation>その他</translation>
+        <translation type="unfinished">他の</translation>
     </message>
     <message>
         <source>From stream</source>
-        <translation>ストリームから</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>From &lt;b&gt;%1 Hz&lt;/b&gt;</source>
-        <translation>&lt;b&gt;%1 Hz&lt;/b&gt; から</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>From &lt;b&gt;multiples sample rates&lt;b&gt;</source>
-        <translation>&lt;b&gt;サンプルレートの数倍の数&lt;b&gt;　から</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>From &lt;b&gt;multiples number of channels&lt;b&gt;</source>
-        <translation>&lt;b&gt;チャンネル数の数倍の数&lt;b&gt; から</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>From &lt;b&gt;1 channel (mono)&lt;b&gt;</source>
-        <translation>&lt;b&gt;1 チャンネル （モノラル）&lt;b&gt;　から</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>From &lt;b&gt;2 channels (stereo)&lt;b&gt;</source>
-        <translation>&lt;b&gt;2 チャンネル （ステレオ）&lt;b&gt;　から</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>From &lt;b&gt;%1 channels&lt;b&gt;</source>
-        <translation>&lt;b&gt;%1 チャンネル&lt;b&gt;　から</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Custom Sample Rate</source>
-        <translation>カスタムサンプルレート</translation>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -1910,20 +1910,20 @@
     </message>
     <message>
         <source>ocenaudio</source>
-        <translation>ocenaudio</translation>
+        <translation>オセンオーディオ</translation>
     </message>
     <message>
         <source>Version 2.6.0 (Build 2292)</source>
         <translation>バージョン 2.6.0 (Build 2292)</translation>
     </message>
     <message>
-        <source>© Copyright ocenaudio Team</source>
-        <oldsource>© Copyright 2011 ocenaudio Team</oldsource>
-        <translation>© Copyright ocenaudio Team</translation>
+        <source>© Copyright OcenAudio Team</source>
+        <oldsource>© Copyright 2011 OcenAudio Team</oldsource>
+        <translation>© Copyright OcenAudio Team</translation>
     </message>
     <message>
         <source>All rights reserved.</source>
-        <translation>All rights reserved.</translation>
+        <translation>不許複製。</translation>
     </message>
     <message>
         <source>Version 2.0.0.rc1 (Build 2292)</source>
@@ -1939,24 +1939,24 @@
     </message>
     <message>
         <source>About ocenaudio</source>
-        <translation>ocenaudioについて</translation>
+        <translation>オセンオーディオについて</translation>
     </message>
     <message>
         <source>http://www.ocenaudio.com</source>
-        <translation>http://www.ocenaudio.com</translation>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
-    <name>QocenaudioApplication</name>
+    <name>QOcenAudioApplication</name>
     <message>
         <source>Stay Updated with ocenaudio!</source>
-        <translation>ocenaudioを常に更新しましょう！</translation>
+        <translation>オセンオーディオを更新しましょう！</translation>
     </message>
     <message>
         <source>A new version might be available.
 Click here and check!</source>
         <translation>新しいバージョンは有る可能性がある。
-確認するのに、ここをクリックしてください！</translation>
+ここにて確認してください！</translation>
     </message>
     <message>
         <source>New release available</source>
@@ -1965,180 +1965,180 @@ Click here and check!</source>
     <message>
         <source>A new ocenaudio version is available.
 Click here to download it.</source>
-        <translation>新しいocenaudioのバージョンがあります。
-ダウンロードするに、ここをクリックして下さい。</translation>
+        <translation>新しいオセンオーディオのバージョンがあります。
+ダウンロードするに、ここにクリックして下さい。</translation>
     </message>
     <message>
         <source>Use ocenaudio 64-bit!</source>
-        <translation>ocenaudio 64-bitをご利用ください！</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>You are using a 64-bit operating system and ocenaudio is available for this architecture. For better performance use the 64-bit version of ocenaudio.</source>
-        <translation>64-bitのオペレーティング システムを利用してる様です。より良いパフォーマンスには　ocenaudioの64-bit版をお使いになって下さい。</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Regions Comment</source>
-        <translation>領域の備考</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>New Plugin Installed</source>
-        <translation>新プラグインインストール完了</translation>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
-    <name>QocenaudioChangeFormatDialog</name>
+    <name>QOcenAudioChangeFormatDialog</name>
     <message>
         <source>Convert Audio Format</source>
-        <translation>オーディオ形式を変更</translation>
+        <translation type="unfinished">オーディオ正式を変更</translation>
     </message>
     <message>
         <source>Change Sample Rate</source>
-        <translation>サンプルレートを変更</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>From &lt;b&gt;22050 Hz&lt;/b&gt;</source>
-        <translation>&lt;b&gt;22050 Hz&lt;/b&gt; から</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>➨</source>
-        <translation>➨</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Don&apos;t Change (22050 Hz)</source>
-        <translation>(22050 Hz)変更してはいけません</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>6000 Hz</source>
-        <translation>6000 Hz</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>8000 Hz</source>
-        <translation>8000 Hz</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>11025 Hz</source>
-        <translation>11025 Hz</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>16000 Hz</source>
-        <translation>16000 Hz</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>22050 Hz</source>
-        <translation>22050 Hz</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>24000 Hz</source>
-        <translation>24000 Hz</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>32000 Hz</source>
-        <translation>32000 Hz</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>44100 Hz</source>
-        <translation>44100 Hz</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>88200 Hz</source>
-        <translation>88200 Hz</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>96000 Hz</source>
-        <translation>96000 Hz</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Change Number of Channels</source>
-        <translation>チャンネルの数を変更する</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>From &lt;b&gt;1 channel (mono)&lt;/b&gt;</source>
-        <translation>From &lt;b&gt;1 チャンネル　（モノラル）&lt;/b&gt;</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Don&apos;t Change (mono)</source>
-        <translation>変更してはいけません（モノラル）</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>2 channels (stereo)</source>
-        <translation>2 チャンネル</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>3 channels</source>
-        <translation>3 チャンネル</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>4 channels</source>
-        <translation>4 チャンネル</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>5 channels</source>
-        <translation>5 チャンネル</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>6 channels</source>
-        <translation>6 チャンネル</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>7 channels</source>
-        <translation>7 チャンネル</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>8 channels</source>
-        <translation>8 チャンネル</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Just Swap Left/Right Channels</source>
-        <translation>左/右チャンネルのみを交換する</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Don&apos;t Change</source>
-        <translation>変更してはいけません</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Select Custom Sample Rate</source>
-        <translation>カスタムサンプルレートを選ぶ</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Custom Sample Rate (%1)</source>
-        <translation>カスタムサンプルレート(%1)</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>1 channel (mono)</source>
-        <translation>1 チャンネル (モノラル）</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>%1 channels</source>
-        <translation>%1 チャンネル</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Output
 Channel
 #%1</source>
-        <translation>アウトプット</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Channel #%1</source>
-        <translation>チャンネル #%1</translation>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
-    <name>QocenaudioFftAnalysisDialog</name>
+    <name>QOcenAudioFftAnalysisDialog</name>
     <message>
         <source>FFT Analysis</source>
         <translation>FFT解析</translation>
     </message>
     <message>
         <source>%1 Window | %2 %3</source>
-        <translation>%1 ウィンドー | %2 %3</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Updating FFT ...</source>
-        <translation>FFT更新中 ...</translation>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
-    <name>QocenaudioMainWindow</name>
+    <name>QOcenAudioMainWindow</name>
     <message>
         <source>About</source>
         <translation>バージョン情報</translation>
@@ -2217,7 +2217,7 @@ Channel
     </message>
     <message>
         <source>Apple New Pitch</source>
-        <translation>アップルの新音調</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Apple Distortion</source>
@@ -2345,7 +2345,7 @@ Channel
     </message>
     <message>
         <source>Spectral Scale in Hz</source>
-        <translation>分光のスケール(Hz)</translation>
+        <translation>Hzで分光のスケール</translation>
     </message>
     <message>
         <source>Show/Hide Regions</source>
@@ -2421,7 +2421,7 @@ Channel
     </message>
     <message>
         <source>Send Crash Report</source>
-        <translation type="">クラッシュ報告を送信</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Save Sound Copy As ...</source>
@@ -2449,11 +2449,11 @@ Channel
     </message>
     <message>
         <source>Separate</source>
-        <translation>分ける</translation>
+        <translation>別々</translation>
     </message>
     <message>
         <source>Single</source>
-        <translation>纏める</translation>
+        <translation>合体</translation>
     </message>
     <message>
         <source>Save Each Selection Prefixed With ...</source>
@@ -2493,7 +2493,7 @@ Channel
     </message>
     <message>
         <source>The maximum duration of a ringtone to itunes is 30s. To proceed you must select or cut your audio up to 30s.</source>
-        <translation>itunesで着メロの最大長さは30秒に限られています。続行するに、着メロファイルを 30秒 以下に調整して下さい。</translation>
+        <translation>itunesで着メロの最大長さは30秒に限られています。続行するに、着メロファイルを30秒以下に調整下さい。</translation>
     </message>
     <message>
         <source>%1</source>
@@ -2501,7 +2501,7 @@ Channel
     </message>
     <message>
         <source>Do you want to revert to the most recently saved version of the document “%1”?</source>
-        <translation>一番最近の“%1” に復帰しますか？</translation>
+        <translation>一番最近の“%1”に復帰しますか？</translation>
     </message>
     <message>
         <source>Your current changes will be lost.</source>
@@ -2537,7 +2537,7 @@ Channel
     </message>
     <message>
         <source>If you proceed all metadata informations (artist name, album name, artwork) will be removed from this file.</source>
-        <translation>全てのメタデータ情報（アーティスト名、アルバム名、アートワーク）がこのファイルから省かれます。</translation>
+        <translation>全てのメタデータ情報（アーティストの名前、アルバム名、アートワーク）がこのファイルから省かれます。</translation>
     </message>
     <message>
         <source>Some markers will be merged because they are very close.</source>
@@ -2549,19 +2549,19 @@ Channel
     </message>
     <message>
         <source>Markers less than 10 ms apart are merged in the split process. You have %1 markers merged.</source>
-        <translation>ファイルを分ける際、マーカーとマーカーの間が10ms以下の場合には、一つに纏まられます。%1 マーカーが纏まられました。</translation>
+        <translation>ファイルを分ける際、マーカーとマーカーの間が10ms以下の場合には、一つに纏まられます。%1　マーカーが纏まられました。</translation>
     </message>
     <message>
         <source>You are about to split your audio by %1 parts. Are you sure you want to proceed?</source>
-        <translation>オーディオが　%1 部分に分けられます。宜しいですか？</translation>
+        <translation>オーディオが　%1　部分に分けられます。宜しいですか？</translation>
     </message>
     <message>
         <source>If you proceed this operation will generate %1 new audio files.</source>
-        <translation>続行すると、%1 の新ファイルが作成されます。</translation>
+        <translation>続行すると、%1　の新ファイルが作成されます。</translation>
     </message>
     <message>
         <source>Part %1 of </source>
-        <translation>%1 / </translation>
+        <translation>の　%1　部</translation>
     </message>
     <message>
         <source>Error</source>
@@ -2737,7 +2737,7 @@ Channel
     </message>
     <message>
         <source>Repeat %1</source>
-        <translation>%1 を繰り返す</translation>
+        <translation>%1　を繰り返す</translation>
     </message>
     <message>
         <source>Copy</source>
@@ -2797,284 +2797,284 @@ Channel
     </message>
     <message>
         <source>The export file format is not compatible with the current audio format!</source>
-        <translation>書き出しファイル形式が現在のオーディオ形式に非対応です！</translation>
+        <translation>書き出しファイルフォーマットは現在のオーディオフォーマットと非対応です!</translation>
     </message>
     <message>
         <source>The export file cannot be create on the destination path!</source>
-        <translation>書き出しファイルが移動先のパスで作成出来ません！</translation>
+        <translation>書き出しファイルが移動先のパスで作成出来ません!</translation>
     </message>
     <message>
         <source>Extract Audio From Regions</source>
-        <translation>領域からオーディオを抜き出す</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Enable/Disable Preroll on Recording</source>
-        <translation>録音のプリロールを有効/無効にする</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Select “separate” to save each selection to a different file. If you select “single”, all your selections will be appended and saved to a single file.</source>
-        <translation>各選択を別々保存するには「分ける」を選択してください。「総合」をせんたくしますと　全ての選択が一つのファイル総合して　保存されます。</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Mix Pasting</source>
-        <translation>貼り付けを混ぜる</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Loading Signal</source>
-        <translation>信号を読み込み中</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Generating Signal</source>
-        <translation>信号を生成中</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Part “%1” of </source>
-        <translation>“%1” / </translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Some regions will be ignored because they are very short.</source>
-        <translation>短すぎる領域が無視されます</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Regions with less than 10 ms are ignored. You have one region ignored.</source>
-        <translation>10 ms以下の領域が無視されます。無視された領域一つが見つかりました。</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Regions with less than 10 ms are ignored. You have %1 regions ignored.</source>
-        <translation>10 ms以下の領域が無視されます。無視された領域が %1 見つかりました。</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>You are about to extract %1 regions from your audio. Are you sure you want to proceed?</source>
-        <translation>オーディオから　領域　%1 を抜き出します。よろしいですか？</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Region “%1” of </source>
-        <translation>領域 “%1”　/ </translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Region %1 of </source>
-        <translation>領域 %1　/ </translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Apple Reverb 2</source>
-        <translation>アップル　リバーブ</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Swap Channels from Selections</source>
-        <translation>選択からチャンネルを交換する</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Applying Automatic Noise Reduction</source>
-        <translation>ノイズ減少を自動的に適用中</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Noise Reduction</source>
-        <translation>ノイズ減少</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Playback Mixer Config</source>
-        <translation>再生するミクサーの設定</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Record Mixer Config</source>
-        <translation>録音ミクサーの設定</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Enable/Disable Destructive Recording</source>
-        <translation>破壊的な録音を有効/無効にする</translation>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
-    <name>QocenaudioNoiseReductionWidget</name>
+    <name>QOcenAudioNoiseReductionWidget</name>
     <message>
         <source>Form</source>
-        <translation>フォーム</translation>
+        <translation type="unfinished">フォーム</translation>
     </message>
     <message>
         <source>Noise Profiler</source>
-        <translation>ノイズプロファイラ</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Get profile</source>
-        <translation>プロファイラを取得する</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Update profile</source>
-        <translation>プロファイラを更新する</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Noise Reductor</source>
-        <translation>ノイズ減少器</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Noise</source>
-        <translation>ノイズ</translation>
+        <translation type="unfinished">雑音</translation>
     </message>
     <message>
         <source>Reduction factor</source>
-        <translation>減少因子</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>0 dB</source>
-        <translation>0 dB</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>60 dB</source>
-        <translation>60 dB</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>0.0 dB</source>
-        <translation>0.0 dB</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Output</source>
-        <translation>アウトプット</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Reduce noise</source>
-        <translation>ノイズを減少する</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Remove noise</source>
-        <translation>ノイズを取り除く</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Gate Settings</source>
-        <translation>ゲート設定</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>3 bands</source>
-        <translation>3 バンド</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Smoothing</source>
-        <translation>平滑化</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Sensitivity</source>
-        <translation>敏感さ</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Fast</source>
-        <translation>早い</translation>
+        <translation type="unfinished">早い</translation>
     </message>
     <message>
         <source>Slow</source>
-        <translation>遅い</translation>
+        <translation type="unfinished">遅い</translation>
     </message>
     <message>
         <source>Less</source>
-        <translation>もっと少なく</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>More</source>
-        <translation>もっと多く</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>0.1 ms</source>
-        <translation>0.1 ms</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>5 ms</source>
-        <translation>5 ms</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>6 ㏑(10)</source>
-        <translation>6 ㏑(10)</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Release</source>
-        <translation>リリース</translation>
+        <translation type="unfinished">リリース</translation>
     </message>
     <message>
         <source>Attack</source>
-        <translation>アタック</translation>
+        <translation type="unfinished">アタック</translation>
     </message>
     <message>
         <source>Window Settings</source>
-        <translation>ウィンドー設定</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Analysis:</source>
-        <translation>解析</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Synthesis:</source>
-        <translation>合成</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Only for Noise Reductor</source>
-        <translation>ノイズ減少器用のみ</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Size:</source>
-        <translation>大きさ</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Only for Noise Profiler</source>
-        <translation>ノイズプロファイラ用のみ</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Overlap:</source>
-        <translation>重なり合う：</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Updating noise profile...</source>
-        <translationノイズプロフィール更新中...></translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Noise Reduction</source>
-        <translation>ノイズ減少</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Reducing Noise</source>
-        <translation>ノイズを減少中</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Removing Noise</source>
-        <translation>ノイズを取り除き中</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Estimating Noise</source>
-        <translation>ノイズを検出中</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Creating noise profile...</source>
-        <translation>ノイズプロフィールを作成中...</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>On Update Profile</source>
-        <translation>プロフィール更新で</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Could not update profile</source>
-        <translation>プロフィールを更新できませんでした</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>The selected audio must have the same configuration of the one used to estimate the noise profile.</source>
-        <translation>ノイズプロフィールを検出するには　選択されたオーディオが</translation>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
-    <name>QocenaudioNoiseReductionWidget::Data</name>
+    <name>QOcenAudioNoiseReductionWidget::Data</name>
     <message>
         <source>no overlap</source>
-        <translation>重なり合い無し</translation>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
-    <name>QocenaudioOpenFilesPlugin</name>
+    <name>QOcenAudioOpenFilesPlugin</name>
     <message>
         <source>Opened Files</source>
-        <translation>開らいてるファイル</translation>
+        <translation type="unfinished">開かれてるファイル</translation>
     </message>
     <message>
         <source>Current open files in ocenaudio</source>
-        <translation>ocenaudio上で現在開いてるファイル</translation>
+        <translation type="unfinished">現在にオセンオーディオに開かれてるファイル</translation>
     </message>
 </context>
 <context>
-    <name>QocenaudioPropertiesDialog</name>
+    <name>QOcenAudioPropertiesDialog</name>
     <message>
         <source>Audio Properties</source>
         <translation>サウンドプロパティ</translation>
@@ -3101,27 +3101,27 @@ Channel
     </message>
     <message>
         <source>filename.mp4</source>
-        <translation>ファイル名.mp4</translation>
+        <translation></translation>
     </message>
     <message>
         <source>File Container</source>
-        <translation>ファイルコンテナ</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>MP4</source>
-        <translation>MP4</translation>
+        <translation></translation>
     </message>
     <message>
         <source>Audio Codec</source>
-        <translation>オーディオコーデック</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>AAC Low Complexity</source>
-        <translation>AAC-LC（基本機能のみ）</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Encoded With</source>
-        <translation>でエンコードされた</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>LAME3.99</source>
@@ -3133,7 +3133,7 @@ Channel
     </message>
     <message>
         <source>192 kbps</source>
-        <translation>192 kbps</translation>
+        <translation></translation>
     </message>
     <message>
         <source>Sample Rate</source>
@@ -3141,7 +3141,7 @@ Channel
     </message>
     <message>
         <source>44100 Hz</source>
-        <translation>44100 Hz</translation>
+        <translation></translation>
     </message>
     <message>
         <source>Channels</source>
@@ -3165,7 +3165,7 @@ Channel
     </message>
     <message>
         <source>26 seconds</source>
-        <translation>26秒</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Number of Samples</source>
@@ -3173,7 +3173,7 @@ Channel
     </message>
     <message>
         <source>192900</source>
-        <translation>192900</translation>
+        <translation></translation>
     </message>
     <message>
         <source>Size on Memory</source>
@@ -3181,7 +3181,7 @@ Channel
     </message>
     <message>
         <source>100 Kb</source>
-        <translation>100 Kb</translation>
+        <translation></translation>
     </message>
     <message>
         <source>Size on Disk</source>
@@ -3189,43 +3189,43 @@ Channel
     </message>
     <message>
         <source>192 Kb</source>
-        <translation>192 Kb</translation>
+        <translation></translation>
     </message>
     <message>
         <source>Modification Date</source>
-        <translation>更新日時</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>12/09/2014 23:00</source>
-        <translation>12/09/2014 23:00</translation>
+        <translation></translation>
     </message>
     <message>
         <source>Location</source>
-        <translation>所</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>/Users/ruijunior/Music/iTunes/iTunes Media/Music/Enanitos Verdes/Unknown Album/Lamento Boliviano.aif</source>
-        <translation>/Users/ruijunior/Music/iTunes/iTunes Media/Music/Enanitos Verdes/Unknown Album/Lamento Boliviano.aif</translation>
+        <translation></translation>
     </message>
     <message>
         <source>Details</source>
-        <translation>詳細</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Song Name</source>
-        <translation>曲名</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Album Artist</source>
-        <translation>アルバムのアーティスト</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Composer</source>
-        <translation>作者</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Grouping</source>
-        <translation>分類</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Genre</source>
@@ -3237,7 +3237,7 @@ Channel
     </message>
     <message>
         <source>Disk Number</source>
-        <translation>ディスクの番号</translation>
+        <translation>ディスク番号</translation>
     </message>
     <message>
         <source>of</source>
@@ -3249,15 +3249,15 @@ Channel
     </message>
     <message>
         <source>bpm</source>
-        <translation>bpm</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Keywords</source>
-        <translation>キーワード</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Comments</source>
-        <translation>備考</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Artwork</source>
@@ -3265,19 +3265,19 @@ Channel
     </message>
     <message>
         <source>Album Artwork</source>
-        <translation>アルバムのアートワーク</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>PNG / 256 x 256</source>
-        <translation>PNG / 256 x 256</translation>
+        <translation></translation>
     </message>
     <message>
         <source>Change Artwork...</source>
-        <translation>アートワークを変更...</translation>
+        <translation>アートワーク変更...</translation>
     </message>
     <message>
         <source>Markers</source>
-        <translation>マーカー</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Statistics</source>
@@ -3293,38 +3293,38 @@ Channel
     </message>
     <message>
         <source>Comment of marker #label</source>
-        <translation>#labelマーカーの備考</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Comment</source>
-        <translation>備考</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Revert</source>
-        <translation>元に戻す</translation>
+        <translation type="unfinished">復帰する</translation>
     </message>
     <message>
         <source>Close</source>
-        <translation>閉じる</translation>
+        <translation type="unfinished">閉じる</translation>
     </message>
 </context>
 <context>
     <name>QOcenCrashReportDialog</name>
     <message>
         <source>ocenaudio Crashed Previously</source>
-        <translation>ocenaudioが以前にクラッシュしました</translation>
+        <translation>オセンオーディオが以前落ちました</translation>
     </message>
     <message>
         <source>ocenaudio crashed previously</source>
-        <translation>ocenaudioが以前にクラッシュしました</translation>
+        <translation>オセンオーディオが以前落ちました</translation>
     </message>
     <message>
         <source>Do you want to send details on the crash to ocenaudio&apos;s development team?</source>
-        <translation>クラッシュ情報をocenaudio開発者に送信しますか？</translation>
+        <translation>クラッシュ情報をオセンオーディオ開発者に送信しますか？</translation>
     </message>
     <message>
         <source>If you want, you can enter a few lines on what you did before ocenaudio crashed along with other helpful information: sample file, os crash report, screen shots, ...</source>
-        <translation>宜しければ、関係のサンプルファイル、OS クラッシュレポート、スクショ、と一緒に　ocenaudioがクラッシュする迄何をなさったのと数文章で説明して頂けると役に立つ可能性があります。</translation>
+        <translation>宜しければ、数文章でクラッシュが発生する迄　何をしたのかと明記して頂けると役に立つ可能性があります：例　サンプルファイル、OS クラッシュレポート、スクショ、等...</translation>
     </message>
     <message>
         <source>If you agree to be contacted about this bug report enter your email below:</source>
@@ -3367,7 +3367,7 @@ Channel
     </message>
     <message>
         <source>Name</source>
-        <translation>名</translation>
+        <translation>名前</translation>
     </message>
     <message>
         <source>Fade In</source>
@@ -3383,27 +3383,27 @@ Channel
     </message>
     <message>
         <source>½ s Gap</source>
-        <translation>0.5 秒の隙間</translation>
+        <translation>½分の1秒隙間</translation>
     </message>
     <message>
         <source>1 s Gap</source>
-        <translation>1 秒の隙間</translation>
+        <translation>1秒隙間</translation>
     </message>
     <message>
         <source>2 s Gap</source>
-        <translation>2 秒の隙間</translation>
+        <translation>2秒隙間</translation>
     </message>
     <message>
         <source>3 s Gap</source>
-        <translation>3 秒の隙間</translation>
+        <translation>3秒隙間</translation>
     </message>
     <message>
         <source>4 s Gap</source>
-        <translation>4 秒の隙間</translation>
+        <translation>4秒隙間</translation>
     </message>
     <message>
         <source>5 s Gap</source>
-        <translation>5 秒の隙間</translation>
+        <translation>5秒隙間</translation>
     </message>
 </context>
 <context>
@@ -3422,7 +3422,7 @@ Channel
     </message>
     <message>
         <source>MP3</source>
-        <translation>MP3</translation>
+        <translation></translation>
     </message>
     <message>
         <source>Use Variable Bit Rate Encoding (VBR)</source>
@@ -3430,23 +3430,23 @@ Channel
     </message>
     <message>
         <source>Quality:</source>
-        <translation>音質:</translation>
+        <translation>質:</translation>
     </message>
     <message>
         <source>RAW</source>
-        <translation>RAW</translation>
+        <translation></translation>
     </message>
     <message>
         <source>WAV</source>
-        <translation>WAV</translation>
+        <translation></translation>
     </message>
     <message>
         <source>Audio Format:</source>
-        <translation>オーディオ形式:</translation>
+        <translation>オーディオフォーマット:</translation>
     </message>
     <message>
         <source>CAF</source>
-        <translation>CAF</translation>
+        <translation></translation>
     </message>
     <message>
         <source>Lowest</source>
@@ -3458,7 +3458,7 @@ Channel
     </message>
     <message>
         <source>Medium Low</source>
-        <translation>中-低</translation>
+        <translation>中低</translation>
     </message>
     <message>
         <source>Medium</source>
@@ -3466,7 +3466,7 @@ Channel
     </message>
     <message>
         <source>Medium High</source>
-        <translation>中-高</translation>
+        <translation>中高</translation>
     </message>
     <message>
         <source>High</source>
@@ -3482,67 +3482,67 @@ Channel
     </message>
     <message>
         <source>16 kbps</source>
-        <translation>16 kbps</translation>
+        <translation></translation>
     </message>
     <message>
         <source>24 kbps</source>
-        <translation>24 kbps</translation>
+        <translation></translation>
     </message>
     <message>
         <source>32 kbps</source>
-        <translation>32 kbps</translation>
+        <translation></translation>
     </message>
     <message>
         <source>40 kbps</source>
-        <translation>40 kbps</translation>
+        <translation></translation>
     </message>
     <message>
         <source>48 kbps</source>
-        <translation>48 kbps</translation>
+        <translation></translation>
     </message>
     <message>
         <source>56 kbps</source>
-        <translation>56 kbps</translation>
+        <translation></translation>
     </message>
     <message>
         <source>64 kbps</source>
-        <translation>64 kbps</translation>
+        <translation></translation>
     </message>
     <message>
         <source>80 kbps</source>
-        <translation>80 kbps</translation>
+        <translation></translation>
     </message>
     <message>
         <source>96 kbps</source>
-        <translation>96 kbps</translation>
+        <translation></translation>
     </message>
     <message>
         <source>112 kbps</source>
-        <translation>112 kbps</translation>
+        <translation></translation>
     </message>
     <message>
         <source>128 kbps</source>
-        <translation>128 kbps</translation>
+        <translation></translation>
     </message>
     <message>
         <source>160 kbps</source>
-        <translation>160 kbps</translation>
+        <translation></translation>
     </message>
     <message>
         <source>192 kbps</source>
-        <translation>192 kbps</translation>
+        <translation></translation>
     </message>
     <message>
         <source>224 kbps</source>
-        <translation>224 kbps</translation>
+        <translation></translation>
     </message>
     <message>
         <source>256 kbps</source>
-        <translation>256 kbps</translation>
+        <translation></translation>
     </message>
     <message>
         <source>320 kbps</source>
-        <translation>320 kbps</translation>
+        <translation></translation>
     </message>
     <message>
         <source>Stereo Mode:</source>
@@ -3562,7 +3562,7 @@ Channel
     </message>
     <message>
         <source>Audio Compressor:</source>
-        <translation>オーディオ圧縮機：</translation>
+        <translation>オーディオ圧縮：</translation>
     </message>
     <message>
         <source>AAC - Advanced Audio Coding</source>
@@ -3570,7 +3570,7 @@ Channel
     </message>
     <message>
         <source>ALAC - Apple Lossless Audio Codec</source>
-        <translation>ALAC - アップルの可逆圧縮方式のオーディオコーデック</translation>
+        <translation>ALAC - Apple可逆オーディオ</translation>
     </message>
     <message>
         <source>Bit Rate:</source>
@@ -3582,7 +3582,7 @@ Channel
     </message>
     <message>
         <source>OGG</source>
-        <translation>OGG</translation>
+        <translation></translation>
     </message>
     <message>
         <source>Mode:</source>
@@ -3639,7 +3639,7 @@ Channel
     </message>
     <message>
         <source>Save each %1 to a separate file</source>
-        <translation>各　%1 を別なファイルとして保存</translation>
+        <translation>各　%1　を　別なファイルとして保存</translation>
     </message>
     <message>
         <source>Export Audio As</source>
@@ -3651,7 +3651,7 @@ Channel
     </message>
     <message>
         <source>“%1” already exists. Do you want to replace it?</source>
-        <translation>“%1” は既に既存しています。交換しますか？</translation>
+        <translation>“%1”は既に既存しています。交換しますか？</translation>
     </message>
     <message>
         <source>A audio file with the same name already exists in the selected folder. Replacing it will overwrite its current contents.</source>
@@ -3667,43 +3667,43 @@ Channel
     </message>
     <message>
         <source>Resolution:</source>
-        <translation>レゾリューション</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>%1 bits</source>
-        <translation>%1 ビット</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Dithering:</source>
-        <translation>ディザリング:</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Vorbis</source>
-        <translation>Vorbis</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Opus</source>
-        <translation>Opus</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>%1</source>
-        <translation>%1</translation>
+        <translation type="unfinished">%1</translation>
     </message>
     <message>
         <source>Are you sure you want to use the “.%1” extension?</source>
-        <translation>本当に“.%1” 拡張子を利用してよろしいですか？</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>The default extension for the selected format is “.%1”. If you choose a different extension, you might not be able to open the exported file.</source>
-        <translation>選択された形式のデフォルト拡張子は“.%1” です。違う拡張子にしますと、書き出されたファイルを開く事が出来ない場合がございます。</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Keep “.%1”</source>
-        <translation>“.%1” を保つ</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Use “.%1” instead</source>
-        <translation>代わりに “.%1” をしよう</translation>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -3829,7 +3829,7 @@ Channel
     </message>
     <message>
         <source>The file %1 already exists in the FTP server.</source>
-        <translation>ファイル　%1 が　既に　FTPサーバーに格納しています。</translation>
+        <translation>ファイル　%1　が　既に　FTPサーバーに格納しています。</translation>
     </message>
 </context>
 <context>
@@ -3910,39 +3910,39 @@ Channel
     </message>
     <message>
         <source>16000</source>
-        <translation>16000</translation>
+        <translation></translation>
     </message>
     <message>
         <source>Hz</source>
-        <translation>Hz</translation>
+        <translation></translation>
     </message>
     <message>
         <source>48000</source>
-        <translation>48000</translation>
+        <translation></translation>
     </message>
     <message>
         <source>44100</source>
-        <translation>44100</translation>
+        <translation></translation>
     </message>
     <message>
         <source>32000</source>
-        <translation>32000</translation>
+        <translation></translation>
     </message>
     <message>
         <source>22050</source>
-        <translation>22050</translation>
+        <translation></translation>
     </message>
     <message>
         <source>11025</source>
-        <translation>11025</translation>
+        <translation></translation>
     </message>
     <message>
         <source>8000</source>
-        <translation>8000</translation>
+        <translation></translation>
     </message>
     <message>
         <source>6000</source>
-        <translation>6000</translation>
+        <translation></translation>
     </message>
     <message>
         <source>Channels</source>
@@ -3978,11 +3978,11 @@ Channel
     </message>
     <message>
         <source>L</source>
-        <translation>左</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>R</source>
-        <translation>右</translation>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -4099,7 +4099,7 @@ Channel
     </message>
     <message>
         <source>100</source>
-        <translation>100</translation>
+        <translation></translation>
     </message>
     <message>
         <source>Invert</source>
@@ -4127,7 +4127,7 @@ Channel
     </message>
     <message>
         <source>Overlap (Mix)</source>
-        <translation>重なり合い（ミックス）</translation>
+        <translation>ミクサー</translation>
     </message>
     <message>
         <source>Replace</source>
@@ -4186,7 +4186,7 @@ Channel
     </message>
     <message>
         <source>Custom</source>
-        <translation>カスタム</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Channels</source>
@@ -4202,46 +4202,46 @@ Channel
     </message>
     <message>
         <source>Multichannel</source>
-        <translation>マルチチャンネル</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>3 channels</source>
-        <translation>3 チャンネル</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>4 channels</source>
-        <translation>4 チャンネル</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>5 channels</source>
-        <translation>5 チャンネル</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>6 channels</source>
-        <translation>6 チャンネル</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>7 channels</source>
-        <translation>7 チャンネル</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>8 channels</source>
-        <translation>8 チャンネル</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>44100 Hz</source>
-        <translation>44100 Hz</translation>
+        <translation></translation>
     </message>
     <message>
         <source>48000 Hz</source>
-        <translation>48000 Hz</translation>
+        <translation></translation>
     </message>
 </context>
 <context>
     <name>QOcenNewAudioDialog::Data</name>
     <message>
         <source>Custom</source>
-        <translation>カスタム</translation>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -4268,84 +4268,84 @@ Channel
     </message>
     <message>
         <source>Open both files in this %1</source>
-        <translation>%1 に両方のファイルを開く</translation>
+        <translation>%1　に両方のファイルを開く</translation>
     </message>
     <message>
         <source>Open all %1 files in this %2</source>
-        <translation>この　%2 に全ての　%1 ファイルを開く</translation>
+        <translation>この　%2　に全ての　%1　ファイルを開く</translation>
     </message>
     <message>
         <source>and %1 other files</source>
-        <translation>それに　%1 他のファイル</translation>
+        <translation>それに　%1　他のファイル</translation>
     </message>
 </context>
 <context>
     <name>QOcenSoundMixerConfigDialog</name>
     <message>
         <source>Sound Mixer Configuration</source>
-        <translation>音ミクサーの設定</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Playback</source>
-        <translation>再生する</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>1 Channel (Mono)</source>
-        <translation>1 チャンネル　（モノラル）</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source> ➨ </source>
-        <translation> ➨ </translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Built-In Output (2 Channels)</source>
-        <translation>組み込みアウトプット（2 チャンネル）</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Built-In Input (2 Channels)</source>
-        <translation>組み込みインプット（2 チャンネル）</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>1 channel (mono)</source>
-        <translation>1 チャンネル　（モノラル）</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>2 channels (stereo)</source>
-        <translation>2 チャンネル　（ステレオ）</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>%1 channels</source>
-        <translation>%1 チャンネル</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Input #%1 </source>
-        <translation>インプット</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Channel
 #%1</source>
-        <translation>チャンネル</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Channel #%1 </source>
-        <translation>チャンネル #%1</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Output
 #%1</source>
-        <translation>アウトプット</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>No recording devices found!</source>
-        <translation>録音デバイスが見つかりません</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>No playback devices found!</source>
-        <translation>再生デバイスが見つかりません</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Record</source>
-        <translation>録音</translation>
+        <translation type="unfinished">録音</translation>
     </message>
 </context>
 <context>
@@ -4368,7 +4368,7 @@ or your network that you want to open:</source>
     </message>
     <message>
         <source>Applying %1|%1</source>
-        <translation>%1|%1 適用中</translation>
+        <translation>%1|%1適用中</translation>
     </message>
     <message>
         <source>Plugin crashed</source>
@@ -4376,11 +4376,11 @@ or your network that you want to open:</source>
     </message>
     <message>
         <source>The plugin %1 crashed and will be finalized.</source>
-        <translation>プラグイン%1 が落ちたので、終了させられます。</translation>
+        <translation>プラグイン%1が落ちたので、終了させられます。</translation>
     </message>
     <message>
-        <source>ocenaudio was not affected by this crash and will continue running normally.</source>
-        <translation>ocenaudioがこのクラッシュに影響されていないので、正常にご利用し続ける事が可能です。</translation>
+        <source>Ocenaudio was not affected by this crash and will continue running normally.</source>
+        <translation>オセンオーディオがこの失敗に影響されていないので、正常に稼働し続けます。</translation>
     </message>
     <message>
         <source>VST Effect:</source>
@@ -4419,7 +4419,7 @@ or your network that you want to open:</source>
     </message>
     <message>
         <source>Effects in Folder %1</source>
-        <translation>フォルダー　%1 のエフェクト</translation>
+        <translation>フォルダー　%1　のエフェクト</translation>
     </message>
     <message>
         <source>Crashed</source>
@@ -4458,43 +4458,43 @@ or your network that you want to open:</source>
     </message>
     <message>
         <source>Show in Finder</source>
-        <translation>ファインダーで表示する</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Show Plugins List...</source>
-        <translation>プラグインリストを表示...</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Remove Path from Search</source>
-        <translation>検索からパスを外す</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Path not Found</source>
-        <translation>パスは見つかりません</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Add VST Path</source>
-        <translation>VSTのパスを追加する</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Add a new path to search for VST effects</source>
-        <translation>VSTエフェクトを検するには新しいパスを追加する</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Remove VST Path</source>
-        <translation>VSTのパスを外す</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Remove path from VST path list</source>
-        <translation>パスリストからVSTのパスを外す</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Refresh VST Effects</source>
-        <translation>VSTエフェクトをリフレッシュ</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Search for VST effects in the selected path</source>
-        <translation>選択したパスにてVSTエフェクトを検索する</translation>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -4533,7 +4533,7 @@ or your network that you want to open:</source>
     </message>
     <message>
         <source>Extract Channel %1</source>
-        <translation>チャンネル%1 を抜き取る</translation>
+        <translation>チャンネル%1を引き抜く</translation>
     </message>
     <message>
         <source>Downmix to a Stereo File</source>
@@ -4541,7 +4541,7 @@ or your network that you want to open:</source>
     </message>
     <message>
         <source>Downmix to a Quadraphonic File</source>
-        <translation>4 チャンネルステレオファイルにダウンミックス</translation>
+        <translation>4チャンネル方式にダウンミックス</translation>
     </message>
     <message>
         <source>Get Info</source>
@@ -4577,11 +4577,11 @@ or your network that you want to open:</source>
     </message>
     <message>
         <source>Repeat %1 in Selected Files</source>
-        <translation>選択されたファイルに　%1 を付ける</translation>
+        <translation>選択されたファイルに　%1　を付ける</translation>
     </message>
     <message>
         <source>Extract %1 Channel</source>
-        <translation>%1 チャンネルを抜き取る</translation>
+        <translation>%1　チャンネルを引き抜く</translation>
     </message>
     <message>
         <source>Stop</source>
@@ -4617,7 +4617,7 @@ or your network that you want to open:</source>
     </message>
     <message>
         <source>You are about to append %1 files in the selected audio. Are you sure you want to proceed?</source>
-        <translation>選択されたファイルに　%1 のファイルを加えます。宜しいですか？</translation>
+        <translation>選択されたファイルに　%1　を加えます。宜しいですか？</translation>
     </message>
     <message>
         <source>This operation may take a long time.</source>
@@ -4653,47 +4653,47 @@ or your network that you want to open:</source>
     </message>
     <message>
         <source>Convert to Mono</source>
-        <translation>モノラルに変換する</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Sort</source>
-        <translation>並び替え</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Disabled</source>
-        <translation>無効</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>By Display Name</source>
-        <translation>表示名で</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>By Song Name</source>
-        <translation>曲名で</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>By Artist Name</source>
-        <translation>アーティスト名で</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>By Album Name</source>
-        <translation>アルバム名</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>By Duration</source>
-        <translation>長さで</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>By Date</source>
-        <translation>日時で</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Ascending</source>
-        <translation>昇順</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Descending</source>
-        <translation>降順</translation>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -4704,7 +4704,7 @@ or your network that you want to open:</source>
     </message>
     <message>
         <source>Noise</source>
-        <translation>ノイズ</translation>
+        <translation>雑音</translation>
     </message>
     <message>
         <source>Color</source>
@@ -4756,7 +4756,7 @@ or your network that you want to open:</source>
     </message>
     <message>
         <source>Hz</source>
-        <translation>Hz</translation>
+        <translation></translation>
     </message>
     <message>
         <source>End</source>
@@ -4940,11 +4940,11 @@ or your network that you want to open:</source>
     </message>
     <message>
         <source>Generating %1 Noise</source>
-        <translation>%1 ノイズを生成</translation>
+        <translation>%1　雑音を生成</translation>
     </message>
     <message>
         <source>%1 Noise Generation</source>
-        <translation>%1 ノイズ生成</translation>
+        <translation>%1　の雑音生成</translation>
     </message>
     <message>
         <source>Generating %1 Tone</source>
@@ -4952,7 +4952,7 @@ or your network that you want to open:</source>
     </message>
     <message>
         <source>%1 Tone Generation</source>
-        <translation>%1 の音色生成</translation>
+        <translation>%1　の音色生成</translation>
     </message>
     <message>
         <source>Generating DTMF</source>
@@ -5078,27 +5078,27 @@ or your network that you want to open:</source>
     </message>
     <message>
         <source>Use this configuration for next files having extension &apos;.%1&apos;</source>
-        <translation>&apos;.%1&apos;拡張子のファイルに、この設定を利用する</translation>
+        <translation>&apos;.%1&apos;とのエクステンションのファイルに、この設定を利用する</translation>
     </message>
     <message>
         <source>Use this configuration for next files having no extension</source>
-        <translation>拡張子のないファイルに、この設定を利用する</translation>
+        <translation>エクステンションのないファイルに、この設定を利用する</translation>
     </message>
     <message>
         <source>3 channels</source>
-        <translation>3 チャンネル</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>4 channels</source>
-        <translation>4 チャンネル</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>5 channels</source>
-        <translation>5 チャンネル</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>6 channels</source>
-        <translation>6 チャンネル</translation>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -5348,7 +5348,7 @@ or your network that you want to open:</source>
     </message>
     <message>
         <source>High Dpi Image</source>
-        <translation>ドット密度の高い映像</translation>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 </TS>

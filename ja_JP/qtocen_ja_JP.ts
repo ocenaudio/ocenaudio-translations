@@ -136,7 +136,7 @@
     </message>
     <message>
         <source>Ringtone created by ocenaudio</source>
-        <translation>Ocenaudioに着メロ作成されました</translation>
+        <translation>オセンオーディオに着メロ作成されました</translation>
     </message>
     <message>
         <source>Creating iTunes Ringtone</source>
@@ -220,43 +220,43 @@
     </message>
     <message>
         <source>0</source>
-        <translation>0</translation>
+        <translation>100% {0?}</translation>
     </message>
     <message>
         <source>L</source>
-        <translation>左</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>R</source>
-        <translation>右</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>%1 channel of</source>
-        <translation>%1 のチャンネル</translation>
+        <translation>%1　のチャンネル</translation>
     </message>
     <message>
         <source>%1 combined with %2</source>
-        <translation>%1 を　%2 に合体</translation>
+        <translation>%1 を　%2　に合体</translation>
     </message>
     <message>
         <source>Downmix of %1</source>
-        <translation>%1 のダウンミックス</translation>
+        <translation>%1　のダウンミックス</translation>
     </message>
     <message>
         <source>Join of %1 and %2</source>
-        <translation>%1 、　%2 の結合</translation>
+        <translation>%1 、　%2　の結合</translation>
     </message>
     <message>
         <source>Join of %1, %2 and %3</source>
-        <translation>%1　、 %2　、　%3 の結合</translation>
+        <translation>%1　、 %2　、　%3　の結合</translation>
     </message>
     <message>
         <source>Join of %1, %2 and other %3 files</source>
-        <translation>%1 ・ %2 ・ 他の　%3 ファイル　を結合する</translation>
+        <translation>%1　、 %2　、　他の　%3　ファイル　の結合</translation>
     </message>
     <message>
         <source>Reversing</source>
-        <translation>逆にしている</translation>
+        <translation>逆にしています</translation>
     </message>
     <message>
         <source>Reverse</source>
@@ -264,7 +264,7 @@
     </message>
     <message>
         <source>Inverting</source>
-        <translation>転倒している</translation>
+        <translation>転倒しています</translation>
     </message>
     <message>
         <source>Invert</source>
@@ -340,27 +340,27 @@
     </message>
     <message>
         <source>Export As</source>
-        <translation>としてエクスポート</translation>
+        <translation>「x」として書き出す</translation>
     </message>
     <message>
         <source>Exporting Selection As</source>
-        <translation>選択をエクスポート中</translation>
+        <translation>選択を書き出す</translation>
     </message>
     <message>
         <source>Exporting Region As</source>
-        <translation>領域をエクスポート中</translation>
+        <translation>領域を「x」として書き出す</translation>
     </message>
     <message>
         <source>Exporting Regions As</source>
-        <translation>領域をエクスポート中</translation>
+        <translation>複数な領域を「x」として書き出す</translation>
     </message>
     <message>
         <source>Paste Channel</source>
-        <translation>チャンネルを張り付ける</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Paste From File</source>
-        <translation>ファイルから張り付ける</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Paste Silence</source>
@@ -428,99 +428,99 @@
     </message>
     <message>
         <source>Transform</source>
-        <translation>トランスフォーム</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Change Gain/Offset</source>
-        <translation>増幅を変更する</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Cancel</source>
-        <translation type>取り消す</translation>
+        <translation type="unfinished">取り消す</translation>
     </message>
     <message>
         <source>Waiting for cancellation</source>
-        <translation>取消すのを待機中</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Remaining</source>
-        <translation>残り</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Question</source>
-        <translation>質問</translation>
+        <translation type="unfinished">質問</translation>
     </message>
     <message>
         <source>Do you really want to discard the changes made in this region?</source>
-        <translation>この領域の変更を削除してよろしいですか?</translation>
+        <translation type="unfinished">この領域の変更を削除してよろしいですか?</translation>
     </message>
     <message>
         <source>Changes in region text will be lost if you discard.</source>
-        <translation>処分しますと、領域テキストの変更が失われます。</translation>
+        <translation type="unfinished">処分すると、領域テキストの変更が失われます。</translation>
     </message>
     <message>
         <source>Save</source>
-        <translation>保存</translation>
+        <translation type="unfinished">保存</translation>
     </message>
     <message>
         <source>Discard</source>
-        <translation>処分する</translation>
+        <translation type="unfinished">処分する</translation>
     </message>
     <message>
         <source>Track %1</source>
-        <translation>トラック %1</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>@%1 (unlinked)</source>
-        <translation>@%1 （アンリンク済）</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Smooth</source>
-        <translation>和らげる</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>General</source>
-        <translation>一般</translation>
+        <translation type="unfinished">一般</translation>
     </message>
     <message>
         <source>General Preferences</source>
-        <translation>一般設定</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Key Bindings</source>
-        <translation>キーバインド</translation>
+        <translation type="unfinished">キー機能設定</translation>
     </message>
     <message>
         <source>Key Bindings Preferences</source>
-        <translation>キーバインド設定</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Network</source>
-        <translation>ネットワーク</translation>
+        <translation type="unfinished">ネットワーク</translation>
     </message>
     <message>
         <source>Network Preferences</source>
-        <translation>ネットワーク設定</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Supported Sound Files</source>
-        <translation>対応の音形式</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Sound</source>
-        <translation>音</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Sound Preferences</source>
-        <translation>音設定</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Spectrogram</source>
-        <translation>スペクトルグラム</translation>
+        <translation type="unfinished">分光映像</translation>
     </message>
     <message>
         <source>Spectogram Preferences</source>
-        <translation>スペクトルグラムの設定</translation>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -531,7 +531,7 @@
     </message>
     <message>
         <source>ocenaudio Clipboard with %1 seconds in %2 %3</source>
-        <translation>Ocenaudioのクリップボードにて %2 %3 で %1 秒</translation>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -613,7 +613,7 @@
     </message>
     <message>
         <source>readonly</source>
-        <translation>読み出し専用</translation>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -639,35 +639,35 @@
     </message>
     <message>
         <source>Cancel</source>
-        <translation>取り消す</translation>
+        <translation type="unfinished">取り消す</translation>
     </message>
     <message>
         <source>Close</source>
-        <translation>閉じる</translation>
+        <translation type="unfinished">閉じる</translation>
     </message>
     <message>
         <source>Play</source>
-        <translation>再生</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Stop</source>
-        <translation>中止</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Link the view state of this audio to the current visible audio</source>
-        <translation>現在表示されてるオーディオに　このオーディオの表示状態をリンクする</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Unlink the view state of this audio</source>
-        <translation>このオーディオから表示状態をアンリンクする</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Link the view state of this audio to others linked audios (if any)</source>
-        <translation>リンク済オーディオがある場合、このオーディオの表示状態にリンクする</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Save</source>
-        <translation>保存</translation>
+        <translation type="unfinished">保存</translation>
     </message>
 </context>
 <context>
@@ -742,43 +742,43 @@
     </message>
     <message>
         <source>Color Scheme</source>
-        <translation>配色</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Classic</source>
-        <translation>クラシック</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Light</source>
-        <translation>明るい</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Dark</source>
-        <translation>暗い</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Select ocenaudio interface language</source>
-        <translation>Ocenaudioのインターフェース言語を選択</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Select color scheme to be used in ocenaudio interface</source>
-        <translation>Ocenaudioのインターフェース配色を選択</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Smooth Cut and Delete boundaries</source>
-        <translation>限度を和らげて　切り取って削除する</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Keep a backup copy of original file before overwrite</source>
-        <translation>上書きする前に、元のファイルをバックアップする</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>System Language (%1)</source>
-        <translation>システム言語 (%1)</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Aqua</source>
-        <translation>アクア</translation>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -827,23 +827,23 @@
     </message>
     <message>
         <source>Key binding action list</source>
-        <translation>キーバインド行動リスト</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>List of ocenaudio actions and theirs key bindings</source>
-        <translation>キーバインドと該当行動のリスト</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Key bindings action filter</source>
-        <translation>キーバインド行動フィルター</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Filter the key bindings action list</source>
-        <translation>キーバインド行動リストをフィルターする</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Filter</source>
-        <translation>フィルター</translation>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -925,7 +925,7 @@
     </message>
     <message>
         <source>Keep ocenaudio Version</source>
-        <translation>このOcenaudioのバージョンを取っておく</translation>
+        <translation>オセンオーディオのバージョンをキープ</translation>
     </message>
     <message>
         <source>Revert</source>
@@ -997,123 +997,123 @@
     </message>
     <message>
         <source>This is an unrecoverable error and ocenaudio must quit. This issue might happen if your main disk is running out of free space.</source>
-        <translation>回復出来ないエラーの為、Ocenaudioが終了しなければなりません。ディスクの領域が不足が原因可能性があります。</translation>
+        <translation>回復出来ないエラーの為、オセンオーディオが終了しなければなりません。ディスクの領域が不足が原因可能性があります。</translation>
     </message>
     <message>
         <source>Your changes will be lost if you don’t save them.</source>
-        <translation>保存しないと変更が失われます。</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>An error occured while writing temporary data to disk!</source>
-        <translation>仮データをディスクに書き込もうとして、エラーが発生されました。</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Information</source>
-        <translation>情報</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Pasting file %1</source>
-        <translation>%1 ファイルを貼り付けています</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Unsupported Format</source>
-        <translation>非対応の形式</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>The maximum number of channels supported is %1 channels.</source>
-        <translation>可能な最大限チャンネル数は %1</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>The minimum sample rate supported is %1 Hz.</source>
-        <translation>可能な最低限サンプルレートは %1 Hz。</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>The maximum sample rate supported is %1 Hz.</source>
-        <translation>可能な最大限のサンプルレートは %1 Hz。</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Audio VST Check Failed</source>
-        <translation>オーディオVSTチェック失敗しました</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>An error occurred in the execution of VST plugin application. No VST plugin can be loaded in this condition.</source>
-        <translation>VSTプラグインを適用した時にエラーが発生されました。この状態でVSTプラグイン読み込みは不可能です。</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Audio not saved</source>
-        <translation>オーディオは保存されていません</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>An error was encountered while saving your sound file “%1”!</source>
-        <translation>“%1” サウンドファイルを保存しようとした時にエラーが発生されました！</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>It was not possible to complete the save of file “%1” because the chosen container does not support metadata.</source>
-        <translation>選択されたコンテーナーがmetadataを対応していない為、“%1” ファイルを保存できませんでした。</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Your sound “%1” contains informations that can not be saved in the selected format. You want to continue and export to this format?</source>
-        <translation>選択された形式が</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Export</source>
-        <translation>エクスポート</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Exporting As</source>
-        <translation>としてエクスポート</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Unsupported information will not be present in the exported file.</source>
-        <translation>エクスポートされたファイルに非対応情報は含まれません。</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>The file for the sound that was at %1 is now empty. Do you want to keep as new, save or close the sound?</source>
-        <translation>%1 にあるサウンドのファイルは空になっています。サウンドを新しいままで取っておくか、保存するか、閉じますか？</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>The file for the sound that was at %1 is now corrupted. Do you want to keep as new, save or close the sound?</source>
-        <translation>%1 にあるサウンドのファイルは破壊されています。サウンドを新しいままで取っておくか、保存するか、閉じますか？</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Keep as New</source>
-        <translation>新しいままで取っておく</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>The file for the sound that was at %1 has disappeared. The document has previously unsaved changes. Do you want to keep as new, save or close the sound?</source>
-        <translation>%1 にあるサウンドのファイルが見つかりません。以前に保存されていない変更が含まれています。サウンドを新しいままで取っておくか、保存するか、閉じますか？</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Would you like to proceed and reencode the audio?</source>
-        <translation>オーディオを再エンコードしますか？</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Your changes affect only the metadata, however ocenaudio don&apos;t supports metadata update for this format. If you proceed, a complete rewrite of your file will be done (this may re-encode your audio signal).</source>
-        <translation>この形式のmetadataを更新する事は不可能です。metadataのみの変更がある為、続行しますとファイルが完全に作り直されます。（オーディオの信号を再エンコードする場合があります。）</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>The file for the sound at %1 has been modified by another application. There are also unsaved changes in ocenaudio. Do you want to keep the ocenaudio version or revert to the version on disk?</source>
-        <translation>%1 にあるサウンドのファイルが違うアプリケーションに変更されました。ocenaudioにて保全されていない変更もあります。ocenaudioのバージョンを利用するかディスクのバージョンを利用しますか？</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>The file for the sound that was at %1 has disappeared. Do you want to keep as new, save or close the sound?</source>
-        <translation>%1 にあるサウンドのファイルが見つかりません。サウンドを新しいままで取っておくか、保存するか、閉じますか？</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Supported Sound Files</source>
-        <translation>対応可能サウンドファイル</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Do you want to overwrite the backup copy of the original file?</source>
-        <translation>元のファイルのバックアップを上書きしますか？</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>The file “%1” already has a backup. If you proceed it will be replaced by the current version of this file.</source>
-        <translation>“%1” のファイルにバックアップがあります。続行しますとこのファイルの現在バージョンに上書きされます。</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>readonly</source>
-        <translation>読み出し専用</translation>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -1190,7 +1190,7 @@
     </message>
     <message>
         <source>Keep ocenaudio Version</source>
-        <translation>Ocenaudioのバージョンを変更しない</translation>
+        <translation>オセンオーディオのバージョンをキープ</translation>
     </message>
     <message>
         <source>Revert</source>
@@ -1198,11 +1198,11 @@
     </message>
     <message>
         <source>File not found.</source>
-        <translation>ファイルは見つかりません。</translation>
+        <translation>ファイルは見つかられていません。</translation>
     </message>
     <message>
         <source>The file that was at %1 no longer exists.</source>
-        <translation>%1 にあったファイルはもう存在していません。</translation>
+        <translation>%1　にあったファイルはもう存在していません。</translation>
     </message>
     <message>
         <source>Ok</source>
@@ -1234,43 +1234,43 @@
     </message>
     <message>
         <source>The file “%1” was not found. Check if your filename is valid and you have permission to open it.</source>
-        <translation>“%1” ファイルはみつかっていません。 ファイル名が正しいか、 開くのに許可を得ている事を確認して下さい。</translation>
+        <translation>“%1”ファイルはみつかっていません。 ファイル名が正しいか、 開くのに許可を得ている事を確認して下さい。</translation>
     </message>
     <message>
         <source>An error occurred while trying to open the file “%1”.</source>
-        <translation>“%1” にあるファイルを開こうとしたがエラーが発生されました。</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Check if your file have an incorrect or unsuported format.</source>
-        <translation>ファイルの形式が正しくないか、非対応かご確認下さい。</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Analyzing files in %1 %2</source>
-        <translation>%1 %2 のファイルを分析中</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Analyzing files in %1</source>
-        <translation>%1 のファイルを分析中</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>The file for the sound at “%1” is already opened. There are also unsaved changes in ocenaudio.  Do you want to keep the ocenaudio version or revert to the version on disk?</source>
-        <translation>サウンド “%1” のファイルは既に開いています。ocenaudioにて保全されていない変更もあります。ocenaudioのバージョンを利用するかディスクのバージョンを利用しますか？</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Cue File Found</source>
-        <translation<キューファイル見つかりました。/translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>A cue file containing %2 tracks associated with the “%1” file was found. You want to open these tracks separately?</source>
-        <translation>“%1” ファイルに %2 トラック入ってるキューファイルが見つかりました。トラックを別々開きますか？</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Open Tracks</source>
-        <translation>トラックを開く</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Open Original</source>
-        <translation>元のを開く</translation>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -1289,11 +1289,11 @@
     </message>
     <message>
         <source>The plugin &quot;%1&quot; is not compatible with your ocenaudio version.</source>
-        <translation>&quot;%1&quot;のプラグインはこのOcenaudioのバージョンに対応していません。</translation>
+        <translation>&quot;%1&quot;のプラグインはこのオセンオーディオのバージョンに対応していません。</translation>
     </message>
     <message>
         <source>To proceed with the installation it is necessary to first update ocenaudio.</source>
-        <translation>インストールするために、Ocenaudioを更新する必要があります。</translation>
+        <translation>インストールするために、オセンオーディオを更新する必要があります。</translation>
     </message>
     <message>
         <source>Question</source>
@@ -1305,7 +1305,7 @@
     </message>
     <message>
         <source>If you proceed ocenaudio will check the integrity, install and load the selected plugin package.</source>
-        <translation>進めると、Ocenaudioが整合性を確認した上、インストールしてから選択されたプラグインパッケージをロードします。</translation>
+        <translation>進めると、オセンオーディオが整合性を確認した上、インストールしてから選択されたプラグインパッケージをロードします。</translation>
     </message>
     <message>
         <source>Error</source>
@@ -1325,7 +1325,7 @@
     </message>
     <message>
         <source>One or more errors were detected during the installation process. You can try again and if the error persists contact the ocenaudio team.</source>
-        <translation>インストール中に　１以上のエラーが検出されました。再インストールしてみてください。問題が解決しない場合、Ocenaudioチームにご連絡下さい。</translation>
+        <translation>インストール中に　１以上のエラーが検出されました。再インストールしてみてください。問題が解決しない場合、オセンオーディオチームにご連絡下さい。</translation>
     </message>
     <message>
         <source>Invalid Plugin Code Signature</source>
@@ -1355,14 +1355,14 @@
     <name>QOcenPreferences</name>
     <message>
         <source>Settings</source>
-        <translation>設定</translation>
+        <translation type="unfinished">設定</translation>
     </message>
 </context>
 <context>
     <name>QOcenQuickOpenWidget</name>
     <message>
         <source>File or http address</source>
-        <translation>ファイル又はhttpアドレス</translation>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -1388,11 +1388,11 @@
     <name>QOcenSettingsDialog</name>
     <message>
         <source>Settings</source>
-        <translation>設定</translation>
+        <translation type="unfinished">設定</translation>
     </message>
     <message>
         <source>Search</source>
-        <translation>検索</translation>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -1419,7 +1419,7 @@
     </message>
     <message>
         <source>Mixer Sample Rate</source>
-        <translation>ミクサーサンプルレート</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>48000 Hz</source>
@@ -1435,15 +1435,15 @@
     </message>
     <message>
         <source>Mixer Backend</source>
-        <translation>ミキサーバックエンド</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>CoreAudio</source>
-        <translation>コア　オーディオ</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Disabled</source>
-        <translation>無効</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>System Default</source>
@@ -1451,103 +1451,103 @@
     </message>
     <message>
         <source>Play head follows cursor position</source>
-        <translation>再生の先頭がカーソルの位置に追う</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Preroll</source>
-        <translation>プリロール</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Destructive Recording</source>
-        <translation>破壊的な録音</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Play only visible portion of the audio</source>
-        <translation>表示されてるオーディオの部分のみを再生</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Select Playback device</source>
-        <translation>再生デバイスを選択する</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Record Device</source>
-        <translation>録音デバイス</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Select record device</source>
-        <translation>録音デバイスを選択する</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Preroll Time</source>
-        <translation>プリロール時間</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Sets the preroll time.</source>
-        <translation>プリロール時間を設定する</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Sample Rate</source>
-        <translation>サンプルレート</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Select the mixer sample rate</source>
-        <translation>ミキサーサンプルレートを選択する</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Buffer Size</source>
-        <translation>バッファーのサイズ</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>128 samples</source>
-        <translation>128 samples</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>256 samples</source>
-        <translation>256 samples</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>512 samples</source>
-        <translation>512 samples</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>1024 samples</source>
-        <translation>1024 samples</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>2048 samples</source>
-        <translation>2048 samples</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Select the mixer backend API</source>
-        <translation>ミキサーバックエンドのAPIを選択する</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>samples</source>
-        <translation>サンプル</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Playback Device</source>
-        <translation>再生デバイス</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>%1 channels</source>
-        <translation>%1 チャンネル</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>%1 s</source>
-        <translation>%1 秒</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Custom</source>
-        <translation>カスタム</translation>
+        <translation type="unfinished">カスタム</translation>
     </message>
     <message>
         <source>No Devices Found</source>
-        <translation>デバイス見つかりません</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>No common sampling rate</source>
-        <translation>共通サンプルレートがありません</translation>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -1638,59 +1638,59 @@
     </message>
     <message>
         <source>Spectrogram Presets</source>
-        <translation>スペクトルグラムのプリセット</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Select spectrogram preset</source>
-        <translation>スペクトルグラムを選択する</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Number of bins</source>
-        <translation>ビンの数</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Window Size</source>
-        <translation>ウィンドーの大きさ</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Dynamic Range</source>
-        <translation>ダイナミックレンジ</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Window Type</source>
-        <translation>ウィンドータイプ</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Select the windowing function type. Window functions are used in signal processing to minimize the effect of spectral leakages</source>
-        <translation>ウィンドーの機能の種類を選択してください。ウィンドーの機能は信号処理する際スペクトル漏れを減らす</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Color Scheme</source>
-        <translation>配色</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Select Spectrogram Color Scheme</source>
-        <translation>スペクトルグラムの配色を選択する</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Sets the spectrogram range normalization on/off</source>
-        <translation>スペクトルグラムの正常化範囲を設定する</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Select the number of frequency bins to be used to construct the spectrogram</source>
-        <translation>スペクトルグラム作成に端数ビンの数を選択する</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Select spectrogram dynamic range. The chosen value will be used as lower energy displayed in the spectrogram</source>
-        <translation>スペクトルグラム作成に当たって、端数ビンの数を選択する。この値はスペクトルグラムに表示される低いエネルギーとして使われます</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Select spectrogram window size. The window size is a percentage of two times the number of bins</source>
-        <translation>スペクトルグラムウィンドーの大きさを選択する。この値はビン数の2倍の比率になります</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Number of Bins</source>
-        <translation>ビン数</translation>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -1701,67 +1701,67 @@
     </message>
     <message>
         <source>Learn Spelling</source>
-        <translation>綴りを覚える</translation>
+        <translation>綴りを記憶</translation>
     </message>
     <message>
         <source>mil </source>
-        <translation>mil </translation>
+        <translation>ミル</translation>
     </message>
     <message>
         <source>milhão </source>
-        <translation>milhão </translation>
+        <translation>100万</translation>
     </message>
     <message>
         <source>bilhão </source>
-        <translation>bilhão </translation>
+        <translation>10億</translation>
     </message>
     <message>
         <source>trilhão </source>
-        <translation>trilhão </translation>
+        <translation>1兆</translation>
     </message>
     <message>
         <source>quatrilhão </source>
-        <translation>quatrilhão </translation>
+        <translation>1000兆</translation>
     </message>
     <message>
         <source>quintilhão </source>
-        <translation>quintilhão </translation>
+        <translation></translation>
     </message>
     <message>
         <source>sextilhão </source>
-        <translation>sextilhão </translation>
+        <translation></translation>
     </message>
     <message>
         <source>setilhão </source>
-        <translation>setilhão </translation>
+        <translation></translation>
     </message>
     <message>
         <source>milhões </source>
-        <translation>milhões </translation>
+        <translation></translation>
     </message>
     <message>
         <source>bilhões </source>
-        <translation>bilhões </translation>
+        <translation></translation>
     </message>
     <message>
         <source>trilhões </source>
-        <translation>trilhões </translation>
+        <translation></translation>
     </message>
     <message>
         <source>quadrilhões </source>
-        <translation>quadrilhões </translation>
+        <translation></translation>
     </message>
     <message>
         <source>quintilhões </source>
-        <translation>quintilhões </translation>
+        <translation></translation>
     </message>
     <message>
         <source>sextilhões </source>
-        <translation>sextilhões </translation>
+        <translation></translation>
     </message>
     <message>
         <source>setilhões </source>
-        <translation>setilhões </translation>
+        <translation></translation>
     </message>
     <message>
         <source>zero</source>
@@ -1773,151 +1773,151 @@
     </message>
     <message>
         <source>cento </source>
-        <translation>cento </translation>
+        <translation>百</translation>
     </message>
     <message>
         <source>cem </source>
-        <translation>cem </translation>
+        <translation></translation>
     </message>
     <message>
         <source>duzentos </source>
-        <translation>duzentos </translation>
+        <translation></translation>
     </message>
     <message>
         <source>trezentos </source>
-        <translation>trezentos </translation>
+        <translation></translation>
     </message>
     <message>
         <source>quatrocentos </source>
-        <translation>quatrocentos </translation>
+        <translation></translation>
     </message>
     <message>
         <source>quinhentos </source>
-        <translation>quinhentos </translation>
+        <translation></translation>
     </message>
     <message>
         <source>seiscentos </source>
-        <translation>seiscentos </translation>
+        <translation></translation>
     </message>
     <message>
         <source>setecentos </source>
-        <translation>setecentos </translation>
+        <translation></translation>
     </message>
     <message>
         <source>oitocentos </source>
-        <translation>oitocentos </translation>
+        <translation></translation>
     </message>
     <message>
         <source>novecentos </source>
-        <translation>novecentos </translation>
+        <translation></translation>
     </message>
     <message>
         <source>dez </source>
-        <translation>dez </translation>
+        <translation></translation>
     </message>
     <message>
         <source>onze </source>
-        <translation>onze </translation>
+        <translation></translation>
     </message>
     <message>
         <source>doze </source>
-        <translation>doze </translation>
+        <translation></translation>
     </message>
     <message>
         <source>treze </source>
-        <translation>treze </translation>
+        <translation></translation>
     </message>
     <message>
         <source>quatorze </source>
-        <translation>quatorze </translation>
+        <translation></translation>
     </message>
     <message>
         <source>quinze </source>
-        <translation>quinze </translation>
+        <translation></translation>
     </message>
     <message>
         <source>dezesseis </source>
-        <translation>dezesseis </translation>
+        <translation></translation>
     </message>
     <message>
         <source>dezessete </source>
-        <translation>dezessete </translation>
+        <translation></translation>
     </message>
     <message>
         <source>dezoito </source>
-        <translation>dezoito </translation>
+        <translation></translation>
     </message>
     <message>
         <source>dezenove </source>
-        <translation>dezenove </translation>
+        <translation></translation>
     </message>
     <message>
         <source>vinte </source>
-        <translation>vinte </translation>
+        <translation></translation>
     </message>
     <message>
         <source>trinta </source>
-        <translation>trinta </translation>
+        <translation></translation>
     </message>
     <message>
         <source>quarenta </source>
-        <translation>quarenta </translation>
+        <translation></translation>
     </message>
     <message>
         <source>cinquenta </source>
-        <translation>cinquenta </translation>
+        <translation></translation>
     </message>
     <message>
         <source>sessenta </source>
-        <translation>sessenta </translation>
+        <translation></translation>
     </message>
     <message>
         <source>setenta </source>
-        <translation>setenta </translation>
+        <translation></translation>
     </message>
     <message>
         <source>oitenta </source>
-        <translation>oitenta </translation>
+        <translation></translation>
     </message>
     <message>
         <source>noventa </source>
-        <translation>noventa </translation>
+        <translation></translation>
     </message>
     <message>
         <source>um </source>
-        <translation>um </translation>
+        <translation></translation>
     </message>
     <message>
         <source>dois </source>
-        <translation>dois </translation>
+        <translation></translation>
     </message>
     <message>
         <source>três </source>
-        <translation>três </translation>
+        <translation></translation>
     </message>
     <message>
         <source>quatro </source>
-        <translation>quatro </translation>
+        <translation></translation>
     </message>
     <message>
         <source>cinco </source>
-        <translation>cinco </translation>
+        <translation></translation>
     </message>
     <message>
         <source>seis </source>
-        <translation>seis </translation>
+        <translation></translation>
     </message>
     <message>
         <source>sete </source>
-        <translation>sete </translation>
+        <translation></translation>
     </message>
     <message>
         <source>oito </source>
-        <translation>oito </translation>
+        <translation></translation>
     </message>
     <message>
         <source>nove </source>
-        <translation>nove </translation>
+        <translation></translation>
     </message>
 </context>
 </TS>
