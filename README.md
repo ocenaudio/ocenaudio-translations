@@ -9,7 +9,7 @@ ___
 ### Translation Files
 
 The translation files can be edited using Qt Linguist from [Qt Project](http://qt-project.org). If you are not familiar with Qt Linguist, there are a lot of tutorials on the web (For example:
-[http://qt-project.org/doc/qt-4.8/linguist-translators.html](http://qt-project.org/doc/qt-4.8/linguist-translators.html)).
+[http://qt-project.org/doc/qt-4.8/linguist-translators.html](http://qt-project.org/doc/qt-4.8/linguist-translators.html) or [http://doc.qt.io/qt-5/linguist-translators.html](http://doc.qt.io/qt-5/linguist-translators.html)).
 
 If you would like to add a new translation for ocenaudio please
 [submit a pull request](https://github.com/ocenaudio/ocenaudio-translations/pull/new/master) using the files inside `**base**` folder and renaming them as follows the
