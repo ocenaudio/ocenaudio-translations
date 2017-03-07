@@ -436,7 +436,7 @@
     </message>
     <message>
         <source>Cancel</source>
-        <translation type>取り消す</translation>
+        <translation>取り消す</translation>
     </message>
     <message>
         <source>Waiting for cancellation</source>
@@ -1258,7 +1258,7 @@
     </message>
     <message>
         <source>Cue File Found</source>
-        <translation<キューファイル見つかりました。/translation>
+        <translation>キューファイル見つかりました。</translation>
     </message>
     <message>
         <source>A cue file containing %2 tracks associated with the “%1” file was found. You want to open these tracks separately?</source>

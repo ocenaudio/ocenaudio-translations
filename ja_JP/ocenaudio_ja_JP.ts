@@ -3020,7 +3020,7 @@ Channel
     </message>
     <message>
         <source>Updating noise profile...</source>
-        <translationノイズプロフィール更新中...></translation>
+        <translation>ノイズプロフィール更新中...</translation>
     </message>
     <message>
         <source>Noise Reduction</source>
