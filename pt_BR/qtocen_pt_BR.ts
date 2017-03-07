@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!DOCTYPE TS>
-<TS version="2.1" language="pt_BR">
+<TS version="2.0" language="pt_BR">
 <context>
     <name>QAudioStatistics</name>
     <message>
@@ -1393,6 +1393,18 @@
     <message>
         <source>Search</source>
         <translation>Procurar</translation>
+    </message>
+    <message>
+        <source>Edit</source>
+        <translation>Editar</translation>
+    </message>
+    <message>
+        <source>Reset</source>
+        <translation>Reiniciar</translation>
+    </message>
+    <message>
+        <source>Remove</source>
+        <translation>Remover</translation>
     </message>
 </context>
 <context>

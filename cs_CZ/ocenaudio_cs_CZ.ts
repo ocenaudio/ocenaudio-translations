@@ -1840,14 +1840,6 @@
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>VST</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>VST Preferences</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>No Dithering</source>
         <translation type="unfinished"></translation>
     </message>
@@ -1861,10 +1853,6 @@
     </message>
     <message>
         <source>Noise Shaping</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Other</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -1897,6 +1885,14 @@
     </message>
     <message>
         <source>Custom Sample Rate</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Plugins</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Plugins Preferences</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -2513,14 +2509,6 @@ Channel
         <translation>Zrušit</translation>
     </message>
     <message>
-        <source>Save Audio Screenshot</source>
-        <translation>Uložit Audio Screenshot</translation>
-    </message>
-    <message>
-        <source>Images (*.png *.xpm *.jpg)</source>
-        <translation>Obrázky (*.png *.xpm *.jpg)</translation>
-    </message>
-    <message>
         <source>Select Sound File</source>
         <translation>Vyberte zvukový soubor</translation>
     </message>
@@ -3075,10 +3063,6 @@ Channel
     <message>
         <source>Audio Properties</source>
         <translation>Vlastnosti zvuku</translation>
-    </message>
-    <message>
-        <source>Song Name longo para ver o que pode acontecer</source>
-        <translation></translation>
     </message>
     <message>
         <source>Artist</source>
@@ -4043,6 +4027,30 @@ Channel
         <source>Choose Another Name</source>
         <translation type="unfinished"></translation>
     </message>
+    <message>
+        <source>Playback Effect Preview</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Turn On Effect Bypass</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Show Waveform</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Hide Waveform</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Turn Off Effect Bypass</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Stop Effect Preview</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>QOcenFxManagePresetDialog</name>
@@ -4241,6 +4249,77 @@ Channel
     </message>
 </context>
 <context>
+    <name>QOcenPluginsPrefs</name>
+    <message>
+        <source>Form</source>
+        <translation type="unfinished">Form</translation>
+    </message>
+    <message>
+        <source>Audio Units Preferences</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Supports Audio Units (requires restart)</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>VST Plugins Preferences</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Supports VST Plugins (requires restart)</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Add VST Path</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Add a new path to search for VST effects</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Remove VST Path</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Remove path from VST path list</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Scanning Plugins</source>
+        <translation type="unfinished">Hledám pluginy</translation>
+    </message>
+    <message>
+        <source>Refresh VST Effects</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Search for VST effects in the selected path</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Select Directory</source>
+        <translation type="unfinished">Vybber adresář</translation>
+    </message>
+    <message>
+        <source>Show in Finder</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Show Plugins List...</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Remove Path from Search</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Path not Found</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
     <name>QOcenRecentMenu</name>
     <message>
         <source>Recent Files</source>
@@ -4432,65 +4511,6 @@ or your network that you want to open:</source>
     <message>
         <source>Not Loaded</source>
         <translation>Není načteno</translation>
-    </message>
-</context>
-<context>
-    <name>QOcenVstPrefs</name>
-    <message>
-        <source>Form</source>
-        <translation>Form</translation>
-    </message>
-    <message>
-        <source>VST Search Path</source>
-        <translation>VST vyhledávací cesta</translation>
-    </message>
-    <message>
-        <source>Scanning Plugins</source>
-        <translation>Hledám pluginy</translation>
-    </message>
-    <message>
-        <source>Select Directory</source>
-        <translation>Vybber adresář</translation>
-    </message>
-    <message>
-        <source>Show in Finder</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Show Plugins List...</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Remove Path from Search</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Path not Found</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Add VST Path</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Add a new path to search for VST effects</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Remove VST Path</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Remove path from VST path list</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Refresh VST Effects</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Search for VST effects in the selected path</source>
-        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -5344,6 +5364,14 @@ or your network that you want to open:</source>
     <message>
         <source>High Dpi Image</source>
         <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Save Audio Screenshot</source>
+        <translation type="unfinished">Uložit Audio Screenshot</translation>
+    </message>
+    <message>
+        <source>Images (*.png *.xpm *.jpg)</source>
+        <translation type="unfinished">Obrázky (*.png *.xpm *.jpg)</translation>
     </message>
 </context>
 </TS>

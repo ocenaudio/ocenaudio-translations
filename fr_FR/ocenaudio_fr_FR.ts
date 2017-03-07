@@ -1840,14 +1840,6 @@
         <translation>Commentaire de la région “%1”</translation>
     </message>
     <message>
-        <source>VST</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>VST Preferences</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>No Dithering</source>
         <translation type="unfinished"></translation>
     </message>
@@ -1862,10 +1854,6 @@
     <message>
         <source>Noise Shaping</source>
         <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Other</source>
-        <translation type="unfinished">Autres</translation>
     </message>
     <message>
         <source>From stream</source>
@@ -1897,6 +1885,14 @@
     </message>
     <message>
         <source>Custom Sample Rate</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Plugins</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Plugins Preferences</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -2514,14 +2510,6 @@ Channel
         <translation>Annuler</translation>
     </message>
     <message>
-        <source>Save Audio Screenshot</source>
-        <translation>Enregistrer audio capture</translation>
-    </message>
-    <message>
-        <source>Images (*.png *.xpm *.jpg)</source>
-        <translation>Images (*.png *.xpm *.jpg)</translation>
-    </message>
-    <message>
         <source>Select Sound File</source>
         <translation>Sélectionner un fichier sonore</translation>
     </message>
@@ -3076,10 +3064,6 @@ Channel
     <message>
         <source>Audio Properties</source>
         <translation>Propriétés Audio</translation>
-    </message>
-    <message>
-        <source>Song Name longo para ver o que pode acontecer</source>
-        <translation></translation>
     </message>
     <message>
         <source>Artist</source>
@@ -4045,6 +4029,30 @@ Channel
         <source>Choose Another Name</source>
         <translation>Choisissez un autre nom</translation>
     </message>
+    <message>
+        <source>Playback Effect Preview</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Turn On Effect Bypass</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Show Waveform</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Hide Waveform</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Turn Off Effect Bypass</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Stop Effect Preview</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>QOcenFxManagePresetDialog</name>
@@ -4243,6 +4251,77 @@ Channel
     </message>
 </context>
 <context>
+    <name>QOcenPluginsPrefs</name>
+    <message>
+        <source>Form</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Audio Units Preferences</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Supports Audio Units (requires restart)</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>VST Plugins Preferences</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Supports VST Plugins (requires restart)</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Add VST Path</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Add a new path to search for VST effects</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Remove VST Path</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Remove path from VST path list</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Scanning Plugins</source>
+        <translation type="unfinished">Recherche plugins</translation>
+    </message>
+    <message>
+        <source>Refresh VST Effects</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Search for VST effects in the selected path</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Select Directory</source>
+        <translation type="unfinished">Sélectionner le dossier</translation>
+    </message>
+    <message>
+        <source>Show in Finder</source>
+        <translation type="unfinished">Afficher dans le Finder</translation>
+    </message>
+    <message>
+        <source>Show Plugins List...</source>
+        <translation type="unfinished">Voir Plugins Liste...</translation>
+    </message>
+    <message>
+        <source>Remove Path from Search</source>
+        <translation type="unfinished">Supprimer Chemin de Recherche</translation>
+    </message>
+    <message>
+        <source>Path not Found</source>
+        <translation type="unfinished">Chemin introuvable</translation>
+    </message>
+</context>
+<context>
     <name>QOcenRecentMenu</name>
     <message>
         <source>Recent Files</source>
@@ -4435,65 +4514,6 @@ ou votre réseau que vous souhaitez ouvrir:</translation>
     <message>
         <source>Not Loaded</source>
         <translation>Pas Chargé</translation>
-    </message>
-</context>
-<context>
-    <name>QOcenVstPrefs</name>
-    <message>
-        <source>Form</source>
-        <translation></translation>
-    </message>
-    <message>
-        <source>VST Search Path</source>
-        <translation>Chemin de recherche VST</translation>
-    </message>
-    <message>
-        <source>Scanning Plugins</source>
-        <translation>Recherche plugins</translation>
-    </message>
-    <message>
-        <source>Select Directory</source>
-        <translation>Sélectionner le dossier</translation>
-    </message>
-    <message>
-        <source>Show in Finder</source>
-        <translation>Afficher dans le Finder</translation>
-    </message>
-    <message>
-        <source>Show Plugins List...</source>
-        <translation>Voir Plugins Liste...</translation>
-    </message>
-    <message>
-        <source>Remove Path from Search</source>
-        <translation>Supprimer Chemin de Recherche</translation>
-    </message>
-    <message>
-        <source>Path not Found</source>
-        <translation>Chemin introuvable</translation>
-    </message>
-    <message>
-        <source>Add VST Path</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Add a new path to search for VST effects</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Remove VST Path</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Remove path from VST path list</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Refresh VST Effects</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Search for VST effects in the selected path</source>
-        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -5348,6 +5368,14 @@ ou votre réseau que vous souhaitez ouvrir:</translation>
     <message>
         <source>High Dpi Image</source>
         <translation>High Dpi Image</translation>
+    </message>
+    <message>
+        <source>Save Audio Screenshot</source>
+        <translation type="unfinished">Enregistrer audio capture</translation>
+    </message>
+    <message>
+        <source>Images (*.png *.xpm *.jpg)</source>
+        <translation type="unfinished">Images (*.png *.xpm *.jpg)</translation>
     </message>
 </context>
 </TS>

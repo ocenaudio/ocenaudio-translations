@@ -1844,14 +1844,6 @@
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>VST</source>
-        <translation type="unfinished">VST</translation>
-    </message>
-    <message>
-        <source>VST Preferences</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>No Dithering</source>
         <translation type="unfinished"></translation>
     </message>
@@ -1865,10 +1857,6 @@
     </message>
     <message>
         <source>Noise Shaping</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Other</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -1901,6 +1889,14 @@
     </message>
     <message>
         <source>Custom Sample Rate</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Plugins</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Plugins Preferences</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -2516,14 +2512,6 @@ Channel
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Save Audio Screenshot</source>
-        <translation>Запази сникма на аудио</translation>
-    </message>
-    <message>
-        <source>Images (*.png *.xpm *.jpg)</source>
-        <translation>Снимки (*.png *.xpm *.jpg)</translation>
-    </message>
-    <message>
         <source>Select Sound File</source>
         <translation>Избери звуков файл</translation>
     </message>
@@ -3079,10 +3067,6 @@ Channel
     <message>
         <source>Audio Properties</source>
         <translation>Звукови свойства</translation>
-    </message>
-    <message>
-        <source>Song Name longo para ver o que pode acontecer</source>
-        <translation></translation>
     </message>
     <message>
         <source>Artist</source>
@@ -4047,6 +4031,30 @@ Channel
         <source>Choose Another Name</source>
         <translation type="unfinished"></translation>
     </message>
+    <message>
+        <source>Playback Effect Preview</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Turn On Effect Bypass</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Show Waveform</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Hide Waveform</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Turn Off Effect Bypass</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Stop Effect Preview</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>QOcenFxManagePresetDialog</name>
@@ -4245,6 +4253,77 @@ Channel
     </message>
 </context>
 <context>
+    <name>QOcenPluginsPrefs</name>
+    <message>
+        <source>Form</source>
+        <translation type="unfinished">Форма</translation>
+    </message>
+    <message>
+        <source>Audio Units Preferences</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Supports Audio Units (requires restart)</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>VST Plugins Preferences</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Supports VST Plugins (requires restart)</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Add VST Path</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Add a new path to search for VST effects</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Remove VST Path</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Remove path from VST path list</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Scanning Plugins</source>
+        <translation type="unfinished">Сканира плъгини</translation>
+    </message>
+    <message>
+        <source>Refresh VST Effects</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Search for VST effects in the selected path</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Select Directory</source>
+        <translation type="unfinished">Изберете папка</translation>
+    </message>
+    <message>
+        <source>Show in Finder</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Show Plugins List...</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Remove Path from Search</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Path not Found</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
     <name>QOcenRecentMenu</name>
     <message>
         <source>Recent Files</source>
@@ -4437,65 +4516,6 @@ or your network that you want to open:</source>
     <message>
         <source>Not Loaded</source>
         <translation>Не-заредени</translation>
-    </message>
-</context>
-<context>
-    <name>QOcenVstPrefs</name>
-    <message>
-        <source>Form</source>
-        <translation>Форма</translation>
-    </message>
-    <message>
-        <source>VST Search Path</source>
-        <translation>VST път за търсене</translation>
-    </message>
-    <message>
-        <source>Scanning Plugins</source>
-        <translation>Сканира плъгини</translation>
-    </message>
-    <message>
-        <source>Select Directory</source>
-        <translation>Изберете папка</translation>
-    </message>
-    <message>
-        <source>Show in Finder</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Show Plugins List...</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Remove Path from Search</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Path not Found</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Add VST Path</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Add a new path to search for VST effects</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Remove VST Path</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Remove path from VST path list</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Refresh VST Effects</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Search for VST effects in the selected path</source>
-        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -5349,6 +5369,14 @@ or your network that you want to open:</source>
     <message>
         <source>High Dpi Image</source>
         <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Save Audio Screenshot</source>
+        <translation type="unfinished">Запази сникма на аудио</translation>
+    </message>
+    <message>
+        <source>Images (*.png *.xpm *.jpg)</source>
+        <translation type="unfinished">Снимки (*.png *.xpm *.jpg)</translation>
     </message>
 </context>
 </TS>

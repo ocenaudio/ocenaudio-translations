@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!DOCTYPE TS>
-<TS version="2.0" language="hu_HU">
+<TS version="2.1" language="hu_HU">
 <context>
     <name>AdjustSampleRateDialog</name>
     <message>
@@ -1836,14 +1836,6 @@
         <translation>Megjegyzés a tartomány “%1”-ről</translation>
     </message>
     <message>
-        <source>VST</source>
-        <translation>VST</translation>
-    </message>
-    <message>
-        <source>VST Preferences</source>
-        <translation>VST-előnyök</translation>
-    </message>
-    <message>
         <source>No Dithering</source>
         <translation>Nincs zajmoduláció</translation>
     </message>
@@ -1854,10 +1846,6 @@
     <message>
         <source>Noise Shaping</source>
         <translation>Zajszűrés</translation>
-    </message>
-    <message>
-        <source>Other</source>
-        <translation>Egyebek</translation>
     </message>
     <message>
         <source>From stream</source>
@@ -1897,6 +1885,14 @@
     </message>
     <message>
         <source>Triangular PDF</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Plugins</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Plugins Preferences</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -2513,14 +2509,6 @@ Channel
         <translation>Mégse</translation>
     </message>
     <message>
-        <source>Save Audio Screenshot</source>
-        <translation>Képernyőfotó mentése</translation>
-    </message>
-    <message>
-        <source>Images (*.png *.xpm *.jpg)</source>
-        <translation>Képek (*.png *.xpm *.jpg)</translation>
-    </message>
-    <message>
         <source>Select Sound File</source>
         <translation>Audiófájl választása</translation>
     </message>
@@ -3075,10 +3063,6 @@ Channel
     <message>
         <source>Audio Properties</source>
         <translation>Audió-tulajdonságok</translation>
-    </message>
-    <message>
-        <source>Song Name longo para ver o que pode acontecer</source>
-        <translation>Hosszú cím, mint előnéze</translation>
     </message>
     <message>
         <source>Artist</source>
@@ -4043,6 +4027,30 @@ Channel
         <source>Choose Another Name</source>
         <translation>Válasszon másik nevet</translation>
     </message>
+    <message>
+        <source>Playback Effect Preview</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Turn On Effect Bypass</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Show Waveform</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Hide Waveform</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Turn Off Effect Bypass</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Stop Effect Preview</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>QOcenFxManagePresetDialog</name>
@@ -4241,6 +4249,77 @@ Channel
     </message>
 </context>
 <context>
+    <name>QOcenPluginsPrefs</name>
+    <message>
+        <source>Form</source>
+        <translation type="unfinished">Forma</translation>
+    </message>
+    <message>
+        <source>Audio Units Preferences</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Supports Audio Units (requires restart)</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>VST Plugins Preferences</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Supports VST Plugins (requires restart)</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Add VST Path</source>
+        <translation type="unfinished">VST-útvonal hozzáadása</translation>
+    </message>
+    <message>
+        <source>Add a new path to search for VST effects</source>
+        <translation type="unfinished">Új útvonal hozzáadása a VST-hatások kereséséhez</translation>
+    </message>
+    <message>
+        <source>Remove VST Path</source>
+        <translation type="unfinished">VTS útvonal eltávolítása</translation>
+    </message>
+    <message>
+        <source>Remove path from VST path list</source>
+        <translation type="unfinished">Útvonal eltávolítása a VST-útvonal-listáról</translation>
+    </message>
+    <message>
+        <source>Scanning Plugins</source>
+        <translation type="unfinished">Beépűlők keresése</translation>
+    </message>
+    <message>
+        <source>Refresh VST Effects</source>
+        <translation type="unfinished">VST hatás frissítése</translation>
+    </message>
+    <message>
+        <source>Search for VST effects in the selected path</source>
+        <translation type="unfinished">VST-hatás keresése a kiválasztott útvonallal</translation>
+    </message>
+    <message>
+        <source>Select Directory</source>
+        <translation type="unfinished">Mappaválasztás</translation>
+    </message>
+    <message>
+        <source>Show in Finder</source>
+        <translation type="unfinished">Megjelenítés a keresőben</translation>
+    </message>
+    <message>
+        <source>Show Plugins List...</source>
+        <translation type="unfinished">Beépűlő-lista lászik...</translation>
+    </message>
+    <message>
+        <source>Remove Path from Search</source>
+        <translation type="unfinished">Útvonal eltávolítása a keresésből</translation>
+    </message>
+    <message>
+        <source>Path not Found</source>
+        <translation type="unfinished">Útvonal nem található</translation>
+    </message>
+</context>
+<context>
     <name>QOcenRecentMenu</name>
     <message>
         <source>Recent Files</source>
@@ -4435,65 +4514,6 @@ a PC-n vagy hálózatán a megnyitáshoz:</translation>
     <message>
         <source>Not Loaded</source>
         <translation>Nincs betöltve</translation>
-    </message>
-</context>
-<context>
-    <name>QOcenVstPrefs</name>
-    <message>
-        <source>Form</source>
-        <translation>Forma</translation>
-    </message>
-    <message>
-        <source>VST Search Path</source>
-        <translation>VST keresési útvonal</translation>
-    </message>
-    <message>
-        <source>Scanning Plugins</source>
-        <translation>Beépűlők keresése</translation>
-    </message>
-    <message>
-        <source>Select Directory</source>
-        <translation>Mappaválasztás</translation>
-    </message>
-    <message>
-        <source>Show in Finder</source>
-        <translation>Megjelenítés a keresőben</translation>
-    </message>
-    <message>
-        <source>Show Plugins List...</source>
-        <translation>Beépűlő-lista lászik...</translation>
-    </message>
-    <message>
-        <source>Remove Path from Search</source>
-        <translation>Útvonal eltávolítása a keresésből</translation>
-    </message>
-    <message>
-        <source>Path not Found</source>
-        <translation>Útvonal nem található</translation>
-    </message>
-    <message>
-        <source>Add VST Path</source>
-        <translation>VST-útvonal hozzáadása</translation>
-    </message>
-    <message>
-        <source>Add a new path to search for VST effects</source>
-        <translation>Új útvonal hozzáadása a VST-hatások kereséséhez</translation>
-    </message>
-    <message>
-        <source>Remove VST Path</source>
-        <translation>VTS útvonal eltávolítása</translation>
-    </message>
-    <message>
-        <source>Remove path from VST path list</source>
-        <translation>Útvonal eltávolítása a VST-útvonal-listáról</translation>
-    </message>
-    <message>
-        <source>Refresh VST Effects</source>
-        <translation>VST hatás frissítése</translation>
-    </message>
-    <message>
-        <source>Search for VST effects in the selected path</source>
-        <translation>VST-hatás keresése a kiválasztott útvonallal</translation>
     </message>
 </context>
 <context>
@@ -5348,6 +5368,14 @@ a PC-n vagy hálózatán a megnyitáshoz:</translation>
     <message>
         <source>High Dpi Image</source>
         <translation>Nagy felbontású képek</translation>
+    </message>
+    <message>
+        <source>Save Audio Screenshot</source>
+        <translation type="unfinished">Képernyőfotó mentése</translation>
+    </message>
+    <message>
+        <source>Images (*.png *.xpm *.jpg)</source>
+        <translation type="unfinished">Képek (*.png *.xpm *.jpg)</translation>
     </message>
 </context>
 </TS>
