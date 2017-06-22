@@ -784,6 +784,10 @@
         <source>FTP Export...</source>
         <translation type="unfinished"></translation>
     </message>
+    <message>
+        <source>Seconds</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>NavigatorDialog</name>
@@ -1642,6 +1646,13 @@
     <message>
         <source>Inverted V shape</source>
         <translation>Fordított V forma</translation>
+    </message>
+</context>
+<context>
+    <name>QMarkersItemModel</name>
+    <message>
+        <source>not set</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -2867,6 +2878,10 @@ Channel
     <message>
         <source>Enable/Disable Destructive Recording</source>
         <translation>Romboló felvétel engedélyezése/tiltása</translation>
+    </message>
+    <message>
+        <source>Display Time Format in Seconds</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>

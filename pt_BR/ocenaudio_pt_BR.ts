@@ -785,6 +785,10 @@
         <source>Ctrl+D</source>
         <translation></translation>
     </message>
+    <message>
+        <source>Seconds</source>
+        <translation>Segundos</translation>
+    </message>
 </context>
 <context>
     <name>NavigatorDialog</name>
@@ -1643,6 +1647,13 @@
     <message>
         <source>Inverted V shape</source>
         <translation></translation>
+    </message>
+</context>
+<context>
+    <name>QMarkersItemModel</name>
+    <message>
+        <source>not set</source>
+        <translation>não configurado</translation>
     </message>
 </context>
 <context>
@@ -2872,6 +2883,10 @@ Saída
     <message>
         <source>Enable/Disable Destructive Recording</source>
         <translation>Habilitar/Desabilitar Gravação Destrutiva</translation>
+    </message>
+    <message>
+        <source>Display Time Format in Seconds</source>
+        <translation>Formato da Escala Horizontal em Segundos</translation>
     </message>
 </context>
 <context>

@@ -784,6 +784,10 @@
         <source>Ctrl+D</source>
         <translation type="unfinished"></translation>
     </message>
+    <message>
+        <source>Seconds</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>NavigatorDialog</name>
@@ -1642,6 +1646,13 @@
     <message>
         <source>Inverted V shape</source>
         <translation>Forma de V invertida</translation>
+    </message>
+</context>
+<context>
+    <name>QMarkersItemModel</name>
+    <message>
+        <source>not set</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -2866,6 +2877,10 @@ Channel
     </message>
     <message>
         <source>Enable/Disable Destructive Recording</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Display Time Format in Seconds</source>
         <translation type="unfinished"></translation>
     </message>
 </context>

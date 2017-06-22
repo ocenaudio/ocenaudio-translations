@@ -784,6 +784,10 @@
         <source>Ctrl+D</source>
         <translation>Ctrl+D</translation>
     </message>
+    <message>
+        <source>Seconds</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>NavigatorDialog</name>
@@ -1642,6 +1646,13 @@
     <message>
         <source>Inverted V shape</source>
         <translation>逆V形</translation>
+    </message>
+</context>
+<context>
+    <name>QMarkersItemModel</name>
+    <message>
+        <source>not set</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -2870,6 +2881,10 @@ Channel
     <message>
         <source>The export file cannot be create on the destination path!</source>
         <translation type="unfinished">エクスポートファイルが移動先のパスでは作成出来ません！</translation>
+    </message>
+    <message>
+        <source>Display Time Format in Seconds</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
