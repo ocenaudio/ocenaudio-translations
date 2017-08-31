@@ -132,7 +132,7 @@
     </message>
     <message>
         <source>Dynamics Processing</source>
-        <translation>Dynamikberarbeitung</translation>
+        <translation>Dynamikbearbeitung</translation>
     </message>
     <message>
         <source>Specials</source>
@@ -1181,11 +1181,11 @@
     </message>
     <message>
         <source>Dynamics Processing / %1</source>
-        <translation>Dynamikberarbeitung / %1</translation>
+        <translation>Dynamikbearbeitung / %1</translation>
     </message>
     <message>
         <source>Dynamics Processing</source>
-        <translation>Dynamikberarbeitung</translation>
+        <translation>Dynamikbearbeitung</translation>
     </message>
     <message>
         <source>Applying Compressor</source>
