@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!DOCTYPE TS>
-<TS version="2.0" language="zh_CN">
+<TS version="2.1" language="zh_CN">
 <context>
     <name>QAudioStatistics</name>
     <message>
@@ -117,10 +117,6 @@
     <message>
         <source>Stream %1</source>
         <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Sound Files</source>
-        <translation>声音文件</translation>
     </message>
     <message>
         <source>All Files</source>
@@ -415,18 +411,6 @@
         <translation></translation>
     </message>
     <message>
-        <source>mono</source>
-        <translation>单声道</translation>
-    </message>
-    <message>
-        <source>stereo</source>
-        <translation>立体声</translation>
-    </message>
-    <message>
-        <source>%1 channels</source>
-        <translation>%1声道</translation>
-    </message>
-    <message>
         <source>Title</source>
         <translation>标题</translation>
     </message>
@@ -486,20 +470,192 @@
         <source>Track %1</source>
         <translation>音轨%1</translation>
     </message>
+    <message>
+        <source>@%1 (unlinked)</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Smooth</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Paste To Fit</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Audio Canvas</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Quick zoom</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Move to previous zero crossing</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Move to next zero crossing</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Select to previous zero crossing</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Select to next zero crossing</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Scroll audio backward</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Scroll audio forward</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Move cursor to previous page</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Move cursor to next page</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Move cursor to previous scale tick</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Move cursor to next scale tick</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Move cursor to left</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Move cursor to right</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Move cursor to begin</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Move cursor to end</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Show cursor/Select region</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Select region under cursor/region</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Select Audio/Region to left</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Select Audio/Region to right</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Select Audio/Region to begin</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Select Audio/Region to end</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Select to previous scale tick</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Select to next scale tick</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Edit selected region</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Move cursor to next marker</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Move cursor to previous marker</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Select to next marker</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Select to previous marker</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>General</source>
+        <translation type="unfinished">通用</translation>
+    </message>
+    <message>
+        <source>General Preferences</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Key Bindings</source>
+        <translation type="unfinished">快捷键</translation>
+    </message>
+    <message>
+        <source>Key Bindings Preferences</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Network</source>
+        <translation type="unfinished">网络</translation>
+    </message>
+    <message>
+        <source>Network Preferences</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Supported Sound Files</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Sound</source>
+        <translation type="unfinished">声音</translation>
+    </message>
+    <message>
+        <source>Sound Preferences</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Spectrogram</source>
+        <translation type="unfinished">频谱图</translation>
+    </message>
+    <message>
+        <source>Spectogram Preferences</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>%1 sec</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>%1 ms</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>QOcenApplication</name>
     <message>
-        <source>Regions Comment</source>
-        <translation>区块备注</translation>
-    </message>
-    <message>
         <source>New Sound Device Found</source>
         <translation>发现新音频设备</translation>
-    </message>
-    <message>
-        <source>New Plugin Installed</source>
-        <translation>新插件已安装</translation>
     </message>
     <message>
         <source>ocenaudio Clipboard with %1 seconds in %2 %3</source>
@@ -583,6 +739,10 @@
         <source>Duration</source>
         <translation>持续时间</translation>
     </message>
+    <message>
+        <source>readonly</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>QOcenAudioJob_Append</name>
@@ -604,6 +764,38 @@
     <message>
         <source>You can drop audio files, folders, archives, urls and playlists.</source>
         <translation>你可以拖放音频文件，目录，压缩包，链接和播放列表。</translation>
+    </message>
+    <message>
+        <source>Cancel</source>
+        <translation type="unfinished">取消</translation>
+    </message>
+    <message>
+        <source>Close</source>
+        <translation type="unfinished">关闭</translation>
+    </message>
+    <message>
+        <source>Play</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Stop</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Link the view state of this audio to the current visible audio</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Unlink the view state of this audio</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Link the view state of this audio to others linked audios (if any)</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Save</source>
+        <translation type="unfinished">保存</translation>
     </message>
 </context>
 <context>
@@ -665,20 +857,12 @@
 <context>
     <name>QOcenGeneralPrefs</name>
     <message>
-        <source>Form</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>Language</source>
         <translation>语言</translation>
     </message>
     <message>
         <source>Automatically check for updates</source>
         <translation>自动检查更新</translation>
-    </message>
-    <message>
-        <source>General</source>
-        <translation>通用</translation>
     </message>
     <message>
         <source>Options</source>
@@ -699,6 +883,30 @@
     <message>
         <source>Dark</source>
         <translation>深色</translation>
+    </message>
+    <message>
+        <source>Select ocenaudio interface language</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Select color scheme to be used in ocenaudio interface</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Smooth Cut and Delete boundaries</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Keep a backup copy of original file before overwrite</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>System Language (%1)</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Aqua</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -738,16 +946,32 @@
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Key Bindings</source>
-        <translation>快捷键</translation>
-    </message>
-    <message>
         <source>Command</source>
         <translation>命令</translation>
     </message>
     <message>
         <source>Key</source>
         <translation>快捷键</translation>
+    </message>
+    <message>
+        <source>Key binding action list</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>List of ocenaudio actions and theirs key bindings</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Key bindings action filter</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Filter the key bindings action list</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Filter</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -767,18 +991,6 @@
 </context>
 <context>
     <name>QOcenMainWindow</name>
-    <message>
-        <source>Sound Files</source>
-        <translation>声音文件</translation>
-    </message>
-    <message>
-        <source>Raw Sound Files</source>
-        <translation>原始声音文件</translation>
-    </message>
-    <message>
-        <source>Text Sound Files</source>
-        <translation>文本声音文件</translation>
-    </message>
     <message>
         <source>All Files</source>
         <translation>所有文件</translation>
@@ -844,10 +1056,6 @@
         <translation>正在关闭%1个文件...</translation>
     </message>
     <message>
-        <source>The file for the sound at %1 has been modified by another application.  There are also unsaved changes in ocenaudio.  Do you want to keep the ocenaudio version or revert to the version on disk?</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>Keep ocenaudio Version</source>
         <translation type="unfinished"></translation>
     </message>
@@ -856,28 +1064,8 @@
         <translation>恢复</translation>
     </message>
     <message>
-        <source>The file for the sound that was at %1 is now empty. Do you want to re-save the sound or close it?</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>The file for the sound that was at %1 is now corrupted. Do you want to re-save the sound or close it?</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Re-Save</source>
-        <translation>重新保存</translation>
-    </message>
-    <message>
         <source>Close</source>
         <translation>关闭</translation>
-    </message>
-    <message>
-        <source>The file for the sound that was at %1 has disappeared.  Do you want to re-save the sound or close it?</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>The file for the sound that was at %1 has disappeared. The document has previously unsaved changes. Do you want to re-save the sound or close it?</source>
-        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>The current file&apos;s format does not support these settings. Do you want to make this changes anyway?</source>
@@ -996,10 +1184,6 @@
         <translation>声音文件&quot;%1&quot;包含的有些信息无法以此格式保存，确认继续此格式导出吗?</translation>
     </message>
     <message>
-        <source>Unsuported information will not be present in the exported file.</source>
-        <translation>不支持的信息将不会在导出的文件中展示。</translation>
-    </message>
-    <message>
         <source>Export</source>
         <translation>导出</translation>
     </message>
@@ -1007,13 +1191,61 @@
         <source>Exporting As</source>
         <translation>正在导出为</translation>
     </message>
+    <message>
+        <source>Supported Sound Files</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Unsupported information will not be present in the exported file.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>The file for the sound at %1 has been modified by another application. There are also unsaved changes in ocenaudio. Do you want to keep the ocenaudio version or revert to the version on disk?</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>The file for the sound that was at %1 is now empty. Do you want to keep as new, save or close the sound?</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>The file for the sound that was at %1 is now corrupted. Do you want to keep as new, save or close the sound?</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Keep as New</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>The file for the sound that was at %1 has disappeared. Do you want to keep as new, save or close the sound?</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>The file for the sound that was at %1 has disappeared. The document has previously unsaved changes. Do you want to keep as new, save or close the sound?</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Would you like to proceed and reencode the audio?</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Your changes affect only the metadata, however ocenaudio don&apos;t supports metadata update for this format. If you proceed, a complete rewrite of your file will be done (this may re-encode your audio signal).</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Do you want to overwrite the backup copy of the original file?</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>The file “%1” already has a backup. If you proceed it will be replaced by the current version of this file.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>readonly</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>QOcenNetworkPrefs</name>
-    <message>
-        <source>Form</source>
-        <translation type="unfinished"></translation>
-    </message>
     <message>
         <source>HTTP/HTTPS Proxy Configuration</source>
         <translation>HTTP/HTTPS 代理设置</translation>
@@ -1051,10 +1283,6 @@
         <translation>密码:</translation>
     </message>
     <message>
-        <source>Network</source>
-        <translation>网络</translation>
-    </message>
-    <message>
         <source>Checking connectivity</source>
         <translation>正在检查连接</translation>
     </message>
@@ -1082,7 +1310,7 @@
     </message>
     <message>
         <source>Question</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">问题</translation>
     </message>
     <message>
         <source>Warning</source>
@@ -1252,6 +1480,13 @@
     </message>
 </context>
 <context>
+    <name>QOcenPreferences</name>
+    <message>
+        <source>Settings</source>
+        <translation type="unfinished">设置项</translation>
+    </message>
+</context>
+<context>
     <name>QOcenQuickOpenWidget</name>
     <message>
         <source>File or http address</source>
@@ -1287,13 +1522,21 @@
         <source>Search</source>
         <translation>搜索</translation>
     </message>
+    <message>
+        <source>Edit</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Reset</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Remove</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>QOcenSoundPrefs</name>
-    <message>
-        <source>Form</source>
-        <translation type="unfinished"></translation>
-    </message>
     <message>
         <source>Playback Device/Options</source>
         <translation>播放设备/选项</translation>
@@ -1343,10 +1586,6 @@
         <translation>已禁用</translation>
     </message>
     <message>
-        <source>Sound</source>
-        <translation>声音</translation>
-    </message>
-    <message>
         <source>System Default</source>
         <translation>系统默认</translation>
     </message>
@@ -1361,6 +1600,94 @@
     <message>
         <source>Destructive Recording</source>
         <translation>有损录音</translation>
+    </message>
+    <message>
+        <source>Play only visible portion of the audio</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Playback Device</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Select Playback device</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Preroll Time</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Sets the preroll time.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Record Device</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Select record device</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Sample Rate</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Select the mixer sample rate</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Buffer Size</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>128 samples</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>256 samples</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>512 samples</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>1024 samples</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>2048 samples</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Select the mixer backend API</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>%1 s</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Custom</source>
+        <translation type="unfinished">自定义</translation>
+    </message>
+    <message>
+        <source>samples</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>%1 channels</source>
+        <translation type="unfinished">%1声道</translation>
+    </message>
+    <message>
+        <source>No Devices Found</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>No common sampling rate</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -1378,24 +1705,8 @@
         <translation>设置项</translation>
     </message>
     <message>
-        <source>Number of Bins:</source>
-        <translation>取样数:</translation>
-    </message>
-    <message>
-        <source>Window Type:</source>
-        <translation>窗口类型:</translation>
-    </message>
-    <message>
-        <source>Window Size:</source>
-        <translation>窗口尺寸:</translation>
-    </message>
-    <message>
         <source>100%</source>
         <translation></translation>
-    </message>
-    <message>
-        <source>Dynamic Range:</source>
-        <translation>动态范围:</translation>
     </message>
     <message>
         <source>XXX dB</source>
@@ -1404,10 +1715,6 @@
     <message>
         <source>Color Settings</source>
         <translation>颜色设置</translation>
-    </message>
-    <message>
-        <source>Color Scheme:</source>
-        <translation>颜色主题:</translation>
     </message>
     <message>
         <source>Normalize</source>
@@ -1470,8 +1777,64 @@
         <translation>颜色</translation>
     </message>
     <message>
-        <source>Spectrogram</source>
-        <translation>频谱图</translation>
+        <source>Spectrogram Presets</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Select spectrogram preset</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Window Type</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Number of Bins</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Select the windowing function type. Window functions are used in signal processing to minimize the effect of spectral leakages</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Dynamic Range</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Window Size</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Number of bins</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Select the number of frequency bins to be used to construct the spectrogram</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Select spectrogram window size. The window size is a percentage of two times the number of bins</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Select spectrogram dynamic range. The chosen value will be used as lower energy displayed in the spectrogram</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Use Pre-Emphasis Filtering</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Color Scheme</source>
+        <translation type="unfinished">颜色主题</translation>
+    </message>
+    <message>
+        <source>Select Spectrogram Color Scheme</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Sets the spectrogram range normalization on/off</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
