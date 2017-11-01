@@ -522,6 +522,134 @@
         <source>Spectogram Preferences</source>
         <translation>スペクトルグラムの設定</translation>
     </message>
+    <message>
+        <source>Paste To Fit</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Audio Canvas</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Quick zoom</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Move to previous zero crossing</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Move to next zero crossing</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Select to previous zero crossing</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Select to next zero crossing</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Scroll audio backward</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Scroll audio forward</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Move cursor to previous page</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Move cursor to next page</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Move cursor to previous scale tick</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Move cursor to next scale tick</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Move cursor to left</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Move cursor to right</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Move cursor to begin</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Move cursor to end</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Select region under cursor/region</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Select Audio/Region to left</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Select Audio/Region to right</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Select Audio/Region to begin</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Select Audio/Region to end</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Select to previous scale tick</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Select to next scale tick</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Edit selected region</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Move cursor to next marker</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Move cursor to previous marker</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Select to next marker</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Select to previous marker</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>%1 sec</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>%1 ms</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Show cursor/Select region</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>QOcenApplication</name>
@@ -1703,6 +1831,10 @@
     <message>
         <source>Number of Bins</source>
         <translation>ビン数</translation>
+    </message>
+    <message>
+        <source>Use Pre-Emphasis Filtering</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>

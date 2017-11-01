@@ -159,10 +159,6 @@
         <translation>&amp;Ovládání</translation>
     </message>
     <message>
-        <source>Move Cursor</source>
-        <translation>Přesuňte kurzor</translation>
-    </message>
-    <message>
         <source>New...</source>
         <translation>Nový...</translation>
     </message>
@@ -659,22 +655,6 @@
         <translation>Jdi na náhledovou značku</translation>
     </message>
     <message>
-        <source>Next Marker</source>
-        <translation>Další značka</translation>
-    </message>
-    <message>
-        <source>Ctrl+Alt+Right</source>
-        <translation></translation>
-    </message>
-    <message>
-        <source>Previous Marker</source>
-        <translation>Předchozí značka</translation>
-    </message>
-    <message>
-        <source>Ctrl+Alt+Left</source>
-        <translation></translation>
-    </message>
-    <message>
         <source>Next Zero Crossing</source>
         <translation>Další Zero Crossing</translation>
     </message>
@@ -786,6 +766,14 @@
     </message>
     <message>
         <source>Seconds</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Time/Pitch Adjust</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Paste to Fit</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -2412,14 +2400,6 @@ Channel
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Move Cursor to Next Marker</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Move Cursor to Previous Marker</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>Repeat Last Effect</source>
         <translation type="unfinished"></translation>
     </message>
@@ -2883,6 +2863,26 @@ Channel
         <source>Display Time Format in Seconds</source>
         <translation type="unfinished"></translation>
     </message>
+    <message>
+        <source>Warning</source>
+        <translation type="unfinished">Varování</translation>
+    </message>
+    <message>
+        <source>The audio sample rate is not supported by Audio Unit %1.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>In order to use this plugin you should change the audio sample rate to a supported value.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>The sample rate selected on mixer is not supported by Audio Unit %1.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>In order to use this plugin you should change the mixer sample rate to a supported value in the audio preferences.</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>QOcenAudioNoiseReductionWidget</name>
@@ -3302,6 +3302,53 @@ Channel
     <message>
         <source>Close</source>
         <translation type="unfinished">Zavřít</translation>
+    </message>
+</context>
+<context>
+    <name>QOcenAudioTimeStretchWidget</name>
+    <message>
+        <source>Form</source>
+        <translation type="unfinished">Form</translation>
+    </message>
+    <message>
+        <source>Time Stretch</source>
+        <translation type="unfinished">Časový úsek</translation>
+    </message>
+    <message>
+        <source>100</source>
+        <translation type="unfinished">100</translation>
+    </message>
+    <message>
+        <source>percent</source>
+        <translation type="unfinished">Procento</translation>
+    </message>
+    <message>
+        <source>Pitch Shift</source>
+        <translation type="unfinished">Pitch střih</translation>
+    </message>
+    <message>
+        <source>0</source>
+        <translation type="unfinished">0</translation>
+    </message>
+    <message>
+        <source>semi-tones</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Optimize for speech processing</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Time and Pitch Adjust</source>
+        <translation type="unfinished">Nastavení času a Pitch</translation>
+    </message>
+    <message>
+        <source>Applying Time/Pitch Adjust</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Time/Pitch Adjust</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -4180,14 +4227,6 @@ Channel
         <translation>Vzorkovací frekvence</translation>
     </message>
     <message>
-        <source>44.1 kHz</source>
-        <translation></translation>
-    </message>
-    <message>
-        <source>48 kHz</source>
-        <translation></translation>
-    </message>
-    <message>
         <source>Other</source>
         <translation type="unfinished"></translation>
     </message>
@@ -4830,10 +4869,6 @@ or your network that you want to open:</source>
         <translation>DTMF</translation>
     </message>
     <message>
-        <source>DTMF Sequence (Valid chars: 123...90#*ABCD,)</source>
-        <translation>DTMF sekvence (platné znaky: 123...90#*ABCD,)</translation>
-    </message>
-    <message>
         <source>DTMF Codes</source>
         <translation>DTMF kódy</translation>
     </message>
@@ -5016,10 +5051,6 @@ or your network that you want to open:</source>
 <context>
     <name>QSoundFormatDialog</name>
     <message>
-        <source>Configure Sound Format</source>
-        <translation>Nastavení formátu zvuku</translation>
-    </message>
-    <message>
         <source>File name</source>
         <translation>název souboru</translation>
     </message>
@@ -5030,14 +5061,6 @@ or your network that you want to open:</source>
     <message>
         <source>Raw Data Format</source>
         <translation>Raw Data Format</translation>
-    </message>
-    <message>
-        <source>Item1</source>
-        <translation>Položka1</translation>
-    </message>
-    <message>
-        <source>Item2</source>
-        <translation>Položka2</translation>
     </message>
     <message>
         <source>-</source>

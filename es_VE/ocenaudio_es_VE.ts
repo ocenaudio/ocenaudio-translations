@@ -159,10 +159,6 @@
         <translation>&amp;Controles</translation>
     </message>
     <message>
-        <source>Move Cursor</source>
-        <translation>Mover cursor</translation>
-    </message>
-    <message>
         <source>New...</source>
         <translation>Nuevo...</translation>
     </message>
@@ -669,22 +665,6 @@
         <translation>Ir a vista previa de marcador</translation>
     </message>
     <message>
-        <source>Next Marker</source>
-        <translation>Siguiente marcador</translation>
-    </message>
-    <message>
-        <source>Ctrl+Alt+Right</source>
-        <translation>Ctrl+Alt+Derecha</translation>
-    </message>
-    <message>
-        <source>Previous Marker</source>
-        <translation>Anterior marcador</translation>
-    </message>
-    <message>
-        <source>Ctrl+Alt+Left</source>
-        <translation>Ctrl+Alt+Izquierda</translation>
-    </message>
-    <message>
         <source>Next Zero Crossing</source>
         <translation>Siguiente cruce por cero</translation>
     </message>
@@ -786,6 +766,14 @@
     </message>
     <message>
         <source>Seconds</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Time/Pitch Adjust</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Paste to Fit</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -2412,14 +2400,6 @@ Channel
         <translation>Activar/Desactivar bucle de reproducción</translation>
     </message>
     <message>
-        <source>Move Cursor to Next Marker</source>
-        <translation>Mover cursor al siguiente marcador</translation>
-    </message>
-    <message>
-        <source>Move Cursor to Previous Marker</source>
-        <translation>Mover cursor al anterior marcador</translation>
-    </message>
-    <message>
         <source>Repeat Last Effect</source>
         <translation>Repetir último efecto</translation>
     </message>
@@ -2883,6 +2863,26 @@ Channel
         <source>Display Time Format in Seconds</source>
         <translation type="unfinished"></translation>
     </message>
+    <message>
+        <source>Warning</source>
+        <translation type="unfinished">Advertencia</translation>
+    </message>
+    <message>
+        <source>The audio sample rate is not supported by Audio Unit %1.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>In order to use this plugin you should change the audio sample rate to a supported value.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>The sample rate selected on mixer is not supported by Audio Unit %1.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>In order to use this plugin you should change the mixer sample rate to a supported value in the audio preferences.</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>QOcenAudioNoiseReductionWidget</name>
@@ -3302,6 +3302,53 @@ Channel
     <message>
         <source>Close</source>
         <translation type="unfinished">Cerrar</translation>
+    </message>
+</context>
+<context>
+    <name>QOcenAudioTimeStretchWidget</name>
+    <message>
+        <source>Form</source>
+        <translation type="unfinished">Forma</translation>
+    </message>
+    <message>
+        <source>Time Stretch</source>
+        <translation type="unfinished">Tramo de tiempo</translation>
+    </message>
+    <message>
+        <source>100</source>
+        <translation type="unfinished">100</translation>
+    </message>
+    <message>
+        <source>percent</source>
+        <translation type="unfinished">porcentaje</translation>
+    </message>
+    <message>
+        <source>Pitch Shift</source>
+        <translation type="unfinished">Cambio de tono</translation>
+    </message>
+    <message>
+        <source>0</source>
+        <translation type="unfinished">0</translation>
+    </message>
+    <message>
+        <source>semi-tones</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Optimize for speech processing</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Time and Pitch Adjust</source>
+        <translation type="unfinished">Ajuste de Tiempo y Tono</translation>
+    </message>
+    <message>
+        <source>Applying Time/Pitch Adjust</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Time/Pitch Adjust</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -4180,14 +4227,6 @@ Channel
         <translation>Tasa de muestreo</translation>
     </message>
     <message>
-        <source>44.1 kHz</source>
-        <translation></translation>
-    </message>
-    <message>
-        <source>48 kHz</source>
-        <translation></translation>
-    </message>
-    <message>
         <source>Other</source>
         <translation>Otros</translation>
     </message>
@@ -4831,10 +4870,6 @@ su ordenador, o red que desea abrir:</translation>
         <translation>DTMF</translation>
     </message>
     <message>
-        <source>DTMF Sequence (Valid chars: 123...90#*ABCD,)</source>
-        <translation>Secuencia DTMF (Caracteres válidos: 123...90#*ABCD,)</translation>
-    </message>
-    <message>
         <source>DTMF Codes</source>
         <translation>Códigos DTMF</translation>
     </message>
@@ -5017,10 +5052,6 @@ su ordenador, o red que desea abrir:</translation>
 <context>
     <name>QSoundFormatDialog</name>
     <message>
-        <source>Configure Sound Format</source>
-        <translation>Configurar formato de sonido</translation>
-    </message>
-    <message>
         <source>File name</source>
         <translation>Nombre de archivo</translation>
     </message>
@@ -5031,14 +5062,6 @@ su ordenador, o red que desea abrir:</translation>
     <message>
         <source>Raw Data Format</source>
         <translation>Formato de dato puro</translation>
-    </message>
-    <message>
-        <source>Item1</source>
-        <translation>Ítem1</translation>
-    </message>
-    <message>
-        <source>Item2</source>
-        <translation>Ítem2</translation>
     </message>
     <message>
         <source>-</source>

@@ -159,10 +159,6 @@
         <translation>&amp;Ellenőrzés</translation>
     </message>
     <message>
-        <source>Move Cursor</source>
-        <translation>Kurzor eltolása</translation>
-    </message>
-    <message>
         <source>New...</source>
         <translation>Új...</translation>
     </message>
@@ -434,22 +430,6 @@
     <message>
         <source>Goto Preview Marker</source>
         <translation>Ugrás az előnézet-jelölőhöz</translation>
-    </message>
-    <message>
-        <source>Next Marker</source>
-        <translation>Következő jelölő</translation>
-    </message>
-    <message>
-        <source>Ctrl+Alt+Right</source>
-        <translation>Ctrl+Alt+Jobb</translation>
-    </message>
-    <message>
-        <source>Previous Marker</source>
-        <translation>Előző jelölő</translation>
-    </message>
-    <message>
-        <source>Ctrl+Alt+Left</source>
-        <translation>Ctrl+Alt+Bal</translation>
     </message>
     <message>
         <source>Next Zero Crossing</source>
@@ -786,6 +766,14 @@
     </message>
     <message>
         <source>Seconds</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Time/Pitch Adjust</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Paste to Fit</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -2412,14 +2400,6 @@ Channel
         <translation>Vég nélküli lejátszás bekapcsolása/kikapcsolása</translation>
     </message>
     <message>
-        <source>Move Cursor to Next Marker</source>
-        <translation>Kurzor a következő jelölőhöz</translation>
-    </message>
-    <message>
-        <source>Move Cursor to Previous Marker</source>
-        <translation>Kurzor az előző jelölőhöz</translation>
-    </message>
-    <message>
         <source>Repeat Last Effect</source>
         <translation>Utolsó hatás ismétlése</translation>
     </message>
@@ -2883,6 +2863,26 @@ Channel
         <source>Display Time Format in Seconds</source>
         <translation type="unfinished"></translation>
     </message>
+    <message>
+        <source>Warning</source>
+        <translation type="unfinished">Figyelmeztetés</translation>
+    </message>
+    <message>
+        <source>The audio sample rate is not supported by Audio Unit %1.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>In order to use this plugin you should change the audio sample rate to a supported value.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>The sample rate selected on mixer is not supported by Audio Unit %1.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>In order to use this plugin you should change the mixer sample rate to a supported value in the audio preferences.</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>QOcenAudioNoiseReductionWidget</name>
@@ -3302,6 +3302,53 @@ Channel
     <message>
         <source>Close</source>
         <translation>Bezárás</translation>
+    </message>
+</context>
+<context>
+    <name>QOcenAudioTimeStretchWidget</name>
+    <message>
+        <source>Form</source>
+        <translation type="unfinished">Forma</translation>
+    </message>
+    <message>
+        <source>Time Stretch</source>
+        <translation type="unfinished">Időszakasz</translation>
+    </message>
+    <message>
+        <source>100</source>
+        <translation type="unfinished">100</translation>
+    </message>
+    <message>
+        <source>percent</source>
+        <translation type="unfinished">százalék</translation>
+    </message>
+    <message>
+        <source>Pitch Shift</source>
+        <translation type="unfinished">Hangmagasság-változás</translation>
+    </message>
+    <message>
+        <source>0</source>
+        <translation type="unfinished">0</translation>
+    </message>
+    <message>
+        <source>semi-tones</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Optimize for speech processing</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Time and Pitch Adjust</source>
+        <translation type="unfinished">Idő és hangmagasság</translation>
+    </message>
+    <message>
+        <source>Applying Time/Pitch Adjust</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Time/Pitch Adjust</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -4180,14 +4227,6 @@ Channel
         <translation>Mintavételi ráta</translation>
     </message>
     <message>
-        <source>44.1 kHz</source>
-        <translation>44,1 kHz</translation>
-    </message>
-    <message>
-        <source>48 kHz</source>
-        <translation>48 kHz</translation>
-    </message>
-    <message>
         <source>Other</source>
         <translation>Más</translation>
     </message>
@@ -4833,10 +4872,6 @@ a PC-n vagy hálózatán a megnyitáshoz:</translation>
         <translation>Többfrekvenciás hangok (DTMF)</translation>
     </message>
     <message>
-        <source>DTMF Sequence (Valid chars: 123...90#*ABCD,)</source>
-        <translation>DTMF szekvencia (érvényes karakterek: 123...90#*ABCD,)</translation>
-    </message>
-    <message>
         <source>DTMF Codes</source>
         <translation>DTMF-karakterek</translation>
     </message>
@@ -5019,10 +5054,6 @@ a PC-n vagy hálózatán a megnyitáshoz:</translation>
 <context>
     <name>QSoundFormatDialog</name>
     <message>
-        <source>Configure Sound Format</source>
-        <translation>Audióformátum konfigurálása</translation>
-    </message>
-    <message>
         <source>File name</source>
         <translation>Fájlnév</translation>
     </message>
@@ -5033,14 +5064,6 @@ a PC-n vagy hálózatán a megnyitáshoz:</translation>
     <message>
         <source>Raw Data Format</source>
         <translation>Raw fájlformátum</translation>
-    </message>
-    <message>
-        <source>Item1</source>
-        <translation>Elem 1</translation>
-    </message>
-    <message>
-        <source>Item2</source>
-        <translation>Elem 2</translation>
     </message>
     <message>
         <source>-</source>

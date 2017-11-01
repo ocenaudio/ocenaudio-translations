@@ -159,10 +159,6 @@
         <translation>&amp;Controlli</translation>
     </message>
     <message>
-        <source>Move Cursor</source>
-        <translation>Muovi cursore</translation>
-    </message>
-    <message>
         <source>New...</source>
         <translation>Nuovo...</translation>
     </message>
@@ -676,22 +672,6 @@
         <translation>Vai a marcatore anteprima</translation>
     </message>
     <message>
-        <source>Next Marker</source>
-        <translation>Marcatore successivo</translation>
-    </message>
-    <message>
-        <source>Ctrl+Alt+Right</source>
-        <translation>Ctrl+Alt+Destra</translation>
-    </message>
-    <message>
-        <source>Previous Marker</source>
-        <translation>Marcatore precedente</translation>
-    </message>
-    <message>
-        <source>Ctrl+Alt+Left</source>
-        <translation>Ctrl+Alt+Sinistra</translation>
-    </message>
-    <message>
         <source>Next Zero Crossing</source>
         <translation>Prossimo passaggio per lo zero</translation>
     </message>
@@ -793,6 +773,14 @@
     </message>
     <message>
         <source>Seconds</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Time/Pitch Adjust</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Paste to Fit</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -2419,14 +2407,6 @@ Channel
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Move Cursor to Next Marker</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Move Cursor to Previous Marker</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>Repeat Last Effect</source>
         <translation type="unfinished"></translation>
     </message>
@@ -2890,6 +2870,26 @@ Channel
         <source>Display Time Format in Seconds</source>
         <translation type="unfinished"></translation>
     </message>
+    <message>
+        <source>Warning</source>
+        <translation type="unfinished">Attenzione</translation>
+    </message>
+    <message>
+        <source>The audio sample rate is not supported by Audio Unit %1.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>In order to use this plugin you should change the audio sample rate to a supported value.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>The sample rate selected on mixer is not supported by Audio Unit %1.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>In order to use this plugin you should change the mixer sample rate to a supported value in the audio preferences.</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>QOcenAudioNoiseReductionWidget</name>
@@ -3309,6 +3309,53 @@ Channel
     <message>
         <source>Close</source>
         <translation type="unfinished">Chiudi</translation>
+    </message>
+</context>
+<context>
+    <name>QOcenAudioTimeStretchWidget</name>
+    <message>
+        <source>Form</source>
+        <translation type="unfinished">Form</translation>
+    </message>
+    <message>
+        <source>Time Stretch</source>
+        <translation type="unfinished">Altera tempo</translation>
+    </message>
+    <message>
+        <source>100</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>percent</source>
+        <translation type="unfinished">percento</translation>
+    </message>
+    <message>
+        <source>Pitch Shift</source>
+        <translation type="unfinished">Intonazione</translation>
+    </message>
+    <message>
+        <source>0</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>semi-tones</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Optimize for speech processing</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Time and Pitch Adjust</source>
+        <translation type="unfinished">Regola tempo e intonazione</translation>
+    </message>
+    <message>
+        <source>Applying Time/Pitch Adjust</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Time/Pitch Adjust</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -4187,14 +4234,6 @@ Channel
         <translation>Frequenza di campionamento</translation>
     </message>
     <message>
-        <source>44.1 kHz</source>
-        <translation></translation>
-    </message>
-    <message>
-        <source>48 kHz</source>
-        <translation></translation>
-    </message>
-    <message>
         <source>Other</source>
         <translation>Altri</translation>
     </message>
@@ -4839,10 +4878,6 @@ sul tuo computer, o nella tua rete:</translation>
         <translation></translation>
     </message>
     <message>
-        <source>DTMF Sequence (Valid chars: 123...90#*ABCD,)</source>
-        <translation>Sequenza DTMF (Caratteri validi: 123...90#*ABCD,)</translation>
-    </message>
-    <message>
         <source>DTMF Codes</source>
         <translation>Codici DTMF</translation>
     </message>
@@ -5025,10 +5060,6 @@ sul tuo computer, o nella tua rete:</translation>
 <context>
     <name>QSoundFormatDialog</name>
     <message>
-        <source>Configure Sound Format</source>
-        <translation>Configura formato audio</translation>
-    </message>
-    <message>
         <source>File name</source>
         <translation>Nome file</translation>
     </message>
@@ -5039,14 +5070,6 @@ sul tuo computer, o nella tua rete:</translation>
     <message>
         <source>Raw Data Format</source>
         <translation>Formato dati Raw</translation>
-    </message>
-    <message>
-        <source>Item1</source>
-        <translation>Elemento1</translation>
-    </message>
-    <message>
-        <source>Item2</source>
-        <translation>Elemento2</translation>
     </message>
     <message>
         <source>-</source>

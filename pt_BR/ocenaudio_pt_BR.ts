@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!DOCTYPE TS>
-<TS version="2.0" language="pt_BR" sourcelanguage="en_US">
+<TS version="2.1" language="pt_BR" sourcelanguage="en_US">
 <context>
     <name>AdjustSampleRateDialog</name>
     <message>
@@ -153,10 +153,6 @@
     <message>
         <source>Level Meter</source>
         <translation></translation>
-    </message>
-    <message>
-        <source>Move Cursor</source>
-        <translation>Mover o Cursor</translation>
     </message>
     <message>
         <source>New...</source>
@@ -514,22 +510,6 @@
         <translation>Ir para o Marcador Anterior</translation>
     </message>
     <message>
-        <source>Next Marker</source>
-        <translation>Próximo Marcador</translation>
-    </message>
-    <message>
-        <source>Ctrl+Alt+Right</source>
-        <translation></translation>
-    </message>
-    <message>
-        <source>Previous Marker</source>
-        <translation>Marcador Anterior</translation>
-    </message>
-    <message>
-        <source>Ctrl+Alt+Left</source>
-        <translation></translation>
-    </message>
-    <message>
         <source>Next Zero Crossing</source>
         <translation>Próximo Cruzamento por Zero</translation>
     </message>
@@ -788,6 +768,14 @@
     <message>
         <source>Seconds</source>
         <translation>Segundos</translation>
+    </message>
+    <message>
+        <source>Time/Pitch Adjust</source>
+        <translation>Ajuste de Time/Pitch</translation>
+    </message>
+    <message>
+        <source>Paste to Fit</source>
+        <translation>Colar para Caber</translation>
     </message>
 </context>
 <context>
@@ -2417,14 +2405,6 @@ Saída
         <translation>Habilitar/Desabilitar Reprodução em Loop</translation>
     </message>
     <message>
-        <source>Move Cursor to Next Marker</source>
-        <translation>Mover Cursor para o Próximo Marcador</translation>
-    </message>
-    <message>
-        <source>Move Cursor to Previous Marker</source>
-        <translation>Mover Cursor para o Marcador Anterior</translation>
-    </message>
-    <message>
         <source>Repeat Last Effect</source>
         <translation>Repetir Último Efeito</translation>
     </message>
@@ -2888,6 +2868,26 @@ Saída
         <source>Display Time Format in Seconds</source>
         <translation>Formato da Escala Horizontal em Segundos</translation>
     </message>
+    <message>
+        <source>Warning</source>
+        <translation>Aviso</translation>
+    </message>
+    <message>
+        <source>The audio sample rate is not supported by Audio Unit %1.</source>
+        <translation>A taxa de amostragem do áudio não é suportada pelo Audio Unit %1.</translation>
+    </message>
+    <message>
+        <source>In order to use this plugin you should change the audio sample rate to a supported value.</source>
+        <translation>Para usar o plugin você deve mudar a taxa de amostragem para um valor suportado.</translation>
+    </message>
+    <message>
+        <source>The sample rate selected on mixer is not supported by Audio Unit %1.</source>
+        <translation>A taxa de amostragem escolhida no mixer não é suportada pelo Audio Unit %1.</translation>
+    </message>
+    <message>
+        <source>In order to use this plugin you should change the mixer sample rate to a supported value in the audio preferences.</source>
+        <translation>Para usar o plugin você deve mudar a taxa de amostragem do mixer nas preferências de áudio para um valor suportado.</translation>
+    </message>
 </context>
 <context>
     <name>QOcenAudioNoiseReductionWidget</name>
@@ -3307,6 +3307,53 @@ Saída
     <message>
         <source>Close</source>
         <translation>Fechar</translation>
+    </message>
+</context>
+<context>
+    <name>QOcenAudioTimeStretchWidget</name>
+    <message>
+        <source>Form</source>
+        <translation>Formulário</translation>
+    </message>
+    <message>
+        <source>Time Stretch</source>
+        <translation></translation>
+    </message>
+    <message>
+        <source>100</source>
+        <translation></translation>
+    </message>
+    <message>
+        <source>percent</source>
+        <translation>porcento</translation>
+    </message>
+    <message>
+        <source>Pitch Shift</source>
+        <translation></translation>
+    </message>
+    <message>
+        <source>0</source>
+        <translation></translation>
+    </message>
+    <message>
+        <source>semi-tones</source>
+        <translation>semi-tons</translation>
+    </message>
+    <message>
+        <source>Optimize for speech processing</source>
+        <translation>Otimização para processamento da fala</translation>
+    </message>
+    <message>
+        <source>Time and Pitch Adjust</source>
+        <translation>Ajuste de Time e Pitch</translation>
+    </message>
+    <message>
+        <source>Applying Time/Pitch Adjust</source>
+        <translation>Aplicando Ajuste de Time/Pitch</translation>
+    </message>
+    <message>
+        <source>Time/Pitch Adjust</source>
+        <translation>Ajuste de Time/Pitch</translation>
     </message>
 </context>
 <context>
@@ -4187,14 +4234,6 @@ Saída
         <translation>Taxa de Amostragem</translation>
     </message>
     <message>
-        <source>44.1 kHz</source>
-        <translation></translation>
-    </message>
-    <message>
-        <source>48 kHz</source>
-        <translation></translation>
-    </message>
-    <message>
         <source>Other</source>
         <translation>Outro</translation>
     </message>
@@ -4844,10 +4883,6 @@ ou sua rede de trabalho que você deseje abrir:</translation>
         <translation>Sequência DTMF (Caracteres válidos: 1234567890#*ABCD,)</translation>
     </message>
     <message>
-        <source>DTMF Sequence (Valid chars: 123...90#*ABCD,)</source>
-        <translation>Sequência DTMF (Válidos: 123...90#*ABCD,)</translation>
-    </message>
-    <message>
         <source>DTMF Codes</source>
         <translation>Códigos DTMF</translation>
     </message>
@@ -5095,18 +5130,6 @@ ou sua rede de trabalho que você deseje abrir:</translation>
     </message>
     <message>
         <source>/Users/ruijunior/teste/arquivos de audio/arquivo.pcm</source>
-        <translation></translation>
-    </message>
-    <message>
-        <source>Configure Sound Format</source>
-        <translation>Formato dos Dados</translation>
-    </message>
-    <message>
-        <source>Item1</source>
-        <translation></translation>
-    </message>
-    <message>
-        <source>Item2</source>
         <translation></translation>
     </message>
     <message>

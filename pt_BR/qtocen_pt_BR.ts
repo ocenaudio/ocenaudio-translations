@@ -522,6 +522,134 @@
         <source>Spectogram Preferences</source>
         <translation>Preferências do Espectograma</translation>
     </message>
+    <message>
+        <source>Paste To Fit</source>
+        <translation>Colar para Caber</translation>
+    </message>
+    <message>
+        <source>Audio Canvas</source>
+        <translation>Canvas de Áudio</translation>
+    </message>
+    <message>
+        <source>Quick zoom</source>
+        <translation>Zoom rápido</translation>
+    </message>
+    <message>
+        <source>Move to previous zero crossing</source>
+        <translation>Mover para o cruzamento com zero anterior</translation>
+    </message>
+    <message>
+        <source>Move to next zero crossing</source>
+        <translation>Mover para o próximo cruzamento com zero</translation>
+    </message>
+    <message>
+        <source>Select to previous zero crossing</source>
+        <translation>Selecionar até o cruzamento com zero anterior</translation>
+    </message>
+    <message>
+        <source>Select to next zero crossing</source>
+        <translation>Selecionar até o próximo cruzamento com zero</translation>
+    </message>
+    <message>
+        <source>Scroll audio backward</source>
+        <translation>Rolagem do áudio para trás</translation>
+    </message>
+    <message>
+        <source>Scroll audio forward</source>
+        <translation>Rolagem do áudio para frente</translation>
+    </message>
+    <message>
+        <source>Move cursor to previous page</source>
+        <translation>Mover o cursor para a página anterior</translation>
+    </message>
+    <message>
+        <source>Move cursor to next page</source>
+        <translation>Mover o cursor para a próxima página</translation>
+    </message>
+    <message>
+        <source>Move cursor to previous scale tick</source>
+        <translation>Mover o cursor para a marca de escala anterior</translation>
+    </message>
+    <message>
+        <source>Move cursor to next scale tick</source>
+        <translation>Mover o cursor para a próxima marca de escala</translation>
+    </message>
+    <message>
+        <source>Move cursor to left</source>
+        <translation>Mover o cursor para a esquerda</translation>
+    </message>
+    <message>
+        <source>Move cursor to right</source>
+        <translation>Mover o cursor para a direita</translation>
+    </message>
+    <message>
+        <source>Move cursor to begin</source>
+        <translation>Mover o cursor para o começo</translation>
+    </message>
+    <message>
+        <source>Move cursor to end</source>
+        <translation>Mover o cursor para o final</translation>
+    </message>
+    <message>
+        <source>Select region under cursor/region</source>
+        <translation>Selecionar região sob o cursor/região</translation>
+    </message>
+    <message>
+        <source>Select Audio/Region to left</source>
+        <translation>Selecionar Áudio/Região para a esquerda</translation>
+    </message>
+    <message>
+        <source>Select Audio/Region to right</source>
+        <translation>Selecionar Áudio/Região para a direita</translation>
+    </message>
+    <message>
+        <source>Select Audio/Region to begin</source>
+        <translation>Selecionar Áudio/Região para o começo</translation>
+    </message>
+    <message>
+        <source>Select Audio/Region to end</source>
+        <translation>Selecionar Áudio/Região para o final</translation>
+    </message>
+    <message>
+        <source>Select to previous scale tick</source>
+        <translation>Selecionar até a marca de escala anterior</translation>
+    </message>
+    <message>
+        <source>Select to next scale tick</source>
+        <translation>Selecionar até a próxima marca de escala</translation>
+    </message>
+    <message>
+        <source>Edit selected region</source>
+        <translation>Ediar região selecionada</translation>
+    </message>
+    <message>
+        <source>Move cursor to next marker</source>
+        <translation>Mover o cursor para o próximo marcador</translation>
+    </message>
+    <message>
+        <source>Move cursor to previous marker</source>
+        <translation>Mover o cursor para o marcador anterior</translation>
+    </message>
+    <message>
+        <source>Select to next marker</source>
+        <translation>Selecionar até o próximo marcador</translation>
+    </message>
+    <message>
+        <source>Select to previous marker</source>
+        <translation>Selecionar até o marcador anterior</translation>
+    </message>
+    <message>
+        <source>%1 sec</source>
+        <translation>%1 seg</translation>
+    </message>
+    <message>
+        <source>%1 ms</source>
+        <translation>%1 ms</translation>
+    </message>
+    <message>
+        <source>Show cursor/Select region</source>
+        <translation>Mostar cursor/Selecionar região</translation>
+    </message>
 </context>
 <context>
     <name>QOcenApplication</name>
@@ -1703,6 +1831,10 @@
     <message>
         <source>Number of Bins</source>
         <translation>Número de Bins</translation>
+    </message>
+    <message>
+        <source>Use Pre-Emphasis Filtering</source>
+        <translation>Usar Filtragem Pré-Ênfase</translation>
     </message>
 </context>
 <context>

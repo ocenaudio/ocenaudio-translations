@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!DOCTYPE TS>
-<TS version="2.1" language="de_DE">
+<TS version="2.0" language="de_DE">
 <context>
     <name>AdjustSampleRateDialog</name>
     <message>
@@ -157,10 +157,6 @@
     <message>
         <source>&amp;Controls</source>
         <translation>&amp;Transport</translation>
-    </message>
-    <message>
-        <source>Move Cursor</source>
-        <translation>Zeiger verschieben</translation>
     </message>
     <message>
         <source>New...</source>
@@ -434,22 +430,6 @@
     <message>
         <source>Goto Preview Marker</source>
         <translation>Gehe zum Vorschaumarker</translation>
-    </message>
-    <message>
-        <source>Next Marker</source>
-        <translation>Nächster Marker</translation>
-    </message>
-    <message>
-        <source>Ctrl+Alt+Right</source>
-        <translation>Strg+Alt+Rechts</translation>
-    </message>
-    <message>
-        <source>Previous Marker</source>
-        <translation>Vorheriger Marker</translation>
-    </message>
-    <message>
-        <source>Ctrl+Alt+Left</source>
-        <translation>Strg+Alt+Links</translation>
     </message>
     <message>
         <source>Next Zero Crossing</source>
@@ -782,10 +762,18 @@
     </message>
     <message>
         <source>Ctrl+D</source>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
     <message>
         <source>Seconds</source>
+        <translation>Sekunden</translation>
+    </message>
+    <message>
+        <source>Time/Pitch Adjust</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Paste to Fit</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -1478,7 +1466,7 @@
     </message>
     <message>
         <source>Channel %1</source>
-        <translation type="unfinished">Kanal %1</translation>
+        <translation>Kanal %1</translation>
     </message>
 </context>
 <context>
@@ -1993,7 +1981,7 @@ Klicken Sie hier zum Herunterladen.</translation>
     <name>QOcenAudioChangeFormatDialog</name>
     <message>
         <source>Convert Audio Format</source>
-        <translation type="unfinished">Konvertiere Audioformat</translation>
+        <translation>Konvertiere Audioformat</translation>
     </message>
     <message>
         <source>Change Sample Rate</source>
@@ -2013,43 +2001,43 @@ Klicken Sie hier zum Herunterladen.</translation>
     </message>
     <message>
         <source>6000 Hz</source>
-        <translation type="unfinished">48000 Hz {6000 ?}</translation>
+        <translation></translation>
     </message>
     <message>
         <source>8000 Hz</source>
-        <translation type="unfinished">48000 Hz {8000 ?}</translation>
+        <translation></translation>
     </message>
     <message>
         <source>11025 Hz</source>
-        <translation type="unfinished">11025 Hz</translation>
+        <translation></translation>
     </message>
     <message>
         <source>16000 Hz</source>
-        <translation type="unfinished">48000 Hz {16000 ?}</translation>
+        <translation></translation>
     </message>
     <message>
         <source>22050 Hz</source>
-        <translation type="unfinished">48000 Hz {22050 ?}</translation>
+        <translation></translation>
     </message>
     <message>
         <source>24000 Hz</source>
-        <translation type="unfinished">48000 Hz {24000 ?}</translation>
+        <translation></translation>
     </message>
     <message>
         <source>32000 Hz</source>
-        <translation type="unfinished">48000 Hz {32000 ?}</translation>
+        <translation></translation>
     </message>
     <message>
         <source>44100 Hz</source>
-        <translation type="unfinished">44100 Hz</translation>
+        <translation></translation>
     </message>
     <message>
         <source>88200 Hz</source>
-        <translation type="unfinished">48000 Hz {88200 ?}</translation>
+        <translation></translation>
     </message>
     <message>
         <source>96000 Hz</source>
-        <translation type="unfinished">48000 Hz {96000 ?}</translation>
+        <translation></translation>
     </message>
     <message>
         <source>Change Number of Channels</source>
@@ -2069,27 +2057,27 @@ Klicken Sie hier zum Herunterladen.</translation>
     </message>
     <message>
         <source>3 channels</source>
-        <translation type="unfinished">3 Kanäle</translation>
+        <translation>3 Kanäle</translation>
     </message>
     <message>
         <source>4 channels</source>
-        <translation type="unfinished">4 Kanäle</translation>
+        <translation>4 Kanäle</translation>
     </message>
     <message>
         <source>5 channels</source>
-        <translation type="unfinished">5 Kanäle</translation>
+        <translation>5 Kanäle</translation>
     </message>
     <message>
         <source>6 channels</source>
-        <translation type="unfinished">6 Kanäle</translation>
+        <translation>6 Kanäle</translation>
     </message>
     <message>
         <source>7 channels</source>
-        <translation type="unfinished">7 Kanäle</translation>
+        <translation>7 Kanäle</translation>
     </message>
     <message>
         <source>8 channels</source>
-        <translation type="unfinished">8 Kanäle</translation>
+        <translation>8 Kanäle</translation>
     </message>
     <message>
         <source>Just Swap Left/Right Channels</source>
@@ -2113,7 +2101,7 @@ Klicken Sie hier zum Herunterladen.</translation>
     </message>
     <message>
         <source>%1 channels</source>
-        <translation type="unfinished">%1 Kanäle</translation>
+        <translation>%1 Kanäle</translation>
     </message>
     <message>
         <source>Output
@@ -2410,14 +2398,6 @@ Channel
     <message>
         <source>Enable/Disable Loop Playback</source>
         <translation>Schleifen-Wiedergabe aktivieren/deaktivieren</translation>
-    </message>
-    <message>
-        <source>Move Cursor to Next Marker</source>
-        <translation>Zeiger zum nächsten Marker</translation>
-    </message>
-    <message>
-        <source>Move Cursor to Previous Marker</source>
-        <translation>Zeiger zum vorherigen Marker</translation>
     </message>
     <message>
         <source>Repeat Last Effect</source>
@@ -2883,6 +2863,26 @@ Channel
         <source>Display Time Format in Seconds</source>
         <translation type="unfinished"></translation>
     </message>
+    <message>
+        <source>Warning</source>
+        <translation type="unfinished">Warnung</translation>
+    </message>
+    <message>
+        <source>The audio sample rate is not supported by Audio Unit %1.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>In order to use this plugin you should change the audio sample rate to a supported value.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>The sample rate selected on mixer is not supported by Audio Unit %1.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>In order to use this plugin you should change the mixer sample rate to a supported value in the audio preferences.</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>QOcenAudioNoiseReductionWidget</name>
@@ -2916,15 +2916,15 @@ Channel
     </message>
     <message>
         <source>0 dB</source>
-        <translation type="unfinished">0 dB</translation>
+        <translation></translation>
     </message>
     <message>
         <source>60 dB</source>
-        <translation type="unfinished">0 dB {60 ?}</translation>
+        <translation></translation>
     </message>
     <message>
         <source>0.0 dB</source>
-        <translation type="unfinished">0 dB {0.0 ?}</translation>
+        <translation></translation>
     </message>
     <message>
         <source>Output</source>
@@ -2956,11 +2956,11 @@ Channel
     </message>
     <message>
         <source>Fast</source>
-        <translation type="unfinished">schnell</translation>
+        <translation>Schnell</translation>
     </message>
     <message>
         <source>Slow</source>
-        <translation type="unfinished">langsam</translation>
+        <translation>Langsam</translation>
     </message>
     <message>
         <source>Less</source>
@@ -2972,11 +2972,11 @@ Channel
     </message>
     <message>
         <source>0.1 ms</source>
-        <translation type="unfinished">0.1 ms</translation>
+        <translation></translation>
     </message>
     <message>
         <source>5 ms</source>
-        <translation type="unfinished">5 ms</translation>
+        <translation></translation>
     </message>
     <message>
         <source>6 ㏑(10)</source>
@@ -2984,11 +2984,11 @@ Channel
     </message>
     <message>
         <source>Release</source>
-        <translation type="unfinished">Abklingzeit</translation>
+        <translation>Abklingzeit</translation>
     </message>
     <message>
         <source>Attack</source>
-        <translation type="unfinished">Ansprechzeit</translation>
+        <translation>Ansprechzeit</translation>
     </message>
     <message>
         <source>Window Settings</source>
@@ -3066,11 +3066,11 @@ Channel
     <name>QOcenAudioOpenFilesPlugin</name>
     <message>
         <source>Opened Files</source>
-        <translation type="unfinished">Geöffnete Dateien</translation>
+        <translation>Geöffnete Dateien</translation>
     </message>
     <message>
         <source>Current open files in ocenaudio</source>
-        <translation type="unfinished">Aktuell geöffnete Dateien in Ocenaudio</translation>
+        <translation>Aktuell geöffnete Dateien in Ocenaudio</translation>
     </message>
 </context>
 <context>
@@ -3297,11 +3297,58 @@ Channel
     </message>
     <message>
         <source>Revert</source>
-        <translation type="unfinished">Neu laden</translation>
+        <translation>Neu laden</translation>
     </message>
     <message>
         <source>Close</source>
-        <translation type="unfinished">Schließen</translation>
+        <translation>Schließen</translation>
+    </message>
+</context>
+<context>
+    <name>QOcenAudioTimeStretchWidget</name>
+    <message>
+        <source>Form</source>
+        <translation type="unfinished">Form</translation>
+    </message>
+    <message>
+        <source>Time Stretch</source>
+        <translation type="unfinished">Time-Stretch</translation>
+    </message>
+    <message>
+        <source>100</source>
+        <translation></translation>
+    </message>
+    <message>
+        <source>percent</source>
+        <translation>Prozent</translation>
+    </message>
+    <message>
+        <source>Pitch Shift</source>
+        <translation type="unfinished">Tonhöhenänderung</translation>
+    </message>
+    <message>
+        <source>0</source>
+        <translation></translation>
+    </message>
+    <message>
+        <source>semi-tones</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Optimize for speech processing</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Time and Pitch Adjust</source>
+        <translation type="unfinished">Zeit und Tonhöhe</translation>
+    </message>
+    <message>
+        <source>Applying Time/Pitch Adjust</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Time/Pitch Adjust</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -3682,7 +3729,7 @@ Channel
     </message>
     <message>
         <source>%1</source>
-        <translation type="unfinished">%1</translation>
+        <translation></translation>
     </message>
     <message>
         <source>Are you sure you want to use the “.%1” extension?</source>
@@ -4180,14 +4227,6 @@ Channel
         <translation>Samplerate</translation>
     </message>
     <message>
-        <source>44.1 kHz</source>
-        <translation>44,1 kHz</translation>
-    </message>
-    <message>
-        <source>48 kHz</source>
-        <translation>48 kHz</translation>
-    </message>
-    <message>
         <source>Other</source>
         <translation>Andere</translation>
     </message>
@@ -4267,7 +4306,7 @@ Channel
     <name>QOcenPluginsPrefs</name>
     <message>
         <source>Form</source>
-        <translation type="unfinished">Form</translation>
+        <translation>Form</translation>
     </message>
     <message>
         <source>Audio Units Preferences</source>
@@ -4303,7 +4342,7 @@ Channel
     </message>
     <message>
         <source>Scanning Plugins</source>
-        <translation type="unfinished">Suche Plugins</translation>
+        <translation>Suche Plugins</translation>
     </message>
     <message>
         <source>Refresh VST Effects</source>
@@ -4315,23 +4354,23 @@ Channel
     </message>
     <message>
         <source>Select Directory</source>
-        <translation type="unfinished">Verzeichnis wählen</translation>
+        <translation>Verzeichnis wählen</translation>
     </message>
     <message>
         <source>Show in Finder</source>
-        <translation type="unfinished">Im Finder anzeigen</translation>
+        <translation>Im Finder anzeigen</translation>
     </message>
     <message>
         <source>Show Plugins List...</source>
-        <translation type="unfinished">Plugins Liste Anzeigen...</translation>
+        <translation>Plugins Liste Anzeigen...</translation>
     </message>
     <message>
         <source>Remove Path from Search</source>
-        <translation type="unfinished">Entfernen Pfad von Suche</translation>
+        <translation>Entfernen Pfad von Suche</translation>
     </message>
     <message>
         <source>Path not Found</source>
-        <translation type="unfinished">Pfad nicht gefunden</translation>
+        <translation>Pfad nicht gefunden</translation>
     </message>
 </context>
 <context>
@@ -4405,7 +4444,7 @@ Channel
     </message>
     <message>
         <source>%1 channels</source>
-        <translation type="unfinished">%1 Kanäle</translation>
+        <translation>%1 Kanäle</translation>
     </message>
     <message>
         <source>Input #%1 </source>
@@ -4435,7 +4474,7 @@ Channel
     </message>
     <message>
         <source>Record</source>
-        <translation type="unfinished">Aufnahme</translation>
+        <translation>Aufnahme</translation>
     </message>
 </context>
 <context>
@@ -4831,10 +4870,6 @@ auf Ihrem Computer oder in Ihrem Netzwerk ein, um sie zu öffnen:</translation>
         <translation>Mehrfrequenztöne (DTMF)</translation>
     </message>
     <message>
-        <source>DTMF Sequence (Valid chars: 123...90#*ABCD,)</source>
-        <translation>DTMF Sequenz (Gültige Zeichen: 123...90#*ABCD,)</translation>
-    </message>
-    <message>
         <source>DTMF Codes</source>
         <translation>DTMF Zeichen</translation>
     </message>
@@ -5017,10 +5052,6 @@ auf Ihrem Computer oder in Ihrem Netzwerk ein, um sie zu öffnen:</translation>
 <context>
     <name>QSoundFormatDialog</name>
     <message>
-        <source>Configure Sound Format</source>
-        <translation>Konfiguriere Audioformat</translation>
-    </message>
-    <message>
         <source>File name</source>
         <translation>Dateiname</translation>
     </message>
@@ -5031,14 +5062,6 @@ auf Ihrem Computer oder in Ihrem Netzwerk ein, um sie zu öffnen:</translation>
     <message>
         <source>Raw Data Format</source>
         <translation>Raw Datenformat</translation>
-    </message>
-    <message>
-        <source>Item1</source>
-        <translation>Element 1</translation>
-    </message>
-    <message>
-        <source>Item2</source>
-        <translation>Element 2</translation>
     </message>
     <message>
         <source>-</source>
@@ -5384,11 +5407,11 @@ auf Ihrem Computer oder in Ihrem Netzwerk ein, um sie zu öffnen:</translation>
     </message>
     <message>
         <source>Save Audio Screenshot</source>
-        <translation type="unfinished">Bildschirmfoto speichern</translation>
+        <translation>Bildschirmfoto speichern</translation>
     </message>
     <message>
         <source>Images (*.png *.xpm *.jpg)</source>
-        <translation type="unfinished">Bilder (*.png *.xpm *.jpg)</translation>
+        <translation>Bilder (*.png *.xpm *.jpg)</translation>
     </message>
 </context>
 </TS>

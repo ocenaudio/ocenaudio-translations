@@ -404,22 +404,6 @@
         <translation>プレビューマーカーに移動</translation>
     </message>
     <message>
-        <source>Next Marker</source>
-        <translation>次のマーカー</translation>
-    </message>
-    <message>
-        <source>Ctrl+Alt+Right</source>
-        <translation>Ctrl+Alt+右（方向キー）</translation>
-    </message>
-    <message>
-        <source>Previous Marker</source>
-        <translation>前のマーカー</translation>
-    </message>
-    <message>
-        <source>Ctrl+Alt+Left</source>
-        <translation>Ctrl+Alt+左（方向キー）</translation>
-    </message>
-    <message>
         <source>Next Zero Crossing</source>
         <translation>次の零交差</translation>
     </message>
@@ -486,10 +470,6 @@
     <message>
         <source>Time and Pitch</source>
         <translation>時間と音の高さ</translation>
-    </message>
-    <message>
-        <source>Move Cursor</source>
-        <translation>カーソルを移動</translation>
     </message>
     <message>
         <source>Record</source>
@@ -786,6 +766,14 @@
     </message>
     <message>
         <source>Seconds</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Time/Pitch Adjust</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Paste to Fit</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -2423,14 +2411,6 @@ Channel
         <translation type="unfinished">ループ再生を有効・無効にする</translation>
     </message>
     <message>
-        <source>Move Cursor to Next Marker</source>
-        <translation type="unfinished">カーソルを次のマーカーに移動</translation>
-    </message>
-    <message>
-        <source>Move Cursor to Previous Marker</source>
-        <translation type="unfinished">前のマーカーにカーソルを移動</translation>
-    </message>
-    <message>
         <source>Enable/Disable Preroll on Recording</source>
         <translation type="unfinished">録音のプリロールを有効/無効にする</translation>
     </message>
@@ -2886,6 +2866,26 @@ Channel
         <source>Display Time Format in Seconds</source>
         <translation type="unfinished"></translation>
     </message>
+    <message>
+        <source>Warning</source>
+        <translation type="unfinished">警告</translation>
+    </message>
+    <message>
+        <source>The audio sample rate is not supported by Audio Unit %1.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>In order to use this plugin you should change the audio sample rate to a supported value.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>The sample rate selected on mixer is not supported by Audio Unit %1.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>In order to use this plugin you should change the mixer sample rate to a supported value in the audio preferences.</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>QOcenAudioNoiseReductionWidget</name>
@@ -3305,6 +3305,53 @@ Channel
     <message>
         <source>Images (*.png *.jpg *.bmp)</source>
         <translation type="unfinished">(*.png *.jpg *.bmp)の画像</translation>
+    </message>
+</context>
+<context>
+    <name>QOcenAudioTimeStretchWidget</name>
+    <message>
+        <source>Form</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Time Stretch</source>
+        <translation type="unfinished">タイムストレッチ</translation>
+    </message>
+    <message>
+        <source>100</source>
+        <translation type="unfinished">100</translation>
+    </message>
+    <message>
+        <source>percent</source>
+        <translation type="unfinished">パーセント</translation>
+    </message>
+    <message>
+        <source>Pitch Shift</source>
+        <translation type="unfinished">ピッチシフト</translation>
+    </message>
+    <message>
+        <source>0</source>
+        <translation type="unfinished">0</translation>
+    </message>
+    <message>
+        <source>semi-tones</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Optimize for speech processing</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Time and Pitch Adjust</source>
+        <translation type="unfinished">時間と音の高さの調整</translation>
+    </message>
+    <message>
+        <source>Applying Time/Pitch Adjust</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Time/Pitch Adjust</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -4184,14 +4231,6 @@ Channel
         <translation>サンプルレート</translation>
     </message>
     <message>
-        <source>44.1 kHz</source>
-        <translation></translation>
-    </message>
-    <message>
-        <source>48 kHz</source>
-        <translation></translation>
-    </message>
-    <message>
         <source>Other</source>
         <translation>他の</translation>
     </message>
@@ -4834,10 +4873,6 @@ or your network that you want to open:</source>
         <translation></translation>
     </message>
     <message>
-        <source>DTMF Sequence (Valid chars: 123...90#*ABCD,)</source>
-        <translation>DTMF シークエンス(妥当な文字: 12...90#*ABCD,)</translation>
-    </message>
-    <message>
         <source>DTMF Codes</source>
         <translation>DTMFコード</translation>
     </message>
@@ -5020,10 +5055,6 @@ or your network that you want to open:</source>
 <context>
     <name>QSoundFormatDialog</name>
     <message>
-        <source>Configure Sound Format</source>
-        <translation>サウンドフォーマットを設定</translation>
-    </message>
-    <message>
         <source>File name</source>
         <translation>ファイルの名前</translation>
     </message>
@@ -5034,14 +5065,6 @@ or your network that you want to open:</source>
     <message>
         <source>Raw Data Format</source>
         <translation>生データフォーマット</translation>
-    </message>
-    <message>
-        <source>Item1</source>
-        <translation></translation>
-    </message>
-    <message>
-        <source>Item2</source>
-        <translation></translation>
     </message>
     <message>
         <source>-</source>
