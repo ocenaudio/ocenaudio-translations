@@ -650,6 +650,10 @@
         <source>Show cursor/Select region</source>
         <translation>Mostar cursor/Selecionar região</translation>
     </message>
+    <message>
+        <source>Smoothing</source>
+        <translation>Suavizando</translation>
+    </message>
 </context>
 <context>
     <name>QOcenApplication</name>
@@ -660,6 +664,14 @@
     <message>
         <source>ocenaudio Clipboard with %1 seconds in %2 %3</source>
         <translation>Área de transferência do ocenaudio com %1 segundos em %2 %3</translation>
+    </message>
+    <message>
+        <source>An error occured while writing temporary data to disk. This issue might happen if your main disk is running out of free space.</source>
+        <translation>Um erro ocorreu durante a escrita de dados temporários no disco. Isto pode ocorrer devido à falta de espaço livre no disco.</translation>
+    </message>
+    <message>
+        <source>An error occured while allocating memory! This issue might happen if you are running out of memory</source>
+        <translation>Um erro ocorreu durante a alocação de memória. Isto pode ocorrer devido à falta de memória</translation>
     </message>
 </context>
 <context>
@@ -1112,14 +1124,6 @@
         <translation>Erro Fatal</translation>
     </message>
     <message>
-        <source>An error occured while writing temporary data to disk!</source>
-        <translation>Ocorreu um erro durante a escrita temporária no disco!</translation>
-    </message>
-    <message>
-        <source>This is an unrecoverable error and ocenaudio must quit. This issue might happen if your main disk is running out of free space.</source>
-        <translation>Este é um erro irrecuperável e o ocenaudio deve encerrar. Isto pode ocorrer se o seu disco estiver cheio.</translation>
-    </message>
-    <message>
         <source>Which sample rate you want to use?</source>
         <translation>Qual taxa de amostragem você deseja utilizar?</translation>
     </message>
@@ -1242,6 +1246,10 @@
     <message>
         <source>readonly</source>
         <translation></translation>
+    </message>
+    <message>
+        <source>This is an unrecoverable error and ocenaudio must quit!</source>
+        <translation>Este é um erro irrecuperável e o ocenaudio deve encerrar!</translation>
     </message>
 </context>
 <context>
@@ -1688,6 +1696,10 @@
     <message>
         <source>No common sampling rate</source>
         <translation>Sem Taxa de Amostragem Comum</translation>
+    </message>
+    <message>
+        <source>Select recorded audio</source>
+        <translation>Selecionar áudio gravado</translation>
     </message>
 </context>
 <context>

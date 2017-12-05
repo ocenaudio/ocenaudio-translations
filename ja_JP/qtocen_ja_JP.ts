@@ -650,6 +650,10 @@
         <source>Show cursor/Select region</source>
         <translation type="unfinished"></translation>
     </message>
+    <message>
+        <source>Smoothing</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>QOcenApplication</name>
@@ -660,6 +664,14 @@
     <message>
         <source>ocenaudio Clipboard with %1 seconds in %2 %3</source>
         <translation>ocenaudioのクリップボードにて %2 %3 で %1 秒</translation>
+    </message>
+    <message>
+        <source>An error occured while writing temporary data to disk. This issue might happen if your main disk is running out of free space.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>An error occured while allocating memory! This issue might happen if you are running out of memory</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -1124,16 +1136,8 @@
         <translation>致命エラー</translation>
     </message>
     <message>
-        <source>This is an unrecoverable error and ocenaudio must quit. This issue might happen if your main disk is running out of free space.</source>
-        <translation>回復出来ないエラーの為、ocenaudioが終了しなければなりません。ディスクの領域が不足が原因可能性があります。</translation>
-    </message>
-    <message>
         <source>Your changes will be lost if you don’t save them.</source>
         <translation>保存しないと変更が失われます。</translation>
-    </message>
-    <message>
-        <source>An error occured while writing temporary data to disk!</source>
-        <translation>仮データをディスクに書き込もうとして、エラーが発生されました。</translation>
     </message>
     <message>
         <source>Information</source>
@@ -1242,6 +1246,10 @@
     <message>
         <source>readonly</source>
         <translation>読み出し専用</translation>
+    </message>
+    <message>
+        <source>This is an unrecoverable error and ocenaudio must quit!</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -1688,6 +1696,10 @@
     <message>
         <source>No common sampling rate</source>
         <translation>共通サンプルレートがありません</translation>
+    </message>
+    <message>
+        <source>Select recorded audio</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>

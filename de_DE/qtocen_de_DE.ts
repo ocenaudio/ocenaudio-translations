@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!DOCTYPE TS>
-<TS version="2.0" language="de_DE">
+<TS version="2.1" language="de_DE">
 <context>
     <name>QAudioStatistics</name>
     <message>
@@ -650,6 +650,10 @@
         <source>Show cursor/Select region</source>
         <translation type="unfinished"></translation>
     </message>
+    <message>
+        <source>Smoothing</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>QOcenApplication</name>
@@ -660,6 +664,14 @@
     <message>
         <source>ocenaudio Clipboard with %1 seconds in %2 %3</source>
         <translation>Ocenaudio Zwischenablage mit %1 Sekunden in %2 %3</translation>
+    </message>
+    <message>
+        <source>An error occured while writing temporary data to disk. This issue might happen if your main disk is running out of free space.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>An error occured while allocating memory! This issue might happen if you are running out of memory</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -1128,14 +1140,6 @@
         <translation>Schwerwiegender Fehler</translation>
     </message>
     <message>
-        <source>An error occured while writing temporary data to disk!</source>
-        <translation>Fehler beim Schreiben temporärer Dateien!</translation>
-    </message>
-    <message>
-        <source>This is an unrecoverable error and ocenaudio must quit. This issue might happen if your main disk is running out of free space.</source>
-        <translation>Dies ist ein nicht behebbarer Fehler und Ocenaudio muss beendet werden. Dieser Fehler kann auftreten, wenn Ihre Festplatte voll ist.</translation>
-    </message>
-    <message>
         <source>Information</source>
         <translation>Information</translation>
     </message>
@@ -1241,6 +1245,10 @@
     </message>
     <message>
         <source>readonly</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>This is an unrecoverable error and ocenaudio must quit!</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -1687,6 +1695,10 @@
     </message>
     <message>
         <source>No common sampling rate</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Select recorded audio</source>
         <translation type="unfinished"></translation>
     </message>
 </context>

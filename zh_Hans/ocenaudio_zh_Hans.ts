@@ -776,6 +776,14 @@
         <source>Paste to Fit</source>
         <translation type="unfinished"></translation>
     </message>
+    <message>
+        <source>Select Recorded Audio</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Move Cursor to Record Stop Position</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>NavigatorDialog</name>
@@ -2884,6 +2892,18 @@ Channel
         <source>Noise Reduction</source>
         <translation type="unfinished"></translation>
     </message>
+    <message>
+        <source>Show/Hide Channels Id&apos;s</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Enable/Disable Select Captured Audio</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Enable/Disable Move Cursor to Record Stop Position</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>QOcenAudioNoiseReductionWidget</name>
@@ -4294,6 +4314,22 @@ Channel
     <message>
         <source>48000 Hz</source>
         <translation></translation>
+    </message>
+    <message>
+        <source>Resolution</source>
+        <translation type="unfinished">分辨率</translation>
+    </message>
+    <message>
+        <source>16 bits</source>
+        <translation type="unfinished">16位</translation>
+    </message>
+    <message>
+        <source>24 bits</source>
+        <translation type="unfinished">16位 {24 ?}</translation>
+    </message>
+    <message>
+        <source>32 bits</source>
+        <translation type="unfinished">32位</translation>
     </message>
 </context>
 <context>

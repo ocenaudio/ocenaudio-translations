@@ -776,6 +776,14 @@
         <source>Paste to Fit</source>
         <translation type="unfinished"></translation>
     </message>
+    <message>
+        <source>Select Recorded Audio</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Move Cursor to Record Stop Position</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>NavigatorDialog</name>
@@ -2886,6 +2894,18 @@ Channel
         <source>In order to use this plugin you should change the mixer sample rate to a supported value in the audio preferences.</source>
         <translation type="unfinished"></translation>
     </message>
+    <message>
+        <source>Show/Hide Channels Id&apos;s</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Enable/Disable Select Captured Audio</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Enable/Disable Move Cursor to Record Stop Position</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>QOcenAudioNoiseReductionWidget</name>
@@ -4297,6 +4317,22 @@ Channel
     <message>
         <source>48000 Hz</source>
         <translation>48000 Hz</translation>
+    </message>
+    <message>
+        <source>Resolution</source>
+        <translation type="unfinished">解像度</translation>
+    </message>
+    <message>
+        <source>16 bits</source>
+        <translation type="unfinished">16 ビット</translation>
+    </message>
+    <message>
+        <source>24 bits</source>
+        <translation type="unfinished">64 ビット {24 ?}</translation>
+    </message>
+    <message>
+        <source>32 bits</source>
+        <translation type="unfinished">32 ビット</translation>
     </message>
 </context>
 <context>

@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!DOCTYPE TS>
-<TS version="2.1" language="pt_BR" sourcelanguage="en_US">
+<TS version="2.0" language="pt_BR" sourcelanguage="en_US">
 <context>
     <name>AdjustSampleRateDialog</name>
     <message>
@@ -776,6 +776,14 @@
     <message>
         <source>Paste to Fit</source>
         <translation>Colar para Caber</translation>
+    </message>
+    <message>
+        <source>Select Recorded Audio</source>
+        <translation>Selecionar Áudio Gravado</translation>
+    </message>
+    <message>
+        <source>Move Cursor to Record Stop Position</source>
+        <translation>Mover o Cursor para a Posição de Parada da Gravação</translation>
     </message>
 </context>
 <context>
@@ -2888,6 +2896,18 @@ Saída
         <source>In order to use this plugin you should change the mixer sample rate to a supported value in the audio preferences.</source>
         <translation>Para usar o plugin você deve mudar a taxa de amostragem do mixer nas preferências de áudio para um valor suportado.</translation>
     </message>
+    <message>
+        <source>Show/Hide Channels Id&apos;s</source>
+        <translation>Mostrar/Ocultar Identificação dos Canais</translation>
+    </message>
+    <message>
+        <source>Enable/Disable Select Captured Audio</source>
+        <translation>Habilitar/Desabilitar Selecionar Áudio Capturado</translation>
+    </message>
+    <message>
+        <source>Enable/Disable Move Cursor to Record Stop Position</source>
+        <translation>Habilitar/Desabilitar Mover Cursor para a Posição de Parada da Gravação</translation>
+    </message>
 </context>
 <context>
     <name>QOcenAudioNoiseReductionWidget</name>
@@ -4299,6 +4319,22 @@ Saída
     </message>
     <message>
         <source>48000 Hz</source>
+        <translation></translation>
+    </message>
+    <message>
+        <source>Resolution</source>
+        <translation>Resolução</translation>
+    </message>
+    <message>
+        <source>16 bits</source>
+        <translation></translation>
+    </message>
+    <message>
+        <source>24 bits</source>
+        <translation></translation>
+    </message>
+    <message>
+        <source>32 bits</source>
         <translation></translation>
     </message>
 </context>

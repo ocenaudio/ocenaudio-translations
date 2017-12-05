@@ -650,6 +650,10 @@
         <source>Show cursor/Select region</source>
         <translation type="unfinished"></translation>
     </message>
+    <message>
+        <source>Smoothing</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>QOcenApplication</name>
@@ -659,6 +663,14 @@
     </message>
     <message>
         <source>ocenaudio Clipboard with %1 seconds in %2 %3</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>An error occured while writing temporary data to disk. This issue might happen if your main disk is running out of free space.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>An error occured while allocating memory! This issue might happen if you are running out of memory</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -1128,14 +1140,6 @@
         <translation>Errore fatale</translation>
     </message>
     <message>
-        <source>An error occured while writing temporary data to disk!</source>
-        <translation>Si è verificato un errore durante la scrittura di dati temporanei sul disco!</translation>
-    </message>
-    <message>
-        <source>This is an unrecoverable error and ocenaudio must quit. This issue might happen if your main disk is running out of free space.</source>
-        <translation>Questo è un errore non recuperabile e ocenaudio deve terminare. Questo problema potrebbe succedere se il disco principale sta esaurendo lo spazio disponibile.</translation>
-    </message>
-    <message>
         <source>Information</source>
         <translation type="unfinished"></translation>
     </message>
@@ -1241,6 +1245,10 @@
     </message>
     <message>
         <source>readonly</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>This is an unrecoverable error and ocenaudio must quit!</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -1687,6 +1695,10 @@
     </message>
     <message>
         <source>No common sampling rate</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Select recorded audio</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
