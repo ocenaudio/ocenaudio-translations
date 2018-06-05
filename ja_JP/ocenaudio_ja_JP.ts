@@ -757,10 +757,6 @@
         <translation>再生ミクサー設定...</translation>
     </message>
     <message>
-        <source>Destructive Recording</source>
-        <translation>破壊的な録音</translation>
-    </message>
-    <message>
         <source>Ctrl+D</source>
         <translation>Ctrl+D</translation>
     </message>
@@ -782,6 +778,10 @@
     </message>
     <message>
         <source>Move Cursor to Record Stop Position</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Overwrite When Recording</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -3770,6 +3770,14 @@ Channel
     <message>
         <source>Use “.%1” instead</source>
         <translation>代わりに “.%1” をしよう</translation>
+    </message>
+    <message>
+        <source>Current file path</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Last export path</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>

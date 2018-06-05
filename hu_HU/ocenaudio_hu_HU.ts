@@ -753,10 +753,6 @@
         <translation>Lejátszás-keverő konfigurálása...</translation>
     </message>
     <message>
-        <source>Destructive Recording</source>
-        <translation>Ártalmas felvétel</translation>
-    </message>
-    <message>
         <source>Ctrl+D</source>
         <translation></translation>
     </message>
@@ -782,6 +778,10 @@
     </message>
     <message>
         <source>Move Cursor to Record Stop Position</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Overwrite When Recording</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -3766,6 +3766,14 @@ Channel
     <message>
         <source>Use “.%1” instead</source>
         <translation>Használja a(z) &quot;.%1&apos; helyett</translation>
+    </message>
+    <message>
+        <source>Current file path</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Last export path</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>

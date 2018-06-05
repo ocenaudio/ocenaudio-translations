@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!DOCTYPE TS>
-<TS version="2.0" language="es_VE" sourcelanguage="en">
+<TS version="2.1" language="es_VE" sourcelanguage="en">
 <context>
     <name>AdjustSampleRateDialog</name>
     <message>
@@ -757,10 +757,6 @@
         <translation>Configuración del mezclador de reprodución...</translation>
     </message>
     <message>
-        <source>Destructive Recording</source>
-        <translation>Grabación destructiva</translation>
-    </message>
-    <message>
         <source>Ctrl+D</source>
         <translation>Ctrl+D</translation>
     </message>
@@ -783,6 +779,10 @@
     <message>
         <source>Move Cursor to Record Stop Position</source>
         <translation>Mueva cursor a posición de parada de grabación</translation>
+    </message>
+    <message>
+        <source>Overwrite When Recording</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -3774,6 +3774,14 @@ Canal
     <message>
         <source>Use “.%1” instead</source>
         <translation>Usar “.%1” en su lugar</translation>
+    </message>
+    <message>
+        <source>Current file path</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Last export path</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>

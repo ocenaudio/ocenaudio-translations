@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!DOCTYPE TS>
-<TS version="2.0" language="es_VE" sourcelanguage="en">
+<TS version="2.1" language="es_VE" sourcelanguage="en">
 <context>
     <name>QAudioStatistics</name>
     <message>
@@ -619,10 +619,6 @@
         <translation>Seleccionar a la siguiente marca de escala</translation>
     </message>
     <message>
-        <source>Edit selected region</source>
-        <translation>Editar región seleccionada</translation>
-    </message>
-    <message>
         <source>Move cursor to next marker</source>
         <translation>Mover cursor al siguiente marcador</translation>
     </message>
@@ -653,6 +649,14 @@
     <message>
         <source>Smoothing</source>
         <translation>Suavizado</translation>
+    </message>
+    <message>
+        <source>Create/Edit region</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Move Region</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -811,6 +815,17 @@
     </message>
 </context>
 <context>
+    <name>QOcenAudioRegionMime</name>
+    <message>
+        <source>Region</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>%1 from %2</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
     <name>QOcenAudioSelectionMime</name>
     <message>
         <source>%1 Snippets from %2</source>
@@ -864,6 +879,13 @@
     <message>
         <source>&amp;Save Selected</source>
         <translation>&amp;Guardar Seleccionado</translation>
+    </message>
+</context>
+<context>
+    <name>QOcenEditMenuSeparator</name>
+    <message>
+        <source>-</source>
+        <translation type="unfinished">-</translation>
     </message>
 </context>
 <context>
@@ -1132,10 +1154,6 @@
         <translation>La conversión de región en bucle descartará comentarios. ¿Desea continuar?</translation>
     </message>
     <message>
-        <source>If you continue, all comments, from this region, will be removed.</source>
-        <translation>Si continúa, todos los comentarios, de esta región, serán removidos.</translation>
-    </message>
-    <message>
         <source>Fatal Error</source>
         <translation>Error fatal</translation>
     </message>
@@ -1250,6 +1268,10 @@
     <message>
         <source>This is an unrecoverable error and ocenaudio must quit!</source>
         <translation>¡Este es un error irrecuperable y ocenaudio debe cerrar!</translation>
+    </message>
+    <message>
+        <source>If you continue all comments from this region will be removed.</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -1606,10 +1628,6 @@
         <translation>Predesplazamiento</translation>
     </message>
     <message>
-        <source>Destructive Recording</source>
-        <translation>Grabación destructiva</translation>
-    </message>
-    <message>
         <source>Play only visible portion of the audio</source>
         <translation>Reproducir solo parte visible del audio</translation>
     </message>
@@ -1700,6 +1718,34 @@
     <message>
         <source>Select recorded audio</source>
         <translation>Seleccionar audio grabado</translation>
+    </message>
+    <message>
+        <source>Audio Device</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Replace existing audio (overwrite mode)</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Use only full duplex devices</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Pause playback on markers</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Playback Options</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Record Options</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>No Full-Duplex Devices Found</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>

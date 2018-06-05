@@ -619,10 +619,6 @@
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Edit selected region</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>Move cursor to next marker</source>
         <translation type="unfinished"></translation>
     </message>
@@ -652,6 +648,14 @@
     </message>
     <message>
         <source>Smoothing</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Create/Edit region</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Move Region</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -811,6 +815,17 @@
     </message>
 </context>
 <context>
+    <name>QOcenAudioRegionMime</name>
+    <message>
+        <source>Region</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>%1 from %2</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
     <name>QOcenAudioSelectionMime</name>
     <message>
         <source>%1 Snippets from %2</source>
@@ -864,6 +879,13 @@
     <message>
         <source>&amp;Save Selected</source>
         <translation>&amp;Enregistrer Sélectionné</translation>
+    </message>
+</context>
+<context>
+    <name>QOcenEditMenuSeparator</name>
+    <message>
+        <source>-</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -1116,10 +1138,6 @@
         <translation>La conversion d&apos;une région à loop éliminer les commentaires. Vous voulez continuer?</translation>
     </message>
     <message>
-        <source>If you continue, all comments, from this region, will be removed.</source>
-        <translation>Si vous continuez tous les commentaires de cette région seront supprimés.</translation>
-    </message>
-    <message>
         <source>Fatal Error</source>
         <translation>Erreur Fatale</translation>
     </message>
@@ -1249,6 +1267,10 @@
     </message>
     <message>
         <source>This is an unrecoverable error and ocenaudio must quit!</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>If you continue all comments from this region will be removed.</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -1606,10 +1628,6 @@
         <translation></translation>
     </message>
     <message>
-        <source>Destructive Recording</source>
-        <translation>Enregistrement destructive</translation>
-    </message>
-    <message>
         <source>Play only visible portion of the audio</source>
         <translation type="unfinished"></translation>
     </message>
@@ -1699,6 +1717,34 @@
     </message>
     <message>
         <source>Select recorded audio</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Audio Device</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Replace existing audio (overwrite mode)</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Use only full duplex devices</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Pause playback on markers</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Playback Options</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Record Options</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>No Full-Duplex Devices Found</source>
         <translation type="unfinished"></translation>
     </message>
 </context>

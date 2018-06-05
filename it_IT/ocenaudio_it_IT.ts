@@ -764,10 +764,6 @@
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Destructive Recording</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>Ctrl+D</source>
         <translation type="unfinished"></translation>
     </message>
@@ -789,6 +785,10 @@
     </message>
     <message>
         <source>Move Cursor to Record Stop Position</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Overwrite When Recording</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -3772,6 +3772,14 @@ Channel
     </message>
     <message>
         <source>Use “.%1” instead</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Current file path</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Last export path</source>
         <translation type="unfinished"></translation>
     </message>
 </context>

@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!DOCTYPE TS>
-<TS version="2.0" language="pt_BR">
+<TS version="2.1" language="pt_BR">
 <context>
     <name>QAudioStatistics</name>
     <message>
@@ -619,10 +619,6 @@
         <translation>Selecionar até a próxima marca de escala</translation>
     </message>
     <message>
-        <source>Edit selected region</source>
-        <translation>Ediar região selecionada</translation>
-    </message>
-    <message>
         <source>Move cursor to next marker</source>
         <translation>Mover o cursor para o próximo marcador</translation>
     </message>
@@ -653,6 +649,14 @@
     <message>
         <source>Smoothing</source>
         <translation>Suavizando</translation>
+    </message>
+    <message>
+        <source>Create/Edit region</source>
+        <translation>Criar/Editar região</translation>
+    </message>
+    <message>
+        <source>Move Region</source>
+        <translation>Mover Região</translation>
     </message>
 </context>
 <context>
@@ -811,6 +815,17 @@
     </message>
 </context>
 <context>
+    <name>QOcenAudioRegionMime</name>
+    <message>
+        <source>Region</source>
+        <translation>Região</translation>
+    </message>
+    <message>
+        <source>%1 from %2</source>
+        <translation>%1 de %2</translation>
+    </message>
+</context>
+<context>
     <name>QOcenAudioSelectionMime</name>
     <message>
         <source>%1 Snippets from %2</source>
@@ -864,6 +879,13 @@
     <message>
         <source>&amp;Save Selected</source>
         <translation>&amp;Salvar Selecionado</translation>
+    </message>
+</context>
+<context>
+    <name>QOcenEditMenuSeparator</name>
+    <message>
+        <source>-</source>
+        <translation></translation>
     </message>
 </context>
 <context>
@@ -1042,10 +1064,6 @@
     <message>
         <source>The conversion from region to loop will discard comments. You want to proceed?</source>
         <translation>A conversão de região para loop irá descartar comentários.Você deseja continuar?</translation>
-    </message>
-    <message>
-        <source>If you continue, all comments, from this region, will be removed.</source>
-        <translation>Se você prosseguir todos os comentários desta região serão removidos.</translation>
     </message>
     <message>
         <source>Your changes will be lost if you don’t save them.</source>
@@ -1250,6 +1268,10 @@
     <message>
         <source>This is an unrecoverable error and ocenaudio must quit!</source>
         <translation>Este é um erro irrecuperável e o ocenaudio deve encerrar!</translation>
+    </message>
+    <message>
+        <source>If you continue all comments from this region will be removed.</source>
+        <translation>Se você continuar, todos os comentários de regiões serão removidos.</translation>
     </message>
 </context>
 <context>
@@ -1606,10 +1628,6 @@
         <translation></translation>
     </message>
     <message>
-        <source>Destructive Recording</source>
-        <translation>Gravação Destrutiva</translation>
-    </message>
-    <message>
         <source>Play only visible portion of the audio</source>
         <translation>Reproduzir somente parte visível do áudio</translation>
     </message>
@@ -1700,6 +1718,34 @@
     <message>
         <source>Select recorded audio</source>
         <translation>Selecionar áudio gravado</translation>
+    </message>
+    <message>
+        <source>Audio Device</source>
+        <translation>Dispositivo de Áudio</translation>
+    </message>
+    <message>
+        <source>Replace existing audio (overwrite mode)</source>
+        <translation>Substituir áudio existente (mode sobrescrever)</translation>
+    </message>
+    <message>
+        <source>Use only full duplex devices</source>
+        <translation>Somente usar dispositivos full duplex</translation>
+    </message>
+    <message>
+        <source>Pause playback on markers</source>
+        <translation>Pausar reprodução nos marcadores</translation>
+    </message>
+    <message>
+        <source>Playback Options</source>
+        <translation>Opções de Reprodução</translation>
+    </message>
+    <message>
+        <source>Record Options</source>
+        <translation>Opções de Gravação</translation>
+    </message>
+    <message>
+        <source>No Full-Duplex Devices Found</source>
+        <translation>Nenhum Dispositivo Full Duplex Encontrado</translation>
     </message>
 </context>
 <context>
