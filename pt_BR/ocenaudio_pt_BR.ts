@@ -3699,7 +3699,7 @@ Saída
     <message>
         <source>Load exported file</source>
         <oldsource>Load after export</oldsource>
-        <translation></translation>
+        <translation>Carregar arquivo exportado</translation>
     </message>
     <message>
         <source>%1 kbps</source>
