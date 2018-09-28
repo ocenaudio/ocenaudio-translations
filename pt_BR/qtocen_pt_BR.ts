@@ -658,6 +658,46 @@
         <source>Move Region</source>
         <translation>Mover Região</translation>
     </message>
+    <message>
+        <source>Pasting file %1</source>
+        <translation>Colando arquivo %1</translation>
+    </message>
+    <message>
+        <source>Selection Begin</source>
+        <translation>Início de Seleção</translation>
+    </message>
+    <message>
+        <source>Selection End</source>
+        <translation>Fim de Seleção</translation>
+    </message>
+    <message>
+        <source>Selection Duration</source>
+        <translation>Duração da Seleção</translation>
+    </message>
+    <message>
+        <source>Copy</source>
+        <translation>Copiar</translation>
+    </message>
+    <message>
+        <source>Clear</source>
+        <translation>Limpar</translation>
+    </message>
+    <message>
+        <source>Zoom Selection</source>
+        <translation>Zoom da Seleção</translation>
+    </message>
+    <message>
+        <source>Zoom Back</source>
+        <translation>Voltar Zoom</translation>
+    </message>
+    <message>
+        <source>Drag me!</source>
+        <translation></translation>
+    </message>
+    <message>
+        <source>Double-Click to create a marker</source>
+        <translation>Duplo-Clique para criar marcador</translation>
+    </message>
 </context>
 <context>
     <name>QOcenApplication</name>
@@ -676,6 +716,16 @@
     <message>
         <source>An error occured while allocating memory! This issue might happen if you are running out of memory</source>
         <translation>Um erro ocorreu durante a alocação de memória. Isto pode ocorrer devido à falta de memória</translation>
+    </message>
+    <message>
+        <source>Update Device List Failed</source>
+        <translation>Falha na Atualização da Lista de Dispositivos</translation>
+    </message>
+    <message>
+        <source>An error occurred while updating the list of audio devices using the %1 backend. In this condition the capture and playback capabilities may not be available.
+You should check your audio settings in the ocenaudio preferences pane.</source>
+        <translation>Um erro ocorreu ao atualizar a lista de dispositivos de áudio usando o backend %1. Nesta condição as capacidades de captura e a reprodução podem não estar disponíveis.
+Você deve checar suas configurações de áudio no painel de preferências.</translation>
     </message>
 </context>
 <context>
@@ -1162,10 +1212,6 @@
         <translation>Informação</translation>
     </message>
     <message>
-        <source>Pasting file %1</source>
-        <translation>Colando arquivo %1</translation>
-    </message>
-    <message>
         <source>Unsupported Format</source>
         <translation>Formato não suportado</translation>
     </message>
@@ -1272,6 +1318,23 @@
     <message>
         <source>If you continue all comments from this region will be removed.</source>
         <translation>Se você continuar, todos os comentários de regiões serão removidos.</translation>
+    </message>
+    <message>
+        <source>The disk you are using to save is full.</source>
+        <translation>O disco utilizado para salvar está cheio.</translation>
+    </message>
+    <message>
+        <source>File: %1</source>
+        <translation>Arquivo: %1</translation>
+    </message>
+    <message>
+        <source>
+Storage: %1 mount on %2</source>
+        <translation>Armazenamento: %1 montado em %2</translation>
+    </message>
+    <message>
+        <source>Disk Is Full</source>
+        <translation>Disco está Cheio</translation>
     </message>
 </context>
 <context>
@@ -1746,6 +1809,10 @@
     <message>
         <source>No Full-Duplex Devices Found</source>
         <translation>Nenhum Dispositivo Full Duplex Encontrado</translation>
+    </message>
+    <message>
+        <source>Continue to play next/selected audio </source>
+        <translation>Continuar reprodução do próximo áudio</translation>
     </message>
 </context>
 <context>

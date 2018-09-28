@@ -658,6 +658,46 @@
         <source>Move Region</source>
         <translation type="unfinished"></translation>
     </message>
+    <message>
+        <source>Pasting file %1</source>
+        <translation type="unfinished">%1 fájl beillesztése</translation>
+    </message>
+    <message>
+        <source>Selection Begin</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Selection End</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Selection Duration</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Copy</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Clear</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Zoom Selection</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Zoom Back</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Drag me!</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Double-Click to create a marker</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>QOcenApplication</name>
@@ -675,6 +715,15 @@
     </message>
     <message>
         <source>An error occured while allocating memory! This issue might happen if you are running out of memory</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Update Device List Failed</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>An error occurred while updating the list of audio devices using the %1 backend. In this condition the capture and playback capabilities may not be available.
+You should check your audio settings in the ocenaudio preferences pane.</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -1162,10 +1211,6 @@
         <translation>Információ</translation>
     </message>
     <message>
-        <source>Pasting file %1</source>
-        <translation>%1 fájl beillesztése</translation>
-    </message>
-    <message>
         <source>Unsupported Format</source>
         <translation>Nem támogatott formátum</translation>
     </message>
@@ -1271,6 +1316,23 @@
     </message>
     <message>
         <source>If you continue all comments from this region will be removed.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>The disk you are using to save is full.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>File: %1</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>
+Storage: %1 mount on %2</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Disk Is Full</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -1745,6 +1807,10 @@
     </message>
     <message>
         <source>No Full-Duplex Devices Found</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Continue to play next/selected audio </source>
         <translation type="unfinished"></translation>
     </message>
 </context>

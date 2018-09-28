@@ -785,6 +785,30 @@
         <source>Overwrite When Recording</source>
         <translation>Sobrescrever ao Gravar</translation>
     </message>
+    <message>
+        <source>Create Channels Extra Tracks </source>
+        <translation>Criar Trilhas Extras para Canais</translation>
+    </message>
+    <message>
+        <source>Pause</source>
+        <translation>Pausa</translation>
+    </message>
+    <message>
+        <source>P</source>
+        <translation></translation>
+    </message>
+    <message>
+        <source>Zoom Back</source>
+        <translation>Voltar Zoom</translation>
+    </message>
+    <message>
+        <source>Show Overlay Tools</source>
+        <translation>Mostrar Ferramentas de Sobreposição</translation>
+    </message>
+    <message>
+        <source>Show Selection Overlays</source>
+        <translation>Mostrar Sobreposição em Seleção</translation>
+    </message>
 </context>
 <context>
     <name>NavigatorDialog</name>
@@ -2908,6 +2932,62 @@ Saída
         <source>Enable/Disable Move Cursor to Record Stop Position</source>
         <translation>Habilitar/Desabilitar Mover Cursor para a Posição de Parada da Gravação</translation>
     </message>
+    <message>
+        <source>Show/Hide Selection Overlays</source>
+        <translation>Mostrar/Ocultar Sobreposição em Seleção</translation>
+    </message>
+    <message>
+        <source>Show/Hide Overlay Tools</source>
+        <translation>Mostrar/Ocultar Ferramentas de Sobreposição</translation>
+    </message>
+    <message>
+        <source>Note</source>
+        <translation>Nota</translation>
+    </message>
+    <message>
+        <source>You are about to create extra tracks for each channel in your audio file. Are you sure you want to proceed?</source>
+        <translation>Você está prestes a criar trilhas extras para cada canal do seu arquivo de áudio. Deseja Continuar?</translation>
+    </message>
+    <message>
+        <source>Regions created in new tracks will be saved to an external file.</source>
+        <translation>Regiões criadas em novas trilhas serão salvas em arquivo externo.</translation>
+    </message>
+    <message>
+        <source>Hide Selection Overlays</source>
+        <translation>Ocultar Sobreposição em Seleção</translation>
+    </message>
+    <message>
+        <source>Show Selection Overlays</source>
+        <translation>Mostrar Sobreposição em Seleção</translation>
+    </message>
+    <message>
+        <source>Hide Overlay Tools</source>
+        <translation>Ocultar Ferramentas de Sobreposição</translation>
+    </message>
+    <message>
+        <source>Show Overlay Tools</source>
+        <translation>Mostrar Ferramentas de Sobreposição</translation>
+    </message>
+    <message>
+        <source>Resume</source>
+        <translation>Continuar</translation>
+    </message>
+    <message>
+        <source>Pause</source>
+        <translation>Pausar</translation>
+    </message>
+    <message>
+        <source>Clear</source>
+        <translation>Limpar</translation>
+    </message>
+    <message>
+        <source>Temporary Space Warning</source>
+        <translation>Aviso de Armazenamento Temporário</translation>
+    </message>
+    <message>
+        <source>You have only %1 available!</source>
+        <translation>Você possui somente %1 disponível!</translation>
+    </message>
 </context>
 <context>
     <name>QOcenAudioNoiseReductionWidget</name>
@@ -4457,6 +4537,17 @@ Saída
     <message>
         <source>and %1 other files</source>
         <translation>e %1 outros arquivos</translation>
+    </message>
+</context>
+<context>
+    <name>QOcenSelectStorageDialog</name>
+    <message>
+        <source>Temporary Storage Configuration</source>
+        <translation>Configuração de Armazenamento Temporário</translation>
+    </message>
+    <message>
+        <source>Select a volume for temporary storage:</source>
+        <translation>Selecione um volume para armazenamento temporário:</translation>
     </message>
 </context>
 <context>

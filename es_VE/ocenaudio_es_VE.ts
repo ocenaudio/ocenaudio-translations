@@ -784,6 +784,30 @@
         <source>Overwrite When Recording</source>
         <translation type="unfinished"></translation>
     </message>
+    <message>
+        <source>Create Channels Extra Tracks </source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Pause</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>P</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Zoom Back</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Show Overlay Tools</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Show Selection Overlays</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>NavigatorDialog</name>
@@ -2911,6 +2935,62 @@ Canal
         <source>Enable/Disable Move Cursor to Record Stop Position</source>
         <translation>Activar/desactivar mover cursor para posición de parada de grabación</translation>
     </message>
+    <message>
+        <source>Show/Hide Selection Overlays</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Show/Hide Overlay Tools</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Note</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>You are about to create extra tracks for each channel in your audio file. Are you sure you want to proceed?</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Regions created in new tracks will be saved to an external file.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Hide Selection Overlays</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Show Selection Overlays</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Hide Overlay Tools</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Show Overlay Tools</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Resume</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Pause</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Clear</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Temporary Space Warning</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>You have only %1 available!</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>QOcenAudioNoiseReductionWidget</name>
@@ -4458,6 +4538,17 @@ Canal
     <message>
         <source>and %1 other files</source>
         <translation>y otros %1 archivos</translation>
+    </message>
+</context>
+<context>
+    <name>QOcenSelectStorageDialog</name>
+    <message>
+        <source>Temporary Storage Configuration</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Select a volume for temporary storage:</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
