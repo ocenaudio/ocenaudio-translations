@@ -63,14 +63,6 @@
         <translation>&amp;File</translation>
     </message>
     <message>
-        <source>Open Recent Audio</source>
-        <translation>Apri audio recente</translation>
-    </message>
-    <message>
-        <source>New From</source>
-        <translation>Nuovo da</translation>
-    </message>
-    <message>
         <source>&amp;Edit</source>
         <translation>&amp;Modifica</translation>
     </message>
@@ -115,10 +107,6 @@
         <translation>Effe&amp;tti</translation>
     </message>
     <message>
-        <source>Amplitude</source>
-        <translation>Ampiezza</translation>
-    </message>
-    <message>
         <source>Filter</source>
         <translation>Filtro</translation>
     </message>
@@ -159,48 +147,8 @@
         <translation>&amp;Controlli</translation>
     </message>
     <message>
-        <source>New...</source>
-        <translation>Nuovo...</translation>
-    </message>
-    <message>
-        <source>Duplicate</source>
-        <translation>Duplica</translation>
-    </message>
-    <message>
-        <source>Open...</source>
-        <translation>Apri...</translation>
-    </message>
-    <message>
-        <source>Undo</source>
-        <translation>Annulla</translation>
-    </message>
-    <message>
-        <source>Cut</source>
-        <translation>Taglia</translation>
-    </message>
-    <message>
-        <source>Copy</source>
-        <translation>Copia</translation>
-    </message>
-    <message>
-        <source>Paste</source>
-        <translation>Incolla</translation>
-    </message>
-    <message>
-        <source>Close</source>
-        <translation>Chiudi</translation>
-    </message>
-    <message>
         <source>Close All</source>
         <translation>Chiudi tutti</translation>
-    </message>
-    <message>
-        <source>Save</source>
-        <translation>Salva</translation>
-    </message>
-    <message>
-        <source>Save As...</source>
-        <translation>Salva come...</translation>
     </message>
     <message>
         <source>Save Selection...</source>
@@ -215,32 +163,12 @@
         <translation>Incolla speciale...</translation>
     </message>
     <message>
-        <source>Select All</source>
-        <translation>Seleziona tutto</translation>
-    </message>
-    <message>
-        <source>Delete Selection</source>
-        <translation>Elimina selezione</translation>
-    </message>
-    <message>
-        <source>Trim</source>
-        <translation>Ritaglia</translation>
-    </message>
-    <message>
         <source>Adjust Sample Rate...</source>
         <translation>Regola frequenza di campionamento...</translation>
     </message>
     <message>
         <source>Convert Sample Type...</source>
         <translation>Converti tipo di campioni...</translation>
-    </message>
-    <message>
-        <source>Waveform View</source>
-        <translation>Visualizza forma d&apos;onda</translation>
-    </message>
-    <message>
-        <source>Spectral View</source>
-        <translation>Visualizza spettrogramma</translation>
     </message>
     <message>
         <source>Waveform &amp;&amp; Spectral View</source>
@@ -307,19 +235,6 @@
         <translation>Ripristina ingrandimento verticale</translation>
     </message>
     <message>
-        <source>Sound Properties...</source>
-        <translation>Proprietà audio...</translation>
-    </message>
-    <message>
-        <source>Reverse</source>
-        <translation>Rovescia</translation>
-    </message>
-    <message>
-        <source>Silence</source>
-        <comment>Effect</comment>
-        <translation>Silenzio</translation>
-    </message>
-    <message>
         <source>-</source>
         <translation></translation>
     </message>
@@ -328,20 +243,8 @@
         <translation>Salva copia come...</translation>
     </message>
     <message>
-        <source>Save All</source>
-        <translation>Salva tutto</translation>
-    </message>
-    <message>
         <source>Revert to Saved</source>
         <translation>Ripristina a versione salvata</translation>
-    </message>
-    <message>
-        <source>Play</source>
-        <translation>Riproduci</translation>
-    </message>
-    <message>
-        <source>Next</source>
-        <translation>Successivo</translation>
     </message>
     <message>
         <source>Previous</source>
@@ -365,36 +268,12 @@
         <translation>Registra</translation>
     </message>
     <message>
-        <source>Statistics</source>
-        <translation>Statistiche</translation>
-    </message>
-    <message>
-        <source>Tones</source>
-        <translation>Toni</translation>
-    </message>
-    <message>
-        <source>Noise</source>
-        <translation>Rumore</translation>
-    </message>
-    <message>
-        <source>DTMF</source>
-        <translation>DTFM</translation>
-    </message>
-    <message>
         <source>Frames</source>
         <translation></translation>
     </message>
     <message>
         <source>Show File Folder...</source>
         <translation>Mostra cartella file...</translation>
-    </message>
-    <message>
-        <source>Gain...</source>
-        <translation>Guadagno...</translation>
-    </message>
-    <message>
-        <source>Remove DC</source>
-        <translation>Rimuovi DC</translation>
     </message>
     <message>
         <source>Normalize...</source>
@@ -427,15 +306,6 @@
     <message>
         <source>Audio Screenshot...</source>
         <translation>Cattura schermata audio...</translation>
-    </message>
-    <message>
-        <source>Invert Selection</source>
-        <translation>Inverti selezione</translation>
-    </message>
-    <message>
-        <source>Silence</source>
-        <comment>Generator</comment>
-        <translation>Silenzio</translation>
     </message>
     <message>
         <source>Fade In</source>
@@ -482,10 +352,6 @@
         <translation>Scambia canali</translation>
     </message>
     <message>
-        <source>FFT Analysis</source>
-        <translation>Analisi FFT</translation>
-    </message>
-    <message>
         <source>Delay...</source>
         <translation>Ritardo...</translation>
     </message>
@@ -525,10 +391,6 @@
         <translation></translation>
     </message>
     <message>
-        <source>Normalize</source>
-        <translation>Normalizza</translation>
-    </message>
-    <message>
         <source>Sample Delay...</source>
         <translation>Ritardo campione...</translation>
     </message>
@@ -548,14 +410,6 @@
     <message>
         <source>Add Random Noise...</source>
         <translation>Aggiungi rumore casuale...</translation>
-    </message>
-    <message>
-        <source>Invert</source>
-        <translation>Inverti</translation>
-    </message>
-    <message>
-        <source>Export...</source>
-        <translation>Esporta...</translation>
     </message>
     <message>
         <source>Export Selection...</source>
@@ -599,10 +453,6 @@
         <translation>Aggancia a incroci con lo zero</translation>
     </message>
     <message>
-        <source>Metadata...</source>
-        <translation>Metadati...</translation>
-    </message>
-    <message>
         <source>Regions and Markers...</source>
         <translation>Regioni e marcatori...</translation>
     </message>
@@ -633,10 +483,6 @@
     <message>
         <source>Import Regions...</source>
         <translation>Importa regioni...</translation>
-    </message>
-    <message>
-        <source>Redo</source>
-        <translation>Ripristina</translation>
     </message>
     <message>
         <source>Mini Level Meter</source>
@@ -712,10 +558,6 @@
         <translation>Informazioni</translation>
     </message>
     <message>
-        <source>Quit</source>
-        <translation>Uscita</translation>
-    </message>
-    <message>
         <source>Record Options</source>
         <translation type="unfinished"></translation>
     </message>
@@ -737,10 +579,6 @@
     </message>
     <message>
         <source>Noise Reduction</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Smooth</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -796,10 +634,6 @@
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Pause</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>P</source>
         <translation type="unfinished"></translation>
     </message>
@@ -813,6 +647,170 @@
     </message>
     <message>
         <source>Show Selection Overlays</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Open &amp;Recent Audio</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>New &amp;From</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>&amp;Amplitude</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>&amp;New...</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>&amp;Duplicate</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>&amp;Open...</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>&amp;Undo</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Cu&amp;t</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>&amp;Copy</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>&amp;Paste</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>&amp;Close</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>&amp;Save</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Save &amp;As...</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Select &amp;All</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>&amp;Delete Selection</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>&amp;Trim</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>&amp;Waveform View</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>&amp;Spectral View</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Sound &amp;Properties...</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>&amp;Reverse</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>&amp;Silence</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Save A&amp;ll</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>&amp;Play</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>&amp;Next</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Pre&amp;vious</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>&amp;Statistics</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>&amp;Tones</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>&amp;Noise</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>&amp;DTMF</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>&amp;Gain...</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Remove &amp;DC</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>&amp;Invert Selection</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>&amp;FFT Analysis</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>&amp;Normalize</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>&amp;Invert</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>&amp;Export...</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>&amp;Metadata...</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>&amp;Redo</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>&amp;Quit</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>S&amp;mooth</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Pa&amp;use</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -2635,10 +2633,6 @@ Channel
         <translation>Annulla</translation>
     </message>
     <message>
-        <source>Redo</source>
-        <translation>Ripristina</translation>
-    </message>
-    <message>
         <source>Create Regions</source>
         <translation>Crea regioni</translation>
     </message>
@@ -2723,14 +2717,6 @@ Channel
         <translation>Mostra Id dei canali</translation>
     </message>
     <message>
-        <source>Stop Recording</source>
-        <translation>Ferma registrazione</translation>
-    </message>
-    <message>
-        <source>Record</source>
-        <translation>Registra</translation>
-    </message>
-    <message>
         <source>Resume Playback</source>
         <translation>Riprendi riproduzione</translation>
     </message>
@@ -2739,16 +2725,8 @@ Channel
         <translation>Ferma e muovi cursore</translation>
     </message>
     <message>
-        <source>Stop</source>
-        <translation>Ferma</translation>
-    </message>
-    <message>
         <source>Play and Select</source>
         <translation>Riproduci e seleziona</translation>
-    </message>
-    <message>
-        <source>Play</source>
-        <translation>Riproduci</translation>
     </message>
     <message>
         <source>Repeat %1</source>
@@ -2971,14 +2949,6 @@ Channel
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Resume</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Pause</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>Clear</source>
         <translation type="unfinished"></translation>
     </message>
@@ -2988,6 +2958,42 @@ Channel
     </message>
     <message>
         <source>You have only %1 available!</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>&amp;Undo</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>&amp;Redo</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Stop &amp;Recording</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>&amp;Record</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Res&amp;ume</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Resume &amp;Playback</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Pa&amp;use</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Sto&amp;p</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>&amp;Play</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -4721,24 +4727,8 @@ sul tuo computer, o nella tua rete:</translation>
         <translation>Estrai canale %1</translation>
     </message>
     <message>
-        <source>Stop</source>
-        <translation>Ferma</translation>
-    </message>
-    <message>
         <source>Play</source>
         <translation>Riproduci</translation>
-    </message>
-    <message>
-        <source>View/Edit</source>
-        <translation>Visualizza/Modifica</translation>
-    </message>
-    <message>
-        <source>View</source>
-        <translation>Visualizza</translation>
-    </message>
-    <message>
-        <source>Close</source>
-        <translation>Chiudi</translation>
     </message>
     <message>
         <source>Save</source>
@@ -4908,6 +4898,22 @@ sul tuo computer, o nella tua rete:</translation>
     <message>
         <source>Descending</source>
         <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Stop</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>View/Edit</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>View</source>
+        <translation type="unfinished">Visualizzazione</translation>
+    </message>
+    <message>
+        <source>Close</source>
+        <translation type="unfinished">Chiudi</translation>
     </message>
 </context>
 <context>

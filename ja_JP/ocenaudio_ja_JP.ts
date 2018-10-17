@@ -59,14 +59,6 @@
         <translation>&amp;ファイル</translation>
     </message>
     <message>
-        <source>Open Recent Audio</source>
-        <translation>最近のオーディオを開く</translation>
-    </message>
-    <message>
-        <source>New From</source>
-        <translation>...から新しく作成</translation>
-    </message>
-    <message>
         <source>&amp;Edit</source>
         <translation>&amp;編集</translation>
     </message>
@@ -97,10 +89,6 @@
     <message>
         <source>Effec&amp;ts</source>
         <translation>効果</translation>
-    </message>
-    <message>
-        <source>Amplitude</source>
-        <translation>振幅</translation>
     </message>
     <message>
         <source>Filter</source>
@@ -139,48 +127,8 @@
         <translation>&amp;コントロール</translation>
     </message>
     <message>
-        <source>New...</source>
-        <translation>新しく作成...</translation>
-    </message>
-    <message>
-        <source>Duplicate</source>
-        <translation>重複</translation>
-    </message>
-    <message>
-        <source>Open...</source>
-        <translation>開く...</translation>
-    </message>
-    <message>
-        <source>Undo</source>
-        <translation>元に戻す</translation>
-    </message>
-    <message>
-        <source>Cut</source>
-        <translation>切り取り</translation>
-    </message>
-    <message>
-        <source>Copy</source>
-        <translation>コピー</translation>
-    </message>
-    <message>
-        <source>Paste</source>
-        <translation>貼り付け</translation>
-    </message>
-    <message>
-        <source>Close</source>
-        <translation>閉じる</translation>
-    </message>
-    <message>
         <source>Close All</source>
         <translation>全てを閉じる</translation>
-    </message>
-    <message>
-        <source>Save</source>
-        <translation>保存</translation>
-    </message>
-    <message>
-        <source>Save As...</source>
-        <translation>名前を付けて保存...</translation>
     </message>
     <message>
         <source>Save Selection...</source>
@@ -195,32 +143,12 @@
         <translation>特別貼り付け...</translation>
     </message>
     <message>
-        <source>Select All</source>
-        <translation>全てを選択</translation>
-    </message>
-    <message>
-        <source>Delete Selection</source>
-        <translation>選択されたのを削除</translation>
-    </message>
-    <message>
-        <source>Trim</source>
-        <translation>刈り込む</translation>
-    </message>
-    <message>
         <source>Adjust Sample Rate...</source>
         <translation>サンプルレートを調整...</translation>
     </message>
     <message>
         <source>Convert Sample Type...</source>
         <translation>サンプルレートを変更...</translation>
-    </message>
-    <message>
-        <source>Waveform View</source>
-        <translation>波形を見る</translation>
-    </message>
-    <message>
-        <source>Spectral View</source>
-        <translation>広さを見る</translation>
     </message>
     <message>
         <source>Waveform &amp;&amp; Spectral View</source>
@@ -287,19 +215,6 @@
         <translation>縦拡大を回復</translation>
     </message>
     <message>
-        <source>Sound Properties...</source>
-        <translation>サウンドプロパティ...</translation>
-    </message>
-    <message>
-        <source>Reverse</source>
-        <translation>逆にする</translation>
-    </message>
-    <message>
-        <source>Silence</source>
-        <comment>Effect</comment>
-        <translation>無音</translation>
-    </message>
-    <message>
         <source>-</source>
         <translation>-</translation>
     </message>
@@ -308,20 +223,8 @@
         <translation>名前を付けてコピーを保存...</translation>
     </message>
     <message>
-        <source>Save All</source>
-        <translation>全てを保存</translation>
-    </message>
-    <message>
         <source>Revert to Saved</source>
         <translation>保存したバージョンに戻す</translation>
-    </message>
-    <message>
-        <source>Play</source>
-        <translation>再生</translation>
-    </message>
-    <message>
-        <source>Next</source>
-        <translation>次</translation>
     </message>
     <message>
         <source>Previous</source>
@@ -374,10 +277,6 @@
     <message>
         <source>Create iPhone Ringtone...</source>
         <translation>iPhone着メロを作成...</translation>
-    </message>
-    <message>
-        <source>Metadata...</source>
-        <translation>メタデータ...</translation>
     </message>
     <message>
         <source>Regions and Markers...</source>
@@ -436,10 +335,6 @@
         <translation>領域を読み込む...</translation>
     </message>
     <message>
-        <source>Redo</source>
-        <translation>やり直し</translation>
-    </message>
-    <message>
         <source>Mini Level Meter</source>
         <translation>小型レベルメーター</translation>
     </message>
@@ -476,32 +371,8 @@
         <translation>録音</translation>
     </message>
     <message>
-        <source>Statistics</source>
-        <translation>統計</translation>
-    </message>
-    <message>
-        <source>Tones</source>
-        <translation>音色</translation>
-    </message>
-    <message>
-        <source>Noise</source>
-        <translation>ノイズ</translation>
-    </message>
-    <message>
-        <source>DTMF</source>
-        <translation>DTMF</translation>
-    </message>
-    <message>
         <source>Frames</source>
         <translation>フレーム</translation>
-    </message>
-    <message>
-        <source>Gain...</source>
-        <translation>増幅...</translation>
-    </message>
-    <message>
-        <source>Remove DC</source>
-        <translation>DCを省く</translation>
     </message>
     <message>
         <source>Normalize...</source>
@@ -530,15 +401,6 @@
     <message>
         <source>Audio Screenshot...</source>
         <translation>オーディオスクショ...</translation>
-    </message>
-    <message>
-        <source>Invert Selection</source>
-        <translation>選択を転倒する</translation>
-    </message>
-    <message>
-        <source>Silence</source>
-        <comment>Generator</comment>
-        <translation>無音</translation>
     </message>
     <message>
         <source>Fade In</source>
@@ -585,10 +447,6 @@
         <translation>回線を交換</translation>
     </message>
     <message>
-        <source>FFT Analysis</source>
-        <translation>FFT解析</translation>
-    </message>
-    <message>
         <source>Delay...</source>
         <translation>遅延...</translation>
     </message>
@@ -625,10 +483,6 @@
         <translation>ノイズゲート...</translation>
     </message>
     <message>
-        <source>Normalize</source>
-        <translation>正規化機</translation>
-    </message>
-    <message>
         <source>Sample Delay...</source>
         <translation>サンプル遅延...</translation>
     </message>
@@ -647,14 +501,6 @@
     <message>
         <source>Add Random Noise...</source>
         <translation>ランダムなノイズを追加...</translation>
-    </message>
-    <message>
-        <source>Invert</source>
-        <translation>転倒する</translation>
-    </message>
-    <message>
-        <source>Export...</source>
-        <translation>エクスポート...</translation>
     </message>
     <message>
         <source>Export Selection...</source>
@@ -705,10 +551,6 @@
         <translation>について</translation>
     </message>
     <message>
-        <source>Quit</source>
-        <translation>終了</translation>
-    </message>
-    <message>
         <source>Record Options</source>
         <translation>録音オプション</translation>
     </message>
@@ -731,10 +573,6 @@
     <message>
         <source>Noise Reduction</source>
         <translation>ノイズ減少</translation>
-    </message>
-    <message>
-        <source>Smooth</source>
-        <translation>和らげる</translation>
     </message>
     <message>
         <source>Noise Reduction...</source>
@@ -789,10 +627,6 @@
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Pause</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>P</source>
         <translation type="unfinished"></translation>
     </message>
@@ -806,6 +640,170 @@
     </message>
     <message>
         <source>Show Selection Overlays</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Open &amp;Recent Audio</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>New &amp;From</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>&amp;Amplitude</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>&amp;New...</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>&amp;Duplicate</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>&amp;Open...</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>&amp;Undo</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Cu&amp;t</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>&amp;Copy</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>&amp;Paste</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>&amp;Close</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>&amp;Save</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Save &amp;As...</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Select &amp;All</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>&amp;Delete Selection</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>&amp;Trim</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>&amp;Waveform View</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>&amp;Spectral View</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Sound &amp;Properties...</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>&amp;Reverse</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>&amp;Silence</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Save A&amp;ll</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>&amp;Play</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>&amp;Next</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Pre&amp;vious</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>&amp;Statistics</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>&amp;Tones</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>&amp;Noise</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>&amp;DTMF</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>&amp;Gain...</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Remove &amp;DC</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>&amp;Invert Selection</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>&amp;FFT Analysis</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>&amp;Normalize</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>&amp;Invert</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>&amp;Export...</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>&amp;Metadata...</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>&amp;Redo</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>&amp;Quit</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>S&amp;mooth</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Pa&amp;use</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -2727,10 +2725,6 @@ Channel
         <translation type="unfinished">元に戻す</translation>
     </message>
     <message>
-        <source>Redo</source>
-        <translation type="unfinished">やり直し</translation>
-    </message>
-    <message>
         <source>Create Regions</source>
         <translation type="unfinished">領域を作成</translation>
     </message>
@@ -2799,14 +2793,6 @@ Channel
         <translation type="unfinished">チャンネルIDを表示する</translation>
     </message>
     <message>
-        <source>Stop Recording</source>
-        <translation type="unfinished">録音を停止</translation>
-    </message>
-    <message>
-        <source>Record</source>
-        <translation type="unfinished">録音</translation>
-    </message>
-    <message>
         <source>Resume Playback</source>
         <translation type="unfinished">再生をレジューム</translation>
     </message>
@@ -2815,16 +2801,8 @@ Channel
         <translation type="unfinished">カーソルを停止して、移動</translation>
     </message>
     <message>
-        <source>Stop</source>
-        <translation type="unfinished">停止</translation>
-    </message>
-    <message>
         <source>Play and Select</source>
         <translation type="unfinished">再生と選択</translation>
-    </message>
-    <message>
-        <source>Play</source>
-        <translation type="unfinished">再生</translation>
     </message>
     <message>
         <source>Repeat %1</source>
@@ -2967,14 +2945,6 @@ Channel
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Resume</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Pause</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>Clear</source>
         <translation type="unfinished"></translation>
     </message>
@@ -2984,6 +2954,42 @@ Channel
     </message>
     <message>
         <source>You have only %1 available!</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>&amp;Undo</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>&amp;Redo</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Stop &amp;Recording</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>&amp;Record</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Res&amp;ume</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Resume &amp;Playback</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Pa&amp;use</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Sto&amp;p</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>&amp;Play</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -4793,22 +4799,6 @@ or your network that you want to open:</source>
         <translation>%1 チャンネルを抜き取る</translation>
     </message>
     <message>
-        <source>Stop</source>
-        <translation>停止</translation>
-    </message>
-    <message>
-        <source>View/Edit</source>
-        <translation>ビュー/編集</translation>
-    </message>
-    <message>
-        <source>View</source>
-        <translation>ビュー</translation>
-    </message>
-    <message>
-        <source>Close</source>
-        <translation>閉じる</translation>
-    </message>
-    <message>
         <source>Close selected Files</source>
         <translation>選択されたファイルを閉じる</translation>
     </message>
@@ -4903,6 +4893,22 @@ or your network that you want to open:</source>
     <message>
         <source>Descending</source>
         <translation>降順</translation>
+    </message>
+    <message>
+        <source>Stop</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>View/Edit</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>View</source>
+        <translation type="unfinished">表示</translation>
+    </message>
+    <message>
+        <source>Close</source>
+        <translation type="unfinished">閉じる</translation>
     </message>
 </context>
 <context>

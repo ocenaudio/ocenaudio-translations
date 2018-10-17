@@ -63,14 +63,6 @@
         <translation>&amp;Fájl</translation>
     </message>
     <message>
-        <source>Open Recent Audio</source>
-        <translation>Utoljára megnyitott fájlok</translation>
-    </message>
-    <message>
-        <source>New From</source>
-        <translation>Új innen</translation>
-    </message>
-    <message>
         <source>&amp;Edit</source>
         <translation>&amp;Szerkesztés</translation>
     </message>
@@ -115,10 +107,6 @@
         <translation>&amp;Hatások</translation>
     </message>
     <message>
-        <source>Amplitude</source>
-        <translation>Erősítés</translation>
-    </message>
-    <message>
         <source>Filter</source>
         <translation>Szűrő</translation>
     </message>
@@ -159,48 +147,8 @@
         <translation>&amp;Ellenőrzés</translation>
     </message>
     <message>
-        <source>New...</source>
-        <translation>Új...</translation>
-    </message>
-    <message>
-        <source>Duplicate</source>
-        <translation>Duplikálás</translation>
-    </message>
-    <message>
-        <source>Open...</source>
-        <translation>Megnyitás...</translation>
-    </message>
-    <message>
-        <source>Undo</source>
-        <translation>Visszavonás</translation>
-    </message>
-    <message>
-        <source>Cut</source>
-        <translation>Kivágás</translation>
-    </message>
-    <message>
-        <source>Copy</source>
-        <translation>Másolás</translation>
-    </message>
-    <message>
-        <source>Paste</source>
-        <translation>Beillesztés</translation>
-    </message>
-    <message>
-        <source>Close</source>
-        <translation>Bezárás</translation>
-    </message>
-    <message>
         <source>Close All</source>
         <translation>Mindent bezár</translation>
-    </message>
-    <message>
-        <source>Save</source>
-        <translation>Mentés</translation>
-    </message>
-    <message>
-        <source>Save As...</source>
-        <translation>Mentés másként...</translation>
     </message>
     <message>
         <source>Save Selection...</source>
@@ -215,32 +163,12 @@
         <translation>Bővítmény beillesztése...</translation>
     </message>
     <message>
-        <source>Select All</source>
-        <translation>Mindet kiválaszt</translation>
-    </message>
-    <message>
-        <source>Delete Selection</source>
-        <translation>Kiválasztás törlése</translation>
-    </message>
-    <message>
-        <source>Trim</source>
-        <translation>Kiszabás</translation>
-    </message>
-    <message>
         <source>Adjust Sample Rate...</source>
         <translation>Mintavételi ráta beállítása...</translation>
     </message>
     <message>
         <source>Convert Sample Type...</source>
         <translation>Mintavétel-változtatás...</translation>
-    </message>
-    <message>
-        <source>Waveform View</source>
-        <translation>Hullámforma</translation>
-    </message>
-    <message>
-        <source>Spectral View</source>
-        <translation>Spektrogramm</translation>
     </message>
     <message>
         <source>Waveform &amp;&amp; Spectral View</source>
@@ -307,19 +235,6 @@
         <translation>Függőleges nagyítás visszaállítása</translation>
     </message>
     <message>
-        <source>Sound Properties...</source>
-        <translation>Audiótulajdonságok...</translation>
-    </message>
-    <message>
-        <source>Reverse</source>
-        <translation>Vissza</translation>
-    </message>
-    <message>
-        <source>Silence</source>
-        <comment>Effect</comment>
-        <translation>Csend</translation>
-    </message>
-    <message>
         <source>-</source>
         <translation>-</translation>
     </message>
@@ -328,20 +243,8 @@
         <translation>Másolat mentése másként...</translation>
     </message>
     <message>
-        <source>Save All</source>
-        <translation>Mindent ment</translation>
-    </message>
-    <message>
         <source>Revert to Saved</source>
         <translation>Újra betöltés</translation>
-    </message>
-    <message>
-        <source>Play</source>
-        <translation>Lejátszás</translation>
-    </message>
-    <message>
-        <source>Next</source>
-        <translation>Következő sáv</translation>
     </message>
     <message>
         <source>Previous</source>
@@ -364,36 +267,12 @@
         <translation>Hangfelvétel</translation>
     </message>
     <message>
-        <source>Statistics</source>
-        <translation>Statisztikák</translation>
-    </message>
-    <message>
-        <source>Tones</source>
-        <translation>Hangok</translation>
-    </message>
-    <message>
-        <source>Noise</source>
-        <translation>Zörej</translation>
-    </message>
-    <message>
-        <source>DTMF</source>
-        <translation>Többfrekvenciás hangok (DTMF)</translation>
-    </message>
-    <message>
         <source>Frames</source>
         <translation>Keretek</translation>
     </message>
     <message>
         <source>Show File Folder...</source>
         <translation>Fájlmappa mutatása...</translation>
-    </message>
-    <message>
-        <source>Gain...</source>
-        <translation>Szint...</translation>
-    </message>
-    <message>
-        <source>Remove DC</source>
-        <translation>DC eltávolítása</translation>
     </message>
     <message>
         <source>Normalize...</source>
@@ -460,15 +339,6 @@
         <translation>Képernyőfotó...</translation>
     </message>
     <message>
-        <source>Invert Selection</source>
-        <translation>Kiválasztás megfordítása</translation>
-    </message>
-    <message>
-        <source>Silence</source>
-        <comment>Generator</comment>
-        <translation>Csend</translation>
-    </message>
-    <message>
         <source>Fade In</source>
         <translation>Beúsztatás</translation>
     </message>
@@ -513,10 +383,6 @@
         <translation>Csatorna csere</translation>
     </message>
     <message>
-        <source>FFT Analysis</source>
-        <translation>FFT elemzés</translation>
-    </message>
-    <message>
         <source>Delay...</source>
         <translation>Késleltetés...</translation>
     </message>
@@ -553,10 +419,6 @@
         <translation>Zajkapu...</translation>
     </message>
     <message>
-        <source>Normalize</source>
-        <translation>Normalizálás</translation>
-    </message>
-    <message>
         <source>Sample Delay...</source>
         <translation>Minta-eltolás...</translation>
     </message>
@@ -575,14 +437,6 @@
     <message>
         <source>Add Random Noise...</source>
         <translation>Véletlen-zaj hozzáadása...</translation>
-    </message>
-    <message>
-        <source>Invert</source>
-        <translation>Megfordítás</translation>
-    </message>
-    <message>
-        <source>Export...</source>
-        <translation>Exportálás...</translation>
     </message>
     <message>
         <source>Export Selection...</source>
@@ -625,10 +479,6 @@
         <translation>Null átmenethez igazítás</translation>
     </message>
     <message>
-        <source>Metadata...</source>
-        <translation>Meta adatok...</translation>
-    </message>
-    <message>
         <source>Regions and Markers...</source>
         <translation>Tartományok és jelölők...</translation>
     </message>
@@ -655,10 +505,6 @@
     <message>
         <source>Import Regions...</source>
         <translation>Tartományok importálása...</translation>
-    </message>
-    <message>
-        <source>Redo</source>
-        <translation>Helyreállítás</translation>
     </message>
     <message>
         <source>Mini Level Meter</source>
@@ -701,10 +547,6 @@
         <translation>Névjegy</translation>
     </message>
     <message>
-        <source>Quit</source>
-        <translation>Befejezés</translation>
-    </message>
-    <message>
         <source>Record Options</source>
         <translation>Felvétel opciók</translation>
     </message>
@@ -727,10 +569,6 @@
     <message>
         <source>Noise Reduction</source>
         <translation>Zajcsökkentés</translation>
-    </message>
-    <message>
-        <source>Smooth</source>
-        <translation>Simítás</translation>
     </message>
     <message>
         <source>Noise Reduction...</source>
@@ -789,10 +627,6 @@
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Pause</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>P</source>
         <translation type="unfinished"></translation>
     </message>
@@ -806,6 +640,170 @@
     </message>
     <message>
         <source>Show Selection Overlays</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Open &amp;Recent Audio</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>New &amp;From</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>&amp;Amplitude</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>&amp;New...</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>&amp;Duplicate</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>&amp;Open...</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>&amp;Undo</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Cu&amp;t</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>&amp;Copy</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>&amp;Paste</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>&amp;Close</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>&amp;Save</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Save &amp;As...</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Select &amp;All</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>&amp;Delete Selection</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>&amp;Trim</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>&amp;Waveform View</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>&amp;Spectral View</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Sound &amp;Properties...</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>&amp;Reverse</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>&amp;Silence</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Save A&amp;ll</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>&amp;Play</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>&amp;Next</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Pre&amp;vious</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>&amp;Statistics</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>&amp;Tones</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>&amp;Noise</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>&amp;DTMF</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>&amp;Gain...</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Remove &amp;DC</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>&amp;Invert Selection</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>&amp;FFT Analysis</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>&amp;Normalize</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>&amp;Invert</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>&amp;Export...</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>&amp;Metadata...</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>&amp;Redo</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>&amp;Quit</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>S&amp;mooth</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Pa&amp;use</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -2628,10 +2626,6 @@ Channel
         <translation>Visszavonás</translation>
     </message>
     <message>
-        <source>Redo</source>
-        <translation>Helyreállítás</translation>
-    </message>
-    <message>
         <source>Create Regions</source>
         <translation>Tartományok készítése</translation>
     </message>
@@ -2716,14 +2710,6 @@ Channel
         <translation>Csatorna-ID megjelenítése</translation>
     </message>
     <message>
-        <source>Stop Recording</source>
-        <translation>Felvétel megállítása</translation>
-    </message>
-    <message>
-        <source>Record</source>
-        <translation>Felvétel</translation>
-    </message>
-    <message>
         <source>Resume Playback</source>
         <translation>Lejátszás folytatása</translation>
     </message>
@@ -2732,16 +2718,8 @@ Channel
         <translation>Állj és kurzor eltolása</translation>
     </message>
     <message>
-        <source>Stop</source>
-        <translation>Állj</translation>
-    </message>
-    <message>
         <source>Play and Select</source>
         <translation>lejátszás és választék</translation>
-    </message>
-    <message>
-        <source>Play</source>
-        <translation>Lejátszás</translation>
     </message>
     <message>
         <source>Repeat %1</source>
@@ -2964,14 +2942,6 @@ Channel
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Resume</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Pause</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>Clear</source>
         <translation type="unfinished"></translation>
     </message>
@@ -2981,6 +2951,42 @@ Channel
     </message>
     <message>
         <source>You have only %1 available!</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>&amp;Undo</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>&amp;Redo</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Stop &amp;Recording</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>&amp;Record</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Res&amp;ume</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Resume &amp;Playback</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Pa&amp;use</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Sto&amp;p</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>&amp;Play</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -4792,22 +4798,6 @@ a PC-n vagy hálózatán a megnyitáshoz:</translation>
         <translation>%1 csatorna extrahálása</translation>
     </message>
     <message>
-        <source>Stop</source>
-        <translation>Állj</translation>
-    </message>
-    <message>
-        <source>View/Edit</source>
-        <translation>Megtekintés/Szerkesztés</translation>
-    </message>
-    <message>
-        <source>View</source>
-        <translation>Megtekintés</translation>
-    </message>
-    <message>
-        <source>Close</source>
-        <translation>Bezárás</translation>
-    </message>
-    <message>
         <source>Close selected Files</source>
         <translation>Kiválasztott fájlok bezárása</translation>
     </message>
@@ -4902,6 +4892,22 @@ a PC-n vagy hálózatán a megnyitáshoz:</translation>
     <message>
         <source>Descending</source>
         <translation>Csökkenő</translation>
+    </message>
+    <message>
+        <source>Stop</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>View/Edit</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>View</source>
+        <translation type="unfinished">Nézet</translation>
+    </message>
+    <message>
+        <source>Close</source>
+        <translation type="unfinished">Bezárás</translation>
     </message>
 </context>
 <context>

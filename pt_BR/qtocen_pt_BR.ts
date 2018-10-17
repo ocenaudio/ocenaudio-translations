@@ -965,10 +965,6 @@ Você deve checar suas configurações de áudio no painel de preferências.</tr
         <translation>Suave</translation>
     </message>
     <message>
-        <source>Dark</source>
-        <translation>Escuro</translation>
-    </message>
-    <message>
         <source>Select ocenaudio interface language</source>
         <translation>Selecione o idioma da interface do ocenaudio</translation>
     </message>
@@ -991,6 +987,18 @@ Você deve checar suas configurações de áudio no painel de preferências.</tr
     <message>
         <source>Aqua</source>
         <translation></translation>
+    </message>
+    <message>
+        <source>Dark Classic</source>
+        <translation>Clássico Escuro</translation>
+    </message>
+    <message>
+        <source>Dark Aqua</source>
+        <translation>Aqua Escuro</translation>
+    </message>
+    <message>
+        <source>Dark Mojave</source>
+        <translation>Mojave Escuro</translation>
     </message>
 </context>
 <context>

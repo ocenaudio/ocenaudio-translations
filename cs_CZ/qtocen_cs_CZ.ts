@@ -964,10 +964,6 @@ You should check your audio settings in the ocenaudio preferences pane.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Dark</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>Select ocenaudio interface language</source>
         <translation type="unfinished"></translation>
     </message>
@@ -989,6 +985,18 @@ You should check your audio settings in the ocenaudio preferences pane.</source>
     </message>
     <message>
         <source>Aqua</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Dark Classic</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Dark Aqua</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Dark Mojave</source>
         <translation type="unfinished"></translation>
     </message>
 </context>

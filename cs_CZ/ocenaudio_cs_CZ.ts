@@ -63,14 +63,6 @@
         <translation>&amp;Soubor</translation>
     </message>
     <message>
-        <source>Open Recent Audio</source>
-        <translation>Otevřít nahrávku</translation>
-    </message>
-    <message>
-        <source>New From</source>
-        <translation>Nová od</translation>
-    </message>
-    <message>
         <source>&amp;Edit</source>
         <translation>&amp;Úpravit</translation>
     </message>
@@ -115,10 +107,6 @@
         <translation>&amp;Účinky</translation>
     </message>
     <message>
-        <source>Amplitude</source>
-        <translation>Amplituda</translation>
-    </message>
-    <message>
         <source>Filter</source>
         <translation>Filtr</translation>
     </message>
@@ -159,48 +147,8 @@
         <translation>&amp;Ovládání</translation>
     </message>
     <message>
-        <source>New...</source>
-        <translation>Nový...</translation>
-    </message>
-    <message>
-        <source>Duplicate</source>
-        <translation>Duplikuj</translation>
-    </message>
-    <message>
-        <source>Open...</source>
-        <translation>Otevří...</translation>
-    </message>
-    <message>
-        <source>Undo</source>
-        <translation>Zpět</translation>
-    </message>
-    <message>
-        <source>Cut</source>
-        <translation>Střih</translation>
-    </message>
-    <message>
-        <source>Copy</source>
-        <translation>Kopírovat</translation>
-    </message>
-    <message>
-        <source>Paste</source>
-        <translation>Vlož</translation>
-    </message>
-    <message>
-        <source>Close</source>
-        <translation>Zavřít</translation>
-    </message>
-    <message>
         <source>Close All</source>
         <translation>Zavřít vše</translation>
-    </message>
-    <message>
-        <source>Save</source>
-        <translation>Uložit</translation>
-    </message>
-    <message>
-        <source>Save As...</source>
-        <translation>Uložit jako...</translation>
     </message>
     <message>
         <source>Save Selection...</source>
@@ -215,32 +163,12 @@
         <translation>Vložit jinak...</translation>
     </message>
     <message>
-        <source>Select All</source>
-        <translation>Vybrat vše</translation>
-    </message>
-    <message>
-        <source>Delete Selection</source>
-        <translation>Odstranit výběr</translation>
-    </message>
-    <message>
-        <source>Trim</source>
-        <translation>Ustřihnout</translation>
-    </message>
-    <message>
         <source>Adjust Sample Rate...</source>
         <translation>Nastavte vzorkovací frekvenci...</translation>
     </message>
     <message>
         <source>Convert Sample Type...</source>
         <translation>Převod typu vzorku...</translation>
-    </message>
-    <message>
-        <source>Waveform View</source>
-        <translation>Zobrazení spektrální křivky</translation>
-    </message>
-    <message>
-        <source>Spectral View</source>
-        <translation>Zobraz spektrum</translation>
     </message>
     <message>
         <source>Waveform &amp;&amp; Spectral View</source>
@@ -307,14 +235,6 @@
         <translation>Obnovit vertikální zoom</translation>
     </message>
     <message>
-        <source>Sound Properties...</source>
-        <translation>Vlastnosti zvuku...</translation>
-    </message>
-    <message>
-        <source>Reverse</source>
-        <translation>Obrácení</translation>
-    </message>
-    <message>
         <source>-</source>
         <translation></translation>
     </message>
@@ -323,20 +243,8 @@
         <translation>Uložit kopii jako...</translation>
     </message>
     <message>
-        <source>Save All</source>
-        <translation>Uložit vše</translation>
-    </message>
-    <message>
         <source>Revert to Saved</source>
         <translation>Vrátit se k uloženému</translation>
-    </message>
-    <message>
-        <source>Play</source>
-        <translation>Přehrej</translation>
-    </message>
-    <message>
-        <source>Next</source>
-        <translation>Další</translation>
     </message>
     <message>
         <source>Previous</source>
@@ -359,36 +267,12 @@
         <translation>záznam</translation>
     </message>
     <message>
-        <source>Statistics</source>
-        <translation>Statistika</translation>
-    </message>
-    <message>
-        <source>Tones</source>
-        <translation>Tóny</translation>
-    </message>
-    <message>
-        <source>Noise</source>
-        <translation>Šum</translation>
-    </message>
-    <message>
-        <source>DTMF</source>
-        <translation></translation>
-    </message>
-    <message>
         <source>Frames</source>
         <translation>Rámy</translation>
     </message>
     <message>
         <source>Show File Folder...</source>
         <translation>Zobrazit složku souboru/ů ...</translation>
-    </message>
-    <message>
-        <source>Gain...</source>
-        <translation>Ziskat...</translation>
-    </message>
-    <message>
-        <source>Remove DC</source>
-        <translation>Odstraňte DC</translation>
     </message>
     <message>
         <source>Normalize...</source>
@@ -421,10 +305,6 @@
     <message>
         <source>Audio Screenshot...</source>
         <translation>Audio Screenshot...</translation>
-    </message>
-    <message>
-        <source>Invert Selection</source>
-        <translation>Obrátit výběr</translation>
     </message>
     <message>
         <source>Fade In</source>
@@ -471,10 +351,6 @@
         <translation>Swap kanálů</translation>
     </message>
     <message>
-        <source>FFT Analysis</source>
-        <translation>FFT analýza</translation>
-    </message>
-    <message>
         <source>Delay...</source>
         <translation>Zpoždění...</translation>
     </message>
@@ -511,10 +387,6 @@
         <translation>Šum...</translation>
     </message>
     <message>
-        <source>Normalize</source>
-        <translation>Normalizovat</translation>
-    </message>
-    <message>
         <source>Sample Delay...</source>
         <translation>Ukázka pauzy ...</translation>
     </message>
@@ -533,14 +405,6 @@
     <message>
         <source>Add Random Noise...</source>
         <translation>Přidat náhodný šum...</translation>
-    </message>
-    <message>
-        <source>Invert</source>
-        <translation>Obrátit</translation>
-    </message>
-    <message>
-        <source>Export...</source>
-        <translation>Export...</translation>
     </message>
     <message>
         <source>Export Selection...</source>
@@ -583,10 +447,6 @@
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Metadata...</source>
-        <translation>Metadata...</translation>
-    </message>
-    <message>
         <source>Regions and Markers...</source>
         <translation>Oblasti a značky...</translation>
     </message>
@@ -617,10 +477,6 @@
     <message>
         <source>Import Regions...</source>
         <translation>Importovat oblasti...</translation>
-    </message>
-    <message>
-        <source>Redo</source>
-        <translation>Zpět</translation>
     </message>
     <message>
         <source>Mini Level Meter</source>
@@ -663,16 +519,6 @@
         <translation>Předchozí Zero Crossing</translation>
     </message>
     <message>
-        <source>Silence</source>
-        <comment>Effect</comment>
-        <translation>ticho</translation>
-    </message>
-    <message>
-        <source>Silence</source>
-        <comment>Generator</comment>
-        <translation>ticho</translation>
-    </message>
-    <message>
         <source>Fade...</source>
         <translation type="unfinished"></translation>
     </message>
@@ -705,10 +551,6 @@
         <translation>O</translation>
     </message>
     <message>
-        <source>Quit</source>
-        <translation>Ukonči</translation>
-    </message>
-    <message>
         <source>Record Options</source>
         <translation type="unfinished"></translation>
     </message>
@@ -730,10 +572,6 @@
     </message>
     <message>
         <source>Noise Reduction</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Smooth</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -789,10 +627,6 @@
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Pause</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>P</source>
         <translation type="unfinished"></translation>
     </message>
@@ -806,6 +640,170 @@
     </message>
     <message>
         <source>Show Selection Overlays</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Open &amp;Recent Audio</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>New &amp;From</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>&amp;Amplitude</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>&amp;New...</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>&amp;Duplicate</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>&amp;Open...</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>&amp;Undo</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Cu&amp;t</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>&amp;Copy</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>&amp;Paste</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>&amp;Close</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>&amp;Save</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Save &amp;As...</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Select &amp;All</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>&amp;Delete Selection</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>&amp;Trim</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>&amp;Waveform View</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>&amp;Spectral View</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Sound &amp;Properties...</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>&amp;Reverse</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>&amp;Silence</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Save A&amp;ll</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>&amp;Play</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>&amp;Next</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Pre&amp;vious</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>&amp;Statistics</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>&amp;Tones</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>&amp;Noise</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>&amp;DTMF</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>&amp;Gain...</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Remove &amp;DC</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>&amp;Invert Selection</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>&amp;FFT Analysis</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>&amp;Normalize</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>&amp;Invert</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>&amp;Export...</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>&amp;Metadata...</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>&amp;Redo</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>&amp;Quit</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>S&amp;mooth</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Pa&amp;use</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -2628,10 +2626,6 @@ Channel
         <translation>Zpět</translation>
     </message>
     <message>
-        <source>Redo</source>
-        <translation>Zpět</translation>
-    </message>
-    <message>
         <source>Create Regions</source>
         <translation>Vytvoř oblasti</translation>
     </message>
@@ -2716,14 +2710,6 @@ Channel
         <translation>Zobrazit ID kanálu</translation>
     </message>
     <message>
-        <source>Stop Recording</source>
-        <translation>Zastavit záznam</translation>
-    </message>
-    <message>
-        <source>Record</source>
-        <translation>záznam</translation>
-    </message>
-    <message>
         <source>Resume Playback</source>
         <translation>Obnovit přehrávání</translation>
     </message>
@@ -2732,16 +2718,8 @@ Channel
         <translation>Zastavení a přesun kurzoru</translation>
     </message>
     <message>
-        <source>Stop</source>
-        <translation>Stop</translation>
-    </message>
-    <message>
         <source>Play and Select</source>
         <translation>Přehraj a vyber</translation>
-    </message>
-    <message>
-        <source>Play</source>
-        <translation>Přehrej</translation>
     </message>
     <message>
         <source>Repeat %1</source>
@@ -2964,14 +2942,6 @@ Channel
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Resume</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Pause</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>Clear</source>
         <translation type="unfinished"></translation>
     </message>
@@ -2981,6 +2951,42 @@ Channel
     </message>
     <message>
         <source>You have only %1 available!</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>&amp;Undo</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>&amp;Redo</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Stop &amp;Recording</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>&amp;Record</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Res&amp;ume</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Resume &amp;Playback</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Pa&amp;use</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Sto&amp;p</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>&amp;Play</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -4713,24 +4719,8 @@ or your network that you want to open:</source>
         <translation>Extrakt %1 kanál</translation>
     </message>
     <message>
-        <source>Stop</source>
-        <translation>Stop</translation>
-    </message>
-    <message>
         <source>Play</source>
         <translation>Přehrej</translation>
-    </message>
-    <message>
-        <source>View/Edit</source>
-        <translation>Zobrazit / Upravit</translation>
-    </message>
-    <message>
-        <source>View</source>
-        <translation>Zobrazit</translation>
-    </message>
-    <message>
-        <source>Close</source>
-        <translation>Zavřít</translation>
     </message>
     <message>
         <source>Save</source>
@@ -4899,6 +4889,22 @@ or your network that you want to open:</source>
     <message>
         <source>Descending</source>
         <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Stop</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>View/Edit</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>View</source>
+        <translation type="unfinished">Zobrazit</translation>
+    </message>
+    <message>
+        <source>Close</source>
+        <translation type="unfinished">Zavřít</translation>
     </message>
 </context>
 <context>

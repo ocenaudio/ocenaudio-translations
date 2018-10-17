@@ -59,14 +59,6 @@
         <translation>&amp;Arquivo</translation>
     </message>
     <message>
-        <source>Open Recent Audio</source>
-        <translation>Abrir Áudio Recente</translation>
-    </message>
-    <message>
-        <source>New From</source>
-        <translation>Novo de</translation>
-    </message>
-    <message>
         <source>&amp;Edit</source>
         <translation>&amp;Editar</translation>
     </message>
@@ -93,10 +85,6 @@
     <message>
         <source>Effec&amp;ts</source>
         <translation>Efei&amp;tos</translation>
-    </message>
-    <message>
-        <source>Amplitude</source>
-        <translation>Amplitude</translation>
     </message>
     <message>
         <source>Filter</source>
@@ -155,48 +143,8 @@
         <translation></translation>
     </message>
     <message>
-        <source>New...</source>
-        <translation>Novo...</translation>
-    </message>
-    <message>
-        <source>Duplicate</source>
-        <translation>Duplicar</translation>
-    </message>
-    <message>
-        <source>Open...</source>
-        <translation>Abrir...</translation>
-    </message>
-    <message>
-        <source>Undo</source>
-        <translation>Desfazer</translation>
-    </message>
-    <message>
-        <source>Cut</source>
-        <translation>Cortar</translation>
-    </message>
-    <message>
-        <source>Copy</source>
-        <translation>Copiar</translation>
-    </message>
-    <message>
-        <source>Paste</source>
-        <translation>Colar</translation>
-    </message>
-    <message>
-        <source>Close</source>
-        <translation>Fechar</translation>
-    </message>
-    <message>
         <source>Close All</source>
         <translation>Fechar Todos</translation>
-    </message>
-    <message>
-        <source>Save</source>
-        <translation>Salvar</translation>
-    </message>
-    <message>
-        <source>Save As...</source>
-        <translation>Salvar Como...</translation>
     </message>
     <message>
         <source>Save Selection...</source>
@@ -212,18 +160,6 @@
         <translation>Colar Especial...</translation>
     </message>
     <message>
-        <source>Select All</source>
-        <translation>Selecionar Tudo</translation>
-    </message>
-    <message>
-        <source>Delete Selection</source>
-        <translation>Apagar Seleção</translation>
-    </message>
-    <message>
-        <source>Trim</source>
-        <translation>Aparar Seleção</translation>
-    </message>
-    <message>
         <source>Adjust Sample Rate...</source>
         <translation>Ajustar Taxa de Amostragen...</translation>
     </message>
@@ -232,33 +168,8 @@
         <translation>Alterar Formato do Áudio...</translation>
     </message>
     <message>
-        <source>Waveform View</source>
-        <translation>Forma de Onda</translation>
-    </message>
-    <message>
-        <source>Spectral View</source>
-        <translation>Espectrograma</translation>
-    </message>
-    <message>
         <source>Waveform &amp;&amp; Spectral View</source>
         <translation>Forma de onda &amp;&amp; Espectrograma</translation>
-    </message>
-    <message>
-        <source>Silence</source>
-        <comment>Effect</comment>
-        <translation>Silenciar</translation>
-    </message>
-    <message>
-        <source>Tones</source>
-        <translation>Tons</translation>
-    </message>
-    <message>
-        <source>Noise</source>
-        <translation>Ruído</translation>
-    </message>
-    <message>
-        <source>DTMF</source>
-        <translation>DTMF</translation>
     </message>
     <message>
         <source>Frames</source>
@@ -297,10 +208,6 @@
         <translation>Criar Ringtone para iPhone...</translation>
     </message>
     <message>
-        <source>Metadata...</source>
-        <translation>Metadata...</translation>
-    </message>
-    <message>
         <source>Regions and Markers...</source>
         <translation>Regiões e Marcadores...</translation>
     </message>
@@ -329,10 +236,6 @@
         <translation>Importar Regiões...</translation>
     </message>
     <message>
-        <source>Redo</source>
-        <translation>Refazer</translation>
-    </message>
-    <message>
         <source>Mini Level Meter</source>
         <translation></translation>
     </message>
@@ -349,14 +252,6 @@
         <translation>Exportar FTP...</translation>
     </message>
     <message>
-        <source>Gain...</source>
-        <translation>Ganho...</translation>
-    </message>
-    <message>
-        <source>Remove DC</source>
-        <translation>Remover DC</translation>
-    </message>
-    <message>
         <source>Normalize...</source>
         <translation>Normalizar...</translation>
     </message>
@@ -371,11 +266,6 @@
     <message>
         <source>Apply Quantization...</source>
         <translation>Aplicar Quantização...</translation>
-    </message>
-    <message>
-        <source>Silence</source>
-        <comment>Generator</comment>
-        <translation>Silêncio</translation>
     </message>
     <message>
         <source>Fade In</source>
@@ -450,10 +340,6 @@
         <translation>Noise Gate...</translation>
     </message>
     <message>
-        <source>Normalize</source>
-        <translation>Normalizar</translation>
-    </message>
-    <message>
         <source>Sample Delay...</source>
         <translation></translation>
     </message>
@@ -472,14 +358,6 @@
     <message>
         <source>Add Random Noise...</source>
         <translation>Adicionar Ruído...</translation>
-    </message>
-    <message>
-        <source>Invert</source>
-        <translation>Inverter</translation>
-    </message>
-    <message>
-        <source>Export...</source>
-        <translation>Exportar...</translation>
     </message>
     <message>
         <source>Export Selection...</source>
@@ -530,16 +408,8 @@
         <translation>Trocar Canais</translation>
     </message>
     <message>
-        <source>FFT Analysis</source>
-        <translation>Análise FFT</translation>
-    </message>
-    <message>
         <source>Audio Screenshot...</source>
         <translation>Gerar imagem do audio...</translation>
-    </message>
-    <message>
-        <source>Invert Selection</source>
-        <translation>Inverter Seleção</translation>
     </message>
     <message>
         <source>Hide Toolbar</source>
@@ -590,10 +460,6 @@
         <translation>Gravar</translation>
     </message>
     <message>
-        <source>Statistics</source>
-        <translation>Estatísticas</translation>
-    </message>
-    <message>
         <source>Zoom In</source>
         <translation>Aumentar Zoom</translation>
     </message>
@@ -618,14 +484,6 @@
         <translation>Restaurar Zoom Vertical</translation>
     </message>
     <message>
-        <source>Sound Properties...</source>
-        <translation>Propriedades do Áudio...</translation>
-    </message>
-    <message>
-        <source>Reverse</source>
-        <translation>Reverter</translation>
-    </message>
-    <message>
         <source>-</source>
         <translation></translation>
     </message>
@@ -634,20 +492,8 @@
         <translation>Salvar Cópia Como...</translation>
     </message>
     <message>
-        <source>Save All</source>
-        <translation>Salvar Todos</translation>
-    </message>
-    <message>
         <source>Revert to Saved</source>
         <translation>Reverter para Salvo</translation>
-    </message>
-    <message>
-        <source>Play</source>
-        <translation>Reproduzir</translation>
-    </message>
-    <message>
-        <source>Next</source>
-        <translation>Áudio Seguinte</translation>
     </message>
     <message>
         <source>Previous</source>
@@ -706,10 +552,6 @@
         <translation>Sobre</translation>
     </message>
     <message>
-        <source>Quit</source>
-        <translation>Sair</translation>
-    </message>
-    <message>
         <source>Record Options</source>
         <translation>Opções de Gravação</translation>
     </message>
@@ -732,10 +574,6 @@
     <message>
         <source>Noise Reduction</source>
         <translation>Redução de Ruído</translation>
-    </message>
-    <message>
-        <source>Smooth</source>
-        <translation>Suavizar</translation>
     </message>
     <message>
         <source>Noise Reduction...</source>
@@ -790,10 +628,6 @@
         <translation>Criar Trilhas Extras para Canais</translation>
     </message>
     <message>
-        <source>Pause</source>
-        <translation>Pausa</translation>
-    </message>
-    <message>
         <source>P</source>
         <translation></translation>
     </message>
@@ -808,6 +642,170 @@
     <message>
         <source>Show Selection Overlays</source>
         <translation>Mostrar Sobreposição em Seleção</translation>
+    </message>
+    <message>
+        <source>Open &amp;Recent Audio</source>
+        <translation>A&amp;brir Áudio Recente</translation>
+    </message>
+    <message>
+        <source>New &amp;From</source>
+        <translation>No&amp;vo De</translation>
+    </message>
+    <message>
+        <source>&amp;Amplitude</source>
+        <translation></translation>
+    </message>
+    <message>
+        <source>&amp;New...</source>
+        <translation>&amp;Novo...</translation>
+    </message>
+    <message>
+        <source>&amp;Duplicate</source>
+        <translation>&amp;Duplicar</translation>
+    </message>
+    <message>
+        <source>&amp;Open...</source>
+        <translation>&amp;Abrir...</translation>
+    </message>
+    <message>
+        <source>&amp;Undo</source>
+        <translation>&amp;Desfazer</translation>
+    </message>
+    <message>
+        <source>Cu&amp;t</source>
+        <translation>Corta&amp;r</translation>
+    </message>
+    <message>
+        <source>&amp;Copy</source>
+        <translation>&amp;Copiar</translation>
+    </message>
+    <message>
+        <source>&amp;Paste</source>
+        <translation>Co&amp;lar</translation>
+    </message>
+    <message>
+        <source>&amp;Close</source>
+        <translation>&amp;Fechar</translation>
+    </message>
+    <message>
+        <source>&amp;Save</source>
+        <translation>&amp;Salvar</translation>
+    </message>
+    <message>
+        <source>Save &amp;As...</source>
+        <translation>Salvar &amp;Como...</translation>
+    </message>
+    <message>
+        <source>Select &amp;All</source>
+        <translation>Selecionar &amp;Todos</translation>
+    </message>
+    <message>
+        <source>&amp;Delete Selection</source>
+        <translation>&amp;Apagar Seleção</translation>
+    </message>
+    <message>
+        <source>&amp;Trim</source>
+        <translation>A&amp;parar</translation>
+    </message>
+    <message>
+        <source>&amp;Waveform View</source>
+        <translation>Forma de &amp;Onda</translation>
+    </message>
+    <message>
+        <source>&amp;Spectral View</source>
+        <translation>&amp;Espectrograma</translation>
+    </message>
+    <message>
+        <source>Sound &amp;Properties...</source>
+        <translation>&amp;Propriedadas do Áudio...</translation>
+    </message>
+    <message>
+        <source>&amp;Reverse</source>
+        <translation>&amp;Reverter</translation>
+    </message>
+    <message>
+        <source>&amp;Silence</source>
+        <translation>&amp;Silêncio</translation>
+    </message>
+    <message>
+        <source>Save A&amp;ll</source>
+        <translation>Salvar &amp;Todos</translation>
+    </message>
+    <message>
+        <source>&amp;Play</source>
+        <translation>Re&amp;produzir</translation>
+    </message>
+    <message>
+        <source>&amp;Next</source>
+        <translation>Áudio &amp;Seguinte</translation>
+    </message>
+    <message>
+        <source>Pre&amp;vious</source>
+        <translation>Áudio &amp;Anterior</translation>
+    </message>
+    <message>
+        <source>&amp;Statistics</source>
+        <translation>&amp;Estatísticas</translation>
+    </message>
+    <message>
+        <source>&amp;Tones</source>
+        <translation>&amp;Tons</translation>
+    </message>
+    <message>
+        <source>&amp;Noise</source>
+        <translation>&amp;Ruído</translation>
+    </message>
+    <message>
+        <source>&amp;DTMF</source>
+        <translation></translation>
+    </message>
+    <message>
+        <source>&amp;Gain...</source>
+        <translation>&amp;Ganho...</translation>
+    </message>
+    <message>
+        <source>Remove &amp;DC</source>
+        <translation>Remover &amp;DC</translation>
+    </message>
+    <message>
+        <source>&amp;Invert Selection</source>
+        <translation>&amp;Inverter Seleção</translation>
+    </message>
+    <message>
+        <source>&amp;FFT Analysis</source>
+        <translation>&amp;Análise FFT</translation>
+    </message>
+    <message>
+        <source>&amp;Normalize</source>
+        <translation>&amp;Normalizar</translation>
+    </message>
+    <message>
+        <source>&amp;Invert</source>
+        <translation>&amp;Inverter</translation>
+    </message>
+    <message>
+        <source>&amp;Export...</source>
+        <translation>&amp;Exportar...</translation>
+    </message>
+    <message>
+        <source>&amp;Metadata...</source>
+        <translation>&amp;Metadados...</translation>
+    </message>
+    <message>
+        <source>&amp;Redo</source>
+        <translation>Refa&amp;zer</translation>
+    </message>
+    <message>
+        <source>&amp;Quit</source>
+        <translation>Sai&amp;r</translation>
+    </message>
+    <message>
+        <source>S&amp;mooth</source>
+        <translation>Suavi&amp;zar</translation>
+    </message>
+    <message>
+        <source>Pa&amp;use</source>
+        <translation>Pa&amp;usa</translation>
     </message>
 </context>
 <context>
@@ -2633,10 +2631,6 @@ Saída
         <translation>Desfazer</translation>
     </message>
     <message>
-        <source>Redo</source>
-        <translation>Refazer</translation>
-    </message>
-    <message>
         <source>Create Regions</source>
         <translation>Criar Regiões</translation>
     </message>
@@ -2721,14 +2715,6 @@ Saída
         <translation>Mostrar Identificação dos Canais</translation>
     </message>
     <message>
-        <source>Stop Recording</source>
-        <translation>Parar Gravação</translation>
-    </message>
-    <message>
-        <source>Record</source>
-        <translation>Gravar</translation>
-    </message>
-    <message>
         <source>Resume Playback</source>
         <translation>Continuar Reprodução</translation>
     </message>
@@ -2737,16 +2723,8 @@ Saída
         <translation>Parar e Mover o Cursor</translation>
     </message>
     <message>
-        <source>Stop</source>
-        <translation>Parar</translation>
-    </message>
-    <message>
         <source>Play and Select</source>
         <translation>Reproduzir e Selecionar</translation>
-    </message>
-    <message>
-        <source>Play</source>
-        <translation>Reproduzir</translation>
     </message>
     <message>
         <source>Repeat %1</source>
@@ -2969,14 +2947,6 @@ Saída
         <translation>Mostrar Ferramentas de Sobreposição</translation>
     </message>
     <message>
-        <source>Resume</source>
-        <translation>Continuar</translation>
-    </message>
-    <message>
-        <source>Pause</source>
-        <translation>Pausar</translation>
-    </message>
-    <message>
         <source>Clear</source>
         <translation>Limpar</translation>
     </message>
@@ -2987,6 +2957,42 @@ Saída
     <message>
         <source>You have only %1 available!</source>
         <translation>Você possui somente %1 disponível!</translation>
+    </message>
+    <message>
+        <source>&amp;Undo</source>
+        <translation>&amp;Desfazer</translation>
+    </message>
+    <message>
+        <source>&amp;Redo</source>
+        <translation>&amp;Refazer</translation>
+    </message>
+    <message>
+        <source>Stop &amp;Recording</source>
+        <translation>Parar &amp;Gravação</translation>
+    </message>
+    <message>
+        <source>&amp;Record</source>
+        <translation>&amp;Gravar</translation>
+    </message>
+    <message>
+        <source>Res&amp;ume</source>
+        <translation>Contin&amp;uar</translation>
+    </message>
+    <message>
+        <source>Resume &amp;Playback</source>
+        <translation>Continuar Re&amp;produção</translation>
+    </message>
+    <message>
+        <source>Pa&amp;use</source>
+        <translation>Pa&amp;usa</translation>
+    </message>
+    <message>
+        <source>Sto&amp;p</source>
+        <translation>&amp;Parar</translation>
+    </message>
+    <message>
+        <source>&amp;Play</source>
+        <translation>Re&amp;produzir</translation>
     </message>
 </context>
 <context>
@@ -4799,22 +4805,6 @@ ou sua rede de trabalho que você deseje abrir:</translation>
         <translation>Extrair Canal %1</translation>
     </message>
     <message>
-        <source>Stop</source>
-        <translation>Parar</translation>
-    </message>
-    <message>
-        <source>View/Edit</source>
-        <translation>Exibir/Editar</translation>
-    </message>
-    <message>
-        <source>View</source>
-        <translation>Exibir</translation>
-    </message>
-    <message>
-        <source>Close</source>
-        <translation>Fechar</translation>
-    </message>
-    <message>
         <source>Close selected Files</source>
         <translation>Fechar Arquivos Selecionados</translation>
     </message>
@@ -4909,6 +4899,22 @@ ou sua rede de trabalho que você deseje abrir:</translation>
     <message>
         <source>Descending</source>
         <translation>Descendente</translation>
+    </message>
+    <message>
+        <source>Stop</source>
+        <translation>Parar</translation>
+    </message>
+    <message>
+        <source>View/Edit</source>
+        <translation>Exibir/Editar</translation>
+    </message>
+    <message>
+        <source>View</source>
+        <translation>Exibir</translation>
+    </message>
+    <message>
+        <source>Close</source>
+        <translation>Fechar</translation>
     </message>
 </context>
 <context>
