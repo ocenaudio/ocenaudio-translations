@@ -76,7 +76,7 @@
     </message>
     <message>
         <source>Hindi</source>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
     <message>
         <source>German</source>
@@ -652,51 +652,51 @@
     </message>
     <message>
         <source>Create/Edit region</source>
-        <translation type="unfinished"></translation>
+        <translation>Crear/Editar región</translation>
     </message>
     <message>
         <source>Move Region</source>
-        <translation type="unfinished"></translation>
+        <translation>Mover región</translation>
     </message>
     <message>
         <source>Pasting file %1</source>
-        <translation type="unfinished">Pegando archivo  %1</translation>
+        <translation>Pegando archivo %1</translation>
     </message>
     <message>
         <source>Selection Begin</source>
-        <translation type="unfinished"></translation>
+        <translation>Inicio de selección</translation>
     </message>
     <message>
         <source>Selection End</source>
-        <translation type="unfinished"></translation>
+        <translation>Final de selección</translation>
     </message>
     <message>
         <source>Selection Duration</source>
-        <translation type="unfinished"></translation>
+        <translation>Duración de la selección</translation>
     </message>
     <message>
         <source>Copy</source>
-        <translation type="unfinished"></translation>
+        <translation>Copiar</translation>
     </message>
     <message>
         <source>Clear</source>
-        <translation type="unfinished"></translation>
+        <translation>Despejar</translation>
     </message>
     <message>
         <source>Zoom Selection</source>
-        <translation type="unfinished"></translation>
+        <translation>Zoom de selección</translation>
     </message>
     <message>
         <source>Zoom Back</source>
-        <translation type="unfinished"></translation>
+        <translation>Volver a Zoom</translation>
     </message>
     <message>
         <source>Drag me!</source>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
     <message>
         <source>Double-Click to create a marker</source>
-        <translation type="unfinished"></translation>
+        <translation>Doble clic para crear marcador</translation>
     </message>
 </context>
 <context>
@@ -719,12 +719,13 @@
     </message>
     <message>
         <source>Update Device List Failed</source>
-        <translation type="unfinished"></translation>
+        <translation>Error al actualizar la lista de dispositivos</translation>
     </message>
     <message>
         <source>An error occurred while updating the list of audio devices using the %1 backend. In this condition the capture and playback capabilities may not be available.
 You should check your audio settings in the ocenaudio preferences pane.</source>
-        <translation type="unfinished"></translation>
+        <translation>Se produjo un error al actualizar la lista de dispositivos de audio usando el backend %1. En esta condición, las capacidades de captura y reproducción pueden no estar disponibles.
+Debes verificar tu configuración de audio en el panel de preferencias de Ocenaudio.</translation>
     </message>
 </context>
 <context>
@@ -867,11 +868,11 @@ You should check your audio settings in the ocenaudio preferences pane.</source>
     <name>QOcenAudioRegionMime</name>
     <message>
         <source>Region</source>
-        <translation type="unfinished"></translation>
+        <translation>Región</translation>
     </message>
     <message>
         <source>%1 from %2</source>
-        <translation type="unfinished"></translation>
+        <translation>%1 de %2</translation>
     </message>
 </context>
 <context>
@@ -934,7 +935,7 @@ You should check your audio settings in the ocenaudio preferences pane.</source>
     <name>QOcenEditMenuSeparator</name>
     <message>
         <source>-</source>
-        <translation type="unfinished">-</translation>
+        <translation></translation>
     </message>
 </context>
 <context>
@@ -989,15 +990,15 @@ You should check your audio settings in the ocenaudio preferences pane.</source>
     </message>
     <message>
         <source>Dark Classic</source>
-        <translation type="unfinished"></translation>
+        <translation>Clásico Oscuro</translation>
     </message>
     <message>
         <source>Dark Aqua</source>
-        <translation type="unfinished"></translation>
+        <translation>Aqua Oscuro</translation>
     </message>
     <message>
         <source>Dark Mojave</source>
-        <translation type="unfinished"></translation>
+        <translation>Mojave Oscuro</translation>
     </message>
 </context>
 <context>
@@ -1324,24 +1325,24 @@ You should check your audio settings in the ocenaudio preferences pane.</source>
     </message>
     <message>
         <source>If you continue all comments from this region will be removed.</source>
-        <translation type="unfinished"></translation>
+        <translation>Si continúas todos los comentarios de esta región serán eliminados.</translation>
     </message>
     <message>
         <source>The disk you are using to save is full.</source>
-        <translation type="unfinished"></translation>
+        <translation>El disco que está utilizando para guardar está lleno.</translation>
     </message>
     <message>
         <source>File: %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Archivo: %1</translation>
     </message>
     <message>
         <source>
 Storage: %1 mount on %2</source>
-        <translation type="unfinished"></translation>
+        <translation>Almacenamiento: %1 montaje en %2</translation>
     </message>
     <message>
         <source>Disk Is Full</source>
-        <translation type="unfinished"></translation>
+        <translation>El disco esta lleno</translation>
     </message>
 </context>
 <context>
@@ -1791,35 +1792,35 @@ Storage: %1 mount on %2</source>
     </message>
     <message>
         <source>Audio Device</source>
-        <translation type="unfinished"></translation>
+        <translation>Dispositivo de audio</translation>
     </message>
     <message>
         <source>Replace existing audio (overwrite mode)</source>
-        <translation type="unfinished"></translation>
+        <translation>Reemplazar audio existente (modo de sobrescritura)</translation>
     </message>
     <message>
         <source>Use only full duplex devices</source>
-        <translation type="unfinished"></translation>
+        <translation>Utilice solo dispositivos full duplex</translation>
     </message>
     <message>
         <source>Pause playback on markers</source>
-        <translation type="unfinished"></translation>
+        <translation>Pausar reproducción en marcadores</translation>
     </message>
     <message>
         <source>Playback Options</source>
-        <translation type="unfinished"></translation>
+        <translation>Opciones de reproducción</translation>
     </message>
     <message>
         <source>Record Options</source>
-        <translation type="unfinished"></translation>
+        <translation>Opciones de grabación</translation>
     </message>
     <message>
         <source>No Full-Duplex Devices Found</source>
-        <translation type="unfinished"></translation>
+        <translation>No se encontraron dispositivos full duplex</translation>
     </message>
     <message>
         <source>Continue to play next/selected audio </source>
-        <translation type="unfinished"></translation>
+        <translation>Continuar reproduciendo el audio siguiente/seleccionado</translation>
     </message>
 </context>
 <context>

@@ -492,7 +492,7 @@
     </message>
     <message>
         <source>Key Bindings Preferences</source>
-        <translation type="unfinished"></translation>
+        <translation>Tastenkombinationen Einstellungen</translation>
     </message>
     <message>
         <source>Network</source>
@@ -500,11 +500,11 @@
     </message>
     <message>
         <source>Network Preferences</source>
-        <translation type="unfinished"></translation>
+        <translation>Netzwerkeinstellungen</translation>
     </message>
     <message>
         <source>Supported Sound Files</source>
-        <translation type="unfinished"></translation>
+        <translation>Unterstützte Audiodateien</translation>
     </message>
     <message>
         <source>Sound</source>
@@ -660,7 +660,7 @@
     </message>
     <message>
         <source>Pasting file %1</source>
-        <translation type="unfinished">Datei %1 einfügen</translation>
+        <translation>Datei %1 einfügen</translation>
     </message>
     <message>
         <source>Selection Begin</source>
@@ -1583,7 +1583,7 @@ Storage: %1 mount on %2</source>
     <name>QOcenPreferences</name>
     <message>
         <source>Settings</source>
-        <translation type="unfinished">Einstellungen</translation>
+        <translation>Einstellungen</translation>
     </message>
 </context>
 <context>
@@ -1624,15 +1624,15 @@ Storage: %1 mount on %2</source>
     </message>
     <message>
         <source>Edit</source>
-        <translation type="unfinished"></translation>
+        <translation>Bearbeiten</translation>
     </message>
     <message>
         <source>Reset</source>
-        <translation type="unfinished"></translation>
+        <translation>Zurücksetzen</translation>
     </message>
     <message>
         <source>Remove</source>
-        <translation type="unfinished"></translation>
+        <translation>Entferne</translation>
     </message>
 </context>
 <context>
@@ -1775,7 +1775,7 @@ Storage: %1 mount on %2</source>
     </message>
     <message>
         <source>Custom</source>
-        <translation type="unfinished">Benutzerdefiniert</translation>
+        <translation>Benutzerdefiniert</translation>
     </message>
     <message>
         <source>No Devices Found</source>
@@ -1938,7 +1938,7 @@ Storage: %1 mount on %2</source>
     </message>
     <message>
         <source>Color Scheme</source>
-        <translation type="unfinished">Farbschema</translation>
+        <translation>Farbschema</translation>
     </message>
     <message>
         <source>Select Spectrogram Color Scheme</source>

@@ -620,191 +620,191 @@
     </message>
     <message>
         <source>Overwrite When Recording</source>
-        <translation type="unfinished"></translation>
+        <translation>Sobrescribir al Grabar</translation>
     </message>
     <message>
         <source>Create Channels Extra Tracks </source>
-        <translation type="unfinished"></translation>
+        <translation>Crear pistas adicionales para canales</translation>
     </message>
     <message>
         <source>P</source>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
     <message>
         <source>Zoom Back</source>
-        <translation type="unfinished"></translation>
+        <translation>Retroceder</translation>
     </message>
     <message>
         <source>Show Overlay Tools</source>
-        <translation type="unfinished"></translation>
+        <translation>Mostrar Herramientas de Superposición</translation>
     </message>
     <message>
         <source>Show Selection Overlays</source>
-        <translation type="unfinished"></translation>
+        <translation>Mostrar Superposiciones de Selección</translation>
     </message>
     <message>
         <source>Open &amp;Recent Audio</source>
-        <translation type="unfinished"></translation>
+        <translation>Abrir Audio &amp;Reciente</translation>
     </message>
     <message>
         <source>New &amp;From</source>
-        <translation type="unfinished"></translation>
+        <translation>Nue&amp;vo Desde</translation>
     </message>
     <message>
         <source>&amp;Amplitude</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Amplitud</translation>
     </message>
     <message>
         <source>&amp;New...</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Nuevo...</translation>
     </message>
     <message>
         <source>&amp;Duplicate</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Duplicar</translation>
     </message>
     <message>
         <source>&amp;Open...</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Abrir...</translation>
     </message>
     <message>
         <source>&amp;Undo</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Deshacer</translation>
     </message>
     <message>
         <source>Cu&amp;t</source>
-        <translation type="unfinished"></translation>
+        <translation>Cor&amp;tar</translation>
     </message>
     <message>
         <source>&amp;Copy</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Copiar</translation>
     </message>
     <message>
         <source>&amp;Paste</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Pegar</translation>
     </message>
     <message>
         <source>&amp;Close</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Cerrar</translation>
     </message>
     <message>
         <source>&amp;Save</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Guardar</translation>
     </message>
     <message>
         <source>Save &amp;As...</source>
-        <translation type="unfinished"></translation>
+        <translation>Guardar Co&amp;mo...</translation>
     </message>
     <message>
         <source>Select &amp;All</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Seleccionar todo</translation>
     </message>
     <message>
         <source>&amp;Delete Selection</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Eliminar selección</translation>
     </message>
     <message>
         <source>&amp;Trim</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Recortar</translation>
     </message>
     <message>
         <source>&amp;Waveform View</source>
-        <translation type="unfinished"></translation>
+        <translation>Vista en Forma de &amp;Onda</translation>
     </message>
     <message>
         <source>&amp;Spectral View</source>
-        <translation type="unfinished"></translation>
+        <translation>Vista &amp;Espectral</translation>
     </message>
     <message>
         <source>Sound &amp;Properties...</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Propiedades de Sonido...</translation>
     </message>
     <message>
         <source>&amp;Reverse</source>
-        <translation type="unfinished"></translation>
+        <translation>Al &amp;Revés</translation>
     </message>
     <message>
         <source>&amp;Silence</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Silencio</translation>
     </message>
     <message>
         <source>Save A&amp;ll</source>
-        <translation type="unfinished"></translation>
+        <translation>Guardar &amp;Todo</translation>
     </message>
     <message>
         <source>&amp;Play</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Reproducir</translation>
     </message>
     <message>
         <source>&amp;Next</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Siguiente</translation>
     </message>
     <message>
         <source>Pre&amp;vious</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Anterior</translation>
     </message>
     <message>
         <source>&amp;Statistics</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Estadísticas</translation>
     </message>
     <message>
         <source>&amp;Tones</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Tonos</translation>
     </message>
     <message>
         <source>&amp;Noise</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Ruido</translation>
     </message>
     <message>
         <source>&amp;DTMF</source>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
     <message>
         <source>&amp;Gain...</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Ganancia...</translation>
     </message>
     <message>
         <source>Remove &amp;DC</source>
-        <translation type="unfinished"></translation>
+        <translation>Quitar &amp;DC</translation>
     </message>
     <message>
         <source>&amp;Invert Selection</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Invertir selección</translation>
     </message>
     <message>
         <source>&amp;FFT Analysis</source>
-        <translation type="unfinished"></translation>
+        <translation>Anílisis &amp;FFT</translation>
     </message>
     <message>
         <source>&amp;Normalize</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Normalizar</translation>
     </message>
     <message>
         <source>&amp;Invert</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Invertir</translation>
     </message>
     <message>
         <source>&amp;Export...</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Exportar...</translation>
     </message>
     <message>
         <source>&amp;Metadata...</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Metadatos...</translation>
     </message>
     <message>
         <source>&amp;Redo</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Rehacer</translation>
     </message>
     <message>
         <source>&amp;Quit</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Salir</translation>
     </message>
     <message>
         <source>S&amp;mooth</source>
-        <translation type="unfinished"></translation>
+        <translation>Sua&amp;ve</translation>
     </message>
     <message>
         <source>Pa&amp;use</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Pausa</translation>
     </message>
 </context>
 <context>
@@ -2029,7 +2029,7 @@ Haga clic aquí para descargarla.</translation>
     </message>
     <message>
         <source>➨</source>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
     <message>
         <source>Don&apos;t Change (22050 Hz)</source>
@@ -2915,87 +2915,87 @@ Canal
     </message>
     <message>
         <source>Show/Hide Selection Overlays</source>
-        <translation type="unfinished"></translation>
+        <translation>Mostrar/Ocultar Superposiciones de Selección</translation>
     </message>
     <message>
         <source>Show/Hide Overlay Tools</source>
-        <translation type="unfinished"></translation>
+        <translation>Mostrar/Ocultar Herramientas de Superposición</translation>
     </message>
     <message>
         <source>Note</source>
-        <translation type="unfinished"></translation>
+        <translation>Nota</translation>
     </message>
     <message>
         <source>You are about to create extra tracks for each channel in your audio file. Are you sure you want to proceed?</source>
-        <translation type="unfinished"></translation>
+        <translation>Estás a punto de crear pistas adicionales para cada canal en tu archivo de audio. ¿Estas seguro que deseas continuar?</translation>
     </message>
     <message>
         <source>Regions created in new tracks will be saved to an external file.</source>
-        <translation type="unfinished"></translation>
+        <translation>Las regiones creadas en nuevas pistas se guardarán en un archivo externo.</translation>
     </message>
     <message>
         <source>Hide Selection Overlays</source>
-        <translation type="unfinished"></translation>
+        <translation>Ocultar Superposiciones de Selección</translation>
     </message>
     <message>
         <source>Show Selection Overlays</source>
-        <translation type="unfinished"></translation>
+        <translation>Mostrar Superposiciones de Selección</translation>
     </message>
     <message>
         <source>Hide Overlay Tools</source>
-        <translation type="unfinished"></translation>
+        <translation>Ocultar Herramientas de Superposición</translation>
     </message>
     <message>
         <source>Show Overlay Tools</source>
-        <translation type="unfinished"></translation>
+        <translation>Mostrar Herramientas de Superposición</translation>
     </message>
     <message>
         <source>Clear</source>
-        <translation type="unfinished"></translation>
+        <translation>Despejar</translation>
     </message>
     <message>
         <source>Temporary Space Warning</source>
-        <translation type="unfinished"></translation>
+        <translation>Aviso de espacio temporal</translation>
     </message>
     <message>
         <source>You have only %1 available!</source>
-        <translation type="unfinished"></translation>
+        <translation>Tienes solo %1 disponible!</translation>
     </message>
     <message>
         <source>&amp;Undo</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Deshacer</translation>
     </message>
     <message>
         <source>&amp;Redo</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Rehacer</translation>
     </message>
     <message>
         <source>Stop &amp;Recording</source>
-        <translation type="unfinished"></translation>
+        <translation>Detener &amp;Grabación</translation>
     </message>
     <message>
         <source>&amp;Record</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Grabar</translation>
     </message>
     <message>
         <source>Res&amp;ume</source>
-        <translation type="unfinished"></translation>
+        <translation>Re&amp;anudar</translation>
     </message>
     <message>
         <source>Resume &amp;Playback</source>
-        <translation type="unfinished"></translation>
+        <translation>Reanudar &amp;Reproducción</translation>
     </message>
     <message>
         <source>Pa&amp;use</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Pausa</translation>
     </message>
     <message>
         <source>Sto&amp;p</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Detener</translation>
     </message>
     <message>
         <source>&amp;Play</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Reproducir</translation>
     </message>
 </context>
 <context>
@@ -3863,11 +3863,11 @@ Canal
     </message>
     <message>
         <source>Current file path</source>
-        <translation type="unfinished"></translation>
+        <translation>Ruta del archivo actual</translation>
     </message>
     <message>
         <source>Last export path</source>
-        <translation type="unfinished"></translation>
+        <translation>Última ruta de exportación</translation>
     </message>
 </context>
 <context>
@@ -4550,11 +4550,11 @@ Canal
     <name>QOcenSelectStorageDialog</name>
     <message>
         <source>Temporary Storage Configuration</source>
-        <translation type="unfinished"></translation>
+        <translation>Configuración del almacenamiento temporal</translation>
     </message>
     <message>
         <source>Select a volume for temporary storage:</source>
-        <translation type="unfinished"></translation>
+        <translation>Seleccione un volumen para almacenamiento temporal:</translation>
     </message>
 </context>
 <context>
@@ -4903,19 +4903,19 @@ su ordenador, o red que desea abrir:</translation>
     </message>
     <message>
         <source>Stop</source>
-        <translation type="unfinished"></translation>
+        <translation>Detener</translation>
     </message>
     <message>
         <source>View/Edit</source>
-        <translation type="unfinished"></translation>
+        <translation>Ver/Editar</translation>
     </message>
     <message>
         <source>View</source>
-        <translation type="unfinished">Ver</translation>
+        <translation>Ver</translation>
     </message>
     <message>
         <source>Close</source>
-        <translation type="unfinished">Cerrar</translation>
+        <translation>Cerrar</translation>
     </message>
 </context>
 <context>

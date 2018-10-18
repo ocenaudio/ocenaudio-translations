@@ -732,7 +732,7 @@
     </message>
     <message>
         <source>&amp;Play</source>
-        <translation type="unfinished">Wiedergabe</translation>
+        <translation>&amp;Wiedergabe</translation>
     </message>
     <message>
         <source>&amp;Next</source>
@@ -1452,35 +1452,35 @@
     </message>
     <message>
         <source>Ch #6</source>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
     <message>
         <source>Ch #7</source>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
     <message>
         <source>Ch #3</source>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
     <message>
         <source>Ch #8</source>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
     <message>
         <source>Ch #4</source>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
     <message>
         <source>Ch #5</source>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
     <message>
         <source>Show channel names</source>
-        <translation type="unfinished"></translation>
+        <translation>Zeige Kanalnamen</translation>
     </message>
     <message>
         <source>Lock channels</source>
-        <translation type="unfinished"></translation>
+        <translation>Kanäle sperren</translation>
     </message>
     <message>
         <source>Limit gain values to avoid clipping</source>
@@ -1492,7 +1492,7 @@
     </message>
     <message>
         <source>Lock Channels</source>
-        <translation type="unfinished"></translation>
+        <translation>Kanäle sperren</translation>
     </message>
     <message>
         <source>Channel %1</source>
@@ -1870,35 +1870,35 @@
     </message>
     <message>
         <source>No Dithering</source>
-        <translation type="unfinished"></translation>
+        <translation>Kein Dithering</translation>
     </message>
     <message>
         <source>Rectangular PDF</source>
-        <translation type="unfinished"></translation>
+        <translation>Rechteckige PDF</translation>
     </message>
     <message>
         <source>Triangular PDF</source>
-        <translation type="unfinished"></translation>
+        <translation>Dreieckiges PDF</translation>
     </message>
     <message>
         <source>Noise Shaping</source>
-        <translation type="unfinished"></translation>
+        <translation>Geräuschgestaltung</translation>
     </message>
     <message>
         <source>From stream</source>
-        <translation type="unfinished"></translation>
+        <translation>Aus dem Strom</translation>
     </message>
     <message>
         <source>From &lt;b&gt;%1 Hz&lt;/b&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation>Von &lt;b&gt;%1 Hz&lt;/b&gt;</translation>
     </message>
     <message>
         <source>From &lt;b&gt;multiples sample rates&lt;b&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation>Von &lt;b&gt;mehrere sample rates&lt;b&gt;</translation>
     </message>
     <message>
         <source>From &lt;b&gt;multiples number of channels&lt;b&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation>Von &lt;b&gt;mehreren Kanalnummern&lt;b&gt;</translation>
     </message>
     <message>
         <source>From &lt;b&gt;1 channel (mono)&lt;b&gt;</source>
@@ -1918,11 +1918,11 @@
     </message>
     <message>
         <source>Plugins</source>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
     <message>
         <source>Plugins Preferences</source>
-        <translation type="unfinished"></translation>
+        <translation>Plugins Einstellungen</translation>
     </message>
 </context>
 <context>

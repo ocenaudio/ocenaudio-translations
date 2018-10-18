@@ -531,15 +531,15 @@
     </message>
     <message>
         <source>Hide Markers Label</source>
-        <translation type="unfinished"></translation>
+        <translation>Nascondi etichetta marcatori</translation>
     </message>
     <message>
         <source>Detect DTMF Tones</source>
-        <translation type="unfinished"></translation>
+        <translation>Rileva toni DTMF</translation>
     </message>
     <message>
         <source>Rescan Audio Devices</source>
-        <translation type="unfinished"></translation>
+        <translation>Riscansiona dispositivi audio</translation>
     </message>
     <message>
         <source>Meta+Space</source>
@@ -547,7 +547,7 @@
     </message>
     <message>
         <source>Send Crash Report...</source>
-        <translation type="unfinished"></translation>
+        <translation>Invia rapporto di arresto...</translation>
     </message>
     <message>
         <source>Preferences</source>
@@ -559,7 +559,7 @@
     </message>
     <message>
         <source>Record Options</source>
-        <translation type="unfinished"></translation>
+        <translation>Opzioni di registrazione</translation>
     </message>
     <message>
         <source>Preroll</source>
@@ -567,67 +567,67 @@
     </message>
     <message>
         <source>Ctrl+P</source>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
     <message>
         <source>Extract Audio From Regions</source>
-        <translation type="unfinished"></translation>
+        <translation>Estrai audio dalle regioni</translation>
     </message>
     <message>
         <source>Quick Open...</source>
-        <translation type="unfinished"></translation>
+        <translation>Apertura rapida...</translation>
     </message>
     <message>
         <source>Noise Reduction</source>
-        <translation type="unfinished"></translation>
+        <translation>Riduzione del rumore</translation>
     </message>
     <message>
         <source>Noise Reduction...</source>
-        <translation type="unfinished"></translation>
+        <translation>Riduzione del rumore...</translation>
     </message>
     <message>
         <source>Automatic Noise Reduction</source>
-        <translation type="unfinished"></translation>
+        <translation>Riduzione automatica del rumore</translation>
     </message>
     <message>
         <source>Playback Options</source>
-        <translation type="unfinished"></translation>
+        <translation>Opzioni di riproduzione</translation>
     </message>
     <message>
         <source>Record Mixer Config...</source>
-        <translation type="unfinished"></translation>
+        <translation>Configurazione del mixer di registrazione...</translation>
     </message>
     <message>
         <source>Playback Mixer Config...</source>
-        <translation type="unfinished"></translation>
+        <translation>Configurazione del mixer di riproduzione...</translation>
     </message>
     <message>
         <source>Ctrl+D</source>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
     <message>
         <source>Seconds</source>
-        <translation type="unfinished"></translation>
+        <translation>Secondi</translation>
     </message>
     <message>
         <source>Time/Pitch Adjust</source>
-        <translation type="unfinished"></translation>
+        <translation>Regola tempo/intonazione</translation>
     </message>
     <message>
         <source>Paste to Fit</source>
-        <translation type="unfinished"></translation>
+        <translation>Incolla per adattarsi</translation>
     </message>
     <message>
         <source>Select Recorded Audio</source>
-        <translation type="unfinished"></translation>
+        <translation>Seleziona l&apos;audio registrato</translation>
     </message>
     <message>
         <source>Move Cursor to Record Stop Position</source>
-        <translation type="unfinished"></translation>
+        <translation>Spostare il cursore per registrare la posizione di arresto</translation>
     </message>
     <message>
         <source>Overwrite When Recording</source>
-        <translation type="unfinished"></translation>
+        <translation>Sovrascrivi durante la registrazione</translation>
     </message>
     <message>
         <source>Create Channels Extra Tracks </source>
@@ -635,7 +635,7 @@
     </message>
     <message>
         <source>P</source>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
     <message>
         <source>Zoom Back</source>
@@ -643,175 +643,175 @@
     </message>
     <message>
         <source>Show Overlay Tools</source>
-        <translation type="unfinished"></translation>
+        <translation>Mostra strumenti di sovrapposizione</translation>
     </message>
     <message>
         <source>Show Selection Overlays</source>
-        <translation type="unfinished"></translation>
+        <translation>Mostra sovrapposizioni di selezione</translation>
     </message>
     <message>
         <source>Open &amp;Recent Audio</source>
-        <translation type="unfinished"></translation>
+        <translation>Apri audio &amp;recente</translation>
     </message>
     <message>
         <source>New &amp;From</source>
-        <translation type="unfinished"></translation>
+        <translation>Nuo&amp;vo da</translation>
     </message>
     <message>
         <source>&amp;Amplitude</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Ampiezza</translation>
     </message>
     <message>
         <source>&amp;New...</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Nuovo...</translation>
     </message>
     <message>
         <source>&amp;Duplicate</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Duplica</translation>
     </message>
     <message>
         <source>&amp;Open...</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Apri...</translation>
     </message>
     <message>
         <source>&amp;Undo</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Annulla</translation>
     </message>
     <message>
         <source>Cu&amp;t</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Taglia</translation>
     </message>
     <message>
         <source>&amp;Copy</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Copia</translation>
     </message>
     <message>
         <source>&amp;Paste</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Incolla</translation>
     </message>
     <message>
         <source>&amp;Close</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Chiudi</translation>
     </message>
     <message>
         <source>&amp;Save</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Salva</translation>
     </message>
     <message>
         <source>Save &amp;As...</source>
-        <translation type="unfinished"></translation>
+        <translation>Salva &amp;come...</translation>
     </message>
     <message>
         <source>Select &amp;All</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Seleziona tutto</translation>
     </message>
     <message>
         <source>&amp;Delete Selection</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Elimina selezione</translation>
     </message>
     <message>
         <source>&amp;Trim</source>
-        <translation type="unfinished"></translation>
+        <translation>Rita&amp;glia</translation>
     </message>
     <message>
         <source>&amp;Waveform View</source>
-        <translation type="unfinished"></translation>
+        <translation>Visualizza forma d&apos;&amp;onda</translation>
     </message>
     <message>
         <source>&amp;Spectral View</source>
-        <translation type="unfinished"></translation>
+        <translation>Visualizza &amp;spettrogramma</translation>
     </message>
     <message>
         <source>Sound &amp;Properties...</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Proprietà audio...</translation>
     </message>
     <message>
         <source>&amp;Reverse</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Rovescia</translation>
     </message>
     <message>
         <source>&amp;Silence</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Silenzio</translation>
     </message>
     <message>
         <source>Save A&amp;ll</source>
-        <translation type="unfinished"></translation>
+        <translation>Salva &amp;tutto</translation>
     </message>
     <message>
         <source>&amp;Play</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Riproduci</translation>
     </message>
     <message>
         <source>&amp;Next</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Successivo</translation>
     </message>
     <message>
         <source>Pre&amp;vious</source>
-        <translation type="unfinished"></translation>
+        <translation>Pre&amp;cedente</translation>
     </message>
     <message>
         <source>&amp;Statistics</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Statistiche</translation>
     </message>
     <message>
         <source>&amp;Tones</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Toni</translation>
     </message>
     <message>
         <source>&amp;Noise</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Rumore</translation>
     </message>
     <message>
         <source>&amp;DTMF</source>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
     <message>
         <source>&amp;Gain...</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Guadagno...</translation>
     </message>
     <message>
         <source>Remove &amp;DC</source>
-        <translation type="unfinished"></translation>
+        <translation>Rimuovi &amp;DC</translation>
     </message>
     <message>
         <source>&amp;Invert Selection</source>
-        <translation type="unfinished"></translation>
+        <translation>In&amp;verti selezione</translation>
     </message>
     <message>
         <source>&amp;FFT Analysis</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Analisi FFT</translation>
     </message>
     <message>
         <source>&amp;Normalize</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Normalizza</translation>
     </message>
     <message>
         <source>&amp;Invert</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Inverti</translation>
     </message>
     <message>
         <source>&amp;Export...</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Esporta...</translation>
     </message>
     <message>
         <source>&amp;Metadata...</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Metadati...</translation>
     </message>
     <message>
         <source>&amp;Redo</source>
-        <translation type="unfinished"></translation>
+        <translation>Ri&amp;pristina</translation>
     </message>
     <message>
         <source>&amp;Quit</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Uscita</translation>
     </message>
     <message>
         <source>S&amp;mooth</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Liscio</translation>
     </message>
     <message>
         <source>Pa&amp;use</source>
-        <translation type="unfinished"></translation>
+        <translation>Pa&amp;usa</translation>
     </message>
 </context>
 <context>
@@ -1459,51 +1459,51 @@
     </message>
     <message>
         <source>Ch #6</source>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
     <message>
         <source>Ch #7</source>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
     <message>
         <source>Ch #3</source>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
     <message>
         <source>Ch #8</source>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
     <message>
         <source>Ch #4</source>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
     <message>
         <source>Ch #5</source>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
     <message>
         <source>Show channel names</source>
-        <translation type="unfinished"></translation>
+        <translation>Mostra i nomi dei canali</translation>
     </message>
     <message>
         <source>Lock channels</source>
-        <translation type="unfinished"></translation>
+        <translation>Blocca canali</translation>
     </message>
     <message>
         <source>Limit gain values to avoid clipping</source>
-        <translation type="unfinished"></translation>
+        <translation>Limitare i valori di guadagno per evitare il clipping</translation>
     </message>
     <message>
         <source>Limit offset values to avoid clipping</source>
-        <translation type="unfinished"></translation>
+        <translation>Limitare i valori di offset per evitare il clipping</translation>
     </message>
     <message>
         <source>Lock Channels</source>
-        <translation type="unfinished"></translation>
+        <translation>Blocca canali</translation>
     </message>
     <message>
         <source>Channel %1</source>
-        <translation type="unfinished">Canale %1</translation>
+        <translation>Canale %1</translation>
     </message>
 </context>
 <context>
@@ -1677,7 +1677,7 @@
     <name>QMarkersItemModel</name>
     <message>
         <source>not set</source>
-        <translation type="unfinished"></translation>
+        <translation>non impostato</translation>
     </message>
 </context>
 <context>
@@ -1760,11 +1760,11 @@
     </message>
     <message>
         <source>32 bits</source>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
     <message>
         <source>64 bits</source>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
     <message>
         <source>Preview</source>
@@ -1813,7 +1813,7 @@
     </message>
     <message>
         <source>Drop Artwork Here</source>
-        <translation type="unfinished"></translation>
+        <translation>Lascia qui l&apos;illustrazione</translation>
     </message>
     <message>
         <source>Minimum Sample Value</source>
@@ -1861,31 +1861,31 @@
     </message>
     <message>
         <source>Label</source>
-        <translation type="unfinished"></translation>
+        <translation>Etichetta</translation>
     </message>
     <message>
         <source>Position</source>
-        <translation type="unfinished"></translation>
+        <translation>Posizione</translation>
     </message>
     <message>
         <source>Duration</source>
-        <translation type="unfinished">Durata</translation>
+        <translation>Durata</translation>
     </message>
     <message>
         <source>Comment of region “%1”</source>
-        <translation type="unfinished"></translation>
+        <translation>Commento della regione “%1”</translation>
     </message>
     <message>
         <source>No Dithering</source>
-        <translation type="unfinished"></translation>
+        <translation>Nessun Dithering</translation>
     </message>
     <message>
         <source>Rectangular PDF</source>
-        <translation type="unfinished"></translation>
+        <translation>PDF rettangolare</translation>
     </message>
     <message>
         <source>Triangular PDF</source>
-        <translation type="unfinished"></translation>
+        <translation>PDF triangolare</translation>
     </message>
     <message>
         <source>Noise Shaping</source>
@@ -1893,43 +1893,43 @@
     </message>
     <message>
         <source>From stream</source>
-        <translation type="unfinished"></translation>
+        <translation>Dal flusso</translation>
     </message>
     <message>
         <source>From &lt;b&gt;%1 Hz&lt;/b&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation>Da &lt;b&gt;%1 Hz&lt;/b&gt;</translation>
     </message>
     <message>
         <source>From &lt;b&gt;multiples sample rates&lt;b&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation>Da &lt;b&gt;più frequenze di campionamento&lt;b&gt;</translation>
     </message>
     <message>
         <source>From &lt;b&gt;multiples number of channels&lt;b&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation>Dal &lt;b&gt;numero di canali multipli&lt;b&gt;</translation>
     </message>
     <message>
         <source>From &lt;b&gt;1 channel (mono)&lt;b&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation>Da &lt;b&gt;1 canale (mono)&lt;b&gt;</translation>
     </message>
     <message>
         <source>From &lt;b&gt;2 channels (stereo)&lt;b&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation>Da &lt;b&gt;2 canali (stereo)&lt;b&gt;</translation>
     </message>
     <message>
         <source>From &lt;b&gt;%1 channels&lt;b&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation>Da &lt;b&gt;%1 canali&lt;b&gt;</translation>
     </message>
     <message>
         <source>Custom Sample Rate</source>
-        <translation type="unfinished"></translation>
+        <translation>Frequenza di campionamento personalizzata</translation>
     </message>
     <message>
         <source>Plugins</source>
-        <translation type="unfinished"></translation>
+        <translation>Plugin</translation>
     </message>
     <message>
         <source>Plugins Preferences</source>
-        <translation type="unfinished"></translation>
+        <translation>Preferenze dei plugin</translation>
     </message>
 </context>
 <context>
@@ -1972,7 +1972,7 @@
     </message>
     <message>
         <source>http://www.ocenaudio.com</source>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
 </context>
 <context>
@@ -1999,156 +1999,158 @@ Clicca qui per scaricarla.</translation>
     </message>
     <message>
         <source>Use ocenaudio 64-bit!</source>
-        <translation type="unfinished"></translation>
+        <translation>Usa ocenaudio a 64 bit!</translation>
     </message>
     <message>
         <source>You are using a 64-bit operating system and ocenaudio is available for this architecture. For better performance use the 64-bit version of ocenaudio.</source>
-        <translation type="unfinished"></translation>
+        <translation>Stai utilizzando un sistema operativo a 64 bit e ocenaudio è disponibile per questa architettura. Per prestazioni migliori, utilizzare la versione a 64 bit di ocenaudio.</translation>
     </message>
     <message>
         <source>Regions Comment</source>
-        <translation type="unfinished"></translation>
+        <translation>Commento delle regioni</translation>
     </message>
     <message>
         <source>New Plugin Installed</source>
-        <translation type="unfinished"></translation>
+        <translation>Nuovo plugin installato</translation>
     </message>
 </context>
 <context>
     <name>QOcenAudioChangeFormatDialog</name>
     <message>
         <source>Convert Audio Format</source>
-        <translation type="unfinished">Converti formato audio</translation>
+        <translation>Converti formato audio</translation>
     </message>
     <message>
         <source>Change Sample Rate</source>
-        <translation type="unfinished"></translation>
+        <translation>Cambia frequenza di campionamento</translation>
     </message>
     <message>
         <source>From &lt;b&gt;22050 Hz&lt;/b&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation>Da &lt;b&gt;22500 Hz&lt;/b&gt;</translation>
     </message>
     <message>
         <source>➨</source>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
     <message>
         <source>Don&apos;t Change (22050 Hz)</source>
-        <translation type="unfinished"></translation>
+        <translation>Non cambiare (22050 Hz)</translation>
     </message>
     <message>
         <source>6000 Hz</source>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
     <message>
         <source>8000 Hz</source>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
     <message>
         <source>11025 Hz</source>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
     <message>
         <source>16000 Hz</source>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
     <message>
         <source>22050 Hz</source>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
     <message>
         <source>24000 Hz</source>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
     <message>
         <source>32000 Hz</source>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
     <message>
         <source>44100 Hz</source>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
     <message>
         <source>88200 Hz</source>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
     <message>
         <source>96000 Hz</source>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
     <message>
         <source>Change Number of Channels</source>
-        <translation type="unfinished"></translation>
+        <translation>Cambia numero di canali</translation>
     </message>
     <message>
         <source>From &lt;b&gt;1 channel (mono)&lt;/b&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation>Da &lt;b&gt;1 canale (mono)&lt;b&gt;</translation>
     </message>
     <message>
         <source>Don&apos;t Change (mono)</source>
-        <translation type="unfinished"></translation>
+        <translation>Non cambiare (mono)</translation>
     </message>
     <message>
         <source>2 channels (stereo)</source>
-        <translation type="unfinished"></translation>
+        <translation>2 canali (stereo)</translation>
     </message>
     <message>
         <source>3 channels</source>
-        <translation type="unfinished"></translation>
+        <translation>3 canali</translation>
     </message>
     <message>
         <source>4 channels</source>
-        <translation type="unfinished"></translation>
+        <translation>4 canali</translation>
     </message>
     <message>
         <source>5 channels</source>
-        <translation type="unfinished"></translation>
+        <translation>5 canali</translation>
     </message>
     <message>
         <source>6 channels</source>
-        <translation type="unfinished"></translation>
+        <translation>6 canali</translation>
     </message>
     <message>
         <source>7 channels</source>
-        <translation type="unfinished"></translation>
+        <translation>7 canali</translation>
     </message>
     <message>
         <source>8 channels</source>
-        <translation type="unfinished"></translation>
+        <translation>8 canali</translation>
     </message>
     <message>
         <source>Just Swap Left/Right Channels</source>
-        <translation type="unfinished"></translation>
+        <translation>Basta scambiare canali sinistro/destro</translation>
     </message>
     <message>
         <source>Don&apos;t Change</source>
-        <translation type="unfinished"></translation>
+        <translation>Non cambiare</translation>
     </message>
     <message>
         <source>Select Custom Sample Rate</source>
-        <translation type="unfinished"></translation>
+        <translation>Seleziona la frequenza di campionamento personalizzata</translation>
     </message>
     <message>
         <source>Custom Sample Rate (%1)</source>
-        <translation type="unfinished"></translation>
+        <translation>Frequenza di campionamento personalizzata (%1)</translation>
     </message>
     <message>
         <source>1 channel (mono)</source>
-        <translation type="unfinished"></translation>
+        <translation>1 canale (mono)</translation>
     </message>
     <message>
         <source>%1 channels</source>
-        <translation type="unfinished"></translation>
+        <translation>%1 canali</translation>
     </message>
     <message>
         <source>Output
 Channel
 #%1</source>
-        <translation type="unfinished"></translation>
+        <translation>Produzione
+Canale
+#%1</translation>
     </message>
     <message>
         <source>Channel #%1</source>
-        <translation type="unfinished"></translation>
+        <translation>Canale #%1</translation>
     </message>
 </context>
 <context>
@@ -2266,55 +2268,55 @@ Channel
     </message>
     <message>
         <source>Audio Unit</source>
-        <translation type="unfinished">Unità audio</translation>
+        <translation>Unità audio</translation>
     </message>
     <message>
         <source>File Menu</source>
-        <translation type="unfinished"></translation>
+        <translation>Menu File</translation>
     </message>
     <message>
         <source>Edit Menu</source>
-        <translation type="unfinished"></translation>
+        <translation>Modifica menu</translation>
     </message>
     <message>
         <source>View Menu</source>
-        <translation type="unfinished"></translation>
+        <translation>Visualizza Menu</translation>
     </message>
     <message>
         <source>Control Menu</source>
-        <translation type="unfinished"></translation>
+        <translation>Controlli Menu</translation>
     </message>
     <message>
         <source>Effects Menu</source>
-        <translation type="unfinished"></translation>
+        <translation>Effetti Menu</translation>
     </message>
     <message>
         <source>VST Effects</source>
-        <translation type="unfinished"></translation>
+        <translation>Effetti VST</translation>
     </message>
     <message>
         <source>Audio Units Effects</source>
-        <translation type="unfinished"></translation>
+        <translation>Effetti unità audio</translation>
     </message>
     <message>
         <source>Generate Menu</source>
-        <translation type="unfinished"></translation>
+        <translation>Genera Menu</translation>
     </message>
     <message>
         <source>Analyze Menu</source>
-        <translation type="unfinished"></translation>
+        <translation>Analizza Menu</translation>
     </message>
     <message>
         <source>Help Menu</source>
-        <translation type="unfinished"></translation>
+        <translation>Menu Aiuto</translation>
     </message>
     <message>
         <source>New From Selection</source>
-        <translation type="unfinished"></translation>
+        <translation>Nuovo da selezione</translation>
     </message>
     <message>
         <source>New From Clipboard</source>
-        <translation type="unfinished"></translation>
+        <translation>Nuovo dagli appunti</translation>
     </message>
     <message>
         <source>Close File</source>
@@ -2322,7 +2324,7 @@ Channel
     </message>
     <message>
         <source>Close All Files</source>
-        <translation type="unfinished"></translation>
+        <translation>Chiudi tutti i file</translation>
     </message>
     <message>
         <source>Adjust Selection to Scale Tick</source>
@@ -2418,19 +2420,19 @@ Channel
     </message>
     <message>
         <source>Hide Level Meter</source>
-        <translation type="unfinished"></translation>
+        <translation>Nascondi misuratore di livello</translation>
     </message>
     <message>
         <source>Start/Stop Recording</source>
-        <translation type="unfinished"></translation>
+        <translation>Avvia/interrompe la registrazione</translation>
     </message>
     <message>
         <source>Goto Next Audio</source>
-        <translation type="unfinished"></translation>
+        <translation>Vai al prossimo audio</translation>
     </message>
     <message>
         <source>Goto Previous Audio</source>
-        <translation type="unfinished"></translation>
+        <translation>Vai all&apos;audio precedente</translation>
     </message>
     <message>
         <source>Enable/Disable Loop Playback</source>
@@ -2438,11 +2440,11 @@ Channel
     </message>
     <message>
         <source>Repeat Last Effect</source>
-        <translation type="unfinished"></translation>
+        <translation>Ripeti l&apos;ultimo effetto</translation>
     </message>
     <message>
         <source>Send Crash Report</source>
-        <translation type="unfinished"></translation>
+        <translation>Invia rapporto di arresto</translation>
     </message>
     <message>
         <source>Save Sound Copy As ...</source>
@@ -2450,7 +2452,7 @@ Channel
     </message>
     <message>
         <source>Save Copy As</source>
-        <translation type="unfinished"></translation>
+        <translation>Salva copia come</translation>
     </message>
     <message>
         <source>Save Sound Selection As ...</source>
@@ -2682,7 +2684,7 @@ Channel
     </message>
     <message>
         <source>Show All</source>
-        <translation type="unfinished">Mostra tutto</translation>
+        <translation>Mostra tutto</translation>
     </message>
     <message>
         <source>Hide Regions</source>
@@ -2882,7 +2884,7 @@ Channel
     </message>
     <message>
         <source>Warning</source>
-        <translation type="unfinished">Attenzione</translation>
+        <translation>Attenzione</translation>
     </message>
     <message>
         <source>The audio sample rate is not supported by Audio Unit %1.</source>
@@ -2962,46 +2964,46 @@ Channel
     </message>
     <message>
         <source>&amp;Undo</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Annulla</translation>
     </message>
     <message>
         <source>&amp;Redo</source>
-        <translation type="unfinished"></translation>
+        <translation>Ri&amp;pristina</translation>
     </message>
     <message>
         <source>Stop &amp;Recording</source>
-        <translation type="unfinished"></translation>
+        <translation>Ferma &amp;registrazione</translation>
     </message>
     <message>
         <source>&amp;Record</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Registra</translation>
     </message>
     <message>
         <source>Res&amp;ume</source>
-        <translation type="unfinished"></translation>
+        <translation>Ri&amp;prendi</translation>
     </message>
     <message>
         <source>Resume &amp;Playback</source>
-        <translation type="unfinished"></translation>
+        <translation>Riprendi &amp;riproduzione</translation>
     </message>
     <message>
         <source>Pa&amp;use</source>
-        <translation type="unfinished"></translation>
+        <translation>Pa&amp;usa</translation>
     </message>
     <message>
         <source>Sto&amp;p</source>
-        <translation type="unfinished"></translation>
+        <translation>Fe&amp;rma</translation>
     </message>
     <message>
         <source>&amp;Play</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Riproduci</translation>
     </message>
 </context>
 <context>
     <name>QOcenAudioNoiseReductionWidget</name>
     <message>
         <source>Form</source>
-        <translation type="unfinished">Form</translation>
+        <translation>Form</translation>
     </message>
     <message>
         <source>Noise Profiler</source>
@@ -3021,7 +3023,7 @@ Channel
     </message>
     <message>
         <source>Noise</source>
-        <translation type="unfinished">Rumore</translation>
+        <translation>Rumore</translation>
     </message>
     <message>
         <source>Reduction factor</source>
@@ -3179,11 +3181,11 @@ Channel
     <name>QOcenAudioOpenFilesPlugin</name>
     <message>
         <source>Opened Files</source>
-        <translation type="unfinished">Files aperti</translation>
+        <translation>Files aperti</translation>
     </message>
     <message>
         <source>Current open files in ocenaudio</source>
-        <translation type="unfinished">Files attualmente aperti in ocenaudio</translation>
+        <translation>Files attualmente aperti in ocenaudio</translation>
     </message>
 </context>
 <context>
@@ -3198,7 +3200,7 @@ Channel
     </message>
     <message>
         <source>Album</source>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
     <message>
         <source>General</source>
@@ -3274,11 +3276,11 @@ Channel
     </message>
     <message>
         <source>26 seconds</source>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
     <message>
         <source>Number of Samples</source>
-        <translation type="unfinished"></translation>
+        <translation>Numero di campioni</translation>
     </message>
     <message>
         <source>192900</source>
@@ -3302,7 +3304,7 @@ Channel
     </message>
     <message>
         <source>Modification Date</source>
-        <translation type="unfinished"></translation>
+        <translation>Data di modifica</translation>
     </message>
     <message>
         <source>12/09/2014 23:00</source>
@@ -3310,7 +3312,7 @@ Channel
     </message>
     <message>
         <source>Location</source>
-        <translation type="unfinished"></translation>
+        <translation>Localizzazione</translation>
     </message>
     <message>
         <source>/Users/ruijunior/Music/iTunes/iTunes Media/Music/Enanitos Verdes/Unknown Album/Lamento Boliviano.aif</source>
@@ -3318,19 +3320,19 @@ Channel
     </message>
     <message>
         <source>Details</source>
-        <translation type="unfinished"></translation>
+        <translation>Dettagli</translation>
     </message>
     <message>
         <source>Song Name</source>
-        <translation type="unfinished"></translation>
+        <translation>Nome della canzone</translation>
     </message>
     <message>
         <source>Album Artist</source>
-        <translation type="unfinished"></translation>
+        <translation>Artista dell&apos;album</translation>
     </message>
     <message>
         <source>Composer</source>
-        <translation type="unfinished"></translation>
+        <translation>Compositore</translation>
     </message>
     <message>
         <source>Grouping</source>
@@ -3358,15 +3360,15 @@ Channel
     </message>
     <message>
         <source>bpm</source>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
     <message>
         <source>Keywords</source>
-        <translation type="unfinished"></translation>
+        <translation>Parole chiave</translation>
     </message>
     <message>
         <source>Comments</source>
-        <translation type="unfinished"></translation>
+        <translation>Commenti</translation>
     </message>
     <message>
         <source>Artwork</source>
@@ -3374,7 +3376,7 @@ Channel
     </message>
     <message>
         <source>Album Artwork</source>
-        <translation type="unfinished"></translation>
+        <translation>Illustrazione dell&apos;album</translation>
     </message>
     <message>
         <source>PNG / 256 x 256</source>
@@ -3402,46 +3404,46 @@ Channel
     </message>
     <message>
         <source>Comment of marker #label</source>
-        <translation type="unfinished"></translation>
+        <translation>Commento del marker #label</translation>
     </message>
     <message>
         <source>Comment</source>
-        <translation type="unfinished"></translation>
+        <translation>Commento</translation>
     </message>
     <message>
         <source>Revert</source>
-        <translation type="unfinished">Ripristina</translation>
+        <translation>Ripristina</translation>
     </message>
     <message>
         <source>Close</source>
-        <translation type="unfinished">Chiudi</translation>
+        <translation>Chiudi</translation>
     </message>
 </context>
 <context>
     <name>QOcenAudioTimeStretchWidget</name>
     <message>
         <source>Form</source>
-        <translation type="unfinished">Form</translation>
+        <translation>Form</translation>
     </message>
     <message>
         <source>Time Stretch</source>
-        <translation type="unfinished">Altera tempo</translation>
+        <translation>Altera tempo</translation>
     </message>
     <message>
         <source>100</source>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
     <message>
         <source>percent</source>
-        <translation type="unfinished">percento</translation>
+        <translation>percento</translation>
     </message>
     <message>
         <source>Pitch Shift</source>
-        <translation type="unfinished">Intonazione</translation>
+        <translation>Intonazione</translation>
     </message>
     <message>
         <source>0</source>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
     <message>
         <source>semi-tones</source>
@@ -3453,15 +3455,15 @@ Channel
     </message>
     <message>
         <source>Time and Pitch Adjust</source>
-        <translation type="unfinished">Regola tempo e intonazione</translation>
+        <translation>Regola tempo e intonazione</translation>
     </message>
     <message>
         <source>Applying Time/Pitch Adjust</source>
-        <translation type="unfinished"></translation>
+        <translation>Sto applicando tempo/intonazione</translation>
     </message>
     <message>
         <source>Time/Pitch Adjust</source>
-        <translation type="unfinished"></translation>
+        <translation>Regola tempo/intonazione</translation>
     </message>
 </context>
 <context>
@@ -4381,31 +4383,31 @@ Channel
     </message>
     <message>
         <source>Multichannel</source>
-        <translation type="unfinished"></translation>
+        <translation>Multicanale</translation>
     </message>
     <message>
         <source>3 channels</source>
-        <translation type="unfinished"></translation>
+        <translation>3 canali</translation>
     </message>
     <message>
         <source>4 channels</source>
-        <translation type="unfinished"></translation>
+        <translation>4 canali</translation>
     </message>
     <message>
         <source>5 channels</source>
-        <translation type="unfinished"></translation>
+        <translation>5 canali</translation>
     </message>
     <message>
         <source>6 channels</source>
-        <translation type="unfinished"></translation>
+        <translation>6 canali</translation>
     </message>
     <message>
         <source>7 channels</source>
-        <translation type="unfinished"></translation>
+        <translation>7 canali</translation>
     </message>
     <message>
         <source>8 channels</source>
-        <translation type="unfinished"></translation>
+        <translation>8 canali</translation>
     </message>
     <message>
         <source>44100 Hz</source>
@@ -4417,19 +4419,19 @@ Channel
     </message>
     <message>
         <source>Resolution</source>
-        <translation type="unfinished">Risoluzione</translation>
+        <translation>Risoluzione</translation>
     </message>
     <message>
         <source>16 bits</source>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
     <message>
         <source>24 bits</source>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
     <message>
         <source>32 bits</source>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
 </context>
 <context>
@@ -4479,7 +4481,7 @@ Channel
     </message>
     <message>
         <source>Scanning Plugins</source>
-        <translation type="unfinished">Scansione plugins</translation>
+        <translation>Scansione plugins</translation>
     </message>
     <message>
         <source>Refresh VST Effects</source>
@@ -4909,11 +4911,11 @@ sul tuo computer, o nella tua rete:</translation>
     </message>
     <message>
         <source>View</source>
-        <translation type="unfinished">Visualizzazione</translation>
+        <translation>Visualizzazione</translation>
     </message>
     <message>
         <source>Close</source>
-        <translation type="unfinished">Chiudi</translation>
+        <translation>Chiudi</translation>
     </message>
 </context>
 <context>
@@ -5290,19 +5292,19 @@ sul tuo computer, o nella tua rete:</translation>
     </message>
     <message>
         <source>3 channels</source>
-        <translation type="unfinished"></translation>
+        <translation>3 canali</translation>
     </message>
     <message>
         <source>4 channels</source>
-        <translation type="unfinished"></translation>
+        <translation>4 canali</translation>
     </message>
     <message>
         <source>5 channels</source>
-        <translation type="unfinished"></translation>
+        <translation>5 canali</translation>
     </message>
     <message>
         <source>6 channels</source>
-        <translation type="unfinished"></translation>
+        <translation>6 canali</translation>
     </message>
 </context>
 <context>
@@ -5551,15 +5553,15 @@ sul tuo computer, o nella tua rete:</translation>
     </message>
     <message>
         <source>High Dpi Image</source>
-        <translation type="unfinished"></translation>
+        <translation>Immagine alta Dpi</translation>
     </message>
     <message>
         <source>Save Audio Screenshot</source>
-        <translation type="unfinished">Salva schermata audio</translation>
+        <translation>Salva schermata audio</translation>
     </message>
     <message>
         <source>Images (*.png *.xpm *.jpg)</source>
-        <translation type="unfinished">Immagini (*.png *.xpm *.jpg)</translation>
+        <translation>Immagini (*.png *.xpm *.jpg)</translation>
     </message>
 </context>
 </TS>
