@@ -644,167 +644,167 @@
     </message>
     <message>
         <source>Open &amp;Recent Audio</source>
-        <translation type="unfinished"></translation>
+        <translation>Utoljára megnyitott fájlok</translation>
     </message>
     <message>
         <source>New &amp;From</source>
-        <translation type="unfinished"></translation>
+        <translation>Új innen</translation>
     </message>
     <message>
         <source>&amp;Amplitude</source>
-        <translation type="unfinished"></translation>
+        <translation>Erősítés</translation>
     </message>
     <message>
         <source>&amp;New...</source>
-        <translation type="unfinished"></translation>
+        <translation>Új...</translation>
     </message>
     <message>
         <source>&amp;Duplicate</source>
-        <translation type="unfinished"></translation>
+        <translation>Duplikálás</translation>
     </message>
     <message>
         <source>&amp;Open...</source>
-        <translation type="unfinished"></translation>
+        <translation>Megnyitás...</translation>
     </message>
     <message>
         <source>&amp;Undo</source>
-        <translation type="unfinished"></translation>
+        <translation>Visszavonás</translation>
     </message>
     <message>
         <source>Cu&amp;t</source>
-        <translation type="unfinished"></translation>
+        <translation>Kivágás</translation>
     </message>
     <message>
         <source>&amp;Copy</source>
-        <translation type="unfinished"></translation>
+        <translation>Másolás</translation>
     </message>
     <message>
         <source>&amp;Paste</source>
-        <translation type="unfinished"></translation>
+        <translation>Beillesztés</translation>
     </message>
     <message>
         <source>&amp;Close</source>
-        <translation type="unfinished"></translation>
+        <translation>Bezárás</translation>
     </message>
     <message>
         <source>&amp;Save</source>
-        <translation type="unfinished"></translation>
+        <translation>Mentés</translation>
     </message>
     <message>
         <source>Save &amp;As...</source>
-        <translation type="unfinished"></translation>
+        <translation>Mentés másként...</translation>
     </message>
     <message>
         <source>Select &amp;All</source>
-        <translation type="unfinished"></translation>
+        <translation>Mindet kiválaszt</translation>
     </message>
     <message>
         <source>&amp;Delete Selection</source>
-        <translation type="unfinished"></translation>
+        <translation>Kiválasztás törlése</translation>
     </message>
     <message>
         <source>&amp;Trim</source>
-        <translation type="unfinished"></translation>
+        <translation>Kiszabás</translation>
     </message>
     <message>
         <source>&amp;Waveform View</source>
-        <translation type="unfinished"></translation>
+        <translation>Hullámforma</translation>
     </message>
     <message>
         <source>&amp;Spectral View</source>
-        <translation type="unfinished"></translation>
+        <translation>Spektrogramm</translation>
     </message>
     <message>
         <source>Sound &amp;Properties...</source>
-        <translation type="unfinished"></translation>
+        <translation>Audiótulajdonságok...</translation>
     </message>
     <message>
         <source>&amp;Reverse</source>
-        <translation type="unfinished"></translation>
+        <translation>Vissza</translation>
     </message>
     <message>
         <source>&amp;Silence</source>
-        <translation type="unfinished"></translation>
+        <translation>Csend</translation>
     </message>
     <message>
         <source>Save A&amp;ll</source>
-        <translation type="unfinished"></translation>
+        <translation>Mindent ment</translation>
     </message>
     <message>
         <source>&amp;Play</source>
-        <translation type="unfinished"></translation>
+        <translation>Lejátszás</translation>
     </message>
     <message>
         <source>&amp;Next</source>
-        <translation type="unfinished"></translation>
+        <translation>Következő sáv</translation>
     </message>
     <message>
         <source>Pre&amp;vious</source>
-        <translation type="unfinished"></translation>
+        <translation>Előző sáv</translation>
     </message>
     <message>
         <source>&amp;Statistics</source>
-        <translation type="unfinished"></translation>
+        <translation>Statisztikák</translation>
     </message>
     <message>
         <source>&amp;Tones</source>
-        <translation type="unfinished"></translation>
+        <translation>Hangok</translation>
     </message>
     <message>
         <source>&amp;Noise</source>
-        <translation type="unfinished"></translation>
+        <translation>Zörej</translation>
     </message>
     <message>
         <source>&amp;DTMF</source>
-        <translation type="unfinished"></translation>
+        <translation>Többfrekvenciás hangok (DTMF)</translation>
     </message>
     <message>
         <source>&amp;Gain...</source>
-        <translation type="unfinished"></translation>
+        <translation>Szint...</translation>
     </message>
     <message>
         <source>Remove &amp;DC</source>
-        <translation type="unfinished"></translation>
+        <translation>DC eltávolítása</translation>
     </message>
     <message>
         <source>&amp;Invert Selection</source>
-        <translation type="unfinished"></translation>
+        <translation>Kiválasztás megfordítása</translation>
     </message>
     <message>
         <source>&amp;FFT Analysis</source>
-        <translation type="unfinished"></translation>
+        <translation>FFT elemzés</translation>
     </message>
     <message>
         <source>&amp;Normalize</source>
-        <translation type="unfinished"></translation>
+        <translation>Normalizálás</translation>
     </message>
     <message>
         <source>&amp;Invert</source>
-        <translation type="unfinished"></translation>
+        <translation>Megfordítás</translation>
     </message>
     <message>
         <source>&amp;Export...</source>
-        <translation type="unfinished"></translation>
+        <translation>Exportálás...</translation>
     </message>
     <message>
         <source>&amp;Metadata...</source>
-        <translation type="unfinished"></translation>
+        <translation>Meta adatok...</translation>
     </message>
     <message>
         <source>&amp;Redo</source>
-        <translation type="unfinished"></translation>
+        <translation>Helyreállítás</translation>
     </message>
     <message>
         <source>&amp;Quit</source>
-        <translation type="unfinished"></translation>
+        <translation>Befejezés</translation>
     </message>
     <message>
         <source>S&amp;mooth</source>
-        <translation type="unfinished"></translation>
+        <translation>Simítás</translation>
     </message>
     <message>
         <source>Pa&amp;use</source>
-        <translation type="unfinished"></translation>
+        <translation>Szünet</translation>
     </message>
 </context>
 <context>
@@ -2955,39 +2955,39 @@ Channel
     </message>
     <message>
         <source>&amp;Undo</source>
-        <translation type="unfinished"></translation>
+        <translation>Visszavonás</translation>
     </message>
     <message>
         <source>&amp;Redo</source>
-        <translation type="unfinished"></translation>
+        <translation>Helyreállítás</translation>
     </message>
     <message>
         <source>Stop &amp;Recording</source>
-        <translation type="unfinished"></translation>
+        <translation>Felvétel megállítása</translation>
     </message>
     <message>
         <source>&amp;Record</source>
-        <translation type="unfinished"></translation>
+        <translation>Hangfelvétel</translation>
     </message>
     <message>
         <source>Res&amp;ume</source>
-        <translation type="unfinished"></translation>
+        <translation>Folytatása</translation>
     </message>
     <message>
         <source>Resume &amp;Playback</source>
-        <translation type="unfinished"></translation>
+        <translation>Lejátszás folytatása</translation>
     </message>
     <message>
         <source>Pa&amp;use</source>
-        <translation type="unfinished"></translation>
+        <translation>Szünet</translation>
     </message>
     <message>
         <source>Sto&amp;p</source>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
     <message>
         <source>&amp;Play</source>
-        <translation type="unfinished"></translation>
+        <translation>Lejátszás</translation>
     </message>
 </context>
 <context>
