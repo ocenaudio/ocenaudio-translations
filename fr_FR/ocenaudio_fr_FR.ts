@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!DOCTYPE TS>
-<TS version="2.1" language="fr_FR">
+<TS version="2.0" language="fr_FR">
 <context>
     <name>AdjustSampleRateDialog</name>
     <message>
@@ -4442,67 +4442,67 @@ Channel
     </message>
     <message>
         <source>Audio Units Preferences</source>
-        <translation type="unfinished"></translation>
+        <translation>Préférences Audio Units</translation>
     </message>
     <message>
         <source>Supports Audio Units (requires restart)</source>
-        <translation type="unfinished"></translation>
+        <translation>Activer Audio Units (redémarrage requis)</translation>
     </message>
     <message>
         <source>VST Plugins Preferences</source>
-        <translation type="unfinished"></translation>
+        <translation>Préférences VST</translation>
     </message>
     <message>
         <source>Supports VST Plugins (requires restart)</source>
-        <translation type="unfinished"></translation>
+        <translation>Activer VST (redémarrage requis)</translation>
     </message>
     <message>
         <source>Add VST Path</source>
-        <translation type="unfinished"></translation>
+        <translation>Ajouter un chemin VST</translation>
     </message>
     <message>
         <source>Add a new path to search for VST effects</source>
-        <translation type="unfinished"></translation>
+        <translation>Ajouter un nouveau chemin pour rechercher des effets VST</translation>
     </message>
     <message>
         <source>Remove VST Path</source>
-        <translation type="unfinished"></translation>
+        <translation>Supprimer le chemin VST</translation>
     </message>
     <message>
         <source>Remove path from VST path list</source>
-        <translation type="unfinished"></translation>
+        <translation>Supprimer le chemin de la liste de chemins VST</translation>
     </message>
     <message>
         <source>Scanning Plugins</source>
-        <translation type="unfinished">Recherche plugins</translation>
+        <translation>Recherche plugins</translation>
     </message>
     <message>
         <source>Refresh VST Effects</source>
-        <translation type="unfinished"></translation>
+        <translation>Actualiser les effets VST</translation>
     </message>
     <message>
         <source>Search for VST effects in the selected path</source>
-        <translation type="unfinished"></translation>
+        <translation>Rechercher des effets VST dans les chemins sélectionnés</translation>
     </message>
     <message>
         <source>Select Directory</source>
-        <translation type="unfinished">Sélectionner le dossier</translation>
+        <translation>Sélectionner le dossier</translation>
     </message>
     <message>
         <source>Show in Finder</source>
-        <translation type="unfinished">Afficher dans le Finder</translation>
+        <translation>Afficher dans le Finder</translation>
     </message>
     <message>
         <source>Show Plugins List...</source>
-        <translation type="unfinished">Voir Plugins Liste...</translation>
+        <translation>Voir Plugins Liste...</translation>
     </message>
     <message>
         <source>Remove Path from Search</source>
-        <translation type="unfinished">Supprimer Chemin de Recherche</translation>
+        <translation>Supprimer Chemin de Recherche</translation>
     </message>
     <message>
         <source>Path not Found</source>
-        <translation type="unfinished">Chemin introuvable</translation>
+        <translation>Chemin introuvable</translation>
     </message>
 </context>
 <context>
@@ -4544,80 +4544,82 @@ Channel
     <name>QOcenSelectStorageDialog</name>
     <message>
         <source>Temporary Storage Configuration</source>
-        <translation type="unfinished"></translation>
+        <translation>Configuration du disque temporaire</translation>
     </message>
     <message>
         <source>Select a volume for temporary storage:</source>
-        <translation type="unfinished"></translation>
+        <translation>Sélectionnez un volume pour le stockage temporaire:</translation>
     </message>
 </context>
 <context>
     <name>QOcenSoundMixerConfigDialog</name>
     <message>
         <source>Sound Mixer Configuration</source>
-        <translation type="unfinished"></translation>
+        <translation>Configuration du mixeur</translation>
     </message>
     <message>
         <source>Playback</source>
-        <translation type="unfinished"></translation>
+        <translation>Lecture</translation>
     </message>
     <message>
         <source>1 Channel (Mono)</source>
-        <translation type="unfinished"></translation>
+        <translation>1 canal (mono)</translation>
     </message>
     <message>
         <source> ➨ </source>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
     <message>
         <source>Built-In Output (2 Channels)</source>
-        <translation type="unfinished"></translation>
+        <translation>Built-In Output (2 canaux)</translation>
     </message>
     <message>
         <source>Built-In Input (2 Channels)</source>
-        <translation type="unfinished"></translation>
+        <translation>Built-In Input (2 canaux)</translation>
     </message>
     <message>
         <source>1 channel (mono)</source>
-        <translation type="unfinished"></translation>
+        <translation>1 canal (mono)</translation>
     </message>
     <message>
         <source>2 channels (stereo)</source>
-        <translation type="unfinished"></translation>
+        <translation>2 canaux (stéréo)</translation>
     </message>
     <message>
         <source>%1 channels</source>
-        <translation type="unfinished">%1 canaux</translation>
+        <translation>%1 canaux</translation>
     </message>
     <message>
         <source>Input #%1 </source>
-        <translation type="unfinished"></translation>
+        <translation>Entrée #%1</translation>
     </message>
     <message>
         <source>Channel
 #%1</source>
-        <translation type="unfinished"></translation>
+        <translation>Canal
+#%1</translation>
     </message>
     <message>
         <source>Channel #%1 </source>
-        <translation type="unfinished"></translation>
+        <translation>Canal #%1</translation>
     </message>
     <message>
         <source>Output
 #%1</source>
-        <translation type="unfinished"></translation>
+        <translation>Sortie
+#%1</translation>
     </message>
     <message>
         <source>No recording devices found!</source>
-        <translation type="unfinished"></translation>
+        <translation>Aucun dispositif d&apos;enregistrement trouvé!</translation>
     </message>
     <message>
         <source>No playback devices found!</source>
-        <translation type="unfinished"></translation>
+        <translation>Aucun dispositif de lecture trouvé!</translation>
     </message>
     <message>
         <source>Record</source>
-        <translation type="unfinished">Enregistrement</translation>
+        <translation>Enregistrement</translation>
     </message>
 </context>
 <context>
@@ -4895,19 +4897,19 @@ ou votre réseau que vous souhaitez ouvrir:</translation>
     </message>
     <message>
         <source>Stop</source>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
     <message>
         <source>View/Edit</source>
-        <translation type="unfinished"></translation>
+        <translation>Visualiser/Éditer</translation>
     </message>
     <message>
         <source>View</source>
-        <translation type="unfinished">Visualiser</translation>
+        <translation>Visualiser</translation>
     </message>
     <message>
         <source>Close</source>
-        <translation type="unfinished">Fermer</translation>
+        <translation>Fermer</translation>
     </message>
 </context>
 <context>
@@ -5554,7 +5556,7 @@ ou votre réseau que vous souhaitez ouvrir:</translation>
     </message>
     <message>
         <source>Images (*.png *.xpm *.jpg)</source>
-        <translation type="unfinished">Images (*.png *.xpm *.jpg)</translation>
+        <translation>Images (*.png *.xpm *.jpg)</translation>
     </message>
 </context>
 </TS>
