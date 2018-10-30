@@ -806,6 +806,38 @@
         <source>Pa&amp;use</source>
         <translation>暂停</translation>
     </message>
+    <message>
+        <source>Extend to Begin</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Extend to End</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Extend to Next Marker</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Extend to Previous Marker</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Reduce to Next Marker</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Reduce to Next Marker (from begin)</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Reduce to Previous Marker</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Reduce to Previous Marker (from end)</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>NavigatorDialog</name>
@@ -2623,10 +2655,6 @@ Channel
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Undo</source>
-        <translation>撤销</translation>
-    </message>
-    <message>
         <source>Create Regions</source>
         <translation>创建多个区块</translation>
     </message>
@@ -2727,18 +2755,6 @@ Channel
         <translation>重复%1</translation>
     </message>
     <message>
-        <source>Copy</source>
-        <translation>拷贝</translation>
-    </message>
-    <message>
-        <source>Cut</source>
-        <translation>剪切</translation>
-    </message>
-    <message>
-        <source>Paste</source>
-        <translation>粘贴</translation>
-    </message>
-    <message>
         <source>Delete Marker</source>
         <translation>删除标记</translation>
     </message>
@@ -2751,18 +2767,6 @@ Channel
         <translation>合并区块</translation>
     </message>
     <message>
-        <source>Adjust Selection</source>
-        <translation>调整已选</translation>
-    </message>
-    <message>
-        <source>Snap to Scale Tick</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Snap to Zero Cross</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>Delete Loop</source>
         <translation>删除循环段</translation>
     </message>
@@ -2773,10 +2777,6 @@ Channel
     <message>
         <source>Convert Loop to Region</source>
         <translation>将循环段转成区块</translation>
-    </message>
-    <message>
-        <source>Adjust Selections</source>
-        <translation>调整已选</translation>
     </message>
     <message>
         <source>Export Error</source>
@@ -2943,10 +2943,6 @@ Channel
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Clear</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>Temporary Space Warning</source>
         <translation type="unfinished"></translation>
     </message>
@@ -2989,6 +2985,30 @@ Channel
     <message>
         <source>&amp;Play</source>
         <translation>播放</translation>
+    </message>
+    <message>
+        <source>Extend Selection to Begin</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Extend Selection to End</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Extend Selection to Previous Marker</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Extend Selection to Next Marker</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Reduce Selection to Next Marker</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Reduce Selection to Previous Marker</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>

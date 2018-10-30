@@ -807,6 +807,38 @@
         <source>Pa&amp;use</source>
         <translation>Pa&amp;usa</translation>
     </message>
+    <message>
+        <source>Extend to Begin</source>
+        <translation>Extender para o Começo</translation>
+    </message>
+    <message>
+        <source>Extend to End</source>
+        <translation>Extender para o Final</translation>
+    </message>
+    <message>
+        <source>Extend to Next Marker</source>
+        <translation>Extender para o Próximo Marcador</translation>
+    </message>
+    <message>
+        <source>Extend to Previous Marker</source>
+        <translation>Extender para o Marcador Anterior</translation>
+    </message>
+    <message>
+        <source>Reduce to Next Marker</source>
+        <translation>Reduzir para o Próximo Marcador</translation>
+    </message>
+    <message>
+        <source>Reduce to Next Marker (from begin)</source>
+        <translation>Reduzir para o Próximo Marcador (do começo)</translation>
+    </message>
+    <message>
+        <source>Reduce to Previous Marker</source>
+        <translation>Reduzir para o Marcador Anterior</translation>
+    </message>
+    <message>
+        <source>Reduce to Previous Marker (from end)</source>
+        <translation>Reduzir para o Marcador Anterior (do final)</translation>
+    </message>
 </context>
 <context>
     <name>NavigatorDialog</name>
@@ -2627,10 +2659,6 @@ Saída
         <translation></translation>
     </message>
     <message>
-        <source>Undo</source>
-        <translation>Desfazer</translation>
-    </message>
-    <message>
         <source>Create Regions</source>
         <translation>Criar Regiões</translation>
     </message>
@@ -2731,18 +2759,6 @@ Saída
         <translation>Repetir %1</translation>
     </message>
     <message>
-        <source>Copy</source>
-        <translation>Copiar</translation>
-    </message>
-    <message>
-        <source>Cut</source>
-        <translation>Cortar</translation>
-    </message>
-    <message>
-        <source>Paste</source>
-        <translation>Colar</translation>
-    </message>
-    <message>
         <source>Delete Marker</source>
         <translation>Apagar Marcador</translation>
     </message>
@@ -2755,18 +2771,6 @@ Saída
         <translation>Mesclar Regiões</translation>
     </message>
     <message>
-        <source>Adjust Selection</source>
-        <translation>Ajustar Seleção</translation>
-    </message>
-    <message>
-        <source>Snap to Scale Tick</source>
-        <translation>Ajustar à Escala</translation>
-    </message>
-    <message>
-        <source>Snap to Zero Cross</source>
-        <translation>Ajustar ao Cruzamento por Zero</translation>
-    </message>
-    <message>
         <source>Delete Loop</source>
         <translation>Apagar Loop</translation>
     </message>
@@ -2777,10 +2781,6 @@ Saída
     <message>
         <source>Convert Loop to Region</source>
         <translation>Converter Loop em Região</translation>
-    </message>
-    <message>
-        <source>Adjust Selections</source>
-        <translation>Ajustar Seleções</translation>
     </message>
     <message>
         <source>Export Error</source>
@@ -2947,10 +2947,6 @@ Saída
         <translation>Mostrar Ferramentas de Sobreposição</translation>
     </message>
     <message>
-        <source>Clear</source>
-        <translation>Limpar</translation>
-    </message>
-    <message>
         <source>Temporary Space Warning</source>
         <translation>Aviso de Armazenamento Temporário</translation>
     </message>
@@ -2993,6 +2989,30 @@ Saída
     <message>
         <source>&amp;Play</source>
         <translation>Re&amp;produzir</translation>
+    </message>
+    <message>
+        <source>Extend Selection to Begin</source>
+        <translation>Extender Seleção até o Começo</translation>
+    </message>
+    <message>
+        <source>Extend Selection to End</source>
+        <translation>Extender Seleção até o Final</translation>
+    </message>
+    <message>
+        <source>Extend Selection to Previous Marker</source>
+        <translation>Extender Seleção para o Marcador Anterior</translation>
+    </message>
+    <message>
+        <source>Extend Selection to Next Marker</source>
+        <translation>Extender Seleção para o Próximo Marcador</translation>
+    </message>
+    <message>
+        <source>Reduce Selection to Next Marker</source>
+        <translation>Reduzir Seleção para o Próximo Marcador</translation>
+    </message>
+    <message>
+        <source>Reduce Selection to Previous Marker</source>
+        <translation>Reduzir Seleção para o Marcador Anterior</translation>
     </message>
 </context>
 <context>

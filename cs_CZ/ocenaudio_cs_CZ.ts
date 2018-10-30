@@ -806,6 +806,38 @@
         <source>Pa&amp;use</source>
         <translation>Pauza</translation>
     </message>
+    <message>
+        <source>Extend to Begin</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Extend to End</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Extend to Next Marker</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Extend to Previous Marker</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Reduce to Next Marker</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Reduce to Next Marker (from begin)</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Reduce to Previous Marker</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Reduce to Previous Marker (from end)</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>NavigatorDialog</name>
@@ -2622,10 +2654,6 @@ Channel
         <translation></translation>
     </message>
     <message>
-        <source>Undo</source>
-        <translation>Zpět</translation>
-    </message>
-    <message>
         <source>Create Regions</source>
         <translation>Vytvoř oblasti</translation>
     </message>
@@ -2726,18 +2754,6 @@ Channel
         <translation>Opakujte %1</translation>
     </message>
     <message>
-        <source>Copy</source>
-        <translation>Kopírovat</translation>
-    </message>
-    <message>
-        <source>Cut</source>
-        <translation>Střih</translation>
-    </message>
-    <message>
-        <source>Paste</source>
-        <translation>Vlož</translation>
-    </message>
-    <message>
         <source>Delete Marker</source>
         <translation>Smazat značku</translation>
     </message>
@@ -2750,18 +2766,6 @@ Channel
         <translation>Sloučit oblasti</translation>
     </message>
     <message>
-        <source>Adjust Selection</source>
-        <translation>Upravte výběr</translation>
-    </message>
-    <message>
-        <source>Snap to Scale Tick</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Snap to Zero Cross</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>Delete Loop</source>
         <translation>Odstranit smyčky</translation>
     </message>
@@ -2772,10 +2776,6 @@ Channel
     <message>
         <source>Convert Loop to Region</source>
         <translation>Převod smyčku do oblastí</translation>
-    </message>
-    <message>
-        <source>Adjust Selections</source>
-        <translation>Nastavte výběry</translation>
     </message>
     <message>
         <source>Export Error</source>
@@ -2942,10 +2942,6 @@ Channel
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Clear</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>Temporary Space Warning</source>
         <translation type="unfinished"></translation>
     </message>
@@ -2959,7 +2955,7 @@ Channel
     </message>
     <message>
         <source>&amp;Redo</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Zpět</translation>
     </message>
     <message>
         <source>Stop &amp;Recording</source>
@@ -2988,6 +2984,30 @@ Channel
     <message>
         <source>&amp;Play</source>
         <translation>Přehrej</translation>
+    </message>
+    <message>
+        <source>Extend Selection to Begin</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Extend Selection to End</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Extend Selection to Previous Marker</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Extend Selection to Next Marker</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Reduce Selection to Next Marker</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Reduce Selection to Previous Marker</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>

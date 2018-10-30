@@ -806,6 +806,38 @@
         <source>Pa&amp;use</source>
         <translation>&amp;Pausa</translation>
     </message>
+    <message>
+        <source>Extend to Begin</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Extend to End</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Extend to Next Marker</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Extend to Previous Marker</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Reduce to Next Marker</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Reduce to Next Marker (from begin)</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Reduce to Previous Marker</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Reduce to Previous Marker (from end)</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>NavigatorDialog</name>
@@ -2630,10 +2662,6 @@ Canal
         <translation>%1 %2</translation>
     </message>
     <message>
-        <source>Undo</source>
-        <translation>Deshacer</translation>
-    </message>
-    <message>
         <source>Create Regions</source>
         <translation>Crear regiones</translation>
     </message>
@@ -2734,18 +2762,6 @@ Canal
         <translation>Repetir %1</translation>
     </message>
     <message>
-        <source>Copy</source>
-        <translation>Copiar</translation>
-    </message>
-    <message>
-        <source>Cut</source>
-        <translation>Cortar</translation>
-    </message>
-    <message>
-        <source>Paste</source>
-        <translation>Pegar</translation>
-    </message>
-    <message>
         <source>Delete Marker</source>
         <translation>Eliminar marcador</translation>
     </message>
@@ -2758,18 +2774,6 @@ Canal
         <translation>Combinar regiones</translation>
     </message>
     <message>
-        <source>Adjust Selection</source>
-        <translation>Ajustar selección</translation>
-    </message>
-    <message>
-        <source>Snap to Scale Tick</source>
-        <translation>Ajustar a pequeña escala</translation>
-    </message>
-    <message>
-        <source>Snap to Zero Cross</source>
-        <translation>Ajustar a cero cruce</translation>
-    </message>
-    <message>
         <source>Delete Loop</source>
         <translation>Eliminar bucle</translation>
     </message>
@@ -2780,10 +2784,6 @@ Canal
     <message>
         <source>Convert Loop to Region</source>
         <translation>Convertir bucle a región</translation>
-    </message>
-    <message>
-        <source>Adjust Selections</source>
-        <translation>Ajustar selecciones</translation>
     </message>
     <message>
         <source>Export Error</source>
@@ -2950,10 +2950,6 @@ Canal
         <translation>Mostrar Herramientas de Superposición</translation>
     </message>
     <message>
-        <source>Clear</source>
-        <translation>Despejar</translation>
-    </message>
-    <message>
         <source>Temporary Space Warning</source>
         <translation>Aviso de espacio temporal</translation>
     </message>
@@ -2996,6 +2992,30 @@ Canal
     <message>
         <source>&amp;Play</source>
         <translation>&amp;Reproducir</translation>
+    </message>
+    <message>
+        <source>Extend Selection to Begin</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Extend Selection to End</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Extend Selection to Previous Marker</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Extend Selection to Next Marker</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Reduce Selection to Next Marker</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Reduce Selection to Previous Marker</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>

@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!DOCTYPE TS>
-<TS version="2.0" language="fr_FR">
+<TS version="2.1" language="fr_FR">
 <context>
     <name>AdjustSampleRateDialog</name>
     <message>
@@ -604,7 +604,7 @@
     </message>
     <message>
         <source>Time/Pitch Adjust</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Ajustement de Time/Pitch</translation>
     </message>
     <message>
         <source>Paste to Fit</source>
@@ -805,6 +805,38 @@
     <message>
         <source>Pa&amp;use</source>
         <translation></translation>
+    </message>
+    <message>
+        <source>Extend to Begin</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Extend to End</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Extend to Next Marker</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Extend to Previous Marker</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Reduce to Next Marker</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Reduce to Next Marker (from begin)</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Reduce to Previous Marker</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Reduce to Previous Marker (from end)</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -2623,10 +2655,6 @@ Channel
         <translation></translation>
     </message>
     <message>
-        <source>Undo</source>
-        <translation>Annuler</translation>
-    </message>
-    <message>
         <source>Create Regions</source>
         <translation>Créer des régions</translation>
     </message>
@@ -2727,18 +2755,6 @@ Channel
         <translation>Répéter %1</translation>
     </message>
     <message>
-        <source>Copy</source>
-        <translation>Copier</translation>
-    </message>
-    <message>
-        <source>Cut</source>
-        <translation>Couper</translation>
-    </message>
-    <message>
-        <source>Paste</source>
-        <translation>Coller</translation>
-    </message>
-    <message>
         <source>Delete Marker</source>
         <translation>Supprimer Marqueur</translation>
     </message>
@@ -2751,18 +2767,6 @@ Channel
         <translation>Fusionner les régions</translation>
     </message>
     <message>
-        <source>Adjust Selection</source>
-        <translation>Ajuster la Sélection</translation>
-    </message>
-    <message>
-        <source>Snap to Scale Tick</source>
-        <translation>Accrochage à l&apos;échelle</translation>
-    </message>
-    <message>
-        <source>Snap to Zero Cross</source>
-        <translation>Accrochage à Zéro Croix</translation>
-    </message>
-    <message>
         <source>Delete Loop</source>
         <translation>Supprimer Loop</translation>
     </message>
@@ -2773,10 +2777,6 @@ Channel
     <message>
         <source>Convert Loop to Region</source>
         <translation>Convertir Loop en Région</translation>
-    </message>
-    <message>
-        <source>Adjust Selections</source>
-        <translation>Ajuster les Sélections</translation>
     </message>
     <message>
         <source>Export Error</source>
@@ -2943,10 +2943,6 @@ Channel
         <translation>Afficher les outils de superposition</translation>
     </message>
     <message>
-        <source>Clear</source>
-        <translation>Effacer</translation>
-    </message>
-    <message>
         <source>Temporary Space Warning</source>
         <translation>Avertissement d&apos;espace temporaire</translation>
     </message>
@@ -2989,6 +2985,30 @@ Channel
     <message>
         <source>&amp;Play</source>
         <translation>&amp;Lecture</translation>
+    </message>
+    <message>
+        <source>Extend Selection to Begin</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Extend Selection to End</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Extend Selection to Previous Marker</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Extend Selection to Next Marker</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Reduce Selection to Next Marker</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Reduce Selection to Previous Marker</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>

@@ -806,6 +806,38 @@
         <source>Pa&amp;use</source>
         <translation>Szünet</translation>
     </message>
+    <message>
+        <source>Extend to Begin</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Extend to End</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Extend to Next Marker</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Extend to Previous Marker</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Reduce to Next Marker</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Reduce to Next Marker (from begin)</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Reduce to Previous Marker</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Reduce to Previous Marker (from end)</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>NavigatorDialog</name>
@@ -2622,10 +2654,6 @@ Channel
         <translation>%1 %2</translation>
     </message>
     <message>
-        <source>Undo</source>
-        <translation>Visszavonás</translation>
-    </message>
-    <message>
         <source>Create Regions</source>
         <translation>Tartományok készítése</translation>
     </message>
@@ -2726,18 +2754,6 @@ Channel
         <translation>%1 ismétlése</translation>
     </message>
     <message>
-        <source>Copy</source>
-        <translation>Másolás</translation>
-    </message>
-    <message>
-        <source>Cut</source>
-        <translation>Kivágás</translation>
-    </message>
-    <message>
-        <source>Paste</source>
-        <translation>Beillesztés</translation>
-    </message>
-    <message>
         <source>Delete Marker</source>
         <translation>Jelölő törlése</translation>
     </message>
@@ -2750,18 +2766,6 @@ Channel
         <translation>Tartományok összeillesztése</translation>
     </message>
     <message>
-        <source>Adjust Selection</source>
-        <translation>Kiválasztás testre szabása</translation>
-    </message>
-    <message>
-        <source>Snap to Scale Tick</source>
-        <translation>Skála-kötőjelhez illesztés</translation>
-    </message>
-    <message>
-        <source>Snap to Zero Cross</source>
-        <translation>Null-átmenethez illesztés</translation>
-    </message>
-    <message>
         <source>Delete Loop</source>
         <translation>Hurok törlése</translation>
     </message>
@@ -2772,10 +2776,6 @@ Channel
     <message>
         <source>Convert Loop to Region</source>
         <translation>Hurok konvertálása tartománnyá</translation>
-    </message>
-    <message>
-        <source>Adjust Selections</source>
-        <translation>Kiválasztás testreszabása</translation>
     </message>
     <message>
         <source>Export Error</source>
@@ -2942,10 +2942,6 @@ Channel
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Clear</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>Temporary Space Warning</source>
         <translation type="unfinished"></translation>
     </message>
@@ -2988,6 +2984,30 @@ Channel
     <message>
         <source>&amp;Play</source>
         <translation>Lejátszás</translation>
+    </message>
+    <message>
+        <source>Extend Selection to Begin</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Extend Selection to End</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Extend Selection to Previous Marker</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Extend Selection to Next Marker</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Reduce Selection to Next Marker</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Reduce Selection to Previous Marker</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>

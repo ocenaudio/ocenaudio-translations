@@ -810,6 +810,38 @@
         <source>Pa&amp;use</source>
         <translation>пауза</translation>
     </message>
+    <message>
+        <source>Extend to Begin</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Extend to End</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Extend to Next Marker</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Extend to Previous Marker</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Reduce to Next Marker</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Reduce to Next Marker (from begin)</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Reduce to Previous Marker</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Reduce to Previous Marker (from end)</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>NavigatorDialog</name>
@@ -2625,10 +2657,6 @@ Channel
         <translation>%1 %2</translation>
     </message>
     <message>
-        <source>Undo</source>
-        <translation>Отмени</translation>
-    </message>
-    <message>
         <source>Create Regions</source>
         <translation>Създай региони</translation>
     </message>
@@ -2729,18 +2757,6 @@ Channel
         <translation>Повтори %1</translation>
     </message>
     <message>
-        <source>Copy</source>
-        <translation>Копирай</translation>
-    </message>
-    <message>
-        <source>Cut</source>
-        <translation>Изрежи</translation>
-    </message>
-    <message>
-        <source>Paste</source>
-        <translation>Постави</translation>
-    </message>
-    <message>
         <source>Delete Marker</source>
         <translation>Изтрй маркер</translation>
     </message>
@@ -2753,19 +2769,6 @@ Channel
         <translation>Обедини региони</translation>
     </message>
     <message>
-        <source>Adjust Selection</source>
-        <translation>Променяне на избраното
-</translation>
-    </message>
-    <message>
-        <source>Snap to Scale Tick</source>
-        <translation>Придвижвай се по стойносите нс скалата</translation>
-    </message>
-    <message>
-        <source>Snap to Zero Cross</source>
-        <translation>Придвижвай се по точките на нулево пресичане</translation>
-    </message>
-    <message>
         <source>Delete Loop</source>
         <translation>Изтрий луп</translation>
     </message>
@@ -2776,10 +2779,6 @@ Channel
     <message>
         <source>Convert Loop to Region</source>
         <translation>Конвертирай луп към регион</translation>
-    </message>
-    <message>
-        <source>Adjust Selections</source>
-        <translation>Настрой селекциите</translation>
     </message>
     <message>
         <source>Export Error</source>
@@ -2946,10 +2945,6 @@ Channel
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Clear</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>Temporary Space Warning</source>
         <translation type="unfinished"></translation>
     </message>
@@ -2992,6 +2987,30 @@ Channel
     <message>
         <source>&amp;Play</source>
         <translation>Свири</translation>
+    </message>
+    <message>
+        <source>Extend Selection to Begin</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Extend Selection to End</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Extend Selection to Previous Marker</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Extend Selection to Next Marker</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Reduce Selection to Next Marker</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Reduce Selection to Previous Marker</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>

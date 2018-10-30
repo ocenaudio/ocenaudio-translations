@@ -813,6 +813,38 @@
         <source>Pa&amp;use</source>
         <translation>Pa&amp;usa</translation>
     </message>
+    <message>
+        <source>Extend to Begin</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Extend to End</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Extend to Next Marker</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Extend to Previous Marker</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Reduce to Next Marker</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Reduce to Next Marker (from begin)</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Reduce to Previous Marker</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Reduce to Previous Marker (from end)</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>NavigatorDialog</name>
@@ -2631,10 +2663,6 @@ Canale
         <translation></translation>
     </message>
     <message>
-        <source>Undo</source>
-        <translation>Annulla</translation>
-    </message>
-    <message>
         <source>Create Regions</source>
         <translation>Crea regioni</translation>
     </message>
@@ -2735,18 +2763,6 @@ Canale
         <translation>Ripeti %1</translation>
     </message>
     <message>
-        <source>Copy</source>
-        <translation>Copia</translation>
-    </message>
-    <message>
-        <source>Cut</source>
-        <translation>Taglia</translation>
-    </message>
-    <message>
-        <source>Paste</source>
-        <translation>Incolla</translation>
-    </message>
-    <message>
         <source>Delete Marker</source>
         <translation>Elimina marcatore</translation>
     </message>
@@ -2759,18 +2775,6 @@ Canale
         <translation>Unisci regioni</translation>
     </message>
     <message>
-        <source>Adjust Selection</source>
-        <translation>Regola la selezione</translation>
-    </message>
-    <message>
-        <source>Snap to Scale Tick</source>
-        <translation>Aggancia al tick della scala</translation>
-    </message>
-    <message>
-        <source>Snap to Zero Cross</source>
-        <translation>Aggancia a incroci con lo zero</translation>
-    </message>
-    <message>
         <source>Delete Loop</source>
         <translation>Elimina loop</translation>
     </message>
@@ -2781,10 +2785,6 @@ Canale
     <message>
         <source>Convert Loop to Region</source>
         <translation>Converti loop in regione</translation>
-    </message>
-    <message>
-        <source>Adjust Selections</source>
-        <translation>Regola selezioni</translation>
     </message>
     <message>
         <source>Export Error</source>
@@ -2800,7 +2800,7 @@ Canale
     </message>
     <message>
         <source>Extract Audio From Regions</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Estrai audio dalle regioni</translation>
     </message>
     <message>
         <source>Enable/Disable Preroll on Recording</source>
@@ -2864,7 +2864,7 @@ Canale
     </message>
     <message>
         <source>Noise Reduction</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Riduzione del rumore</translation>
     </message>
     <message>
         <source>Playback Mixer Config</source>
@@ -2940,7 +2940,7 @@ Canale
     </message>
     <message>
         <source>Show Selection Overlays</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Mostra sovrapposizioni di selezione</translation>
     </message>
     <message>
         <source>Hide Overlay Tools</source>
@@ -2948,11 +2948,7 @@ Canale
     </message>
     <message>
         <source>Show Overlay Tools</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Clear</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Mostra strumenti di sovrapposizione</translation>
     </message>
     <message>
         <source>Temporary Space Warning</source>
@@ -2997,6 +2993,30 @@ Canale
     <message>
         <source>&amp;Play</source>
         <translation>&amp;Riproduci</translation>
+    </message>
+    <message>
+        <source>Extend Selection to Begin</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Extend Selection to End</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Extend Selection to Previous Marker</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Extend Selection to Next Marker</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Reduce Selection to Next Marker</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Reduce Selection to Previous Marker</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -3139,7 +3159,7 @@ Canale
     </message>
     <message>
         <source>Noise Reduction</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Riduzione del rumore</translation>
     </message>
     <message>
         <source>Reducing Noise</source>
@@ -4586,15 +4606,15 @@ Canale
     </message>
     <message>
         <source>1 channel (mono)</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">1 canale (mono)</translation>
     </message>
     <message>
         <source>2 channels (stereo)</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">2 canali (stereo)</translation>
     </message>
     <message>
         <source>%1 channels</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">%1 canali</translation>
     </message>
     <message>
         <source>Input #%1 </source>
@@ -4607,7 +4627,7 @@ Canale
     </message>
     <message>
         <source>Channel #%1 </source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Canale #%1 </translation>
     </message>
     <message>
         <source>Output

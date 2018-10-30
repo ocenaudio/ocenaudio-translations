@@ -1304,7 +1304,7 @@ You should check your audio settings in the ocenaudio preferences pane.</source>
     </message>
     <message>
         <source>Supported Sound Files</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Unterstützte Audiodateien</translation>
     </message>
     <message>
         <source>Do you want to overwrite the backup copy of the original file?</source>
