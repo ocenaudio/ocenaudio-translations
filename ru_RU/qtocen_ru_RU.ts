@@ -64,7 +64,7 @@
     </message>
     <message>
         <source>English</source>
-        <translation></translation>
+        <translation>Английский</translation>
     </message>
     <message>
         <source>Portuguese</source>
@@ -100,23 +100,23 @@
     </message>
     <message>
         <source>Russian</source>
-        <translation></translation>
+        <translation>Русский</translation>
     </message>
     <message>
         <source>Stream</source>
-        <translation type="unfinished">Stream</translation>
+        <translation>Поток</translation>
     </message>
     <message>
         <source>stream</source>
-        <translation type="unfinished"></translation>
+        <translation>поток</translation>
     </message>
     <message>
         <source>Stream %1 of %2</source>
-        <translation type="unfinished"></translation>
+        <translation>Поток %1 из %2</translation>
     </message>
     <message>
         <source>Stream %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Поток %1</translation>
     </message>
     <message>
         <source>All Files</source>
@@ -156,11 +156,11 @@
     </message>
     <message>
         <source>Undefined Format</source>
-        <translation type="unfinished"></translation>
+        <translation>Неопределенный формат</translation>
     </message>
     <message>
         <source>Where</source>
-        <translation type="unfinished"></translation>
+        <translation>Где</translation>
     </message>
     <message>
         <source>Cutting</source>
@@ -184,7 +184,7 @@
     </message>
     <message>
         <source>Deleting</source>
-        <translation>Удаляется</translation>
+        <translation>Удаление</translation>
     </message>
     <message>
         <source>Delete</source>
@@ -288,11 +288,11 @@
     </message>
     <message>
         <source>Normalize</source>
-        <translation type="unfinished">Нормализация</translation>
+        <translation>Нормализация</translation>
     </message>
     <message>
         <source>Changing Audio Format</source>
-        <translation>Изменение звукового формата</translation>
+        <translation>Изменение формата звука</translation>
     </message>
     <message>
         <source>Change Audio Format</source>
@@ -328,11 +328,11 @@
     </message>
     <message>
         <source>Detecting Dtmf</source>
-        <translation type="unfinished"></translation>
+        <translation>Обнаружение DTMF</translation>
     </message>
     <message>
         <source>Detect Dtmf</source>
-        <translation type="unfinished"></translation>
+        <translation>Обнаружение DTMF</translation>
     </message>
     <message>
         <source>Save As</source>
@@ -344,7 +344,7 @@
     </message>
     <message>
         <source>Exporting Selection As</source>
-        <translation>Выделение экспортируется как</translation>
+        <translation>Выбор экспортируется как</translation>
     </message>
     <message>
         <source>Exporting Region As</source>
@@ -356,11 +356,11 @@
     </message>
     <message>
         <source>Paste Channel</source>
-        <translation type="unfinished"></translation>
+        <translation>Вставить канал</translation>
     </message>
     <message>
         <source>Paste From File</source>
-        <translation type="unfinished"></translation>
+        <translation>Вставить из файла</translation>
     </message>
     <message>
         <source>Paste Silence</source>
@@ -428,239 +428,239 @@
     </message>
     <message>
         <source>Transform</source>
-        <translation type="unfinished"></translation>
+        <translation>Преобразование</translation>
     </message>
     <message>
         <source>Change Gain/Offset</source>
-        <translation type="unfinished"></translation>
+        <translation>Изменение усиления/смещения</translation>
     </message>
     <message>
         <source>Cancel</source>
-        <translation type="unfinished">Отмена</translation>
+        <translation>Отмена</translation>
     </message>
     <message>
         <source>Waiting for cancellation</source>
-        <translation type="unfinished"></translation>
+        <translation>Ожидание отмены</translation>
     </message>
     <message>
         <source>Remaining</source>
-        <translation type="unfinished"></translation>
+        <translation>Осталось</translation>
     </message>
     <message>
         <source>Question</source>
-        <translation type="unfinished">Вопрос</translation>
+        <translation>Вопрос</translation>
     </message>
     <message>
         <source>Do you really want to discard the changes made in this region?</source>
-        <translation type="unfinished">Вы действительно хотите отказаться от изменений, сделанных в этой области?</translation>
+        <translation>Вы действительно хотите отказаться от изменений, сделанных в этой области?</translation>
     </message>
     <message>
         <source>Changes in region text will be lost if you discard.</source>
-        <translation type="unfinished">Изменения в текстовой области будут потеряны, если вы откажетесь.</translation>
+        <translation>Изменения в тексте области будут потеряны при отказе.</translation>
     </message>
     <message>
         <source>Save</source>
-        <translation type="unfinished">Сохранить</translation>
+        <translation>Сохранить</translation>
     </message>
     <message>
         <source>Discard</source>
-        <translation type="unfinished">Отказаться</translation>
+        <translation>Отказаться</translation>
     </message>
     <message>
         <source>Track %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Трек %1</translation>
     </message>
     <message>
         <source>@%1 (unlinked)</source>
-        <translation type="unfinished"></translation>
+        <translation>@%1 (отсоединен)</translation>
     </message>
     <message>
         <source>Smooth</source>
-        <translation type="unfinished"></translation>
+        <translation>Сглаживание</translation>
     </message>
     <message>
         <source>General</source>
-        <translation type="unfinished">Общие</translation>
+        <translation>Общие</translation>
     </message>
     <message>
         <source>General Preferences</source>
-        <translation type="unfinished"></translation>
+        <translation>Общие настройки</translation>
     </message>
     <message>
         <source>Key Bindings</source>
-        <translation type="unfinished"></translation>
+        <translation>Привязка клавиш</translation>
     </message>
     <message>
         <source>Key Bindings Preferences</source>
-        <translation type="unfinished"></translation>
+        <translation>Настройки привязки клавиш</translation>
     </message>
     <message>
         <source>Network</source>
-        <translation type="unfinished">Сеть</translation>
+        <translation>Сеть</translation>
     </message>
     <message>
         <source>Network Preferences</source>
-        <translation type="unfinished"></translation>
+        <translation>Настройки сети</translation>
     </message>
     <message>
         <source>Supported Sound Files</source>
-        <translation type="unfinished"></translation>
+        <translation>Поддерживаемые звуковые файлы</translation>
     </message>
     <message>
         <source>Sound</source>
-        <translation type="unfinished"></translation>
+        <translation>Звук</translation>
     </message>
     <message>
         <source>Sound Preferences</source>
-        <translation type="unfinished"></translation>
+        <translation>Настройки звука</translation>
     </message>
     <message>
         <source>Spectrogram</source>
-        <translation type="unfinished">Спектрограмма</translation>
+        <translation>Спектрограмма</translation>
     </message>
     <message>
         <source>Spectogram Preferences</source>
-        <translation type="unfinished"></translation>
+        <translation>Настройки спектограммы</translation>
     </message>
     <message>
         <source>Paste To Fit</source>
-        <translation type="unfinished"></translation>
+        <translation>Вставить по размеру</translation>
     </message>
     <message>
         <source>Audio Canvas</source>
-        <translation type="unfinished"></translation>
+        <translation>Аудио холст</translation>
     </message>
     <message>
         <source>Quick zoom</source>
-        <translation type="unfinished"></translation>
+        <translation>Быстрое масштабирование</translation>
     </message>
     <message>
         <source>Move to previous zero crossing</source>
-        <translation type="unfinished"></translation>
+        <translation>Перейти к предыдущему нулевому пересечению</translation>
     </message>
     <message>
         <source>Move to next zero crossing</source>
-        <translation type="unfinished"></translation>
+        <translation>Перейти к следующему нулевому пересечению</translation>
     </message>
     <message>
         <source>Select to previous zero crossing</source>
-        <translation type="unfinished"></translation>
+        <translation>Выбрать предыдущее нулевое пересечение</translation>
     </message>
     <message>
         <source>Select to next zero crossing</source>
-        <translation type="unfinished"></translation>
+        <translation>Выбрать следующее нулевое пересечение</translation>
     </message>
     <message>
         <source>Scroll audio backward</source>
-        <translation type="unfinished"></translation>
+        <translation>Прокрутить аудио назад</translation>
     </message>
     <message>
         <source>Scroll audio forward</source>
-        <translation type="unfinished"></translation>
+        <translation>Прокрутить аудио вперед</translation>
     </message>
     <message>
         <source>Move cursor to previous page</source>
-        <translation type="unfinished"></translation>
+        <translation>Переместить курсор на предыдущую страницу</translation>
     </message>
     <message>
         <source>Move cursor to next page</source>
-        <translation type="unfinished"></translation>
+        <translation>Переместить курсор на следующую страницу</translation>
     </message>
     <message>
         <source>Move cursor to previous scale tick</source>
-        <translation type="unfinished"></translation>
+        <translation>Переместить курсор к предыдущему делению шкалы</translation>
     </message>
     <message>
         <source>Move cursor to next scale tick</source>
-        <translation type="unfinished"></translation>
+        <translation>Переместить курсор к следующему делению шкалы</translation>
     </message>
     <message>
         <source>Move cursor to left</source>
-        <translation type="unfinished"></translation>
+        <translation>Переместить курсор влево</translation>
     </message>
     <message>
         <source>Move cursor to right</source>
-        <translation type="unfinished"></translation>
+        <translation>Переместить курсор вправо</translation>
     </message>
     <message>
         <source>Move cursor to begin</source>
-        <translation type="unfinished"></translation>
+        <translation>Переместить курсор в начало</translation>
     </message>
     <message>
         <source>Move cursor to end</source>
-        <translation type="unfinished"></translation>
+        <translation>Переместить курсор в конец</translation>
     </message>
     <message>
         <source>Select region under cursor/region</source>
-        <translation type="unfinished"></translation>
+        <translation>Выбрать область под курсором/областью</translation>
     </message>
     <message>
         <source>Select Audio/Region to left</source>
-        <translation type="unfinished"></translation>
+        <translation>Выбрать аудио/область слева</translation>
     </message>
     <message>
         <source>Select Audio/Region to right</source>
-        <translation type="unfinished"></translation>
+        <translation>Выбрать аудио/область справа</translation>
     </message>
     <message>
         <source>Select Audio/Region to begin</source>
-        <translation type="unfinished"></translation>
+        <translation>Выбрать аудио/область до начала</translation>
     </message>
     <message>
         <source>Select Audio/Region to end</source>
-        <translation type="unfinished"></translation>
+        <translation>Выбрать аудио/область до конца</translation>
     </message>
     <message>
         <source>Select to previous scale tick</source>
-        <translation type="unfinished"></translation>
+        <translation>Выбрать до предыдущего деления шкалы</translation>
     </message>
     <message>
         <source>Select to next scale tick</source>
-        <translation type="unfinished"></translation>
+        <translation>Выбрать до следующего деления шкалы</translation>
     </message>
     <message>
         <source>Move cursor to next marker</source>
-        <translation type="unfinished"></translation>
+        <translation>Переместить курсор до следующего маркера</translation>
     </message>
     <message>
         <source>Move cursor to previous marker</source>
-        <translation type="unfinished"></translation>
+        <translation>Переместить курсор до предыдущего маркер</translation>
     </message>
     <message>
         <source>Select to next marker</source>
-        <translation type="unfinished"></translation>
+        <translation>Выбрать до следующего маркера</translation>
     </message>
     <message>
         <source>Select to previous marker</source>
-        <translation type="unfinished"></translation>
+        <translation>Выбрать до предыдущего маркера</translation>
     </message>
     <message>
         <source>%1 sec</source>
-        <translation type="unfinished"></translation>
+        <translation>%1 сек</translation>
     </message>
     <message>
         <source>%1 ms</source>
-        <translation type="unfinished"></translation>
+        <translation>%1 мс</translation>
     </message>
     <message>
         <source>Show cursor/Select region</source>
-        <translation type="unfinished"></translation>
+        <translation>Показать курсор/выбрать область</translation>
     </message>
     <message>
         <source>Smoothing</source>
-        <translation type="unfinished"></translation>
+        <translation>Сглаживание</translation>
     </message>
     <message>
         <source>Create/Edit region</source>
-        <translation type="unfinished"></translation>
+        <translation>Создать/изменить область</translation>
     </message>
     <message>
         <source>Move Region</source>
-        <translation type="unfinished"></translation>
+        <translation>Переместить область</translation>
     </message>
     <message>
         <source>Pasting file %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Вставка файла %1</translation>
     </message>
     <message>
         <source>Selection Begin</source>
@@ -668,35 +668,35 @@
     </message>
     <message>
         <source>Selection End</source>
-        <translation type="unfinished"></translation>
+        <translation>Окончание выбора</translation>
     </message>
     <message>
         <source>Selection Duration</source>
-        <translation type="unfinished"></translation>
+        <translation>Длительность выбора</translation>
     </message>
     <message>
         <source>Copy</source>
-        <translation type="unfinished"></translation>
+        <translation>Копировать</translation>
     </message>
     <message>
         <source>Clear</source>
-        <translation type="unfinished"></translation>
+        <translation>Очистить</translation>
     </message>
     <message>
         <source>Zoom Selection</source>
-        <translation type="unfinished"></translation>
+        <translation>Масштабирование выбора</translation>
     </message>
     <message>
         <source>Zoom Back</source>
-        <translation type="unfinished"></translation>
+        <translation>Масштабирование обратно</translation>
     </message>
     <message>
         <source>Drag me!</source>
-        <translation type="unfinished"></translation>
+        <translation>Тащи меня!</translation>
     </message>
     <message>
         <source>Double-Click to create a marker</source>
-        <translation type="unfinished"></translation>
+        <translation>Дважды щелкните, чтобы создать маркер</translation>
     </message>
 </context>
 <context>
@@ -707,95 +707,96 @@
     </message>
     <message>
         <source>ocenaudio Clipboard with %1 seconds in %2 %3</source>
-        <translation type="unfinished"></translation>
+        <translation>ocenaudio буфер обмена с %1 секундами в %2 %3</translation>
     </message>
     <message>
         <source>An error occured while writing temporary data to disk. This issue might happen if your main disk is running out of free space.</source>
-        <translation type="unfinished"></translation>
+        <translation>Ошибка при записи временных данных на диск. Эта возможно, если на диске нет свободного места.</translation>
     </message>
     <message>
         <source>An error occured while allocating memory! This issue might happen if you are running out of memory</source>
-        <translation type="unfinished"></translation>
+        <translation>Ошибка при выделении памяти! Это возможно при нехватке памяти</translation>
     </message>
     <message>
         <source>Update Device List Failed</source>
-        <translation type="unfinished"></translation>
+        <translation>Сбой при обновлении списка устройств</translation>
     </message>
     <message>
         <source>An error occurred while updating the list of audio devices using the %1 backend. In this condition the capture and playback capabilities may not be available.
 You should check your audio settings in the ocenaudio preferences pane.</source>
-        <translation type="unfinished"></translation>
+        <translation>Ошибка при обновлении списка звуковых устройств серверной части %1. В этом состоянии возможности захвата и воспроизведения могут быть недоступны.
+Вы должны проверить свои настройки звука на панели настроек ocenaudio.</translation>
     </message>
 </context>
 <context>
     <name>QOcenAudio</name>
     <message>
         <source>Add Marker</source>
-        <translation type="unfinished"></translation>
+        <translation>Добавить маркер</translation>
     </message>
     <message>
         <source>Move Marker</source>
-        <translation type="unfinished"></translation>
+        <translation>Переместить маркер</translation>
     </message>
     <message>
         <source>Import Regions</source>
-        <translation type="unfinished"></translation>
+        <translation>Импорт области</translation>
     </message>
     <message>
         <source>Add Region</source>
-        <translation type="unfinished"></translation>
+        <translation>Добавить область</translation>
     </message>
     <message>
         <source>Delete Region</source>
-        <translation type="unfinished"></translation>
+        <translation>Удалить область</translation>
     </message>
     <message>
         <source>Undelete Region</source>
-        <translation type="unfinished"></translation>
+        <translation>Восстановить область</translation>
     </message>
     <message>
         <source>Delete Regions</source>
-        <translation type="unfinished"></translation>
+        <translation>Удалить области</translation>
     </message>
     <message>
         <source>Convert Region to Loop</source>
-        <translation type="unfinished"></translation>
+        <translation>Преобразовать область в цикл</translation>
     </message>
     <message>
         <source>Convert Loop to Region</source>
-        <translation type="unfinished"></translation>
+        <translation>Преобразовать цикл в область</translation>
     </message>
     <message>
         <source>Merge Regions</source>
-        <translation type="unfinished"></translation>
+        <translation>Сравнить области</translation>
     </message>
     <message>
         <source>Change Region Comment</source>
-        <translation type="unfinished"></translation>
+        <translation>Изменить комментарий области</translation>
     </message>
     <message>
         <source>Change Region Label</source>
-        <translation type="unfinished"></translation>
+        <translation>Изменить метку области</translation>
     </message>
     <message>
         <source>Change Region Track</source>
-        <translation type="unfinished"></translation>
+        <translation>Изменить область трека</translation>
     </message>
     <message>
         <source>Offset Region</source>
-        <translation type="unfinished"></translation>
+        <translation>Смещение области</translation>
     </message>
     <message>
         <source>Change Region Begin</source>
-        <translation type="unfinished"></translation>
+        <translation>Изменить начало области</translation>
     </message>
     <message>
         <source>Change Region End</source>
-        <translation type="unfinished"></translation>
+        <translation>Изменить конец области</translation>
     </message>
     <message>
         <source>Resize Region</source>
-        <translation type="unfinished"></translation>
+        <translation>Изменить размер области</translation>
     </message>
 </context>
 <context>
@@ -806,7 +807,7 @@ You should check your audio settings in the ocenaudio preferences pane.</source>
     </message>
     <message>
         <source>readonly</source>
-        <translation type="unfinished"></translation>
+        <translation>только чтение</translation>
     </message>
 </context>
 <context>
@@ -824,7 +825,7 @@ You should check your audio settings in the ocenaudio preferences pane.</source>
     <name>QOcenAudioListView</name>
     <message>
         <source>Drop Files Here</source>
-        <translation>Перетащите сюда файлы</translation>
+        <translation>Перетащите файлы сюда</translation>
     </message>
     <message>
         <source>You can drop audio files, folders, archives, urls and playlists.</source>
@@ -832,57 +833,57 @@ You should check your audio settings in the ocenaudio preferences pane.</source>
     </message>
     <message>
         <source>Cancel</source>
-        <translation type="unfinished">Отмена</translation>
+        <translation>Отмена</translation>
     </message>
     <message>
         <source>Close</source>
-        <translation type="unfinished">Закрыть</translation>
+        <translation>Закрыть</translation>
     </message>
     <message>
         <source>Play</source>
-        <translation type="unfinished"></translation>
+        <translation>Воспроизвести</translation>
     </message>
     <message>
         <source>Stop</source>
-        <translation type="unfinished"></translation>
+        <translation>Остановить</translation>
     </message>
     <message>
         <source>Link the view state of this audio to the current visible audio</source>
-        <translation type="unfinished"></translation>
+        <translation>Связать состояние просмотра этого аудио с текущим видимым аудио</translation>
     </message>
     <message>
         <source>Unlink the view state of this audio</source>
-        <translation type="unfinished"></translation>
+        <translation>Отсоединить состояние просмотра этого аудио</translation>
     </message>
     <message>
         <source>Link the view state of this audio to others linked audios (if any)</source>
-        <translation type="unfinished"></translation>
+        <translation>Связать состояние просмотра этого аудио с другими связанными аудио (если есть)</translation>
     </message>
     <message>
         <source>Save</source>
-        <translation type="unfinished">Сохранить</translation>
+        <translation>Сохранить</translation>
     </message>
 </context>
 <context>
     <name>QOcenAudioRegionMime</name>
     <message>
         <source>Region</source>
-        <translation type="unfinished"></translation>
+        <translation>Область</translation>
     </message>
     <message>
         <source>%1 from %2</source>
-        <translation type="unfinished"></translation>
+        <translation>%1 из %2</translation>
     </message>
 </context>
 <context>
     <name>QOcenAudioSelectionMime</name>
     <message>
         <source>%1 Snippets from %2</source>
-        <translation>%1 обрывки из %2</translation>
+        <translation>%1 фрагментов из %2</translation>
     </message>
     <message>
         <source>Snippet from %1</source>
-        <translation>Обрывки из %1</translation>
+        <translation>Фрагменты из %1</translation>
     </message>
 </context>
 <context>
@@ -900,15 +901,15 @@ You should check your audio settings in the ocenaudio preferences pane.</source>
     </message>
     <message>
         <source>Message box text</source>
-        <translation type="unfinished"></translation>
+        <translation>Поле ввода текста</translation>
     </message>
     <message>
         <source>Message box informative text</source>
-        <translation type="unfinished"></translation>
+        <translation>Поле ввода текстовой информации</translation>
     </message>
     <message>
         <source>Checkable option</source>
-        <translation type="unfinished"></translation>
+        <translation>Отмечаемый параметр</translation>
     </message>
 </context>
 <context>
@@ -923,18 +924,18 @@ You should check your audio settings in the ocenaudio preferences pane.</source>
     </message>
     <message>
         <source>&amp;Save All</source>
-        <translation type="unfinished"></translation>
+        <translation>Сохранить все</translation>
     </message>
     <message>
         <source>&amp;Save Selected</source>
-        <translation type="unfinished"></translation>
+        <translation>Сохранить выбранное</translation>
     </message>
 </context>
 <context>
     <name>QOcenEditMenuSeparator</name>
     <message>
         <source>-</source>
-        <translation type="unfinished">-</translation>
+        <translation></translation>
     </message>
 </context>
 <context>
@@ -949,62 +950,62 @@ You should check your audio settings in the ocenaudio preferences pane.</source>
     </message>
     <message>
         <source>Options</source>
-        <translation type="unfinished"></translation>
+        <translation>Параметры</translation>
     </message>
     <message>
         <source>Color Scheme</source>
-        <translation type="unfinished"></translation>
+        <translation>Цветовая схема</translation>
     </message>
     <message>
         <source>Classic</source>
-        <translation type="unfinished"></translation>
+        <translation>Классическая</translation>
     </message>
     <message>
         <source>Light</source>
-        <translation type="unfinished"></translation>
+        <translation>Светлая</translation>
     </message>
     <message>
         <source>Select ocenaudio interface language</source>
-        <translation type="unfinished"></translation>
+        <translation>Выбор языка интерфейса ocenaudio</translation>
     </message>
     <message>
         <source>Select color scheme to be used in ocenaudio interface</source>
-        <translation type="unfinished"></translation>
+        <translation>Выбор цветовой схемы интерфейса ocenaudio</translation>
     </message>
     <message>
         <source>Smooth Cut and Delete boundaries</source>
-        <translation type="unfinished"></translation>
+        <translation>Сглаживание границ вырезания и удаления</translation>
     </message>
     <message>
         <source>Keep a backup copy of original file before overwrite</source>
-        <translation type="unfinished"></translation>
+        <translation>Сохранять резервную копию исходного файла перед перезаписью</translation>
     </message>
     <message>
         <source>System Language (%1)</source>
-        <translation type="unfinished"></translation>
+        <translation>Язык системы (%1)</translation>
     </message>
     <message>
         <source>Aqua</source>
-        <translation type="unfinished"></translation>
+        <translation>Вода</translation>
     </message>
     <message>
         <source>Dark Classic</source>
-        <translation type="unfinished"></translation>
+        <translation>Темная классическая</translation>
     </message>
     <message>
         <source>Dark Aqua</source>
-        <translation type="unfinished"></translation>
+        <translation>Темная вода</translation>
     </message>
     <message>
         <source>Dark Mojave</source>
-        <translation type="unfinished"></translation>
+        <translation>Темный Мохаве</translation>
     </message>
 </context>
 <context>
     <name>QOcenGetTextDialog</name>
     <message>
         <source>Dialog</source>
-        <translation></translation>
+        <translation>Диалог</translation>
     </message>
     <message>
         <source>TextLabel</source>
@@ -1015,19 +1016,19 @@ You should check your audio settings in the ocenaudio preferences pane.</source>
     <name>QOcenKeyBindings</name>
     <message>
         <source>Command</source>
-        <translation type="unfinished"></translation>
+        <translation>Команда</translation>
     </message>
     <message>
         <source>Key</source>
-        <translation type="unfinished"></translation>
+        <translation>Ключ</translation>
     </message>
     <message>
         <source>Restore to default (no shortcut)</source>
-        <translation type="unfinished"></translation>
+        <translation>Восстановить по умолчанию (без ярлыка)</translation>
     </message>
     <message>
         <source>Restore to default shortcut (&apos;%1&apos;)</source>
-        <translation type="unfinished"></translation>
+        <translation>Восстановить по умолчанию ярлык (&apos;%1&apos;)</translation>
     </message>
 </context>
 <context>
@@ -1038,31 +1039,31 @@ You should check your audio settings in the ocenaudio preferences pane.</source>
     </message>
     <message>
         <source>Command</source>
-        <translation type="unfinished"></translation>
+        <translation>Команда</translation>
     </message>
     <message>
         <source>Key</source>
-        <translation type="unfinished"></translation>
+        <translation>Ключ</translation>
     </message>
     <message>
         <source>Key binding action list</source>
-        <translation type="unfinished"></translation>
+        <translation>Список привязанных ключей</translation>
     </message>
     <message>
         <source>List of ocenaudio actions and theirs key bindings</source>
-        <translation type="unfinished"></translation>
+        <translation>Список действий и привязанных к ним клавиш</translation>
     </message>
     <message>
         <source>Key bindings action filter</source>
-        <translation type="unfinished"></translation>
+        <translation>Фильтр привязанных ключей</translation>
     </message>
     <message>
         <source>Filter the key bindings action list</source>
-        <translation type="unfinished"></translation>
+        <translation>Фильтрация списка действий и привязанных клавиш</translation>
     </message>
     <message>
         <source>Filter</source>
-        <translation type="unfinished"></translation>
+        <translation>Фильтр</translation>
     </message>
 </context>
 <context>
@@ -1160,7 +1161,7 @@ You should check your audio settings in the ocenaudio preferences pane.</source>
     </message>
     <message>
         <source>The current file&apos;s format does not support these settings. Do you want to make this changes anyway?</source>
-        <translation>Текущий формат файлв не поддерживает эти установки. Всё равно применить изменения?</translation>
+        <translation>Текущий формат файла не поддерживает эти настройки. Всё равно применить изменения?</translation>
     </message>
     <message>
         <source>If you proceed, you will have to save the file with a different format.</source>
@@ -1172,11 +1173,11 @@ You should check your audio settings in the ocenaudio preferences pane.</source>
     </message>
     <message>
         <source>You are about to undo past the last point this sound was saved. Do you want to do this?</source>
-        <translation>Вы собираетесь отменить изменения после последней сохранённой точки. Продолжить?</translation>
+        <translation>Вы собираетесь отменить все изменения после последнего сохранения. Продолжить?</translation>
     </message>
     <message>
         <source>This undo operation will revert your sound file data to a version prior to the last saved version.</source>
-        <translation>Операция отмены изменений вернёт ваш звуковой файл к предыдущей версии до последнего сохранения.</translation>
+        <translation>Операция отмены изменений вернёт ваш звуковой файл к предыдущей сохраненной версии.</translation>
     </message>
     <message>
         <source>Undo</source>
@@ -1212,143 +1213,144 @@ You should check your audio settings in the ocenaudio preferences pane.</source>
     </message>
     <message>
         <source>Fatal Error</source>
-        <translation type="unfinished"></translation>
+        <translation>Фатальная ошибка</translation>
     </message>
     <message>
         <source>Information</source>
-        <translation type="unfinished"></translation>
+        <translation>Информация</translation>
     </message>
     <message>
         <source>Unsupported Format</source>
-        <translation type="unfinished"></translation>
+        <translation>Неподдерживаемый формат</translation>
     </message>
     <message>
         <source>The maximum number of channels supported is %1 channels.</source>
-        <translation type="unfinished"></translation>
+        <translation>Максимальное поддерживаемое число каналов - %1.</translation>
     </message>
     <message>
         <source>The minimum sample rate supported is %1 Hz.</source>
-        <translation type="unfinished"></translation>
+        <translation>Минимальная поддерживаемая частота дискретизации - %1 Гц.</translation>
     </message>
     <message>
         <source>The maximum sample rate supported is %1 Hz.</source>
-        <translation type="unfinished"></translation>
+        <translation>Максимальная поддерживаемая частота дискретизации %1 Гц.</translation>
     </message>
     <message>
         <source>Audio VST Check Failed</source>
-        <translation type="unfinished"></translation>
+        <translation>Ошибка проверки аудио VST</translation>
     </message>
     <message>
         <source>An error occurred in the execution of VST plugin application. No VST plugin can be loaded in this condition.</source>
-        <translation type="unfinished"></translation>
+        <translation>Произошла ошибка при выполнении VST плагина. Плагин VST не может быть загружен в этом состоянии.</translation>
     </message>
     <message>
         <source>Audio not saved</source>
-        <translation type="unfinished"></translation>
+        <translation>Аудио не сохранено</translation>
     </message>
     <message>
         <source>An error was encountered while saving your sound file “%1”!</source>
-        <translation type="unfinished"></translation>
+        <translation>Произошла ошибка при сохранении звукового файла “%1”!</translation>
     </message>
     <message>
         <source>It was not possible to complete the save of file “%1” because the chosen container does not support metadata.</source>
-        <translation type="unfinished"></translation>
+        <translation>Не удалось завершить сохранение файла “%1”, так как выбранный контейнер не поддерживает метаданные.</translation>
     </message>
     <message>
         <source>Your sound “%1” contains informations that can not be saved in the selected format. You want to continue and export to this format?</source>
-        <translation type="unfinished"></translation>
+        <translation>Ваш звук “%1” содержит информацию, которая не может быть сохранена в выбранном формате. Хотите продолжить экспорт в этот формат?</translation>
     </message>
     <message>
         <source>Export</source>
-        <translation type="unfinished"></translation>
+        <translation>Экспорт</translation>
     </message>
     <message>
         <source>Exporting As</source>
-        <translation type="unfinished"></translation>
+        <translation>Экспортировать как</translation>
     </message>
     <message>
         <source>Unsupported information will not be present in the exported file.</source>
-        <translation type="unfinished"></translation>
+        <translation>Неподдерживаемые сведения не будут присутствовать в экспортированном файле.</translation>
     </message>
     <message>
         <source>The file for the sound that was at %1 is now empty. Do you want to keep as new, save or close the sound?</source>
-        <translation type="unfinished"></translation>
+        <translation>Файл звука, который был в %1, теперь пуст. Хотите сохранить как новый, сохранить или закрыть звук?</translation>
     </message>
     <message>
         <source>The file for the sound that was at %1 is now corrupted. Do you want to keep as new, save or close the sound?</source>
-        <translation type="unfinished"></translation>
+        <translation>Файл звука, который был в %1, поврежден. Хотите сохранить как новый, сохранить или закрыть звук?</translation>
     </message>
     <message>
         <source>Keep as New</source>
-        <translation type="unfinished"></translation>
+        <translation>Сохранить как новый</translation>
     </message>
     <message>
         <source>The file for the sound that was at %1 has disappeared. The document has previously unsaved changes. Do you want to keep as new, save or close the sound?</source>
-        <translation type="unfinished"></translation>
+        <translation>Файл звука, который был в %1, исчез. Документ содержит ранее несохраненные изменения. Хотите сохранить как новый, сохранить или закрыть звук?</translation>
     </message>
     <message>
         <source>Would you like to proceed and reencode the audio?</source>
-        <translation type="unfinished"></translation>
+        <translation>Продолжить и перекодировать звук?</translation>
     </message>
     <message>
         <source>Your changes affect only the metadata, however ocenaudio don&apos;t supports metadata update for this format. If you proceed, a complete rewrite of your file will be done (this may re-encode your audio signal).</source>
-        <translation type="unfinished"></translation>
+        <translation>Ваши изменения влияют только на метаданные, ocenaudio не поддерживает обновление метаданных этого формата. Если продолжить, будет выполнена перезапись файла (это может перекодировать звук).</translation>
     </message>
     <message>
         <source>The file for the sound at %1 has been modified by another application. There are also unsaved changes in ocenaudio. Do you want to keep the ocenaudio version or revert to the version on disk?</source>
-        <translation type="unfinished"></translation>
+        <translation>Файл звука %1 был изменен другим приложением. Здесь также есть несохраненные изменения. Хотите сохранить эту версию или вернуться к версии на диске?</translation>
     </message>
     <message>
         <source>The file for the sound that was at %1 has disappeared. Do you want to keep as new, save or close the sound?</source>
-        <translation type="unfinished"></translation>
+        <translation>Файл со звуком, который был в %1, исчез. Хотите сохранить как новый, сохранить или закрыть звук?</translation>
     </message>
     <message>
         <source>Supported Sound Files</source>
-        <translation type="unfinished"></translation>
+        <translation>Поддерживаемые звуковые файлы</translation>
     </message>
     <message>
         <source>Do you want to overwrite the backup copy of the original file?</source>
-        <translation type="unfinished"></translation>
+        <translation>Перезаписать резервную копию исходного файла?</translation>
     </message>
     <message>
         <source>The file “%1” already has a backup. If you proceed it will be replaced by the current version of this file.</source>
-        <translation type="unfinished"></translation>
+        <translation>Файл “%1” уже имеет резервную копию. Если продолжить, он будет заменен текущей версией этого файла.</translation>
     </message>
     <message>
         <source>readonly</source>
-        <translation type="unfinished"></translation>
+        <translation>только чтение</translation>
     </message>
     <message>
         <source>This is an unrecoverable error and ocenaudio must quit!</source>
-        <translation type="unfinished"></translation>
+        <translation>Это неустранимая ошибка и ocenaudio нужно завершить!</translation>
     </message>
     <message>
         <source>If you continue all comments from this region will be removed.</source>
-        <translation type="unfinished"></translation>
+        <translation>Если продолжить все комментарии из этой области будут удалены.</translation>
     </message>
     <message>
         <source>The disk you are using to save is full.</source>
-        <translation type="unfinished"></translation>
+        <translation>Диск, используемый для сохранения, заполнен.</translation>
     </message>
     <message>
         <source>File: %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Файл: %1</translation>
     </message>
     <message>
         <source>
 Storage: %1 mount on %2</source>
-        <translation type="unfinished"></translation>
+        <translation>
+Накопитель: %1 монтирован на %2</translation>
     </message>
     <message>
         <source>Disk Is Full</source>
-        <translation type="unfinished"></translation>
+        <translation>Диск переполнен</translation>
     </message>
 </context>
 <context>
     <name>QOcenNetworkPrefs</name>
     <message>
         <source>HTTP/HTTPS Proxy Configuration</source>
-        <translation>Конфигурация прокси HTTP/HTTPS</translation>
+        <translation>Конфигурация HTTP/HTTPS прокси</translation>
     </message>
     <message>
         <source>Enable Proxy</source>
@@ -1368,15 +1370,15 @@ Storage: %1 mount on %2</source>
     </message>
     <message>
         <source>Authentication</source>
-        <translation>Проверка логина и пароля</translation>
+        <translation>Авторизация</translation>
     </message>
     <message>
         <source>Proxy server requires authentication</source>
-        <translation>Прокси сервер требует проверки подлинности</translation>
+        <translation>Прокси сервер требует авторизации</translation>
     </message>
     <message>
         <source>Username:</source>
-        <translation>Имя пользователя:</translation>
+        <translation>Имя:</translation>
     </message>
     <message>
         <source>Password:</source>
@@ -1418,7 +1420,7 @@ Storage: %1 mount on %2</source>
     </message>
     <message>
         <source>Keep ocenaudio Version</source>
-        <translation>Оставить версию ocenaudio</translation>
+        <translation>Сохранить версию ocenaudio</translation>
     </message>
     <message>
         <source>Revert</source>
@@ -1426,15 +1428,15 @@ Storage: %1 mount on %2</source>
     </message>
     <message>
         <source>The file that was at %1 no longer exists.</source>
-        <translation>Файл на %1 больше не существует.</translation>
+        <translation>Файл, бывший в %1, больше не существует.</translation>
     </message>
     <message>
         <source>Ok</source>
-        <translation>Ок</translation>
+        <translation>ОК</translation>
     </message>
     <message>
         <source>Open File Error</source>
-        <translation>Открыть файл ошибок</translation>
+        <translation>Ошибка открытия файла</translation>
     </message>
     <message>
         <source>An error occurred while trying to open the file “%1”.</source>
@@ -1442,11 +1444,11 @@ Storage: %1 mount on %2</source>
     </message>
     <message>
         <source>Apparently your file is empty.</source>
-        <translation>По-видимому, ваш файл пустой.</translation>
+        <translation>Видимо, ваш файл пуст.</translation>
     </message>
     <message>
         <source>The number of audio channels in this file has exceeded the maximum number of audio channels supported.</source>
-        <translation>Количество аудиоканалов в этом файле достигло максимума поддерживаемых звуковых каналов.</translation>
+        <translation>Количество аудиоканалов в этом файле превысило максимальное число поддерживаемых аудиоканалов.</translation>
     </message>
     <message>
         <source>Check if your file have an incorrect or unsuported format.</source>
@@ -1454,51 +1456,51 @@ Storage: %1 mount on %2</source>
     </message>
     <message>
         <source>File not found.</source>
-        <translation type="unfinished"></translation>
+        <translation>Файл не найден.</translation>
     </message>
     <message>
         <source>No supported audio files found!</source>
-        <translation type="unfinished"></translation>
+        <translation>Не найдены поддерживаемые аудиофайлы!</translation>
     </message>
     <message>
         <source>The package “%1” does not contains any supported audio file.</source>
-        <translation type="unfinished"></translation>
+        <translation>Пакет “%1” не содержит поддерживаемых аудиофайлов.</translation>
     </message>
     <message>
         <source>File not found!</source>
-        <translation type="unfinished"></translation>
+        <translation>Файл не найден!</translation>
     </message>
     <message>
         <source>The file “%1” was not found. Check if your filename is valid and you have permission to open it.</source>
-        <translation type="unfinished"></translation>
+        <translation>Файл “%1” не найден. Проверьте правильность имени файла и наличие прав на его открытие.</translation>
     </message>
     <message>
         <source>Analyzing files in %1 %2</source>
-        <translation type="unfinished"></translation>
+        <translation>Анализ файлов в %1 %2</translation>
     </message>
     <message>
         <source>Analyzing files in %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Анализ файлов в %1</translation>
     </message>
     <message>
         <source>The file for the sound at “%1” is already opened. There are also unsaved changes in ocenaudio.  Do you want to keep the ocenaudio version or revert to the version on disk?</source>
-        <translation type="unfinished"></translation>
+        <translation>Файл со звуком “%1” уже открыт. Здесь также есть несохраненные изменения. Хотите сохранить эту версию или вернуться к версии на диске?</translation>
     </message>
     <message>
         <source>Cue File Found</source>
-        <translation type="unfinished"></translation>
+        <translation>Найден файл cue</translation>
     </message>
     <message>
         <source>A cue file containing %2 tracks associated with the “%1” file was found. You want to open these tracks separately?</source>
-        <translation type="unfinished"></translation>
+        <translation>Файл cue, содержит %2 трека, связанных с “%1”. Хотите открыть эти треки отдельно?</translation>
     </message>
     <message>
         <source>Open Tracks</source>
-        <translation type="unfinished"></translation>
+        <translation>Открыть треки</translation>
     </message>
     <message>
         <source>Open Original</source>
-        <translation type="unfinished"></translation>
+        <translation>Открыть оригинал</translation>
     </message>
 </context>
 <context>
@@ -1509,19 +1511,19 @@ Storage: %1 mount on %2</source>
     </message>
     <message>
         <source>The plugin &quot;%1&quot; is already installed on your system.</source>
-        <translation type="unfinished"></translation>
+        <translation>Плагин &quot;%1&quot; уже установлен в вашей системе.</translation>
     </message>
     <message>
         <source>To proceed with the installation it is necessary to first remove the currently installed version of this plugin.</source>
-        <translation type="unfinished"></translation>
+        <translation>Для продолжения установки необходимо сначала удалить текущую установленную версию этого плагина.</translation>
     </message>
     <message>
         <source>The plugin &quot;%1&quot; is not compatible with your ocenaudio version.</source>
-        <translation type="unfinished"></translation>
+        <translation>Плагин &quot;%1&quot; не совместим с вашей версией ocenaudio.</translation>
     </message>
     <message>
         <source>To proceed with the installation it is necessary to first update ocenaudio.</source>
-        <translation type="unfinished"></translation>
+        <translation>Для продолжения установки необходимо сначала обновить ocenaudio.</translation>
     </message>
     <message>
         <source>Question</source>
@@ -1529,11 +1531,11 @@ Storage: %1 mount on %2</source>
     </message>
     <message>
         <source>Do you want to proceed with the installation of the plugin &quot;%1&quot;?</source>
-        <translation type="unfinished"></translation>
+        <translation>Вы хотите продолжить установку плагина &quot;%1&quot;?</translation>
     </message>
     <message>
         <source>If you proceed ocenaudio will check the integrity, install and load the selected plugin package.</source>
-        <translation type="unfinished"></translation>
+        <translation>Если вы продолжите, ocenaudio проверит целостность, установит и загрузит выбранный пакет плагинов.</translation>
     </message>
     <message>
         <source>Error</source>
@@ -1541,27 +1543,27 @@ Storage: %1 mount on %2</source>
     </message>
     <message>
         <source>The verification process has detected errors in the &quot;%1&quot; plugin package.</source>
-        <translation type="unfinished"></translation>
+        <translation>В процессе проверки были обнаружены ошибки в пакете плагинов &quot;%1&quot;.</translation>
     </message>
     <message>
         <source>The verification process has detected one or more inconsistency in this package. Therefore this installation process was interrupted.</source>
-        <translation type="unfinished"></translation>
+        <translation>В процессе проверки обнаружено одно или несколько несоответствий в этом пакете. Процесс установки прерван.</translation>
     </message>
     <message>
         <source>Unable to install the plugin &quot;%1&quot;.</source>
-        <translation type="unfinished"></translation>
+        <translation>Не удалось установить плагин &quot;%1&quot;.</translation>
     </message>
     <message>
         <source>One or more errors were detected during the installation process. You can try again and if the error persists contact the ocenaudio team.</source>
-        <translation type="unfinished"></translation>
+        <translation>В процессе установки обнаружена одна или несколько ошибок. Повторите попытку. Если ошибка повторится, свяжитесь с командой ocenaudio.</translation>
     </message>
     <message>
         <source>Invalid Plugin Code Signature</source>
-        <translation>Неверная подпись кода модуля</translation>
+        <translation>Неверная подпись плагина</translation>
     </message>
     <message>
         <source>This means %1 plugin has been tampered, possibly making it less secure. The plugin cannot be loaded in this state. It is necessary to reinstall the %1 plugin in order to use it.</source>
-        <translation>Это означает, что модуль %1 был подделан, возможно, в целях снижения безопасности. Такой модуль не может быть загружен. Чтобы его использовать, переустановите модуль %1.</translation>
+        <translation>Это означает, что %1 плагин был изменен. Плагин не может быть загружен в этом состоянии. Для того, чтобы использовать плагин %1, необходимо переустановить его.</translation>
     </message>
 </context>
 <context>
@@ -1583,14 +1585,14 @@ Storage: %1 mount on %2</source>
     <name>QOcenPreferences</name>
     <message>
         <source>Settings</source>
-        <translation type="unfinished">Установки</translation>
+        <translation>Настройки</translation>
     </message>
 </context>
 <context>
     <name>QOcenQuickOpenWidget</name>
     <message>
         <source>File or http address</source>
-        <translation type="unfinished"></translation>
+        <translation>Файл или адрес http</translation>
     </message>
 </context>
 <context>
@@ -1605,34 +1607,34 @@ Storage: %1 mount on %2</source>
     </message>
     <message>
         <source>If you continue the saved file will not contain the regions created in this audio.</source>
-        <translation>Если продолжите, то в сохранённом файле не будут содержаться области, созданные для этого звука.</translation>
+        <translation>Если продолжите, то сохраненный файл не будет содержать области, созданные для этого звука.</translation>
     </message>
     <message>
         <source>Format</source>
-        <translation type="unfinished"></translation>
+        <translation>Формат</translation>
     </message>
 </context>
 <context>
     <name>QOcenSettingsDialog</name>
     <message>
         <source>Settings</source>
-        <translation type="unfinished">Установки</translation>
+        <translation>Настройки</translation>
     </message>
     <message>
         <source>Search</source>
-        <translation type="unfinished"></translation>
+        <translation>Поиск</translation>
     </message>
     <message>
         <source>Edit</source>
-        <translation type="unfinished"></translation>
+        <translation>Изменить</translation>
     </message>
     <message>
         <source>Reset</source>
-        <translation type="unfinished"></translation>
+        <translation>Сбросить</translation>
     </message>
     <message>
         <source>Remove</source>
-        <translation type="unfinished"></translation>
+        <translation>Удалить</translation>
     </message>
 </context>
 <context>
@@ -1643,47 +1645,47 @@ Storage: %1 mount on %2</source>
     </message>
     <message>
         <source>Options</source>
-        <translation type="unfinished"></translation>
+        <translation>Параметры</translation>
     </message>
     <message>
         <source>Move cursor to playback stop position</source>
-        <translation>Передвиньте курсор на позицию стоп-воспроизведение</translation>
+        <translation>Переместить курсор в конец воспроизведения</translation>
     </message>
     <message>
         <source>Record Device/Options</source>
-        <translation>Параметры записи/устройства</translation>
+        <translation>Устройства/параметры записи</translation>
     </message>
     <message>
         <source>Move cursor to record stop position</source>
-        <translation type="unfinished"></translation>
+        <translation>Переместить курсор в конец записи</translation>
     </message>
     <message>
         <source>Mixer Sample Rate</source>
-        <translation type="unfinished"></translation>
+        <translation>Частота дискретизации микшера</translation>
     </message>
     <message>
         <source>48000 Hz</source>
-        <translation></translation>
+        <translation>48000 Гц</translation>
     </message>
     <message>
         <source>44100 Hz</source>
-        <translation></translation>
+        <translation>44100 Гц</translation>
     </message>
     <message>
         <source>22050 Hz</source>
-        <translation></translation>
+        <translation>22050 Гц</translation>
     </message>
     <message>
         <source>Mixer Backend</source>
-        <translation type="unfinished"></translation>
+        <translation>Микшерный сервер</translation>
     </message>
     <message>
         <source>CoreAudio</source>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
     <message>
         <source>Disabled</source>
-        <translation type="unfinished"></translation>
+        <translation>Отключен</translation>
     </message>
     <message>
         <source>System Default</source>
@@ -1691,135 +1693,135 @@ Storage: %1 mount on %2</source>
     </message>
     <message>
         <source>Play head follows cursor position</source>
-        <translation type="unfinished"></translation>
+        <translation>Воспроизвести начиная с позиции курсора</translation>
     </message>
     <message>
         <source>Preroll</source>
-        <translation type="unfinished"></translation>
+        <translation>Разбег</translation>
     </message>
     <message>
         <source>Play only visible portion of the audio</source>
-        <translation type="unfinished"></translation>
+        <translation>Воспроизвести только видимую части аудио</translation>
     </message>
     <message>
         <source>Select Playback device</source>
-        <translation type="unfinished"></translation>
+        <translation>Выбрать устройство воспроизведения</translation>
     </message>
     <message>
         <source>Record Device</source>
-        <translation type="unfinished"></translation>
+        <translation>Устройство записи</translation>
     </message>
     <message>
         <source>Select record device</source>
-        <translation type="unfinished"></translation>
+        <translation>Выбрать устройство записи</translation>
     </message>
     <message>
         <source>Preroll Time</source>
-        <translation type="unfinished"></translation>
+        <translation>Время разбега</translation>
     </message>
     <message>
         <source>Sets the preroll time.</source>
-        <translation type="unfinished"></translation>
+        <translation>Настройка времени разбега.</translation>
     </message>
     <message>
         <source>Sample Rate</source>
-        <translation type="unfinished"></translation>
+        <translation>Частота дискретизации</translation>
     </message>
     <message>
         <source>Select the mixer sample rate</source>
-        <translation type="unfinished"></translation>
+        <translation>Выбор частоты дискретизации микшера</translation>
     </message>
     <message>
         <source>Buffer Size</source>
-        <translation type="unfinished"></translation>
+        <translation>Размер буфера</translation>
     </message>
     <message>
         <source>128 samples</source>
-        <translation type="unfinished"></translation>
+        <translation>128 сэмплов</translation>
     </message>
     <message>
         <source>256 samples</source>
-        <translation type="unfinished"></translation>
+        <translation>256 сэмплов</translation>
     </message>
     <message>
         <source>512 samples</source>
-        <translation type="unfinished"></translation>
+        <translation>512 сэмплов</translation>
     </message>
     <message>
         <source>1024 samples</source>
-        <translation type="unfinished"></translation>
+        <translation>1024 сэмплов</translation>
     </message>
     <message>
         <source>2048 samples</source>
-        <translation type="unfinished"></translation>
+        <translation>2048 сэмплов</translation>
     </message>
     <message>
         <source>Select the mixer backend API</source>
-        <translation type="unfinished"></translation>
+        <translation>Выбрать API серверной части микшера</translation>
     </message>
     <message>
         <source>samples</source>
-        <translation type="unfinished"></translation>
+        <translation>сэмплов</translation>
     </message>
     <message>
         <source>Playback Device</source>
-        <translation type="unfinished"></translation>
+        <translation>Устройство воспроизведения</translation>
     </message>
     <message>
         <source>%1 channels</source>
-        <translation type="unfinished"></translation>
+        <translation>%1 каналов</translation>
     </message>
     <message>
         <source>%1 s</source>
-        <translation type="unfinished"></translation>
+        <translation>%1 с</translation>
     </message>
     <message>
         <source>Custom</source>
-        <translation type="unfinished">Пользовательские</translation>
+        <translation>Свое</translation>
     </message>
     <message>
         <source>No Devices Found</source>
-        <translation type="unfinished"></translation>
+        <translation>Устройства не найдены</translation>
     </message>
     <message>
         <source>No common sampling rate</source>
-        <translation type="unfinished"></translation>
+        <translation>Нет общей частоты дискретизации</translation>
     </message>
     <message>
         <source>Select recorded audio</source>
-        <translation type="unfinished"></translation>
+        <translation>Выбрать записанное аудио</translation>
     </message>
     <message>
         <source>Audio Device</source>
-        <translation type="unfinished"></translation>
+        <translation>Звуковое устройство</translation>
     </message>
     <message>
         <source>Replace existing audio (overwrite mode)</source>
-        <translation type="unfinished"></translation>
+        <translation>Замена существующего звука (режим перезаписи)</translation>
     </message>
     <message>
         <source>Use only full duplex devices</source>
-        <translation type="unfinished"></translation>
+        <translation>Использовать только Full-Duplex устройства</translation>
     </message>
     <message>
         <source>Pause playback on markers</source>
-        <translation type="unfinished"></translation>
+        <translation>Приостановка воспроизведения на маркерах</translation>
     </message>
     <message>
         <source>Playback Options</source>
-        <translation type="unfinished"></translation>
+        <translation>Параметры воспроизведения</translation>
     </message>
     <message>
         <source>Record Options</source>
-        <translation type="unfinished"></translation>
+        <translation>Параметры записи</translation>
     </message>
     <message>
         <source>No Full-Duplex Devices Found</source>
-        <translation type="unfinished"></translation>
+        <translation>Не найдены Full-Duplex устройства</translation>
     </message>
     <message>
         <source>Continue to play next/selected audio </source>
-        <translation type="unfinished"></translation>
+        <translation>Продолжить воспроизведение следующего/выбранного аудио</translation>
     </message>
 </context>
 <context>
@@ -1830,15 +1832,15 @@ Storage: %1 mount on %2</source>
     </message>
     <message>
         <source>Presets</source>
-        <translation>Предустановки</translation>
+        <translation>Пресеты</translation>
     </message>
     <message>
         <source>Settings</source>
-        <translation>Установки</translation>
+        <translation>Настройки</translation>
     </message>
     <message>
         <source>100%</source>
-        <translation>100 %</translation>
+        <translation>100%</translation>
     </message>
     <message>
         <source>XXX dB</source>
@@ -1858,11 +1860,11 @@ Storage: %1 mount on %2</source>
     </message>
     <message>
         <source>Wide Band</source>
-        <translation>Широкая полоса </translation>
+        <translation>Широкая полоса</translation>
     </message>
     <message>
         <source>Custom</source>
-        <translation>Пользовательские</translation>
+        <translation>Свое</translation>
     </message>
     <message>
         <source>Triangular</source>
@@ -1890,7 +1892,7 @@ Storage: %1 mount on %2</source>
     </message>
     <message>
         <source>Inv. Linear Grayscale</source>
-        <translation>Обратная линейная шкала с оттенками серого</translation>
+        <translation>Обратная линейная шкала в оттенках серого</translation>
     </message>
     <message>
         <source>Linear Grayscale</source>
@@ -1898,11 +1900,11 @@ Storage: %1 mount on %2</source>
     </message>
     <message>
         <source>Grayscale</source>
-        <translation>Шкала с оттенками серого</translation>
+        <translation>Шкала в оттенках серого</translation>
     </message>
     <message>
         <source>Inv. Grayscale</source>
-        <translation>Обратная шкала с оттенками серого</translation>
+        <translation>Обратная шкала в оттенках серого</translation>
     </message>
     <message>
         <source>Color</source>
@@ -1910,63 +1912,63 @@ Storage: %1 mount on %2</source>
     </message>
     <message>
         <source>Spectrogram Presets</source>
-        <translation type="unfinished"></translation>
+        <translation>Пресеты спектрограммы</translation>
     </message>
     <message>
         <source>Select spectrogram preset</source>
-        <translation type="unfinished"></translation>
+        <translation>Выбрать пресет спектрограммы</translation>
     </message>
     <message>
         <source>Number of bins</source>
-        <translation type="unfinished"></translation>
+        <translation>Количество бинов</translation>
     </message>
     <message>
         <source>Window Size</source>
-        <translation type="unfinished"></translation>
+        <translation>Размер окна</translation>
     </message>
     <message>
         <source>Dynamic Range</source>
-        <translation type="unfinished"></translation>
+        <translation>Динамический диапазон</translation>
     </message>
     <message>
         <source>Window Type</source>
-        <translation type="unfinished"></translation>
+        <translation>Тип окна</translation>
     </message>
     <message>
         <source>Select the windowing function type. Window functions are used in signal processing to minimize the effect of spectral leakages</source>
-        <translation type="unfinished"></translation>
+        <translation>Выберите тип оконной функции. Оконные функции используются при обработке сигналов для минимизации эффекта спектральных утечек</translation>
     </message>
     <message>
         <source>Color Scheme</source>
-        <translation type="unfinished"></translation>
+        <translation>Цветовая схема</translation>
     </message>
     <message>
         <source>Select Spectrogram Color Scheme</source>
-        <translation type="unfinished"></translation>
+        <translation>Выбор цветовой схемы спектрограммы</translation>
     </message>
     <message>
         <source>Sets the spectrogram range normalization on/off</source>
-        <translation type="unfinished"></translation>
+        <translation>Включение/выключение нормализации диапазона спектрограммы</translation>
     </message>
     <message>
         <source>Select the number of frequency bins to be used to construct the spectrogram</source>
-        <translation type="unfinished"></translation>
+        <translation>Выберите количество бинов частоты, которые будут использоваться в спектрограмме</translation>
     </message>
     <message>
         <source>Select spectrogram dynamic range. The chosen value will be used as lower energy displayed in the spectrogram</source>
-        <translation type="unfinished"></translation>
+        <translation>Выбрать динамический диапазон спектрограммы. Выбранное значение будет использовано как меньшее значение спектрограммы</translation>
     </message>
     <message>
         <source>Select spectrogram window size. The window size is a percentage of two times the number of bins</source>
-        <translation type="unfinished"></translation>
+        <translation>Выбрать размер окна спектрограммы. Размер окна в процентах в два раза больше количества бинов</translation>
     </message>
     <message>
         <source>Number of Bins</source>
-        <translation type="unfinished"></translation>
+        <translation>Количество бинов</translation>
     </message>
     <message>
         <source>Use Pre-Emphasis Filtering</source>
-        <translation type="unfinished"></translation>
+        <translation>Использовать пред-выбранное в фильтре</translation>
     </message>
 </context>
 <context>
@@ -1981,7 +1983,7 @@ Storage: %1 mount on %2</source>
     </message>
     <message>
         <source>mil </source>
-        <translation>mil </translation>
+        <translation>мил </translation>
     </message>
     <message>
         <source>milhão </source>
