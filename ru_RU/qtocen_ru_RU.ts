@@ -124,7 +124,7 @@
     </message>
     <message>
         <source>Reverting to Saved</source>
-        <translation>Вернуться к сохранённому</translation>
+        <translation>Вернуться к сохраненному</translation>
     </message>
     <message>
         <source>Opening %1</source>
@@ -236,7 +236,7 @@
     </message>
     <message>
         <source>%1 combined with %2</source>
-        <translation>%1 соединён с %2</translation>
+        <translation>%1 соединен с %2</translation>
     </message>
     <message>
         <source>Downmix of %1</source>
@@ -256,19 +256,19 @@
     </message>
     <message>
         <source>Reversing</source>
-        <translation>Возвращение</translation>
+        <translation>Реверсивный</translation>
     </message>
     <message>
         <source>Reverse</source>
-        <translation>Вернуться</translation>
+        <translation>Реверс</translation>
     </message>
     <message>
         <source>Inverting</source>
-        <translation>Обращение</translation>
+        <translation>Инвертирование</translation>
     </message>
     <message>
         <source>Invert</source>
-        <translation>Обратить</translation>
+        <translation>Инвертировать</translation>
     </message>
     <message>
         <source>Silencing</source>
@@ -624,7 +624,7 @@
     </message>
     <message>
         <source>Move cursor to previous marker</source>
-        <translation>Переместить курсор до предыдущего маркер</translation>
+        <translation>Переместить курсор до предыдущего маркера</translation>
     </message>
     <message>
         <source>Select to next marker</source>
@@ -664,7 +664,7 @@
     </message>
     <message>
         <source>Selection Begin</source>
-        <translation type="unfinished"></translation>
+        <translation>Начало выбора</translation>
     </message>
     <message>
         <source>Selection End</source>
@@ -680,15 +680,15 @@
     </message>
     <message>
         <source>Clear</source>
-        <translation>Очистить</translation>
+        <translation>Удалить</translation>
     </message>
     <message>
         <source>Zoom Selection</source>
-        <translation>Масштабирование выбора</translation>
+        <translation>Масштабировать выбор</translation>
     </message>
     <message>
         <source>Zoom Back</source>
-        <translation>Масштабирование обратно</translation>
+        <translation>Масштабировать обратно</translation>
     </message>
     <message>
         <source>Drag me!</source>
@@ -1161,7 +1161,7 @@ You should check your audio settings in the ocenaudio preferences pane.</source>
     </message>
     <message>
         <source>The current file&apos;s format does not support these settings. Do you want to make this changes anyway?</source>
-        <translation>Текущий формат файла не поддерживает эти настройки. Всё равно применить изменения?</translation>
+        <translation>Текущий формат файла не поддерживает эти настройки. Все равно применить изменения?</translation>
     </message>
     <message>
         <source>If you proceed, you will have to save the file with a different format.</source>
@@ -1169,7 +1169,7 @@ You should check your audio settings in the ocenaudio preferences pane.</source>
     </message>
     <message>
         <source>The current file&apos;s format does not support regions and/or markers. Do you want to create this region anyway?</source>
-        <translation>Выбранный формат файлов не поддерживает области и/или маркеры. Всё равно создать области?</translation>
+        <translation>Выбранный формат файлов не поддерживает области и/или маркеры. Все равно создать области?</translation>
     </message>
     <message>
         <source>You are about to undo past the last point this sound was saved. Do you want to do this?</source>
@@ -1177,7 +1177,7 @@ You should check your audio settings in the ocenaudio preferences pane.</source>
     </message>
     <message>
         <source>This undo operation will revert your sound file data to a version prior to the last saved version.</source>
-        <translation>Операция отмены изменений вернёт ваш звуковой файл к предыдущей сохраненной версии.</translation>
+        <translation>Операция отмены изменений вернет ваш звуковой файл к предыдущей сохраненной версии.</translation>
     </message>
     <message>
         <source>Undo</source>
@@ -1201,7 +1201,7 @@ You should check your audio settings in the ocenaudio preferences pane.</source>
     </message>
     <message>
         <source>Audio format not changed</source>
-        <translation>Звуковой формат не изменён</translation>
+        <translation>Звуковой формат не изменен</translation>
     </message>
     <message>
         <source>The audio signal has already the selected format!</source>
@@ -1209,7 +1209,7 @@ You should check your audio settings in the ocenaudio preferences pane.</source>
     </message>
     <message>
         <source>The conversion from region to loop will discard comments. You want to proceed?</source>
-        <translation>Преобразование из областей в циклы приведёт к потере комментариев. Продолжить?</translation>
+        <translation>Преобразование из областей в циклы приведет к потере комментариев. Продолжить?</translation>
     </message>
     <message>
         <source>Fatal Error</source>
@@ -1860,7 +1860,7 @@ Storage: %1 mount on %2</source>
     </message>
     <message>
         <source>Wide Band</source>
-        <translation>Широкая полоса</translation>
+        <translation>Широкая полоса </translation>
     </message>
     <message>
         <source>Custom</source>
@@ -1968,7 +1968,7 @@ Storage: %1 mount on %2</source>
     </message>
     <message>
         <source>Use Pre-Emphasis Filtering</source>
-        <translation>Использовать пред-выбранное в фильтре</translation>
+        <translation>Использовать выбранное в фильтре</translation>
     </message>
 </context>
 <context>

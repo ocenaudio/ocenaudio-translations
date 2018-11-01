@@ -49,7 +49,7 @@
     </message>
     <message>
         <source>This setting only changes the value of the sample rate. This operation does not resample the signal.</source>
-        <translation>Эти значения позволяют установить частоту дискретизации. Передискретизации сигнала не произойдёт.</translation>
+        <translation>Эти значения позволяют установить частоту дискретизации. Передискретизации сигнала не произойдет.</translation>
     </message>
 </context>
 <context>
@@ -68,7 +68,7 @@
     </message>
     <message>
         <source>Adjust Selection</source>
-        <translation>Установить выбор</translation>
+        <translation>Регулировать выбор</translation>
     </message>
     <message>
         <source>&amp;View</source>
@@ -468,11 +468,11 @@
     </message>
     <message>
         <source>Snap to Scale Tick</source>
-        <translation>Защёлкнуть толстую шкалу</translation>
+        <translation>Привязать к шкале деления</translation>
     </message>
     <message>
         <source>Snap to Zero Cross</source>
-        <translation>Защёлкнуть через ноль</translation>
+        <translation>Привязать к нулевому кресту</translation>
     </message>
     <message>
         <source>Regions and Markers...</source>
@@ -636,11 +636,11 @@
     </message>
     <message>
         <source>Show Overlay Tools</source>
-        <translation>Показать инструменты наложения</translation>
+        <translation>Показать инструменты оверлея</translation>
     </message>
     <message>
         <source>Show Selection Overlays</source>
-        <translation>Показать наложения выбора</translation>
+        <translation>Показать оверлеи выбора</translation>
     </message>
     <message>
         <source>Open &amp;Recent Audio</source>
@@ -700,7 +700,7 @@
     </message>
     <message>
         <source>&amp;Delete Selection</source>
-        <translation>Снять выбор</translation>
+        <translation>Удалить выбор</translation>
     </message>
     <message>
         <source>&amp;Trim</source>
@@ -712,7 +712,7 @@
     </message>
     <message>
         <source>&amp;Spectral View</source>
-        <translation>Спектральный режим</translation>
+        <translation>Спектрограмма</translation>
     </message>
     <message>
         <source>Sound &amp;Properties...</source>
@@ -720,7 +720,7 @@
     </message>
     <message>
         <source>&amp;Reverse</source>
-        <translation>Обратно</translation>
+        <translation>Реверс</translation>
     </message>
     <message>
         <source>&amp;Silence</source>
@@ -748,7 +748,7 @@
     </message>
     <message>
         <source>&amp;Tones</source>
-        <translation>Тональные сигналы</translation>
+        <translation>Тональный сигнал</translation>
     </message>
     <message>
         <source>&amp;Noise</source>
@@ -780,7 +780,7 @@
     </message>
     <message>
         <source>&amp;Invert</source>
-        <translation>Обратить</translation>
+        <translation>Инвертировать</translation>
     </message>
     <message>
         <source>&amp;Export...</source>
@@ -886,7 +886,7 @@
     </message>
     <message>
         <source>Black (silence)</source>
-        <translation>Чёрная (тишина)</translation>
+        <translation>Черная (тишина)</translation>
     </message>
     <message>
         <source>White</source>
@@ -1412,7 +1412,7 @@
     </message>
     <message>
         <source>Invert</source>
-        <translation>Обратить</translation>
+        <translation>Инвертировать</translation>
     </message>
     <message>
         <source>Right</source>
@@ -1781,7 +1781,7 @@
     </message>
     <message>
         <source>Limited Variable Bit Rate (ABR)</source>
-        <translation>Усреднённый битрейт (ABR)</translation>
+        <translation>Усредненный битрейт (ABR)</translation>
     </message>
     <message>
         <source>32 bits</source>
@@ -1842,11 +1842,11 @@
     </message>
     <message>
         <source>Minimum Sample Value</source>
-        <translation>Минимальное значение сэмпла</translation>
+        <translation>Мин. значение сэмпла</translation>
     </message>
     <message>
         <source>Maximum Sample Value</source>
-        <translation>Максимальное значение сэмпла</translation>
+        <translation>Макс. значение сэмпла</translation>
     </message>
     <message>
         <source>Peak Amplitude</source>
@@ -1854,7 +1854,7 @@
     </message>
     <message>
         <source>Possible Clipped Samples</source>
-        <translation>Возможно обрезанные сэмплы</translation>
+        <translation>~ Обрезанные сэмплы</translation>
     </message>
     <message>
         <source>DC Offset</source>
@@ -1862,11 +1862,11 @@
     </message>
     <message>
         <source>Minimum RMS Power</source>
-        <translation>Минимальная мощность RMS</translation>
+        <translation>Мин. мощность RMS</translation>
     </message>
     <message>
         <source>Maximum RMS Power</source>
-        <translation>Максимальная мощность RMS</translation>
+        <translation>Макс. мощность RMS</translation>
     </message>
     <message>
         <source>Average RMS Power</source>
@@ -2004,13 +2004,13 @@
     <name>QOcenAudioApplication</name>
     <message>
         <source>Stay Updated with ocenaudio!</source>
-        <translation>Получите обновлённую версию ocenaudio!</translation>
+        <translation>Получите обновленную версию ocenaudio!</translation>
     </message>
     <message>
         <source>A new version might be available.
 Click here and check!</source>
         <translation>Может быть доступна новая версия.
-Щёлкните здесь для проверки!</translation>
+Щелкните здесь для проверки!</translation>
     </message>
     <message>
         <source>New release available</source>
@@ -2020,7 +2020,7 @@ Click here and check!</source>
         <source>A new ocenaudio version is available.
 Click here to download it.</source>
         <translation>Доступна новая версия ocenaudio.
-Щёлкните здесь для загрузки.</translation>
+Щелкните здесь для загрузки.</translation>
     </message>
     <message>
         <source>Use ocenaudio 64-bit!</source>
@@ -2209,87 +2209,87 @@ Channel
     </message>
     <message>
         <source>Apple Bandpass Filter</source>
-        <translation></translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Apple Filter</source>
-        <translation></translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Apple Highpass Filter</source>
-        <translation></translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Apple High Shelf Filter</source>
-        <translation></translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Apple Lowpass Filter</source>
-        <translation></translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Apple Low Shelf Filter</source>
-        <translation></translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Apple Dynamics Processor</source>
-        <translation></translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Apple Peak Limiter</source>
-        <translation></translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Apple Multiband Compressor</source>
-        <translation></translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Apple Delay</source>
-        <translation></translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Apple Matrix Reverb</source>
-        <translation></translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Apple Sample Delay</source>
-        <translation></translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Apple Graphic Equalizer</source>
-        <translation></translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Apple Parametric Equalizer</source>
-        <translation></translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Apple N-Band Equalizer</source>
-        <translation></translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Apple Pitch</source>
-        <translation></translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Apple New Pitch</source>
-        <translation></translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Apple Distortion</source>
-        <translation></translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Apple Roger Beep</source>
-        <translation></translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Apple Net Send</source>
-        <translation></translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Apple AAC Encoder Round Trip</source>
-        <translation></translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Audio Unit</source>
@@ -2549,7 +2549,7 @@ Channel
     </message>
     <message>
         <source>Do you want to revert to the most recently saved version of the document “%1”?</source>
-        <translation>Вернуться к последней сохранённой версии документа “%1”?</translation>
+        <translation>Вернуться к последней сохраненной версии документа “%1”?</translation>
     </message>
     <message>
         <source>Your current changes will be lost.</source>
@@ -2845,11 +2845,11 @@ Channel
     </message>
     <message>
         <source>Apple Reverb 2</source>
-        <translation></translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Swap Channels from Selections</source>
-        <translation>Поменять каналы в выборах</translation>
+        <translation type="unfinished">Поменять каналы в выборах</translation>
     </message>
     <message>
         <source>Applying Automatic Noise Reduction</source>
@@ -2909,11 +2909,11 @@ Channel
     </message>
     <message>
         <source>Show/Hide Selection Overlays</source>
-        <translation>Показать/скрыть наложения выбора</translation>
+        <translation>Показать/скрыть оверлеи выбора</translation>
     </message>
     <message>
         <source>Show/Hide Overlay Tools</source>
-        <translation>Показать/скрыть инструменты наложения</translation>
+        <translation>Показать/скрыть инструменты оверлея</translation>
     </message>
     <message>
         <source>Note</source>
@@ -2929,19 +2929,19 @@ Channel
     </message>
     <message>
         <source>Hide Selection Overlays</source>
-        <translation>Скрыть наложения выбора</translation>
+        <translation>Скрыть оверлеи выбора</translation>
     </message>
     <message>
         <source>Show Selection Overlays</source>
-        <translation>Показать наложения выбора</translation>
+        <translation>Показать оверлеи выбора</translation>
     </message>
     <message>
         <source>Hide Overlay Tools</source>
-        <translation>Скрыть инструменты наложения</translation>
+        <translation>Скрыть инструменты оверлея</translation>
     </message>
     <message>
         <source>Show Overlay Tools</source>
-        <translation>Показать инструменты наложения</translation>
+        <translation>Показать инструменты оверлея</translation>
     </message>
     <message>
         <source>Temporary Space Warning</source>
@@ -3241,7 +3241,7 @@ Channel
     </message>
     <message>
         <source>AAC Low Complexity</source>
-        <translation></translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Encoded With</source>
@@ -3373,7 +3373,7 @@ Channel
     </message>
     <message>
         <source>bpm</source>
-        <translation>ударов в минуту</translation>
+        <translation>Ударов в минуту</translation>
     </message>
     <message>
         <source>Keywords</source>
@@ -3425,7 +3425,7 @@ Channel
     </message>
     <message>
         <source>Revert</source>
-        <translation>Возврат</translation>
+        <translation>Вернуть</translation>
     </message>
     <message>
         <source>Close</source>
@@ -3460,7 +3460,7 @@ Channel
     </message>
     <message>
         <source>semi-tones</source>
-        <translation>полу-тона</translation>
+        <translation>полутона</translation>
     </message>
     <message>
         <source>Optimize for speech processing</source>
@@ -3769,7 +3769,7 @@ Channel
     </message>
     <message>
         <source>Limited Variable Bit Rate (ABR)</source>
-        <translation>Усреднённый битрейт (ABR)</translation>
+        <translation>Усредненный битрейт (ABR)</translation>
     </message>
     <message>
         <source>Maximum Bit Rate:</source>
@@ -3825,7 +3825,7 @@ Channel
     </message>
     <message>
         <source>A audio file with the same name already exists in the selected folder. Replacing it will overwrite its current contents.</source>
-        <translation>Звуковой файл с таким названием в выбранном каталоге уже существует. Замена приведёт к перезаписи его содержимого.</translation>
+        <translation>Звуковой файл с таким названием в выбранном каталоге уже существует. Замена приведет к перезаписи его содержимого.</translation>
     </message>
     <message>
         <source>Replace</source>
@@ -4199,7 +4199,7 @@ Channel
     </message>
     <message>
         <source>Saved Presets</source>
-        <translation>Сохранённые пресеты</translation>
+        <translation>Сохраненные пресеты</translation>
     </message>
     <message>
         <source>Save Preset As</source>
@@ -4309,7 +4309,7 @@ Channel
     </message>
     <message>
         <source>Invert</source>
-        <translation>Обратить</translation>
+        <translation>Инвертировать</translation>
     </message>
     <message>
         <source>Right</source>
@@ -4780,7 +4780,7 @@ or your network that you want to open:</source>
     </message>
     <message>
         <source>Get Info</source>
-        <translation>Получить информацию</translation>
+        <translation>Информация</translation>
     </message>
     <message>
         <source>Play</source>
@@ -4864,7 +4864,7 @@ or your network that you want to open:</source>
     </message>
     <message>
         <source>Some files are still under processing!</source>
-        <translation>Некоторые файлы всё ещё обрабатываются!</translation>
+        <translation>Некоторые файлы все еще обрабатываются!</translation>
     </message>
     <message>
         <source>You must wait for the end of processing to proceed.</source>
@@ -4947,7 +4947,7 @@ or your network that you want to open:</source>
     </message>
     <message>
         <source>Black (silence)</source>
-        <translation>Чёрный (тишина)</translation>
+        <translation>Черный (тишина)</translation>
     </message>
     <message>
         <source>White</source>
