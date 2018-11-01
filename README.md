@@ -1,4 +1,4 @@
-###About ocenaudio
+### About ocenaudio
 
 Ocenaudio is a cross-platform, easy to use, fast and functional audio editor. Ocenaudio is available in ([official site](http://www.ocenaudio.com)).
 
@@ -19,7 +19,7 @@ If you have any questions, please write us in [http://www.ocenaudio.com/feedback
 
 ___
 
-###Licensing
+### Licensing
 
 The translation files are licensed under Creative Commons Attribution 4.0 International License ([http://creativecommons.org/licenses/by/4.0](http://creativecommons.org/licenses/by/4.0)).
 
