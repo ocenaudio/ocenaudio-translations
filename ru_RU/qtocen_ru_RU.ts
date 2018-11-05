@@ -688,7 +688,7 @@
     </message>
     <message>
         <source>Zoom Back</source>
-        <translation>Масштабировать обратно</translation>
+        <translation>Сброс масштаба</translation>
     </message>
     <message>
         <source>Drag me!</source>

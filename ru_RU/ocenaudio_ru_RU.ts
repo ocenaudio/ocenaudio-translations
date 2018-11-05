@@ -88,7 +88,7 @@
     </message>
     <message>
         <source>Zoom</source>
-        <translation>Масштаб</translation>
+        <translation>Масштабирование</translation>
     </message>
     <message>
         <source>Extra Tracks</source>
@@ -188,7 +188,7 @@
     </message>
     <message>
         <source>Normalized Values</source>
-        <translation>Нормализованные значения</translation>
+        <translation>Нормализованно</translation>
     </message>
     <message>
         <source>Percentages</source>
@@ -208,31 +208,31 @@
     </message>
     <message>
         <source>Zoom Selection</source>
-        <translation>Выбор масштаба</translation>
+        <translation>Масштабировать выбор</translation>
     </message>
     <message>
         <source>Zoom In</source>
-        <translation>Увеличение</translation>
+        <translation>Увеличить</translation>
     </message>
     <message>
         <source>Zoom Out</source>
-        <translation>Уменьшение</translation>
+        <translation>Уменьшить</translation>
     </message>
     <message>
         <source>Zoom Out Full</source>
-        <translation>Уместить в окне</translation>
+        <translation>Уменьшить все</translation>
     </message>
     <message>
         <source>Vertical Zoom In</source>
-        <translation>Вертикальное увеличение</translation>
+        <translation>Увеличить вертикально</translation>
     </message>
     <message>
         <source>Vertical Zoom Out</source>
-        <translation>Вертикальное уменьшение</translation>
+        <translation>Уменьшить вертикально</translation>
     </message>
     <message>
         <source>Restore Vertical Zoom</source>
-        <translation>Восстановить вертикальный масштаб</translation>
+        <translation>Сброс вертикального масштаба</translation>
     </message>
     <message>
         <source>-</source>
@@ -296,7 +296,7 @@
     </message>
     <message>
         <source>Show Navigator Window</source>
-        <translation>Отобразить окно навигатора</translation>
+        <translation>Показать окно навигатора</translation>
     </message>
     <message>
         <source>Dirac LE</source>
@@ -716,7 +716,7 @@
     </message>
     <message>
         <source>Sound &amp;Properties...</source>
-        <translation>Сведения о звуке...</translation>
+        <translation>Свойства...</translation>
     </message>
     <message>
         <source>&amp;Reverse</source>
@@ -772,7 +772,7 @@
     </message>
     <message>
         <source>&amp;FFT Analysis</source>
-        <translation>Анализ преобразований Фурье</translation>
+        <translation>Анализ преобр. Фурье (FTT)</translation>
     </message>
     <message>
         <source>&amp;Normalize</source>
@@ -808,35 +808,35 @@
     </message>
     <message>
         <source>Extend to Begin</source>
-        <translation type="unfinished"></translation>
+        <translation>Продлить до начала</translation>
     </message>
     <message>
         <source>Extend to End</source>
-        <translation type="unfinished"></translation>
+        <translation>Продлить до конца</translation>
     </message>
     <message>
         <source>Extend to Next Marker</source>
-        <translation type="unfinished"></translation>
+        <translation>Продлить до следующего меркера</translation>
     </message>
     <message>
         <source>Extend to Previous Marker</source>
-        <translation type="unfinished"></translation>
+        <translation>Продлить до предыдущего меркера</translation>
     </message>
     <message>
         <source>Reduce to Next Marker</source>
-        <translation type="unfinished"></translation>
+        <translation>Уменьшить до следующего маркера</translation>
     </message>
     <message>
         <source>Reduce to Next Marker (from begin)</source>
-        <translation type="unfinished"></translation>
+        <translation>Уменьшить до следующего маркера (от начала)</translation>
     </message>
     <message>
         <source>Reduce to Previous Marker</source>
-        <translation type="unfinished"></translation>
+        <translation>Уменьшить до предыдущего маркера</translation>
     </message>
     <message>
         <source>Reduce to Previous Marker (from end)</source>
-        <translation type="unfinished"></translation>
+        <translation>Уменьшить до предыдущего маркера (от конца)</translation>
     </message>
 </context>
 <context>
@@ -1797,7 +1797,7 @@
     </message>
     <message>
         <source>bins</source>
-        <translation>бины</translation>
+        <translation>бин</translation>
     </message>
     <message>
         <source>Window Function</source>
@@ -2182,7 +2182,7 @@ Channel
     <name>QOcenAudioFftAnalysisDialog</name>
     <message>
         <source>FFT Analysis</source>
-        <translation>Анализ преобразований Фурье</translation>
+        <translation>Анализ преобр. Фурье (FTT)</translation>
     </message>
     <message>
         <source>%1 Window | %2 %3</source>
@@ -2190,7 +2190,7 @@ Channel
     </message>
     <message>
         <source>Updating FFT ...</source>
-        <translation>Обновление преобразований Фурье...</translation>
+        <translation>Обновление преобр. Фурье (FTT)...</translation>
     </message>
 </context>
 <context>
@@ -2697,7 +2697,7 @@ Channel
     </message>
     <message>
         <source>Show Navigator Window</source>
-        <translation>Отобразить окно навигатора</translation>
+        <translation>Показать окно навигатора</translation>
     </message>
     <message>
         <source>Hide All</source>
@@ -2737,7 +2737,7 @@ Channel
     </message>
     <message>
         <source>Show Channels Id</source>
-        <translation>Показать номер канала</translation>
+        <translation>Показать номера каналов</translation>
     </message>
     <message>
         <source>Resume Playback</source>
@@ -2989,27 +2989,27 @@ Channel
     </message>
     <message>
         <source>Extend Selection to Begin</source>
-        <translation type="unfinished"></translation>
+        <translation>Продлить выбор до начала</translation>
     </message>
     <message>
         <source>Extend Selection to End</source>
-        <translation type="unfinished"></translation>
+        <translation>Продлить выбор до конца</translation>
     </message>
     <message>
         <source>Extend Selection to Previous Marker</source>
-        <translation type="unfinished"></translation>
+        <translation>Продлить выбор до предыдущего маркера</translation>
     </message>
     <message>
         <source>Extend Selection to Next Marker</source>
-        <translation type="unfinished"></translation>
+        <translation>Продлить выбор до следующего маркера</translation>
     </message>
     <message>
         <source>Reduce Selection to Next Marker</source>
-        <translation type="unfinished"></translation>
+        <translation>Уменьшить выбор до следующего маркера</translation>
     </message>
     <message>
         <source>Reduce Selection to Previous Marker</source>
-        <translation type="unfinished"></translation>
+        <translation>Уменьшить выбор до предыдущего маркера</translation>
     </message>
 </context>
 <context>
@@ -3172,7 +3172,7 @@ Channel
     </message>
     <message>
         <source>On Update Profile</source>
-        <translation>Обновление профиля</translation>
+        <translation>Обновить профиль</translation>
     </message>
     <message>
         <source>Could not update profile</source>
