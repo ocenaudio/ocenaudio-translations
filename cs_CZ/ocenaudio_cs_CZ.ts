@@ -1785,11 +1785,11 @@
     </message>
     <message>
         <source>32 bits</source>
-        <translation type="unfinished">16 bitů {32 ?}</translation>
+        <translation>32 bitů</translation>
     </message>
     <message>
         <source>64 bits</source>
-        <translation type="unfinished">16 bitů {64 ?}</translation>
+        <translation>64 bitů</translation>
     </message>
     <message>
         <source>Preview</source>
@@ -3839,7 +3839,7 @@ Channel
     </message>
     <message>
         <source>%1 bits</source>
-        <translation type="unfinished"></translation>
+        <translation>%1 bitů</translation>
     </message>
     <message>
         <source>Dithering:</source>
@@ -4434,15 +4434,15 @@ Channel
     </message>
     <message>
         <source>16 bits</source>
-        <translation type="unfinished">16 bitů</translation>
+        <translation>16 bitů</translation>
     </message>
     <message>
         <source>24 bits</source>
-        <translation type="unfinished">16 bitů {24 ?}</translation>
+        <translation>24 bitů</translation>
     </message>
     <message>
         <source>32 bits</source>
-        <translation type="unfinished">16 bitů {32 ?}</translation>
+        <translation>32 bitů</translation>
     </message>
 </context>
 <context>

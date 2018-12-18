@@ -1789,11 +1789,11 @@
     </message>
     <message>
         <source>32 bits</source>
-        <translation type="unfinished">16 bits {32 ?}</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>64 bits</source>
-        <translation type="unfinished">16 bits {64 ?}</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Preview</source>
@@ -4445,7 +4445,7 @@ Channel
     </message>
     <message>
         <source>32 bits</source>
-        <translation type="unfinished">16 bits {32 ?}</translation>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
