@@ -5,11 +5,11 @@
     <name>AdjustSampleRateDialog</name>
     <message>
         <source>Adjust Sample Rate</source>
-        <translation type="unfinished"></translation>
+        <translation>샘플링 주파수 조정</translation>
     </message>
     <message>
         <source>Sample Rate</source>
-        <translation type="unfinished"></translation>
+        <translation>샘플링 주파수</translation>
     </message>
     <message>
         <source>16000</source>
@@ -49,54 +49,54 @@
     </message>
     <message>
         <source>This setting only changes the value of the sample rate. This operation does not resample the signal.</source>
-        <translation type="unfinished"></translation>
+        <translation>이 세팅은 샘플링 주파수의 값만 변경할 수 있습니다. 이 변경은 신호는 샘플링하지 않습니다.</translation>
     </message>
 </context>
 <context>
     <name>MainWindow</name>
     <message>
         <source>ocenaudio</source>
-        <translation type="unfinished"></translation>
+        <translation>ocenaudio</translation>
     </message>
     <message>
         <source>&amp;File</source>
-        <translation type="unfinished"></translation>
+        <translation> &amp;파일</translation>
     </message>
     <message>
         <source>&amp;Edit</source>
-        <translation type="unfinished"></translation>
+        <translation> &amp;수정</translation>
     </message>
     <message>
         <source>Adjust Selection</source>
-        <translation type="unfinished"></translation>
+        <translation>선택영역 조절</translation>
     </message>
     <message>
         <source>&amp;View</source>
-        <translation type="unfinished"></translation>
+        <translation> &amp;보기</translation>
     </message>
     <message>
         <source>Display Time Format</source>
-        <translation type="unfinished"></translation>
+        <translation>표시시간 형식</translation>
     </message>
     <message>
         <source>Vertical Scale Format</source>
-        <translation type="unfinished"></translation>
+        <translation>수직눈금 형식</translation>
     </message>
     <message>
         <source>Spectral Scale Format</source>
-        <translation type="unfinished"></translation>
+        <translation>모름</translation>
     </message>
     <message>
         <source>Zoom</source>
-        <translation type="unfinished"></translation>
+        <translation>확대</translation>
     </message>
     <message>
         <source>Extra Tracks</source>
-        <translation type="unfinished"></translation>
+        <translation>남은 트랙</translation>
     </message>
     <message>
         <source>Regions and Markers</source>
-        <translation type="unfinished"></translation>
+        <translation>모름</translation>
     </message>
     <message>
         <source>Level Meter</source>
@@ -104,107 +104,107 @@
     </message>
     <message>
         <source>Effec&amp;ts</source>
-        <translation type="unfinished"></translation>
+        <translation>효과</translation>
     </message>
     <message>
         <source>Filter</source>
-        <translation type="unfinished"></translation>
+        <translation>필터</translation>
     </message>
     <message>
         <source>Equalization</source>
-        <translation type="unfinished"></translation>
+        <translation>평준화</translation>
     </message>
     <message>
         <source>Delay</source>
-        <translation type="unfinished"></translation>
+        <translation>지연</translation>
     </message>
     <message>
         <source>Dynamics Processing</source>
-        <translation type="unfinished"></translation>
+        <translation>동적 처리</translation>
     </message>
     <message>
         <source>Specials</source>
-        <translation type="unfinished"></translation>
+        <translation>특별</translation>
     </message>
     <message>
         <source>Time and Pitch</source>
-        <translation type="unfinished"></translation>
+        <translation>시간,피치</translation>
     </message>
     <message>
         <source>&amp;Generate</source>
-        <translation type="unfinished"></translation>
+        <translation> &amp;생성</translation>
     </message>
     <message>
         <source>&amp;Analyze</source>
-        <translation type="unfinished"></translation>
+        <translation> &amp;분석</translation>
     </message>
     <message>
         <source>&amp;Help</source>
-        <translation type="unfinished"></translation>
+        <translation> &amp;도움</translation>
     </message>
     <message>
         <source>&amp;Controls</source>
-        <translation type="unfinished"></translation>
+        <translation>제어</translation>
     </message>
     <message>
         <source>Close All</source>
-        <translation type="unfinished"></translation>
+        <translation>모두 닫기</translation>
     </message>
     <message>
         <source>Save Selection...</source>
-        <translation type="unfinished"></translation>
+        <translation>선택 저장... </translation>
     </message>
     <message>
         <source>Paste to New</source>
-        <translation type="unfinished"></translation>
+        <translation>새로 붙이기</translation>
     </message>
     <message>
         <source>Paste Special...</source>
-        <translation type="unfinished"></translation>
+        <translation>모름</translation>
     </message>
     <message>
         <source>Adjust Sample Rate...</source>
-        <translation type="unfinished"></translation>
+        <translation>샘플링 레이트 조정</translation>
     </message>
     <message>
         <source>Convert Sample Type...</source>
-        <translation type="unfinished"></translation>
+        <translation>샘플타입 바꾸기</translation>
     </message>
     <message>
         <source>Waveform &amp;&amp; Spectral View</source>
-        <translation type="unfinished"></translation>
+        <translation>모름</translation>
     </message>
     <message>
         <source>Decimal (mm:ss.ddd)</source>
-        <translation type="unfinished"></translation>
+        <translation>모름</translation>
     </message>
     <message>
         <source>Samples</source>
-        <translation type="unfinished"></translation>
+        <translation>샘플</translation>
     </message>
     <message>
         <source>Sample Value</source>
-        <translation type="unfinished"></translation>
+        <translation>샘플 값</translation>
     </message>
     <message>
         <source>Normalized Values</source>
-        <translation type="unfinished"></translation>
+        <translation>값 표준화</translation>
     </message>
     <message>
         <source>Percentages</source>
-        <translation type="unfinished"></translation>
+        <translation>백분율</translation>
     </message>
     <message>
         <source>Decibels</source>
-        <translation type="unfinished"></translation>
+        <translation>데시벨</translation>
     </message>
     <message>
         <source>Hz</source>
-        <translation type="unfinished"></translation>
+        <translation>Hz</translation>
     </message>
     <message>
         <source>Mels</source>
-        <translation type="unfinished"></translation>
+        <translation>Mels</translation>
     </message>
     <message>
         <source>Zoom Selection</source>
@@ -212,35 +212,35 @@
     </message>
     <message>
         <source>Zoom In</source>
-        <translation type="unfinished"></translation>
+        <translation>확대</translation>
     </message>
     <message>
         <source>Zoom Out</source>
-        <translation type="unfinished"></translation>
+        <translation>축소</translation>
     </message>
     <message>
         <source>Zoom Out Full</source>
-        <translation type="unfinished"></translation>
+        <translation>최대로 축소</translation>
     </message>
     <message>
         <source>Vertical Zoom In</source>
-        <translation type="unfinished"></translation>
+        <translation>모름</translation>
     </message>
     <message>
         <source>Vertical Zoom Out</source>
-        <translation type="unfinished"></translation>
+        <translation>모름</translation>
     </message>
     <message>
         <source>Restore Vertical Zoom</source>
-        <translation type="unfinished"></translation>
+        <translation>복원하기</translation>
     </message>
     <message>
         <source>-</source>
-        <translation type="unfinished"></translation>
+        <translation> - </translation>
     </message>
     <message>
         <source>Save Copy As...</source>
-        <translation type="unfinished"></translation>
+        <translation>…로 저장하기</translation>
     </message>
     <message>
         <source>Revert to Saved</source>
