@@ -244,267 +244,267 @@
     </message>
     <message>
         <source>Revert to Saved</source>
-        <translation type="unfinished"></translation>
+        <translation>다른 저장된 파일로 이동</translation>
     </message>
     <message>
         <source>Previous</source>
-        <translation type="unfinished"></translation>
+        <translation>이전</translation>
     </message>
     <message>
         <source>Off</source>
-        <translation type="unfinished"></translation>
+        <translation>끄기</translation>
     </message>
     <message>
         <source>All Sound</source>
-        <translation type="unfinished"></translation>
+        <translation>모든 소리</translation>
     </message>
     <message>
         <source>Selection</source>
-        <translation type="unfinished"></translation>
+        <translation>선택</translation>
     </message>
     <message>
         <source>Record</source>
-        <translation type="unfinished"></translation>
+        <translation>녹음</translation>
     </message>
     <message>
         <source>Frames</source>
-        <translation type="unfinished"></translation>
+        <translation>프레임</translation>
     </message>
     <message>
         <source>Show File Folder...</source>
-        <translation type="unfinished"></translation>
+        <translation>파일 폴더 보기</translation>
     </message>
     <message>
         <source>Normalize...</source>
-        <translation type="unfinished"></translation>
+        <translation>모름</translation>
     </message>
     <message>
         <source>DC Offset...</source>
-        <translation type="unfinished"></translation>
+        <translation>모름</translation>
     </message>
     <message>
         <source>Hide Toolbar</source>
-        <translation type="unfinished"></translation>
+        <translation>툴바 숨기기</translation>
     </message>
     <message>
         <source>Hide Waveform Navigator</source>
-        <translation type="unfinished"></translation>
+        <translation>모름</translation>
     </message>
     <message>
         <source>Show Sidebar</source>
-        <translation type="unfinished"></translation>
+        <translation>사이드바 보기</translation>
     </message>
     <message>
         <source>Create Region</source>
-        <translation type="unfinished"></translation>
+        <translation>모름</translation>
     </message>
     <message>
         <source>Apply Quantization...</source>
-        <translation type="unfinished"></translation>
+        <translation>양자화 적용하기</translation>
     </message>
     <message>
         <source>Audio Screenshot...</source>
-        <translation type="unfinished"></translation>
+        <translation>오디오 스크린샷</translation>
     </message>
     <message>
         <source>Fade In</source>
-        <translation type="unfinished"></translation>
+        <translation>페이드 인</translation>
     </message>
     <message>
         <source>Fade Out</source>
-        <translation type="unfinished"></translation>
+        <translation>페이드 아웃</translation>
     </message>
     <message>
         <source>Clear History</source>
-        <translation type="unfinished"></translation>
+        <translation>모름</translation>
     </message>
     <message>
         <source>Lowpass Filter...</source>
-        <translation type="unfinished"></translation>
+        <translation>Lowpass 필터</translation>
     </message>
     <message>
         <source>Highpass Filter...</source>
-        <translation type="unfinished"></translation>
+        <translation>Highpass 필터</translation>
     </message>
     <message>
         <source>Bandpass Filter...</source>
-        <translation type="unfinished"></translation>
+        <translation>Bandpass 필터</translation>
     </message>
     <message>
         <source>Bandstop Filter...</source>
-        <translation type="unfinished"></translation>
+        <translation>Bandstop 필터</translation>
     </message>
     <message>
         <source>31-Band Graphic Equalizer...</source>
-        <translation type="unfinished"></translation>
+        <translation>31-Band 그래픽 평준화</translation>
     </message>
     <message>
         <source>11-Band Graphic Equalizer...</source>
-        <translation type="unfinished"></translation>
+        <translation>11-Band 그래픽 평준화</translation>
     </message>
     <message>
         <source>Clipboard</source>
-        <translation type="unfinished"></translation>
+        <translation>클립보드</translation>
     </message>
     <message>
         <source>Swap Channels</source>
-        <translation type="unfinished"></translation>
+        <translation>채널 변경</translation>
     </message>
     <message>
         <source>Delay...</source>
-        <translation type="unfinished"></translation>
+        <translation>지연...</translation>
     </message>
     <message>
         <source>Flanger...</source>
-        <translation type="unfinished"></translation>
+        <translation>모름</translation>
     </message>
     <message>
         <source>Chorus...</source>
-        <translation type="unfinished"></translation>
+        <translation>모름</translation>
     </message>
     <message>
         <source>Reverb...</source>
-        <translation type="unfinished"></translation>
+        <translation>리버브</translation>
     </message>
     <message>
         <source>Vibrato...</source>
-        <translation type="unfinished"></translation>
+        <translation>모름</translation>
     </message>
     <message>
         <source>Compressor...</source>
-        <translation type="unfinished"></translation>
+        <translation>모름</translation>
     </message>
     <message>
         <source>Expander...</source>
-        <translation type="unfinished"></translation>
+        <translation>모름</translation>
     </message>
     <message>
         <source>Limiter...</source>
-        <translation type="unfinished"></translation>
+        <translation>모름</translation>
     </message>
     <message>
         <source>Noise Gate...</source>
-        <translation type="unfinished"></translation>
+        <translation>잡음 제거</translation>
     </message>
     <message>
         <source>Sample Delay...</source>
-        <translation type="unfinished"></translation>
+        <translation>샘플링 지연</translation>
     </message>
     <message>
         <source>Loop</source>
-        <translation type="unfinished"></translation>
+        <translation>반복</translation>
     </message>
     <message>
         <source>Mute Left Channel</source>
-        <translation type="unfinished"></translation>
+        <translation>왼쪽 채널 음소거</translation>
     </message>
     <message>
         <source>Mute Right Channel</source>
-        <translation type="unfinished"></translation>
+        <translation>오른쪽 채널 음소거</translation>
     </message>
     <message>
         <source>Add Random Noise...</source>
-        <translation type="unfinished"></translation>
+        <translation>무작위 소음 추가</translation>
     </message>
     <message>
         <source>Export Selection...</source>
-        <translation type="unfinished"></translation>
+        <translation>모름</translation>
     </message>
     <message>
         <source>PlaceHolder</source>
-        <translation type="unfinished"></translation>
+        <translation>모름</translation>
     </message>
     <message>
         <source>Add Marker</source>
-        <translation type="unfinished"></translation>
+        <translation>모름</translation>
     </message>
     <message>
         <source>Show All</source>
-        <translation type="unfinished"></translation>
+        <translation>모두 보기</translation>
     </message>
     <message>
         <source>Show Regions</source>
-        <translation type="unfinished"></translation>
+        <translation>모름</translation>
     </message>
     <message>
         <source>Show Loops</source>
-        <translation type="unfinished"></translation>
+        <translation>반복들 보기</translation>
     </message>
     <message>
         <source>Show Markers</source>
-        <translation type="unfinished"></translation>
+        <translation>마커 보기</translation>
     </message>
     <message>
         <source>Create iPhone Ringtone...</source>
-        <translation type="unfinished"></translation>
+        <translation>아이폰 신호음 만들기</translation>
     </message>
     <message>
         <source>Snap to Scale Tick</source>
-        <translation type="unfinished"></translation>
+        <translation>모름</translation>
     </message>
     <message>
         <source>Snap to Zero Cross</source>
-        <translation type="unfinished"></translation>
+        <translation>모름</translation>
     </message>
     <message>
         <source>Regions and Markers...</source>
-        <translation type="unfinished"></translation>
+        <translation>모름</translation>
     </message>
     <message>
         <source>Remove All Metadata</source>
-        <translation type="unfinished"></translation>
+        <translation>모든 메타데이터 지우기</translation>
     </message>
     <message>
         <source>Show Channels Id</source>
-        <translation type="unfinished"></translation>
+        <translation>채널 아이디 보기</translation>
     </message>
     <message>
         <source>Repeat ___ Effect</source>
-        <translation type="unfinished"></translation>
+        <translation>효과 ___ 반복 </translation>
     </message>
     <message>
         <source>Export Regions Text...</source>
-        <translation type="unfinished"></translation>
+        <translation>모름</translation>
     </message>
     <message>
         <source>Select Audio From Regions</source>
-        <translation type="unfinished"></translation>
+        <translation>모름</translation>
     </message>
     <message>
         <source>Export Audio From Regions...</source>
-        <translation type="unfinished"></translation>
+        <translation>모름</translation>
     </message>
     <message>
         <source>Import Regions...</source>
-        <translation type="unfinished"></translation>
+        <translation>모름</translation>
     </message>
     <message>
         <source>Mini Level Meter</source>
-        <translation type="unfinished"></translation>
+        <translation>모름</translation>
     </message>
     <message>
         <source>Full-size Level Meter</source>
-        <translation type="unfinished"></translation>
+        <translation>모름</translation>
     </message>
     <message>
         <source>Play and Select</source>
-        <translation type="unfinished"></translation>
+        <translation>재생후 선택</translation>
     </message>
     <message>
         <source>FTP Export...</source>
-        <translation type="unfinished"></translation>
+        <translation>FTP 내보내기</translation>
     </message>
     <message>
         <source>Show Navigator Window</source>
-        <translation type="unfinished"></translation>
+        <translation>내비게이터 창 보기</translation>
     </message>
     <message>
         <source>Dirac LE</source>
-        <translation type="unfinished"></translation>
+        <translation>모름</translation>
     </message>
     <message>
         <source>Split Audio at Markers</source>
-        <translation type="unfinished"></translation>
+        <translation>모름</translation>
     </message>
     <message>
         <source>Goto Preview Marker</source>
