@@ -508,15 +508,15 @@
     </message>
     <message>
         <source>Goto Preview Marker</source>
-        <translation type="unfinished"></translation>
+        <translation>모름</translation>
     </message>
     <message>
         <source>Next Zero Crossing</source>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
     <message>
         <source>Prev Zero Crossing</source>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
     <message>
         <source>Fade...</source>
@@ -528,175 +528,175 @@
     </message>
     <message>
         <source>Detect DTMF Tones</source>
-        <translation type="unfinished"></translation>
+        <translation>모름</translation>
     </message>
     <message>
         <source>Rescan Audio Devices</source>
-        <translation type="unfinished"></translation>
+        <translation>오디오 장치 재검색</translation>
     </message>
     <message>
         <source>Meta+Space</source>
-        <translation type="unfinished"></translation>
+        <translation>모름</translation>
     </message>
     <message>
         <source>Send Crash Report...</source>
-        <translation type="unfinished"></translation>
+        <translation>충돌보고 보내기</translation>
     </message>
     <message>
         <source>Preferences</source>
-        <translation type="unfinished"></translation>
+        <translation>참조</translation>
     </message>
     <message>
         <source>About</source>
-        <translation type="unfinished"></translation>
+        <translation>관하여</translation>
     </message>
     <message>
         <source>Record Options</source>
-        <translation type="unfinished"></translation>
+        <translation>녹음 옵션</translation>
     </message>
     <message>
         <source>Preroll</source>
-        <translation type="unfinished"></translation>
+        <translation>모름</translation>
     </message>
     <message>
         <source>Ctrl+P</source>
-        <translation type="unfinished"></translation>
+        <translation>Ctrl+P</translation>
     </message>
     <message>
         <source>Extract Audio From Regions</source>
-        <translation type="unfinished"></translation>
+        <translation>영역에서 오디오 추출하기</translation>
     </message>
     <message>
         <source>Quick Open...</source>
-        <translation type="unfinished"></translation>
+        <translation>빠른 열기</translation>
     </message>
     <message>
         <source>Noise Reduction</source>
-        <translation type="unfinished"></translation>
+        <translation>노이즈 줄이기</translation>
     </message>
     <message>
         <source>Noise Reduction...</source>
-        <translation type="unfinished"></translation>
+        <translation>노이즈 줄이기...</translation>
     </message>
     <message>
         <source>Automatic Noise Reduction</source>
-        <translation type="unfinished"></translation>
+        <translation>자동으로 노이즈 줄이기</translation>
     </message>
     <message>
         <source>Playback Options</source>
-        <translation type="unfinished"></translation>
+        <translation>재생 옵션</translation>
     </message>
     <message>
         <source>Record Mixer Config...</source>
-        <translation type="unfinished"></translation>
+        <translation>녹음 믹서 환경설정</translation>
     </message>
     <message>
         <source>Playback Mixer Config...</source>
-        <translation type="unfinished"></translation>
+        <translation>재생 믹서 환경설정...</translation>
     </message>
     <message>
         <source>Ctrl+D</source>
-        <translation type="unfinished"></translation>
+        <translation>Ctrl+D</translation>
     </message>
     <message>
         <source>Seconds</source>
-        <translation type="unfinished"></translation>
+        <translation>초</translation>
     </message>
     <message>
         <source>Time/Pitch Adjust</source>
-        <translation type="unfinished"></translation>
+        <translation>시간/피치 조정</translation>
     </message>
     <message>
         <source>Paste to Fit</source>
-        <translation type="unfinished"></translation>
+        <translation>알맞게 붙여넣기</translation>
     </message>
     <message>
         <source>Select Recorded Audio</source>
-        <translation type="unfinished"></translation>
+        <translation>녹음된 오디오 선택</translation>
     </message>
     <message>
         <source>Move Cursor to Record Stop Position</source>
-        <translation type="unfinished"></translation>
+        <translation>녹음을 멈출 곳으로 커서를 움직이세요.</translation>
     </message>
     <message>
         <source>Overwrite When Recording</source>
-        <translation type="unfinished"></translation>
+        <translation>녹음시에 덮어쓰기</translation>
     </message>
     <message>
         <source>Create Channels Extra Tracks </source>
-        <translation type="unfinished"></translation>
+        <translation>남은 트랙에 채널 생성</translation>
     </message>
     <message>
         <source>P</source>
-        <translation type="unfinished"></translation>
+        <translation>P</translation>
     </message>
     <message>
         <source>Zoom Back</source>
-        <translation type="unfinished"></translation>
+        <translation>축소하기</translation>
     </message>
     <message>
         <source>Show Overlay Tools</source>
-        <translation type="unfinished"></translation>
+        <translation>오버레이 도구 보기</translation>
     </message>
     <message>
         <source>Show Selection Overlays</source>
-        <translation type="unfinished"></translation>
+        <translation>오버레이 선택 보기</translation>
     </message>
     <message>
         <source>Open &amp;Recent Audio</source>
-        <translation type="unfinished"></translation>
+        <translation> 최근 &amp;오디오 열기 </translation>
     </message>
     <message>
         <source>New &amp;From</source>
-        <translation type="unfinished"></translation>
+        <translation>새로 &amp; 열기</translation>
     </message>
     <message>
         <source>&amp;Amplitude</source>
-        <translation type="unfinished"></translation>
+        <translation>모름</translation>
     </message>
     <message>
         <source>&amp;New...</source>
-        <translation type="unfinished"></translation>
+        <translation>새로열기...</translation>
     </message>
     <message>
         <source>&amp;Duplicate</source>
-        <translation type="unfinished"></translation>
+        <translation>복제하기</translation>
     </message>
     <message>
         <source>&amp;Open...</source>
-        <translation type="unfinished"></translation>
+        <translation> &amp; 열기...</translation>
     </message>
     <message>
         <source>&amp;Undo</source>
-        <translation type="unfinished"></translation>
+        <translation> &amp; 되돌리기</translation>
     </message>
     <message>
         <source>Cu&amp;t</source>
-        <translation type="unfinished"></translation>
+        <translation>자&amp; 르기</translation>
     </message>
     <message>
         <source>&amp;Copy</source>
-        <translation type="unfinished"></translation>
+        <translation> &amp;복사하기</translation>
     </message>
     <message>
         <source>&amp;Paste</source>
-        <translation type="unfinished"></translation>
+        <translation> &amp; 붙여넣기</translation>
     </message>
     <message>
         <source>&amp;Close</source>
-        <translation type="unfinished"></translation>
+        <translation> &amp;닫기</translation>
     </message>
     <message>
         <source>&amp;Save</source>
-        <translation type="unfinished"></translation>
+        <translation>저장</translation>
     </message>
     <message>
         <source>Save &amp;As...</source>
-        <translation type="unfinished"></translation>
+        <translation>.. . &amp; 이름으로 저장</translation>
     </message>
     <message>
         <source>Select &amp;All</source>
-        <translation type="unfinished"></translation>
+        <translation>모두 &amp; 선택</translation>
     </message>
     <message>
         <source>&amp;Delete Selection</source>
