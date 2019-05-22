@@ -700,71 +700,71 @@
     </message>
     <message>
         <source>&amp;Delete Selection</source>
-        <translation type="unfinished"></translation>
+        <translation> &amp;선택 삭제</translation>
     </message>
     <message>
         <source>&amp;Trim</source>
-        <translation type="unfinished"></translation>
+        <translation> &amp;다듬기</translation>
     </message>
     <message>
         <source>&amp;Waveform View</source>
-        <translation type="unfinished"></translation>
+        <translation>파형 뷰</translation>
     </message>
     <message>
         <source>&amp;Spectral View</source>
-        <translation type="unfinished"></translation>
+        <translation스펙트럼 뷰></translation>
     </message>
     <message>
         <source>Sound &amp;Properties...</source>
-        <translation type="unfinished"></translation>
+        <translation>소리  &amp; 특성...</translation>
     </message>
     <message>
         <source>&amp;Reverse</source>
-        <translation type="unfinished"></translation>
+        <translation>반전시키기</translation>
     </message>
     <message>
         <source>&amp;Silence</source>
-        <translation type="unfinished"></translation>
+        <translation>고요하게</translation>
     </message>
     <message>
         <source>Save A&amp;ll</source>
-        <translation type="unfinished"></translation>
+        <translation>모두  &amp; 저장</translation>
     </message>
     <message>
         <source>&amp;Play</source>
-        <translation type="unfinished"></translation>
+        <translation>재생</translation>
     </message>
     <message>
         <source>&amp;Next</source>
-        <translation type="unfinished"></translation>
+        <translation> &amp; 다음</translation>
     </message>
     <message>
         <source>Pre&amp;vious</source>
-        <translation type="unfinished"></translation>
+        <translation>이 &amp; 전</translation>
     </message>
     <message>
         <source>&amp;Statistics</source>
-        <translation type="unfinished"></translation>
+        <translation> &amp;통계</translation>
     </message>
     <message>
         <source>&amp;Tones</source>
-        <translation type="unfinished"></translation>
+        <translation> &amp;음색</translation>
     </message>
     <message>
         <source>&amp;Noise</source>
-        <translation type="unfinished"></translation>
+        <translation> &amp;소음</translation>
     </message>
     <message>
         <source>&amp;DTMF</source>
-        <translation type="unfinished"></translation>
+        <translation> &amp;DTMF</translation>
     </message>
     <message>
         <source>&amp;Gain...</source>
-        <translation type="unfinished"></translation>
+        <translation>소리 크기</translation>
     </message>
     <message>
         <source>Remove &amp;DC</source>
-        <translation type="unfinished"></translation>
+        <translation>DC &amp; 지우기</translation>
     </message>
     <message>
         <source>&amp;Invert Selection</source>
@@ -784,19 +784,19 @@
     </message>
     <message>
         <source>&amp;Export...</source>
-        <translation type="unfinished"></translation>
+        <translation>내보내기</translation>
     </message>
     <message>
         <source>&amp;Metadata...</source>
-        <translation type="unfinished"></translation>
+        <translation> &amp; 메타데이터</translation>
     </message>
     <message>
         <source>&amp;Redo</source>
-        <translation type="unfinished"></translation>
+        <translation> &amp; 다시 하기</translation>
     </message>
     <message>
         <source>&amp;Quit</source>
-        <translation type="unfinished"></translation>
+        <translation> &amp; 나가기</translation>
     </message>
     <message>
         <source>S&amp;mooth</source>
@@ -804,109 +804,109 @@
     </message>
     <message>
         <source>Pa&amp;use</source>
-        <translation type="unfinished"></translation>
+        <translation>멈&amp; 춤</translation>
     </message>
     <message>
         <source>Extend to Begin</source>
-        <translation type="unfinished"></translation>
+        <translation>가장 앞까지 늘리기</translation>
     </message>
     <message>
         <source>Extend to End</source>
-        <translation type="unfinished"></translation>
+        <translation>가장 뒤까지 늘리기</translation>
     </message>
     <message>
         <source>Extend to Next Marker</source>
-        <translation type="unfinished"></translation>
+        <translation>다음 마커까지 늘리기</translation>
     </message>
     <message>
         <source>Extend to Previous Marker</source>
-        <translation type="unfinished"></translation>
+        <translation>이전 마커까지 늘리기</translation>
     </message>
     <message>
         <source>Reduce to Next Marker</source>
-        <translation type="unfinished"></translation>
+        <translation>다음 마커까지 줄이기</translation>
     </message>
     <message>
         <source>Reduce to Next Marker (from begin)</source>
-        <translation type="unfinished"></translation>
+        <translation>다음 마커까지 줄이기</translation>
     </message>
     <message>
         <source>Reduce to Previous Marker</source>
-        <translation type="unfinished"></translation>
+        <translation>이전 마커까지 줄이기</translation>
     </message>
     <message>
         <source>Reduce to Previous Marker (from end)</source>
-        <translation type="unfinished"></translation>
+        <translation>이전 마커까지 줄이기</translation>
     </message>
 </context>
 <context>
     <name>NavigatorDialog</name>
     <message>
         <source>Navigator</source>
-        <translation type="unfinished"></translation>
+        <translation>네비게이터</translation>
     </message>
     <message>
         <source>00:00:00.000</source>
-        <translation></translation>
+        <translation> 00:00:00.000 </translation>
     </message>
     <message>
         <source>View</source>
-        <translation type="unfinished"></translation>
+        <translation>뷰</translation>
     </message>
     <message>
         <source>Selections</source>
-        <translation type="unfinished"></translation>
+        <translation>선택</translation>
     </message>
     <message>
         <source>Duration</source>
-        <translation type="unfinished"></translation>
+        <translation>기간</translation>
     </message>
     <message>
         <source>Begin</source>
-        <translation type="unfinished"></translation>
+        <translation>시작</translation>
     </message>
     <message>
         <source>End</source>
-        <translation type="unfinished"></translation>
+        <translation>마지막</translation>
     </message>
     <message>
         <source>Selection</source>
-        <translation type="unfinished"></translation>
+        <translation>선택</translation>
     </message>
     <message>
         <source>Cursor</source>
-        <translation type="unfinished"></translation>
+        <translation>마우스 커서</translation>
     </message>
 </context>
 <context>
     <name>QAddNoiseWidget</name>
     <message>
         <source>Color</source>
-        <translation type="unfinished"></translation>
+        <translation>색</translation>
     </message>
     <message>
         <source>Black (silence)</source>
-        <translation type="unfinished"></translation>
+        <translation>검정색(무거운)</translation>
     </message>
     <message>
         <source>White</source>
-        <translation type="unfinished"></translation>
+        <translation>흰색</translation>
     </message>
     <message>
         <source>Pink</source>
-        <translation type="unfinished"></translation>
+        <translation>분홍색</translation>
     </message>
     <message>
         <source>Brown</source>
-        <translation type="unfinished"></translation>
+        <translation>갈색</translation>
     </message>
     <message>
         <source>Distribution</source>
-        <translation type="unfinished"></translation>
+        <translation>분배</translation>
     </message>
     <message>
         <source>Gaussian</source>
-        <translation type="unfinished"></translation>
+        <translation>가우시안</translation>
     </message>
     <message>
         <source>Uniform</source>
@@ -914,31 +914,31 @@
     </message>
     <message>
         <source>Configuration</source>
-        <translation type="unfinished"></translation>
+        <translation>환경 설정</translation>
     </message>
     <message>
         <source>Intensity</source>
-        <translation type="unfinished"></translation>
+        <translation>강도</translation>
     </message>
     <message>
         <source>-6</source>
-        <translation></translation>
+        <translation>-6</translation>
     </message>
     <message>
         <source>dB</source>
-        <translation type="unfinished"></translation>
+        <translation>데시벨</translation>
     </message>
     <message>
         <source>Add Noise</source>
-        <translation type="unfinished"></translation>
+        <translation>노이즈 추가</translation>
     </message>
     <message>
         <source>Adding Noise</source>
-        <translation type="unfinished"></translation>
+        <translation>노이즈 추가</translation>
     </message>
     <message>
         <source>Addition of Noise</source>
-        <translation type="unfinished"></translation>
+        <translation>노이즈 추가</translation>
     </message>
 </context>
 <context>
@@ -949,47 +949,47 @@
     </message>
     <message>
         <source>Delay</source>
-        <translation type="unfinished"></translation>
+        <translation>지연</translation>
     </message>
     <message>
         <source>Short</source>
-        <translation type="unfinished"></translation>
+        <translation>짧은</translation>
     </message>
     <message>
         <source>Long</source>
-        <translation type="unfinished"></translation>
+        <translation>긴</translation>
     </message>
     <message>
         <source>100.0 ms</source>
-        <translation type="unfinished"></translation>
+        <translation>100.0ms</translation>
     </message>
     <message>
         <source>Feedback</source>
-        <translation type="unfinished"></translation>
+        <translation>피드백</translation>
     </message>
     <message>
         <source>-100%</source>
-        <translation type="unfinished"></translation>
+        <translation>-100%</translation>
     </message>
     <message>
         <source>0</source>
-        <translation type="unfinished"></translation>
+        <translation>0</translation>
     </message>
     <message>
         <source>100%</source>
-        <translation type="unfinished"></translation>
+        <translation100%></translation>
     </message>
     <message>
         <source>-100.0 %</source>
-        <translation type="unfinished"></translation>
+        <translation>-100.0%</translation>
     </message>
     <message>
         <source>Blend</source>
-        <translation type="unfinished"></translation>
+        <translation>섞기</translation>
     </message>
     <message>
         <source>Dry</source>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
     <message>
         <source>Wet</source>
@@ -997,7 +997,7 @@
     </message>
     <message>
         <source>10,6 ms</source>
-        <translation type="unfinished"></translation>
+        <translation>10,6ms</translation>
     </message>
     <message>
         <source>Flanger</source>
@@ -1005,39 +1005,39 @@
     </message>
     <message>
         <source>Depth</source>
-        <translation type="unfinished"></translation>
+        <translation>깊이</translation>
     </message>
     <message>
         <source>Shallow</source>
-        <translation type="unfinished"></translation>
+        <translation>얕게</translation>
     </message>
     <message>
         <source>Deep</source>
-        <translation type="unfinished"></translation>
+        <translation>깊게</translation>
     </message>
     <message>
         <source>Slow</source>
-        <translation type="unfinished"></translation>
+        <translation>느리게</translation>
     </message>
     <message>
         <source>Fast</source>
-        <translation type="unfinished"></translation>
+        <translation>빠르게</translation>
     </message>
     <message>
         <source>Speed</source>
-        <translation type="unfinished"></translation>
+        <translation>속도</translation>
     </message>
     <message>
         <source>Chorus</source>
-        <translation type="unfinished"></translation>
+        <translation>코러스</translation>
     </message>
     <message>
         <source>100.0 %</source>
-        <translation type="unfinished"></translation>
+        <translation>100.0%</translation>
     </message>
     <message>
         <source>Reverb</source>
-        <translation type="unfinished"></translation>
+        <translation>리버브</translation>
     </message>
     <message>
         <source>Decay</source>
@@ -1049,27 +1049,27 @@
     </message>
     <message>
         <source>20.00 Hz</source>
-        <translation type="unfinished"></translation>
+        <translation>20.00 Hz</translation>
     </message>
     <message>
         <source>Applying Delay</source>
-        <translation type="unfinished"></translation>
+        <translation>지연 적용</translation>
     </message>
     <message>
         <source>Applying Flanger</source>
-        <translation type="unfinished"></translation>
+        <translation>플랜저 적용</translation>
     </message>
     <message>
         <source>Applying Chorus</source>
-        <translation type="unfinished"></translation>
+        <translation>코러스 적용</translation>
     </message>
     <message>
         <source>Applying Reverb</source>
-        <translation type="unfinished"></translation>
+        <translation>리버브 적용</translation>
     </message>
     <message>
         <source>Applying Vibrato</source>
-        <translation type="unfinished"></translation>
+        <translation>비브라토 적용</translation>
     </message>
 </context>
 <context>
@@ -1080,43 +1080,43 @@
     </message>
     <message>
         <source>Time Stretch</source>
-        <translation type="unfinished"></translation>
+        <translation>시간 늘리기</translation>
     </message>
     <message>
         <source>100</source>
-        <translation></translation>
+        <translation>100</translation>
     </message>
     <message>
         <source>percent</source>
-        <translation type="unfinished"></translation>
+        <translation>퍼센트</translation>
     </message>
     <message>
         <source>Pitch Shift</source>
-        <translation type="unfinished"></translation>
+        <translation>피치 이동</translation>
     </message>
     <message>
         <source>0</source>
-        <translation></translation>
+        <translation>0</translation>
     </message>
     <message>
         <source>semitones</source>
-        <translation type="unfinished"></translation>
+        <translation>반음</translation>
     </message>
     <message>
         <source>DIRAC Time Stretch / Pitch Shift technology licensed from The DSP Dimension, http://www.dspdimension.com. DIRAC is (c) Stephan M. Bernsee</source>
-        <translation type="unfinished"></translation>
+        <translation>DIRAC 시간늘리기 / 피치이동 기술은 DSP Dimension(http://www.dspdimension.com)가 허가한 기술입니다. DIRAC은 Stephan M. Bernsee입니다.(c) </translation>
     </message>
     <message>
         <source>Information</source>
-        <translation type="unfinished"></translation>
+        <translation>정보</translation>
     </message>
     <message>
         <source>This effect is not available for the current audio format.</source>
-        <translation type="unfinished"></translation>
+        <translation>이 효과는 현재 오디오 형식에 적용할 수 없습니다. </translation>
     </message>
     <message>
         <source>In current version, ocenaudio uses DIRAC LE library that supports only one audio channel with sampling rate of 44100 Hz or 48000 Hz.</source>
-        <translation type="unfinished"></translation>
+        <translation>현재버전에서 ocenaudio는 44100Hz 또는 48000Hz의 샘플링 레이트를 가진 오디오 채널만을 사용하는 DIRAC LE 라이브러리를 사용하고 있습니다.</translation>
     </message>
     <message>
         <source>Time and Pitch Adjust</source>
