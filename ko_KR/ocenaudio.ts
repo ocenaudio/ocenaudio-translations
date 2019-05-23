@@ -945,7 +945,7 @@
     <name>QDelayWidget</name>
     <message>
         <source>Form</source>
-        <translation type="unfinished"></translation>
+        <translation>유형</translation>
     </message>
     <message>
         <source>Delay</source>
@@ -989,11 +989,11 @@
     </message>
     <message>
         <source>Dry</source>
-        <translation></translation>
+        <translation>드라이</translation>
     </message>
     <message>
         <source>Wet</source>
-        <translation type="unfinished"></translation>
+        <translation>웻</translation>
     </message>
     <message>
         <source>10,6 ms</source>
@@ -1001,7 +1001,7 @@
     </message>
     <message>
         <source>Flanger</source>
-        <translation type="unfinished"></translation>
+        <translation>플랜저</translation>
     </message>
     <message>
         <source>Depth</source>
@@ -1041,11 +1041,11 @@
     </message>
     <message>
         <source>Decay</source>
-        <translation type="unfinished"></translation>
+        <translation>쇠퇴한</translation>
     </message>
     <message>
         <source>Vibrato</source>
-        <translation type="unfinished"></translation>
+        <translation>비브라토</translation>
     </message>
     <message>
         <source>20.00 Hz</source>
@@ -1076,7 +1076,7 @@
     <name>QDiracWidget</name>
     <message>
         <source>Form</source>
-        <translation type="unfinished"></translation>
+        <translation>유형</translation>
     </message>
     <message>
         <source>Time Stretch</source>
@@ -1120,54 +1120,54 @@
     </message>
     <message>
         <source>Time and Pitch Adjust</source>
-        <translation type="unfinished"></translation>
+        <translation>시간, 피치 조정</translation>
     </message>
     <message>
         <source>Applying Dirac</source>
-        <translation type="unfinished"></translation>
+        <translation>Dirac 적용</translation>
     </message>
     <message>
         <source>Dirac</source>
-        <translation type="unfinished"></translation>
+        <translation>Dirac</translation>
     </message>
 </context>
 <context>
     <name>QDynProcWidget</name>
     <message>
         <source>Form</source>
-        <translation type="unfinished"></translation>
+        <translation>유형</translation>
     </message>
     <message>
         <source>Compressor</source>
-        <translation type="unfinished"></translation>
+        <translation>컴프레서</translation>
     </message>
     <message>
         <source>Threshold</source>
-        <translation type="unfinished"></translation>
+        <translation>임계</translation>
     </message>
     <message>
         <source>Low</source>
-        <translation type="unfinished"></translation>
+        <translation>낮은</translation>
     </message>
     <message>
         <source>High</source>
-        <translation type="unfinished"></translation>
+        <translation>높은</translation>
     </message>
     <message>
         <source>-20 dB</source>
-        <translation type="unfinished"></translation>
+        <translation>-20데시벨</translation>
     </message>
     <message>
         <source>Ratio</source>
-        <translation type="unfinished"></translation>
+        <translation>비율</translation>
     </message>
     <message>
         <source>1.0</source>
-        <translation></translation>
+        <translation>1.0</translation>
     </message>
     <message>
         <source>Expander</source>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
     <message>
         <source>-30 dB</source>
@@ -1183,11 +1183,11 @@
     </message>
     <message>
         <source>Noise Gate</source>
-        <translation type="unfinished"></translation>
+        <translation>노이즈 게이트</translation>
     </message>
     <message>
         <source>-60 dB</source>
-        <translation type="unfinished"></translation>
+        <translation>-60dB</translation>
     </message>
     <message>
         <source>Attack</source>
@@ -1195,15 +1195,15 @@
     </message>
     <message>
         <source>Fast</source>
-        <translation type="unfinished"></translation>
+        <translation>빠른</translation>
     </message>
     <message>
         <source>Slow</source>
-        <translation type="unfinished"></translation>
+        <translation>느린</translation>
     </message>
     <message>
         <source>0.1 ms</source>
-        <translation type="unfinished"></translation>
+        <translation>0.1 ms</translation>
     </message>
     <message>
         <source>Release</source>
@@ -1211,35 +1211,35 @@
     </message>
     <message>
         <source>5 ms</source>
-        <translation type="unfinished"></translation>
+        <translation>5ms</translation>
     </message>
     <message>
         <source>Gain</source>
-        <translation type="unfinished"></translation>
+        <translation>소리 크기</translation>
     </message>
     <message>
         <source>-40 dB</source>
-        <translation type="unfinished"></translation>
+        <translation>-40dB</translation>
     </message>
     <message>
         <source>0 dB</source>
-        <translation type="unfinished"></translation>
+        <translation>0 dB</translation>
     </message>
     <message>
         <source>40 dB</source>
-        <translation type="unfinished"></translation>
+        <translation>40dB</translation>
     </message>
     <message>
         <source>Dynamics Processing / %1</source>
-        <translation type="unfinished"></translation>
+        <translation>정적 프로세싱 / %1 </translation>
     </message>
     <message>
         <source>Dynamics Processing</source>
-        <translation type="unfinished"></translation>
+        <translation>정적 프로세싱</translation>
     </message>
     <message>
         <source>Applying Compressor</source>
-        <translation type="unfinished"></translation>
+        <translation컴프레서 적용></translation>
     </message>
     <message>
         <source>Applying Expansor</source>
@@ -1255,18 +1255,18 @@
     </message>
     <message>
         <source>Applying Noise Gate</source>
-        <translation type="unfinished"></translation>
+        <translation>노이즈 게이트 적용</translation>
     </message>
 </context>
 <context>
     <name>QFadeDialog</name>
     <message>
         <source>Apply Fade</source>
-        <translation type="unfinished"></translation>
+        <translation>Fade 적용</translation>
     </message>
     <message>
         <source>Fade Options</source>
-        <translation type="unfinished"></translation>
+        <translation>Fade 옵션</translation>
     </message>
     <message>
         <source>Direction</source>
@@ -1274,11 +1274,11 @@
     </message>
     <message>
         <source>Fade In</source>
-        <translation type="unfinished"></translation>
+        <translation>선명해지다</translation>
     </message>
     <message>
         <source>Fade Out</source>
-        <translation type="unfinished"></translation>
+        <translation>희미해지다</translation>
     </message>
     <message>
         <source>Curve</source>
@@ -1298,11 +1298,11 @@
     </message>
     <message>
         <source>Use this curve for all fade operations</source>
-        <translation type="unfinished"></translation>
+        <translation>이 커브를 모든 fade 작용에 사용</translation>
     </message>
     <message>
         <source>S-Curve</source>
-        <translation type="unfinished"></translation>
+        <translation>S-Curve</translation>
     </message>
     <message>
         <source>Logarithmic</source>
@@ -1310,18 +1310,18 @@
     </message>
     <message>
         <source>Applying %1 </source>
-        <translation type="unfinished"></translation>
+        <translation>적용 %1</translation>
     </message>
 </context>
 <context>
     <name>QFilterWidget</name>
     <message>
         <source>Filter</source>
-        <translation type="unfinished"></translation>
+        <translation>필터</translation>
     </message>
     <message>
         <source>Lowpass</source>
-        <translation type="unfinished"></translation>
+        <translation>Lowpass</translation>
     </message>
     <message>
         <source>Passband Limit</source>
@@ -1329,15 +1329,15 @@
     </message>
     <message>
         <source>10,6 ms</source>
-        <translation type="unfinished"></translation>
+        <translation>10,6</translation>
     </message>
     <message>
         <source>Highpass</source>
-        <translation type="unfinished"></translation>
+        <translation>Highpass</translation>
     </message>
     <message>
         <source>Bandpass</source>
-        <translation type="unfinished"></translation>
+        <translation>Bandpass</translation>
     </message>
     <message>
         <source>Passband Limits</source>
@@ -1361,54 +1361,54 @@
     </message>
     <message>
         <source>Applying Lowpass Filter</source>
-        <translation type="unfinished"></translation>
+        <translation>Lowpass 필터 적용</translation>
     </message>
     <message>
         <source>Lowpass Filter</source>
-        <translation type="unfinished"></translation>
+        <translation>Lowpass 필터</translation>
     </message>
     <message>
         <source>Applying Highpass Filter</source>
-        <translation type="unfinished"></translation>
+        <translation>Highpass 필터 적용</translation>
     </message>
     <message>
         <source>Highpass Filter</source>
-        <translation type="unfinished"></translation>
+        <translation>Higtpass 필터</translation>
     </message>
     <message>
         <source>Applying Bandpass Filter</source>
-        <translation type="unfinished"></translation>
+        <translation>Bandpass 필터 적용</translation>
     </message>
     <message>
         <source>Bandpass Filter</source>
-        <translation type="unfinished"></translation>
+        <translation>Bandpass 필터</translation>
     </message>
     <message>
         <source>Applying Bandstop Filter</source>
-        <translation type="unfinished"></translation>
+        <translation>Bandstop 필터 적용</translation>
     </message>
     <message>
         <source>Bandstop Filter</source>
-        <translation type="unfinished"></translation>
+        <translation>Bandstop 필터</translation>
     </message>
 </context>
 <context>
     <name>QGainWidget</name>
     <message>
         <source>Gain</source>
-        <translation type="unfinished"></translation>
+        <translation>소리 크기</translation>
     </message>
     <message>
         <source>Left</source>
-        <translation type="unfinished"></translation>
+        <translation>왼쪽</translation>
     </message>
     <message>
         <source>-25.0</source>
-        <translation></translation>
+        <translation>-25.0</translation>
     </message>
     <message>
         <source>dB</source>
-        <translation type="unfinished"></translation>
+        <translation>dB</translation>
     </message>
     <message>
         <source>Invert</source>
@@ -1416,31 +1416,31 @@
     </message>
     <message>
         <source>Right</source>
-        <translation type="unfinished"></translation>
+        <translation>오른쪽</translation>
     </message>
     <message>
         <source>Normalize</source>
-        <translation type="unfinished"></translation>
+        <translation>맞추다</translation>
     </message>
     <message>
         <source>Normalize to</source>
-        <translation type="unfinished"></translation>
+        <translation>~에 맞추다</translation>
     </message>
     <message>
         <source>Remove DC before normalizing</source>
-        <translation type="unfinished"></translation>
+        <translation>맞추기 전 DC 지우기</translation>
     </message>
     <message>
         <source>Normalize Channels Independently</source>
-        <translation type="unfinished"></translation>
+        <translation>채널을 독립적으로 맞추기</translation>
     </message>
     <message>
         <source>DC Offset</source>
-        <translation type="unfinished"></translation>
+        <translation>DC 오프셋</translation>
     </message>
     <message>
         <source>%</source>
-        <translation type="unfinished"></translation>
+        <translation>%</translation>
     </message>
     <message>
         <source>Gain Unit</source>
@@ -1452,15 +1452,15 @@
     </message>
     <message>
         <source>Decibels</source>
-        <translation type="unfinished"></translation>
+        <translation>데시벨</translation>
     </message>
     <message>
         <source>Offset</source>
-        <translation type="unfinished"></translation>
+        <translation>오프셋</translation>
     </message>
     <message>
         <source>Change Gain</source>
-        <translation type="unfinished"></translation>
+        <translation>소리 크기 변경</translation>
     </message>
     <message>
         <source>Amplitude</source>
@@ -1468,98 +1468,98 @@
     </message>
     <message>
         <source>Changing gain</source>
-        <translation type="unfinished"></translation>
+        <translation>소리 크기 변경하기</translation>
     </message>
     <message>
         <source>Normalizing</source>
-        <translation type="unfinished"></translation>
+        <translation>맞추기</translation>
     </message>
     <message>
         <source>Changing DC offset</source>
-        <translation type="unfinished"></translation>
+        <translation>DC 오프셋 변경하기</translation>
     </message>
     <message>
         <source>Change DC Offset</source>
-        <translation type="unfinished"></translation>
+        <translation>DC 오프셋 변경하기</translation>
     </message>
     <message>
         <source>Ch #6</source>
-        <translation type="unfinished"></translation>
+        <translation>Ch #6</translation>
     </message>
     <message>
         <source>Ch #7</source>
-        <translation type="unfinished"></translation>
+        <translation>Ch #7</translation>
     </message>
     <message>
         <source>Ch #3</source>
-        <translation type="unfinished"></translation>
+        <translation>Ch #3</translation>
     </message>
     <message>
         <source>Ch #8</source>
-        <translation type="unfinished"></translation>
+        <translation>Ch #i</translation>
     </message>
     <message>
         <source>Ch #4</source>
-        <translation type="unfinished"></translation>
+        <translation>Ch #4</translation>
     </message>
     <message>
         <source>Ch #5</source>
-        <translation type="unfinished"></translation>
+        <translation>Ch #5</translation>
     </message>
     <message>
         <source>Show channel names</source>
-        <translation type="unfinished"></translation>
+        <translation>채널 이름 보기</translation>
     </message>
     <message>
         <source>Lock channels</source>
-        <translation type="unfinished"></translation>
+        <translation>채널 잠그기</translation>
     </message>
     <message>
         <source>Limit gain values to avoid clipping</source>
-        <translation type="unfinished"></translation>
+        <translation>클리핑을 방지하기 위한 소리 크기 제한</translation>
     </message>
     <message>
         <source>Limit offset values to avoid clipping</source>
-        <translation type="unfinished"></translation>
+        <translation>클리핑을 방지하기 위한 오프셋 값 제한</translation>
     </message>
     <message>
         <source>Lock Channels</source>
-        <translation type="unfinished"></translation>
+        <translation>채널 잠그기</translation>
     </message>
     <message>
         <source>Channel %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Channel %1</translation>
     </message>
 </context>
 <context>
     <name>QGraphEqWidget</name>
     <message>
         <source>Form</source>
-        <translation type="unfinished"></translation>
+        <translation>유형</translation>
     </message>
     <message>
         <source>20 dB</source>
-        <translation type="unfinished"></translation>
+        <translation>20 dB</translation>
     </message>
     <message>
         <source>0 dB</source>
-        <translation type="unfinished"></translation>
+        <translation>0 dB</translation>
     </message>
     <message>
         <source>-20 dB</source>
-        <translation type="unfinished"></translation>
+        <translation>-20 dB</translation>
     </message>
     <message>
         <source>20</source>
-        <translation></translation>
+        <translation>20</translation>
     </message>
     <message>
         <source>25</source>
-        <translation></translation>
+        <translation>25</translation>
     </message>
     <message>
         <source>31.5</source>
-        <translation></translation>
+        <translation>31.5</translation>
     </message>
     <message>
         <source>40</source>
@@ -1619,79 +1619,79 @@
     </message>
     <message>
         <source>1k</source>
-        <translation type="unfinished"></translation>
+        <translation>1k</translation>
     </message>
     <message>
         <source>1.25k</source>
-        <translation type="unfinished"></translation>
+        <translation>1.25k</translation>
     </message>
     <message>
         <source>1.6k</source>
-        <translation type="unfinished"></translation>
+        <translation>1.6k</translation>
     </message>
     <message>
         <source>2k</source>
-        <translation type="unfinished"></translation>
+        <translation>2k</translation>
     </message>
     <message>
         <source>2.5k</source>
-        <translation type="unfinished"></translation>
+        <translation>2.5k</translation>
     </message>
     <message>
         <source>3.15k</source>
-        <translation type="unfinished"></translation>
+        <translation>3.15k</translation>
     </message>
     <message>
         <source>4k</source>
-        <translation type="unfinished"></translation>
+        <translation>4k</translation>
     </message>
     <message>
         <source>5k</source>
-        <translation type="unfinished"></translation>
+        <translation>5k</translation>
     </message>
     <message>
         <source>6.3k</source>
-        <translation type="unfinished"></translation>
+        <translation>6.3k</translation>
     </message>
     <message>
         <source>8k</source>
-        <translation type="unfinished"></translation>
+        <translation>8k</translation>
     </message>
     <message>
         <source>10k</source>
-        <translation type="unfinished"></translation>
+        <translation>10k</translation>
     </message>
     <message>
         <source>12.5k</source>
-        <translation type="unfinished"></translation>
+        <translation>12.5k</translation>
     </message>
     <message>
         <source>16k</source>
-        <translation type="unfinished"></translation>
+        <translation>16k</translation>
     </message>
     <message>
         <source>20k</source>
-        <translation type="unfinished"></translation>
+        <translation>20k</translation>
     </message>
     <message>
         <source>Gain</source>
-        <translation type="unfinished"></translation>
+        <translation>소리 크키</translation>
     </message>
     <message>
         <source>Graphic Equalizer</source>
-        <translation type="unfinished"></translation>
+        <translation>그래픽 이퀄라이저</translation>
     </message>
     <message>
         <source>Applying Equalization</source>
-        <translation type="unfinished"></translation>
+        <translation>평준화 적용하기</translation>
     </message>
     <message>
         <source>Equalizer</source>
-        <translation type="unfinished"></translation>
+        <translation>이퀄라이저</translation>
     </message>
     <message>
         <source>V shape</source>
-        <translation type="unfinished"></translation>
+        <translation>V shape</translation>
     </message>
     <message>
         <source>Inverted V shape</source>
@@ -1709,63 +1709,63 @@
     <name>QObject</name>
     <message>
         <source>No Gap</source>
-        <translation type="unfinished"></translation>
+        <translation>차이 없음</translation>
     </message>
     <message>
         <source>½ s Gap</source>
-        <translation type="unfinished"></translation>
+        <translation> ½ 초 차이 </translation>
     </message>
     <message>
         <source>1 s Gap</source>
-        <translation type="unfinished"></translation>
+        <translation>1초 차이</translation>
     </message>
     <message>
         <source>2 s Gap</source>
-        <translation type="unfinished"></translation>
+        <translation>2초 차이</translation>
     </message>
     <message>
         <source>3 s Gap</source>
-        <translation type="unfinished"></translation>
+        <translation>3초 차이</translation>
     </message>
     <message>
         <source>4 s Gap</source>
-        <translation type="unfinished"></translation>
+        <translation>4초 차이</translation>
     </message>
     <message>
         <source>5 s Gap</source>
-        <translation type="unfinished"></translation>
+        <translation>5초 차이</translation>
     </message>
     <message>
         <source>Lowest</source>
-        <translation type="unfinished"></translation>
+        <translation>가장 낮음</translation>
     </message>
     <message>
         <source>Low</source>
-        <translation type="unfinished"></translation>
+        <translation>낮음</translation>
     </message>
     <message>
         <source>Medium Low</source>
-        <translation type="unfinished"></translation>
+        <translation>중간 낮음</translation>
     </message>
     <message>
         <source>Medium</source>
-        <translation type="unfinished"></translation>
+        <translation>중간</translation>
     </message>
     <message>
         <source>Medium High</source>
-        <translation type="unfinished"></translation>
+        <translation>중간 높음</translation>
     </message>
     <message>
         <source>High</source>
-        <translation type="unfinished"></translation>
+        <translation>높음</translation>
     </message>
     <message>
         <source>Highest</source>
-        <translation type="unfinished"></translation>
+        <translation>가장 높음</translation>
     </message>
     <message>
         <source>Normal</source>
-        <translation type="unfinished"></translation>
+        <translation>보통</translation>
     </message>
     <message>
         <source>Joint Stereo</source>
@@ -1793,7 +1793,7 @@
     </message>
     <message>
         <source>Preview</source>
-        <translation type="unfinished"></translation>
+        <translation>미리보기</translation>
     </message>
     <message>
         <source>bins</source>
