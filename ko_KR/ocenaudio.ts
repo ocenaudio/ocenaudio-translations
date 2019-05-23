@@ -1785,11 +1785,11 @@
     </message>
     <message>
         <source>32 bits</source>
-        <translation type="unfinished"></translation>
+        <translation>32 bits</translation>
     </message>
     <message>
         <source>64 bits</source>
-        <translation type="unfinished"></translation>
+        <translation>64 bits</translation>
     </message>
     <message>
         <source>Preview</source>
@@ -1813,44 +1813,44 @@
     </message>
     <message>
         <source>Other Options</source>
-        <translation type="unfinished"></translation>
+        <translation>다른 옵션</translation>
     </message>
     <message>
         <source>Follow Play Cursor</source>
-        <translation type="unfinished"></translation>
+        <translation>재생커서 따라가기</translation>
     </message>
     <message>
         <source>Separated channels view</source>
-        <translation type="unfinished"></translation>
+        <translation>분리된 채널 뷰</translation>
     </message>
     <message>
         <source>Show each audio channel on a separated view.</source>
-        <translation type="unfinished"></translation>
+        <translation>분리된 뷰에 각 오디오 채널 보기</translation>
     </message>
     <message>
         <source>Display Cursor Position</source>
-        <translation type="unfinished"></translation>
+        <translation>커서 위치 표시</translation>
     </message>
     <message>
         <source>%1 Scale</source>
         <comment>Ex: Linear Scale (Dont remove %1)</comment>
-        <translation type="unfinished"></translation>
+        <translation> %1 Scale </translation>
     </message>
     <message>
         <source>Drop Artwork Here</source>
-        <translation type="unfinished"></translation>
+        <translation>여기에 작업물을 놓으세요.</translation>
     </message>
     <message>
         <source>Minimum Sample Value</source>
-        <translation type="unfinished"></translation>
+        <translation>최소 샘플링 값</translation>
     </message>
     <message>
         <source>Maximum Sample Value</source>
-        <translation type="unfinished"></translation>
+        <translation>최대 샘플링 값</translation>
     </message>
     <message>
         <source>Peak Amplitude</source>
-        <translation type="unfinished"></translation>
+        <translation>최고 진폭</translation>
     </message>
     <message>
         <source>Possible Clipped Samples</source>
@@ -1858,51 +1858,51 @@
     </message>
     <message>
         <source>DC Offset</source>
-        <translation type="unfinished"></translation>
+        <translation>DC 오프셋</translation>
     </message>
     <message>
         <source>Minimum RMS Power</source>
-        <translation type="unfinished"></translation>
+        <translation>최소 RMS Power</translation>
     </message>
     <message>
         <source>Maximum RMS Power</source>
-        <translation type="unfinished"></translation>
+        <translation>최대 RMS Power</translation>
     </message>
     <message>
         <source>Average RMS Power</source>
-        <translation type="unfinished"></translation>
+        <translation>평균 RMS Power</translation>
     </message>
     <message>
         <source>Total RMS Power</source>
-        <translation type="unfinished"></translation>
+        <translation>총 RMS Power</translation>
     </message>
     <message>
         <source>Channel %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Chennel %1</translation>
     </message>
     <message>
         <source>Skip</source>
-        <translation type="unfinished"></translation>
+        <translation>넘기기</translation>
     </message>
     <message>
         <source>Label</source>
-        <translation type="unfinished"></translation>
+        <translation>레이블</translation>
     </message>
     <message>
         <source>Position</source>
-        <translation type="unfinished"></translation>
+        <translation>위치</translation>
     </message>
     <message>
         <source>Duration</source>
-        <translation type="unfinished"></translation>
+        <translation>기간</translation>
     </message>
     <message>
         <source>Comment of region “%1”</source>
-        <translation type="unfinished"></translation>
+        <translation>영역에 대한 논평</translation>
     </message>
     <message>
         <source>No Dithering</source>
-        <translation type="unfinished"></translation>
+        <translation>디더링 사용 않기</translation>
     </message>
     <message>
         <source>Rectangular PDF</source>
@@ -1914,7 +1914,7 @@
     </message>
     <message>
         <source>Noise Shaping</source>
-        <translation type="unfinished"></translation>
+        <translation>노이즈 다듬기</translation>
     </message>
     <message>
         <source>From stream</source>
@@ -1922,58 +1922,58 @@
     </message>
     <message>
         <source>From &lt;b&gt;%1 Hz&lt;/b&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation> &lt;b&gt;%1 Hz&lt;/b&gt; 에서부터</translation>
     </message>
     <message>
         <source>From &lt;b&gt;multiples sample rates&lt;b&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation> &lt;b&gt;여러 샘플 결과&lt;b&gt; 에서부터</translation>
     </message>
     <message>
         <source>From &lt;b&gt;multiples number of channels&lt;b&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation> >&lt;b&gt;여러개의 채널&lt;b&gt; 에서부터</translation>
     </message>
     <message>
         <source>From &lt;b&gt;1 channel (mono)&lt;b&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation> &lt;b&gt;1 채널 (mono)&lt;b&gt;에서부터</translation>
     </message>
     <message>
         <source>From &lt;b&gt;2 channels (stereo)&lt;b&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation> &lt;b&gt;2 채널 (stereo)&lt;b&gt; 에서부터</translation>
     </message>
     <message>
         <source>From &lt;b&gt;%1 channels&lt;b&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation> &lt;b&gt;%1 채널&lt;b&gt; 에서부터 </translation>
     </message>
     <message>
         <source>Custom Sample Rate</source>
-        <translation type="unfinished"></translation>
+        <translation>사용자화 샘플링 레이트</translation>
     </message>
     <message>
         <source>Plugins</source>
-        <translation type="unfinished"></translation>
+        <translation>플러그인</translation>
     </message>
     <message>
         <source>Plugins Preferences</source>
-        <translation type="unfinished"></translation>
+        <translation>플러그인 환경설정</translation>
     </message>
 </context>
 <context>
     <name>QOcenAboutDialog</name>
     <message>
         <source>About</source>
-        <translation type="unfinished"></translation>
+        <translation>에 관하여</translation>
     </message>
     <message>
         <source>ocenaudio</source>
-        <translation type="unfinished"></translation>
+        <translation>ocenaudio</translation>
     </message>
     <message>
         <source>Version 2.6.0 (Build 2292)</source>
-        <translation type="unfinished"></translation>
+        <translation> 버전 2.6.0 (Build 2292) </translation>
     </message>
     <message>
         <source>© Copyright OcenAudio Team</source>
-        <translation type="unfinished"></translation>
+        <translation> © Copyright OcenAudio Team </translation>
     </message>
     <message>
         <source>All rights reserved.</source>
@@ -1981,48 +1981,48 @@
     </message>
     <message>
         <source>Version 2.0.0.rc1 (Build 2292)</source>
-        <translation type="unfinished"></translation>
+        <translation> 버전 2.0.0.rc1 (Build 2292) </translation>
     </message>
     <message>
         <source>© Copyright ocenaudio Team</source>
-        <translation type="unfinished"></translation>
+        <translation> © Copyright ocenaudio Team </translation>
     </message>
     <message>
         <source>Version</source>
-        <translation type="unfinished"></translation>
+        <translation>버전</translation>
     </message>
     <message>
         <source>About ocenaudio</source>
-        <translation type="unfinished"></translation>
+        <translation>ocenaudio에 관하여</translation>
     </message>
     <message>
         <source>http://www.ocenaudio.com</source>
-        <translation type="unfinished"></translation>
+        <translation> http://www.ocenaudio.com </translation>
     </message>
 </context>
 <context>
     <name>QOcenAudioApplication</name>
     <message>
         <source>Stay Updated with ocenaudio!</source>
-        <translation type="unfinished"></translation>
+        <translation>ocenaudio 업데이트 하세요!</translation>
     </message>
     <message>
         <source>A new version might be available.
 Click here and check!</source>
-        <translation type="unfinished"></translation>
+        <translation>여기를 클릭하여 새로운 버전으로 업데이트가 가능한지 확인하세요.</translation>
     </message>
     <message>
         <source>New release available</source>
-        <translation type="unfinished"></translation>
+        <translation>새로운 버전 출시</translation>
     </message>
     <message>
         <source>A new ocenaudio version is available.
 Click here to download it.</source>
-        <translation type="unfinished"></translation>
+        <translation>여기를 클릭하여 새로운 버전의 ocenaudio를 설치하세요.</translation>
     </message>
     <message>
         <source>Use ocenaudio 64-bit!</source>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
     <message>
         <source>You are using a 64-bit operating system and ocenaudio is available for this architecture. For better performance use the 64-bit version of ocenaudio.</source>
