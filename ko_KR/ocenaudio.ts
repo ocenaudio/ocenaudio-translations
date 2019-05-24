@@ -2022,214 +2022,214 @@ Click here to download it.</source>
     </message>
     <message>
         <source>Use ocenaudio 64-bit!</source>
-        <translation></translation>
+        <translation>64-bit ocenaudio를 사용하세요!</translation>
     </message>
     <message>
         <source>You are using a 64-bit operating system and ocenaudio is available for this architecture. For better performance use the 64-bit version of ocenaudio.</source>
-        <translation type="unfinished"></translation>
+        <translation>64-bit 운영체제를 사용하고 있습니다. ocenaudio는 이 운영체제에 설치 가능합니다. 더 나은 성능을 위해 64-bit 버전의 ocenaudio를 사용하세요.</translation>
     </message>
     <message>
         <source>Regions Comment</source>
-        <translation type="unfinished"></translation>
+        <translation>영역 설명</translation>
     </message>
     <message>
         <source>New Plugin Installed</source>
-        <translation type="unfinished"></translation>
+        <translation>새로운 플러그인이 설치 되었습니다.</translation>
     </message>
 </context>
 <context>
     <name>QOcenAudioChangeFormatDialog</name>
     <message>
         <source>Convert Audio Format</source>
-        <translation type="unfinished"></translation>
+        <translation>오디오 형식 변경</translation>
     </message>
     <message>
         <source>Change Sample Rate</source>
-        <translation type="unfinished"></translation>
+        <translation>샘플링 레이트 변경</translation>
     </message>
     <message>
         <source>From &lt;b&gt;22050 Hz&lt;/b&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation> &lt;b&gt;22050 Hz&lt;/b&gt; 에서부터</translation>
     </message>
     <message>
         <source>➨</source>
-        <translation type="unfinished"></translation>
+        <translation> ➨ </translation>
     </message>
     <message>
         <source>Don&apos;t Change (22050 Hz)</source>
-        <translation type="unfinished"></translation>
+        <translation> 바&apos꾸지 마세요. (22050 Hz) </translation>
     </message>
     <message>
         <source>6000 Hz</source>
-        <translation type="unfinished"></translation>
+        <translation>6000Hz</translation>
     </message>
     <message>
         <source>8000 Hz</source>
-        <translation type="unfinished"></translation>
+        <translation>8000Hz</translation>
     </message>
     <message>
         <source>11025 Hz</source>
-        <translation type="unfinished"></translation>
+        <translation>11025 Hz</translation>
     </message>
     <message>
         <source>16000 Hz</source>
-        <translation type="unfinished"></translation>
+        <translation>16000Hz</translation>
     </message>
     <message>
         <source>22050 Hz</source>
-        <translation type="unfinished"></translation>
+        <translation>22050 Hz</translation>
     </message>
     <message>
         <source>24000 Hz</source>
-        <translation type="unfinished"></translation>
+        <translation>24000 Hz</translation>
     </message>
     <message>
         <source>32000 Hz</source>
-        <translation type="unfinished"></translation>
+        <translation>32000 Hz</translation>
     </message>
     <message>
         <source>44100 Hz</source>
-        <translation type="unfinished"></translation>
+        <translation>44100 Hz</translation>
     </message>
     <message>
         <source>88200 Hz</source>
-        <translation type="unfinished"></translation>
+        <translation>88200 Hz</translation>
     </message>
     <message>
         <source>96000 Hz</source>
-        <translation type="unfinished"></translation>
+        <translation>96000 Hz</translation>
     </message>
     <message>
         <source>Change Number of Channels</source>
-        <translation type="unfinished"></translation>
+        <translation>채널 번호 변경</translation>
     </message>
     <message>
         <source>From &lt;b&gt;1 channel (mono)&lt;/b&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation> &lt;b&gt;1 채널 (mono)&lt;/b&gt; 에서부터</translation>
     </message>
     <message>
         <source>Don&apos;t Change (mono)</source>
-        <translation type="unfinished"></translation>
+        <translation> 바&apos;꾸지 마세요 (mono) </translation>
     </message>
     <message>
         <source>2 channels (stereo)</source>
-        <translation type="unfinished"></translation>
+        <translation>2 채널 (stereo)</translation>
     </message>
     <message>
         <source>3 channels</source>
-        <translation type="unfinished"></translation>
+        <translation>3채널</translation>
     </message>
     <message>
         <source>4 channels</source>
-        <translation type="unfinished"></translation>
+        <translation>4 채널</translation>
     </message>
     <message>
         <source>5 channels</source>
-        <translation type="unfinished"></translation>
+        <translation>5 채널</translation>
     </message>
     <message>
         <source>6 channels</source>
-        <translation type="unfinished"></translation>
+        <translation>6 채널</translation>
     </message>
     <message>
         <source>7 channels</source>
-        <translation type="unfinished"></translation>
+        <translation>7 채널</translation>
     </message>
     <message>
         <source>8 channels</source>
-        <translation type="unfinished"></translation>
+        <translation>8 채널</translation>
     </message>
     <message>
         <source>Just Swap Left/Right Channels</source>
-        <translation type="unfinished"></translation>
+        <translation>왼쪽/오른쪽 채널 바꾸기</translation>
     </message>
     <message>
         <source>Don&apos;t Change</source>
-        <translation type="unfinished"></translation>
+        <translation> 바&apos;꾸지 마세요 </translation>
     </message>
     <message>
         <source>Select Custom Sample Rate</source>
-        <translation type="unfinished"></translation>
+        <translation>사용자 샘플링 레이트 선택</translation>
     </message>
     <message>
         <source>Custom Sample Rate (%1)</source>
-        <translation type="unfinished"></translation>
+        <translation>사용자 샘플링 레이트 (%1)</translation>
     </message>
     <message>
         <source>1 channel (mono)</source>
-        <translation type="unfinished"></translation>
+        <translation> 2 채널 (mono) </translation>
     </message>
     <message>
         <source>%1 channels</source>
-        <translation type="unfinished"></translation>
+        <translation>%1 채널</translation>
     </message>
     <message>
         <source>Output
 Channel
 #%1</source>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
     <message>
         <source>Channel #%1</source>
-        <translation type="unfinished"></translation>
+        <translation>채널 #%1</translation>
     </message>
 </context>
 <context>
     <name>QOcenAudioFftAnalysisDialog</name>
     <message>
         <source>FFT Analysis</source>
-        <translation type="unfinished"></translation>
+        <translation>FFT 분석</translation>
     </message>
     <message>
         <source>%1 Window | %2 %3</source>
-        <translation type="unfinished"></translation>
+        <translation> %1 Window | %2 %3 </translation>
     </message>
     <message>
         <source>Updating FFT ...</source>
-        <translation type="unfinished"></translation>
+        <translation>FFT 업데이트...</translation>
     </message>
 </context>
 <context>
     <name>QOcenAudioMainWindow</name>
     <message>
         <source>About</source>
-        <translation type="unfinished"></translation>
+        <translation>에 관하여</translation>
     </message>
     <message>
         <source>Scanning VST Plugins</source>
-        <translation type="unfinished"></translation>
+        <translation>스캐닝 VST Plugins</translation>
     </message>
     <message>
         <source>VST</source>
-        <translation type="unfinished"></translation>
+        <translation>VST</translation>
     </message>
     <message>
         <source>Apple Bandpass Filter</source>
-        <translation type="unfinished"></translation>
+        <translation> Apple Bandpass 필터</translation>
     </message>
     <message>
         <source>Apple Filter</source>
-        <translation type="unfinished"></translation>
+        <translation>Apple 필터</translation>
     </message>
     <message>
         <source>Apple Highpass Filter</source>
-        <translation type="unfinished"></translation>
+        <translation>Apple Highpass 필터</translation>
     </message>
     <message>
         <source>Apple High Shelf Filter</source>
-        <translation type="unfinished"></translation>
+        <translation>Apple High Shelf 필터</translation>
     </message>
     <message>
         <source>Apple Lowpass Filter</source>
-        <translation type="unfinished"></translation>
+        <translation>Apple Lowpass 필터</translation>
     </message>
     <message>
         <source>Apple Low Shelf Filter</source>
-        <translation type="unfinished"></translation>
+        <translation>Apple Low Shelf 필터</translation>
     </message>
     <message>
         <source>Apple Dynamics Processor</source>
-        <translation type="unfinished"></translation>
+        <translation>Apple 동적 처리기</translation>
     </message>
     <message>
         <source>Apple Peak Limiter</source>
@@ -2293,39 +2293,39 @@ Channel
     </message>
     <message>
         <source>File Menu</source>
-        <translation type="unfinished"></translation>
+        <translation>파일 메뉴</translation>
     </message>
     <message>
         <source>Edit Menu</source>
-        <translation type="unfinished"></translation>
+        <translation>수정 메뉴</translation>
     </message>
     <message>
         <source>View Menu</source>
-        <translation type="unfinished"></translation>
+        <translation>뷰 메뉴</translation>
     </message>
     <message>
         <source>Control Menu</source>
-        <translation type="unfinished"></translation>
+        <translation>컨트롤 메뉴</translation>
     </message>
     <message>
         <source>Effects Menu</source>
-        <translation type="unfinished"></translation>
+        <translation>효과 메뉴</translation>
     </message>
     <message>
         <source>VST Effects</source>
-        <translation type="unfinished"></translation>
+        <translation>VST 효과</translation>
     </message>
     <message>
         <source>Audio Units Effects</source>
-        <translation type="unfinished"></translation>
+        <translation>오디오 유닛 효과</translation>
     </message>
     <message>
         <source>Generate Menu</source>
-        <translation type="unfinished"></translation>
+        <translation>메뉴 생성</translation>
     </message>
     <message>
         <source>Analyze Menu</source>
-        <translation type="unfinished"></translation>
+        <translation>메뉴 분석</translation>
     </message>
     <message>
         <source>Help Menu</source>
@@ -2341,15 +2341,15 @@ Channel
     </message>
     <message>
         <source>Close File</source>
-        <translation type="unfinished"></translation>
+        <translation>파일 닫기</translation>
     </message>
     <message>
         <source>Close All Files</source>
-        <translation type="unfinished"></translation>
+        <translation>모든 파일 닫기</translation>
     </message>
     <message>
         <source>Adjust Selection to Scale Tick</source>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
     <message>
         <source>Adjust Selection to Zero Cross</source>
@@ -2365,11 +2365,11 @@ Channel
     </message>
     <message>
         <source>Display Time Format in Decimal</source>
-        <translation type="unfinished"></translation>
+        <translation> 10진수로 시간 표시 </translation>
     </message>
     <message>
         <source>Display Time Format in Samples</source>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
     <message>
         <source>Display Time Format in Frames</source>
@@ -2401,7 +2401,7 @@ Channel
     </message>
     <message>
         <source>Show/Hide Regions</source>
-        <translation type="unfinished"></translation>
+        <translation>영역 보기/가리기</translation>
     </message>
     <message>
         <source>Show/Hide Loops</source>
@@ -2409,7 +2409,7 @@ Channel
     </message>
     <message>
         <source>Show/Hide Markers</source>
-        <translation type="unfinished"></translation>
+        <translation>마커 보기/가리기</translation>
     </message>
     <message>
         <source>Show/Hide All Regions, Loops and Markers</source>
@@ -2417,19 +2417,19 @@ Channel
     </message>
     <message>
         <source>Show/Hide Toolbar</source>
-        <translation type="unfinished"></translation>
+        <translation>툴바 보기/가리기</translation>
     </message>
     <message>
         <source>Show/Hide Sidebar</source>
-        <translation type="unfinished"></translation>
+        <translation>사이드바 보기/가리기</translation>
     </message>
     <message>
         <source>Show/Hide Navigator</source>
-        <translation type="unfinished"></translation>
+        <translation>네비게이터 보기/가리기</translation>
     </message>
     <message>
         <source>Show/Hide Navigator Window</source>
-        <translation type="unfinished"></translation>
+        <translation>네비게이터 창 보기\가리기</translation>
     </message>
     <message>
         <source>Show Full-size Level Meter</source>
@@ -2445,15 +2445,15 @@ Channel
     </message>
     <message>
         <source>Start/Stop Recording</source>
-        <translation type="unfinished"></translation>
+        <translation>녹음 시작/멈춤</translation>
     </message>
     <message>
         <source>Goto Next Audio</source>
-        <translation type="unfinished"></translation>
+        <translation>다음 오디오 실행</translation>
     </message>
     <message>
         <source>Goto Previous Audio</source>
-        <translation type="unfinished"></translation>
+        <translation>이전 오디오 실행</translation>
     </message>
     <message>
         <source>Enable/Disable Loop Playback</source>
@@ -2461,19 +2461,19 @@ Channel
     </message>
     <message>
         <source>Repeat Last Effect</source>
-        <translation type="unfinished"></translation>
+        <translation>마지막 효과 반복</translation>
     </message>
     <message>
         <source>Send Crash Report</source>
-        <translation type="unfinished"></translation>
+        <translation>충돌 보고 보내기</translation>
     </message>
     <message>
         <source>Save Sound Copy As ...</source>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
     <message>
         <source>Save Copy As</source>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
     <message>
         <source>Save Sound Selection As ...</source>
@@ -2485,15 +2485,15 @@ Channel
     </message>
     <message>
         <source>Question</source>
-        <translation type="unfinished"></translation>
+        <translation>질문</translation>
     </message>
     <message>
         <source>You have multiple selections. Do you want to save each selection to a separate file?</source>
-        <translation type="unfinished"></translation>
+        <translation>여러개의 선택이 있습니다. 각각 분리해서 저장 하시겠습니까?</translation>
     </message>
     <message>
         <source>Separate</source>
-        <translation type="unfinished"></translation>
+        <translation>분리하다</translation>
     </message>
     <message>
         <source>Single</source>
