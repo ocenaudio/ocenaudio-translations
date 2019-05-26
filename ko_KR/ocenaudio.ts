@@ -2433,15 +2433,15 @@ Channel
     </message>
     <message>
         <source>Show Full-size Level Meter</source>
-        <translation type="unfinished"></translation>
+        <translation>최대 사이즈의 레벨 게이지 보기</translation>
     </message>
     <message>
         <source>Show Mini Level Meter</source>
-        <translation type="unfinished"></translation>
+        <translation>작은 레벨 게이지 보기</translation>
     </message>
     <message>
         <source>Hide Level Meter</source>
-        <translation type="unfinished"></translation>
+        <translation>레벨 게이지 숨기기</translation>
     </message>
     <message>
         <source>Start/Stop Recording</source>
@@ -2457,7 +2457,7 @@ Channel
     </message>
     <message>
         <source>Enable/Disable Loop Playback</source>
-        <translation type="unfinished"></translation>
+        <translation>반복 재생 허용/미허용</translation>
     </message>
     <message>
         <source>Repeat Last Effect</source>
@@ -2469,19 +2469,20 @@ Channel
     </message>
     <message>
         <source>Save Sound Copy As ...</source>
-        <translation></translation>
+        <translation>다른 이름으로 소리 복사본 저장</translation>
     </message>
     <message>
         <source>Save Copy As</source>
-        <translation></translation>
+        <translation>다른 이름으로 복사본 저장</translation>
     </message>
     <message>
         <source>Save Sound Selection As ...</source>
-        <translation type="unfinished"></translation>
+        <translation>다른 이름으로 선택한 소리 저장 </translation>
     </message>
     <message>
         <source>Saving Selection As</source>
-        <translation type="unfinished"></translation>
+        <translation>다른 이름으로 선택한 소리 저장
+</translation>
     </message>
     <message>
         <source>Question</source>
@@ -2509,59 +2510,59 @@ Channel
     </message>
     <message>
         <source>Save Sound Selections As ...</source>
-        <translation type="unfinished"></translation>
+        <translation>다른 이름으로 선택한 소리 저장</translation>
     </message>
     <message>
         <source>Exporting As</source>
-        <translation type="unfinished"></translation>
+        <translation>다른 이름으로 내보내기</translation>
     </message>
     <message>
         <source>Exporting Selection As</source>
-        <translation type="unfinished"></translation>
+        <translation>다른이름으로 선택 파일 내보내기</translation>
     </message>
     <message>
         <source>region</source>
-        <translation type="unfinished"></translation>
+        <translation>영역</translation>
     </message>
     <message>
         <source>Exporting Regions As</source>
-        <translation type="unfinished"></translation>
+        <translation>다른 이름으로 영역 내보내기</translation>
     </message>
     <message>
         <source>Information</source>
-        <translation type="unfinished"></translation>
+        <translation>정보</translation>
     </message>
     <message>
         <source>Maximum ringtone duration exceeded!</source>
-        <translation type="unfinished"></translation>
+        <translation>신호음 최대길이 초과</translation>
     </message>
     <message>
         <source>The maximum duration of a ringtone to itunes is 30s. To proceed you must select or cut your audio up to 30s.</source>
-        <translation type="unfinished"></translation>
+        <translation>itunes 신호음의 최대길이는 30초 입니다. 진행하기 위해 선택하여 30초내로 잘라주세요. </translation>
     </message>
     <message>
         <source>%1</source>
-        <translation type="unfinished"></translation>
+        <translation>%1</translation>
     </message>
     <message>
         <source>Do you want to revert to the most recently saved version of the document “%1”?</source>
-        <translation type="unfinished"></translation>
+        <translation>가장 최근에 저장된 문서로 바꾸시겠습니까?</translation>
     </message>
     <message>
         <source>Your current changes will be lost.</source>
-        <translation type="unfinished"></translation>
+        <translation>최근 수정된 것들을 잃었습니다.</translation>
     </message>
     <message>
         <source>Revert</source>
-        <translation type="unfinished"></translation>
+        <translation>바꾸기</translation>
     </message>
     <message>
         <source>Cancel</source>
-        <translation type="unfinished"></translation>
+        <translation>취소</translation>
     </message>
     <message>
         <source>Select Sound File</source>
-        <translation type="unfinished"></translation>
+        <translation>파일 선택</translation>
     </message>
     <message>
         <source>Attention</source>
@@ -2569,51 +2570,51 @@ Channel
     </message>
     <message>
         <source>You are about to remove all metadata of this file. Are you sure you want to proceed?</source>
-        <translation type="unfinished"></translation>
+        <translation>파일의 모든 메타데이터를 지우려 합니다. 계속 진행 하시겠습니까? </translation>
     </message>
     <message>
         <source>If you proceed all metadata informations (artist name, album name, artwork) will be removed from this file.</source>
-        <translation type="unfinished"></translation>
+        <translation>계속 진행하면 모든 메타데이터(아티스트 이름, 앨범 이름, 작업)가 지워지게 됩니다.</translation>
     </message>
     <message>
         <source>Some markers will be merged because they are very close.</source>
-        <translation type="unfinished"></translation>
+        <translation>몇몇 표시들이 너무 가깝기 때문에 합쳐집니다.</translation>
     </message>
     <message>
         <source>Markers less than 10 ms apart are merged in the split process. You have one marker merged.</source>
-        <translation type="unfinished"></translation>
+        <translation>10초 이내에 떨어진 표시들은 합쳐집니다. 하나의 표시만 가지게 됩니다.</translation>
     </message>
     <message>
         <source>Markers less than 10 ms apart are merged in the split process. You have %1 markers merged.</source>
-        <translation type="unfinished"></translation>
+        <translation> 10초 이내에 떨어진 표시들은 합쳐집니다. %1 표시만 가지게 됩니다. </translation>
     </message>
     <message>
         <source>You are about to split your audio by %1 parts. Are you sure you want to proceed?</source>
-        <translation type="unfinished"></translation>
+        <translation>오디오를 파트별로 분리하려 합니다. 계속 진행 하시겠습니까?</translation>
     </message>
     <message>
         <source>If you proceed this operation will generate %1 new audio files.</source>
-        <translation type="unfinished"></translation>
+        <translation>계속 진행하면 새로운 %1 오디오 파일이 생성됩니다.</translation>
     </message>
     <message>
         <source>Part %1 of </source>
-        <translation type="unfinished"></translation>
+        <translation> 의 %1 부분</translation>
     </message>
     <message>
         <source>Error</source>
-        <translation type="unfinished"></translation>
+        <translation>오류</translation>
     </message>
     <message>
         <source>Invalid Regions Filename!</source>
-        <translation type="unfinished"></translation>
+        <translation>유효하지 않은 영역 파일이름 입니다.</translation>
     </message>
     <message>
         <source>The regions file selected is not supported.</source>
-        <translation type="unfinished"></translation>
+        <translation>선택된 영역 파일은 지원되지 않습니다.</translation>
     </message>
     <message>
         <source>Generating Silence</source>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
     <message>
         <source>Silence Generation</source>
@@ -2621,63 +2622,63 @@ Channel
     </message>
     <message>
         <source>Applying Fade</source>
-        <translation type="unfinished"></translation>
+        <translation>Fade 적용</translation>
     </message>
     <message>
         <source>Fade In</source>
-        <translation type="unfinished"></translation>
+        <translation>확대</translation>
     </message>
     <message>
         <source>Fade Out</source>
-        <translation type="unfinished"></translation>
+        <translation>축소</translation>
     </message>
     <message>
         <source>Save Selections...</source>
-        <translation type="unfinished"></translation>
+        <translation>선택된 파일 저장</translation>
     </message>
     <message>
         <source>Save Selection...</source>
-        <translation type="unfinished"></translation>
+        <translation>선택된 파일 저장...</translation>
     </message>
     <message>
         <source>Export Selections...</source>
-        <translation type="unfinished"></translation>
+        <translation>파일 내보내기...</translation>
     </message>
     <message>
         <source>Export Selection...</source>
-        <translation type="unfinished"></translation>
+        <translation>파일 내보내기...</translation>
     </message>
     <message>
         <source>%1 %2</source>
-        <translation type="unfinished"></translation>
+        <translation>%1 %2</translation>
     </message>
     <message>
         <source>Create Regions</source>
-        <translation type="unfinished"></translation>
+        <translation>여러 영역 만들기</translation>
     </message>
     <message>
         <source>Create Region</source>
-        <translation type="unfinished"></translation>
+        <translation>영역 만들기</translation>
     </message>
     <message>
         <source>Create Marker</source>
-        <translation type="unfinished"></translation>
+        <translation>표시 만들기</translation>
     </message>
     <message>
         <source>Hide Toolbar</source>
-        <translation type="unfinished"></translation>
+        <translation>툴바 숨기기</translation>
     </message>
     <message>
         <source>Show Toolbar</source>
-        <translation type="unfinished"></translation>
+        <translation>툴바 표시하기</translation>
     </message>
     <message>
         <source>Hide Sidebar</source>
-        <translation type="unfinished"></translation>
+        <translation>사이드바 숨기기</translation>
     </message>
     <message>
         <source>Show Sidebar</source>
-        <translation type="unfinished"></translation>
+        <translation>사이드바 표시하기</translation>
     </message>
     <message>
         <source>Hide Navigator</source>
