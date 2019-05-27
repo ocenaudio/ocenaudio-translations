@@ -2682,227 +2682,228 @@ Channel
     </message>
     <message>
         <source>Hide Navigator</source>
-        <translation type="unfinished"></translation>
+        <translation>네비게이터 숨기기</translation>
     </message>
     <message>
         <source>Show Navigator</source>
-        <translation type="unfinished"></translation>
+        <translation>네비게이터 표시하기</translation>
     </message>
     <message>
         <source>Hide Navigator Window</source>
-        <translation type="unfinished"></translation>
+        <translation>네비게이터 창 가리기</translation>
     </message>
     <message>
         <source>Show Navigator Window</source>
-        <translation type="unfinished"></translation>
+        <translation>네비게이터 창 표시하기</translation>
     </message>
     <message>
         <source>Hide All</source>
-        <translation type="unfinished"></translation>
+        <translation>모두 가리기</translation>
     </message>
     <message>
         <source>Show All</source>
-        <translation type="unfinished"></translation>
+        <translation>모두 표시하기</translation>
     </message>
     <message>
         <source>Hide Regions</source>
-        <translation type="unfinished"></translation>
+        <translation>영역 숨기기</translation>
     </message>
     <message>
         <source>Show Regions</source>
-        <translation type="unfinished"></translation>
+        <translation>영역 표시하기</translation>
     </message>
     <message>
         <source>Hide Loop</source>
-        <translation type="unfinished"></translation>
+        <translation>루프 숨기기</translation>
     </message>
     <message>
         <source>Show Loops</source>
-        <translation type="unfinished"></translation>
+        <translation>루프 표시하기</translation>
     </message>
     <message>
         <source>Hide Markers</source>
-        <translation type="unfinished"></translation>
+        <translation>마커 숨기기</translation>
     </message>
     <message>
         <source>Show Markers</source>
-        <translation type="unfinished"></translation>
+        <translation>마커 표시하기</translation>
     </message>
     <message>
         <source>Hide Channels Id</source>
-        <translation type="unfinished"></translation>
+        <translation>채널 아이디 숨기기</translation>
     </message>
     <message>
         <source>Show Channels Id</source>
-        <translation type="unfinished"></translation>
+        <translation>채널 아이디 표시하기</translation>
     </message>
     <message>
         <source>Resume Playback</source>
-        <translation type="unfinished"></translation>
+        <translation>재생 재개</translation>
     </message>
     <message>
         <source>Stop and Move Cursor</source>
-        <translation type="unfinished"></translation>
+        <translation>멈추고 커서 옮긱기</translation>
     </message>
     <message>
         <source>Play and Select</source>
-        <translation type="unfinished"></translation>
+        <translation>재생하고 선택하기</translation>
     </message>
     <message>
         <source>Repeat %1</source>
-        <translation type="unfinished"></translation>
+        <translation>반복 %1</translation>
     </message>
     <message>
         <source>Delete Marker</source>
-        <translation type="unfinished"></translation>
+        <translation>마커 지우기</translation>
     </message>
     <message>
         <source>Convert Region to Loop</source>
-        <translation type="unfinished"></translation>
+        <translation>영역을 루프로 바꾸기</translation>
     </message>
     <message>
         <source>Merge Regions</source>
-        <translation type="unfinished"></translation>
+        <translation>영역 합치기</translation>
     </message>
     <message>
         <source>Delete Loop</source>
-        <translation type="unfinished"></translation>
+        <translation>루프 지우기</translation>
     </message>
     <message>
         <source>Delete Region</source>
-        <translation type="unfinished"></translation>
+        <translation>영역 지우기</translation>
     </message>
     <message>
         <source>Convert Loop to Region</source>
-        <translation type="unfinished"></translation>
+        <translation>루프를 영역으로 바꾸기</translation>
     </message>
     <message>
         <source>Export Error</source>
-        <translation type="unfinished"></translation>
+        <translation>내보내기 에러</translation>
     </message>
     <message>
         <source>The export file format is not compatible with the current audio format!</source>
-        <translation type="unfinished"></translation>
+        <translation>내보내기 파일 형식이 현재 오디오 형식과 맞지 않습니다.</translation>
     </message>
     <message>
         <source>The export file cannot be create on the destination path!</source>
-        <translation type="unfinished"></translation>
+        <translation>내보내기 파일은 선택한 경로에 생성할 수 없습니다.</translation>
     </message>
     <message>
         <source>Extract Audio From Regions</source>
-        <translation type="unfinished"></translation>
+        <translation>영역에서 오디오 추출하기</translation>
     </message>
     <message>
         <source>Enable/Disable Preroll on Recording</source>
-        <translation type="unfinished"></translation>
+        <translation>녹음에 프리롤 허가/미허가</translation>
     </message>
     <message>
         <source>Select “separate” to save each selection to a different file. If you select “single”, all your selections will be appended and saved to a single file.</source>
-        <translation type="unfinished"></translation>
+        <translation>각 선택을 다른 파일로 저장하기 위해 ”분리”를 선택하세요. 만약 “하나의 파일로” 를 선택하면, 모든 선택이 붙여지고 하나의 파일로 저장 됩니다. </translation>
     </message>
     <message>
         <source>Mix Pasting</source>
-        <translation type="unfinished"></translation>
+        <translation>믹스 붙여넣기</translation>
     </message>
     <message>
         <source>Loading Signal</source>
-        <translation type="unfinished"></translation>
+        <translation>신호 불러오기</translation>
     </message>
     <message>
         <source>Generating Signal</source>
-        <translation type="unfinished"></translation>
+        <translation>신호 만들기</translation>
     </message>
     <message>
         <source>Part “%1” of </source>
-        <translation type="unfinished"></translation>
+        <translation>”%1” 부분의 </translation>
     </message>
     <message>
         <source>Some regions will be ignored because they are very short.</source>
-        <translation type="unfinished"></translation>
+        <translation>몇몇 영역이 너무 짧아 무시 되었습니다.</translation>
     </message>
     <message>
         <source>Regions with less than 10 ms are ignored. You have one region ignored.</source>
-        <translation type="unfinished"></translation>
+        <translation>10ms 미만의 영역은 무시됩니다. 하나의 영역을 가지게 됩니다.</translation>
     </message>
     <message>
         <source>Regions with less than 10 ms are ignored. You have %1 regions ignored.</source>
-        <translation type="unfinished"></translation>
+        <translation> 10ms 미만의 영역은 무시됩니다. %1 영역을 가지게 됩니다. </translation>
     </message>
     <message>
         <source>You are about to extract %1 regions from your audio. Are you sure you want to proceed?</source>
-        <translation type="unfinished"></translation>
+        <translation>오디오에서 %1 영역을 추출하려 합니다. 계속 진행 하시겠습니까? </translation>
     </message>
     <message>
         <source>Region “%1” of </source>
-        <translation type="unfinished"></translation>
+        <translation>%1 영역의</translation>
     </message>
     <message>
         <source>Region %1 of </source>
-        <translation type="unfinished"></translation>
+        <translation>%1 영역의</translation>
     </message>
     <message>
         <source>Apple Reverb 2</source>
-        <translation type="unfinished"></translation>
+        <translation>Apple 리버브 2</translation>
     </message>
     <message>
         <source>Swap Channels from Selections</source>
-        <translation type="unfinished"></translation>
+        <translation>선택된 채널 교체</translation>
     </message>
     <message>
         <source>Applying Automatic Noise Reduction</source>
-        <translation type="unfinished"></translation>
+        <translation>자동 노이즈 감소 적용하기
+</translation>
     </message>
     <message>
         <source>Noise Reduction</source>
-        <translation type="unfinished"></translation>
+        <translation>노이즈 감소</translation>
     </message>
     <message>
         <source>Playback Mixer Config</source>
-        <translation type="unfinished"></translation>
+        <translation>재생. 믹서 환경설정</translation>
     </message>
     <message>
         <source>Record Mixer Config</source>
-        <translation type="unfinished"></translation>
+        <translation>녹음 믹서 환경설정</translation>
     </message>
     <message>
         <source>Enable/Disable Destructive Recording</source>
-        <translation type="unfinished"></translation>
+        <translation>불순한 녹음 허가/미허가</translation>
     </message>
     <message>
         <source>Display Time Format in Seconds</source>
-        <translation type="unfinished"></translation>
+        <translation>시간을 초로 표시하기</translation>
     </message>
     <message>
         <source>Warning</source>
-        <translation type="unfinished"></translation>
+        <translation>경고</translation>
     </message>
     <message>
         <source>The audio sample rate is not supported by Audio Unit %1.</source>
-        <translation type="unfinished"></translation>
+        <translation>오디오 샘플링 레이트는 %1 유닛에서 지원하지 않습니다.</translation>
     </message>
     <message>
         <source>In order to use this plugin you should change the audio sample rate to a supported value.</source>
-        <translation type="unfinished"></translation>
+        <translation>이 플러그인을 사용하려면 오디오 샘플링 레이트를 지원되는 값으로 바꿔야 합니다.</translation>
     </message>
     <message>
         <source>The sample rate selected on mixer is not supported by Audio Unit %1.</source>
-        <translation type="unfinished"></translation>
+        <translation>믹서에서 선택된 샘플링 레이트는 유닛 %1 에서 지원하지 않습니다.</translation>
     </message>
     <message>
         <source>In order to use this plugin you should change the mixer sample rate to a supported value in the audio preferences.</source>
-        <translation type="unfinished"></translation>
+        <translation>이 플러그인을 사용 하려면 믹서 샘플링 레이트를 설명서의 지원되는 값으로 변경해야 합니다.</translation>
     </message>
     <message>
         <source>Show/Hide Channels Id&apos;s</source>
-        <translation type="unfinished"></translation>
+        <translation>채널 아이디 &apos;s 표시하기/숨기기</translation>
     </message>
     <message>
         <source>Enable/Disable Select Captured Audio</source>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
     <message>
         <source>Enable/Disable Move Cursor to Record Stop Position</source>
-        <translation type="unfinished"></translation>
+        <translation>녹음이 멈춘 지점으로 커서 이동을 허가/미허가</translation>
     </message>
     <message>
         <source>Show/Hide Selection Overlays</source>
