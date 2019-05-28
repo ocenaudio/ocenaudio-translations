@@ -3247,31 +3247,31 @@ Channel
     </message>
     <message>
         <source>LAME3.99</source>
-        <translation></translation>
+        <translation>LAME3.99</translation>
     </message>
     <message>
         <source>Bit Rate</source>
-        <translation type="unfinished"></translation>
+        <translation>비트 레이트</translation>
     </message>
     <message>
         <source>192 kbps</source>
-        <translation type="unfinished"></translation>
+        <translation>192 kbps</translation>
     </message>
     <message>
         <source>Sample Rate</source>
-        <translation type="unfinished"></translation>
+        <translation>샘플링 레이트</translation>
     </message>
     <message>
         <source>44100 Hz</source>
-        <translation type="unfinished"></translation>
+        <translation>44100 Hz</translation>
     </message>
     <message>
         <source>Channels</source>
-        <translation type="unfinished"></translation>
+        <translation>채널</translation>
     </message>
     <message>
         <source>stereo</source>
-        <translation type="unfinished"></translation>
+        <translation>스테레오</translation>
     </message>
     <message>
         <source>Resolution</source>
@@ -3279,300 +3279,300 @@ Channel
     </message>
     <message>
         <source>16 bits</source>
-        <translation type="unfinished"></translation>
+        <translation>16 비트</translation>
     </message>
     <message>
         <source>Duration</source>
-        <translation type="unfinished"></translation>
+        <translation>지속 시간</translation>
     </message>
     <message>
         <source>26 seconds</source>
-        <translation type="unfinished"></translation>
+        <translation>26초</translation>
     </message>
     <message>
         <source>Number of Samples</source>
-        <translation type="unfinished"></translation>
+        <translation>샘플의 개수</translation>
     </message>
     <message>
         <source>192900</source>
-        <translation type="unfinished"></translation>
+        <translation>192900</translation>
     </message>
     <message>
         <source>Size on Memory</source>
-        <translation type="unfinished"></translation>
+        <translation>메모리 사이즈</translation>
     </message>
     <message>
         <source>100 Kb</source>
-        <translation type="unfinished"></translation>
+        <translation>100 Kb</translation>
     </message>
     <message>
         <source>Size on Disk</source>
-        <translation type="unfinished"></translation>
+        <translation>디스크 사이즈</translation>
     </message>
     <message>
         <source>192 Kb</source>
-        <translation type="unfinished"></translation>
+        <translation>192 Kb</translation>
     </message>
     <message>
         <source>Modification Date</source>
-        <translation type="unfinished"></translation>
+        <translation>날짜 변경</translation>
     </message>
     <message>
         <source>12/09/2014 23:00</source>
-        <translation type="unfinished"></translation>
+        <translation>12/09/2014/23:00</translation>
     </message>
     <message>
         <source>Location</source>
-        <translation type="unfinished"></translation>
+        <translation>위치</translation>
     </message>
     <message>
         <source>/Users/ruijunior/Music/iTunes/iTunes Media/Music/Enanitos Verdes/Unknown Album/Lamento Boliviano.aif</source>
-        <translation type="unfinished"></translation>
+        <translation> /Users/ruijunior/Music/iTunes/iTunes Media/Music/Enanitos Verdes/Unknown Album/Lamento Boliviano.aif </translation>
     </message>
     <message>
         <source>Details</source>
-        <translation type="unfinished"></translation>
+        <translation>세부사항</translation>
     </message>
     <message>
         <source>Song Name</source>
-        <translation type="unfinished"></translation>
+        <translation>노래 이름</translation>
     </message>
     <message>
         <source>Album Artist</source>
-        <translation type="unfinished"></translation>
+        <translation>앨범 아티스트</translation>
     </message>
     <message>
         <source>Composer</source>
-        <translation type="unfinished"></translation>
+        <translation>작곡가</translation>
     </message>
     <message>
         <source>Grouping</source>
-        <translation type="unfinished"></translation>
+        <translation>그룹</translation>
     </message>
     <message>
         <source>Genre</source>
-        <translation type="unfinished"></translation>
+        <translation>장르</translation>
     </message>
     <message>
         <source>Year</source>
-        <translation type="unfinished"></translation>
+        <translation>연도</translation>
     </message>
     <message>
         <source>Disk Number</source>
-        <translation type="unfinished"></translation>
+        <translation>디스크 번호</translation>
     </message>
     <message>
         <source>of</source>
-        <translation type="unfinished"></translation>
+        <translation>의</translation>
     </message>
     <message>
         <source>Track</source>
-        <translation type="unfinished"></translation>
+        <translation>트랙</translation>
     </message>
     <message>
         <source>bpm</source>
-        <translation type="unfinished"></translation>
+        <translation>bpm</translation>
     </message>
     <message>
         <source>Keywords</source>
-        <translation type="unfinished"></translation>
+        <translation>키워드</translation>
     </message>
     <message>
         <source>Comments</source>
-        <translation type="unfinished"></translation>
+        <translation>설명</translation>
     </message>
     <message>
         <source>Artwork</source>
-        <translation type="unfinished"></translation>
+        <translation>작품</translation>
     </message>
     <message>
         <source>Album Artwork</source>
-        <translation type="unfinished"></translation>
+        <translation>앨범 작품</translation>
     </message>
     <message>
         <source>PNG / 256 x 256</source>
-        <translation type="unfinished"></translation>
+        <translation> PNG / 256 x 256 </translation>
     </message>
     <message>
         <source>Change Artwork...</source>
-        <translation type="unfinished"></translation>
+        <translation>작품 변경</translation>
     </message>
     <message>
         <source>Markers</source>
-        <translation type="unfinished"></translation>
+        <translation>표시</translation>
     </message>
     <message>
         <source>Statistics</source>
-        <translation type="unfinished"></translation>
+        <translation통계></translation>
     </message>
     <message>
         <source>Select Artwork</source>
-        <translation type="unfinished"></translation>
+        <translation>작품 선택</translation>
     </message>
     <message>
         <source>Images (*.png *.jpg *.bmp)</source>
-        <translation type="unfinished"></translation>
+        <translation> Images (*.png *.jpg *.bmp) </translation>
     </message>
     <message>
         <source>Comment of marker #label</source>
-        <translation type="unfinished"></translation>
+        <translation>작품 설명 #라벨</translation>
     </message>
     <message>
         <source>Comment</source>
-        <translation type="unfinished"></translation>
+        <translation>설명</translation>
     </message>
     <message>
         <source>Revert</source>
-        <translation type="unfinished"></translation>
+        <translation>바꾸기</translation>
     </message>
     <message>
         <source>Close</source>
-        <translation type="unfinished"></translation>
+        <translation>닫기</translation>
     </message>
 </context>
 <context>
     <name>QOcenAudioTimeStretchWidget</name>
     <message>
         <source>Form</source>
-        <translation type="unfinished"></translation>
+        <translation>형식</translation>
     </message>
     <message>
         <source>Time Stretch</source>
-        <translation type="unfinished"></translation>
+        <translation>시간 늘리기</translation>
     </message>
     <message>
         <source>100</source>
-        <translation type="unfinished"></translation>
+        <translation>100</translation>
     </message>
     <message>
         <source>percent</source>
-        <translation type="unfinished"></translation>
+        <translation>퍼센트</translation>
     </message>
     <message>
         <source>Pitch Shift</source>
-        <translation type="unfinished"></translation>
+        <translation>피치 이동</translation>
     </message>
     <message>
         <source>0</source>
-        <translation type="unfinished"></translation>
+        <translation>0</translation>
     </message>
     <message>
         <source>semi-tones</source>
-        <translation type="unfinished"></translation>
+        <translation>세미 톤</translation>
     </message>
     <message>
         <source>Optimize for speech processing</source>
-        <translation type="unfinished"></translation>
+        <translation>스피치 처리를 위한 최적화</translation>
     </message>
     <message>
         <source>Time and Pitch Adjust</source>
-        <translation type="unfinished"></translation>
+        <translation>시간과 피치 조정</translation>
     </message>
     <message>
         <source>Applying Time/Pitch Adjust</source>
-        <translation type="unfinished"></translation>
+        <translation>시간과 피치 조정 적용하기</translation>
     </message>
     <message>
         <source>Time/Pitch Adjust</source>
-        <translation type="unfinished"></translation>
+        <translation>시간과 피치 조정</translation>
     </message>
 </context>
 <context>
     <name>QOcenCrashReportDialog</name>
     <message>
         <source>ocenaudio Crashed Previously</source>
-        <translation type="unfinished"></translation>
+        <translation>좀 전에 ocenaudio에 충돌이 일어났습니다.</translation>
     </message>
     <message>
         <source>ocenaudio crashed previously</source>
-        <translation type="unfinished"></translation>
+        <translation>좀 전에 ocenaudio에 충돌이 일어났습니다.</translation>
     </message>
     <message>
         <source>Do you want to send details on the crash to ocenaudio&apos;s development team?</source>
-        <translation type="unfinished"></translation>
+        <translation>충돌에 대한 세부사항을 ocenaudio&apos;s 개발팀에게 보내시겠습니까?</translation>
     </message>
     <message>
         <source>If you want, you can enter a few lines on what you did before ocenaudio crashed along with other helpful information: sample file, os crash report, screen shots, ...</source>
-        <translation type="unfinished"></translation>
+        <translation>보내시려면, 충돌이 일어나기 전의 상황을 도움이 되는 정보(샘플 파일, 스크린샷 등)와 함께 입력해주세요. </translation>
     </message>
     <message>
         <source>If you agree to be contacted about this bug report enter your email below:</source>
-        <translation type="unfinished"></translation>
+        <translation>만약 이 버그에 대한 연락을 동의 하시면 아래에 이메일을 입력해 주세요.</translation>
     </message>
     <message>
         <source>Attach File...</source>
-        <translation type="unfinished"></translation>
+        <translation>파일 붙이기</translation>
     </message>
     <message>
         <source>Don&apos;t ask again</source>
-        <translation type="unfinished"></translation>
+        <translation>다시 &apos; 묻지 않기</translation>
     </message>
     <message>
         <source>Crash Report</source>
-        <translation type="unfinished"></translation>
+        <translation>충돌 보고</translation>
     </message>
     <message>
         <source>Send</source>
-        <translation type="unfinished"></translation>
+        <translation>보내기</translation>
     </message>
     <message>
         <source>Don&apos;t Send</source>
-        <translation type="unfinished"></translation>
+        <translation>보&apos;내지 않기</translation>
     </message>
     <message>
         <source>Select File to Attach</source>
-        <translation type="unfinished"></translation>
+        <translation>붙일 파일 선택</translation>
     </message>
 </context>
 <context>
     <name>QOcenCreateItunesRingtoneDialog</name>
     <message>
         <source>Create iTunes Ringtone</source>
-        <translation type="unfinished"></translation>
+        <translation>iTunse 신호음 생성</translation>
     </message>
     <message>
         <source>iTunes Ringtone Config</source>
-        <translation type="unfinished"></translation>
+        <translation>iTunse 신호음 환경설정</translation>
     </message>
     <message>
         <source>Name</source>
-        <translation type="unfinished"></translation>
+        <translation>이름</translation>
     </message>
     <message>
         <source>Fade In</source>
-        <translation type="unfinished"></translation>
+        <translation>선명해지 하기</translation>
     </message>
     <message>
         <source>Fade Out</source>
-        <translation type="unfinished"></translation>
+        <translation>희미해지게 하기</translation>
     </message>
     <message>
         <source>No Gap</source>
-        <translation type="unfinished"></translation>
+        <translation>차이 없음</translation>
     </message>
     <message>
         <source>½ s Gap</source>
-        <translation type="unfinished"></translation>
+        <translation> ½ 초 차이</translation>
     </message>
     <message>
         <source>1 s Gap</source>
-        <translation type="unfinished"></translation>
+        <translation>1초 차이</translation>
     </message>
     <message>
         <source>2 s Gap</source>
-        <translation type="unfinished"></translation>
+        <translation>2초 차이</translation>
     </message>
     <message>
         <source>3 s Gap</source>
-        <translation type="unfinished"></translation>
+        <translation>3초 차이</translation>
     </message>
     <message>
         <source>4 s Gap</source>
-        <translation type="unfinished"></translation>
+        <translation>4초 차이</translation>
     </message>
     <message>
         <source>5 s Gap</source>
-        <translation type="unfinished"></translation>
+        <translation>5초 차이</translation>
     </message>
 </context>
 <context>
