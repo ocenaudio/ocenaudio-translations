@@ -2919,335 +2919,335 @@ Channel
     </message>
     <message>
         <source>You are about to create extra tracks for each channel in your audio file. Are you sure you want to proceed?</source>
-        <translation type="unfinished"></translation>
+        <translation>오디오 파일의 각 채널을 위한 여분 트랙을 만드려 합니다. 계속 진행 하시겠습니까?</translation>
     </message>
     <message>
         <source>Regions created in new tracks will be saved to an external file.</source>
-        <translation type="unfinished"></translation>
+        <translation>새로운 트랙에 생성된 영역은 외부 파일에 저장됩니다.</translation>
     </message>
     <message>
         <source>Hide Selection Overlays</source>
-        <translation type="unfinished"></translation>
+        <translation>선택 오버레이 가리기</translation>
     </message>
     <message>
         <source>Show Selection Overlays</source>
-        <translation type="unfinished"></translation>
+        <translation>선택 오버레이 표시하기</translation>
     </message>
     <message>
         <source>Hide Overlay Tools</source>
-        <translation type="unfinished"></translation>
+        <translation>오버레이 툴 가리기</translation>
     </message>
     <message>
         <source>Show Overlay Tools</source>
-        <translation type="unfinished"></translation>
+        <translation>오버레이 툴 표시하기</translation>
     </message>
     <message>
         <source>Temporary Space Warning</source>
-        <translation type="unfinished"></translation>
+        <translation>임시 공간 경고</translation>
     </message>
     <message>
         <source>You have only %1 available!</source>
-        <translation type="unfinished"></translation>
+        <translation>단 %1 만 가능합니다!</translation>
     </message>
     <message>
         <source>&amp;Undo</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp; 되돌리기</translation>
     </message>
     <message>
         <source>&amp;Redo</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp; 다시하기</translation>
     </message>
     <message>
         <source>Stop &amp;Recording</source>
-        <translation type="unfinished"></translation>
+        <translation>녹음 &amp 멈추기</translation>
     </message>
     <message>
         <source>&amp;Record</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;녹음</translation>
     </message>
     <message>
         <source>Res&amp;ume</source>
-        <translation type="unfinished"></translation>
+        <translation>재개&amp;하기하</translation>
     </message>
     <message>
         <source>Resume &amp;Playback</source>
-        <translation type="unfinished"></translation>
+        <translation>재생&amp;재개</translation>
     </message>
     <message>
         <source>Pa&amp;use</source>
-        <translation type="unfinished"></translation>
+        <translation>멈&amp; 춤</translation>
     </message>
     <message>
         <source>Sto&amp;p</source>
-        <translation type="unfinished"></translation>
+        <translation>정&amp;지</translation>
     </message>
     <message>
         <source>&amp;Play</source>
-        <translation type="unfinished"></translation>
+        <translation> &amp;재생</translation>
     </message>
     <message>
         <source>Extend Selection to Begin</source>
-        <translation type="unfinished"></translation>
+        <translation>선택을 시작까지 늘리기</translation>
     </message>
     <message>
         <source>Extend Selection to End</source>
-        <translation type="unfinished"></translation>
+        <translation>선택을 마지막까지 늘리기</translation>
     </message>
     <message>
         <source>Extend Selection to Previous Marker</source>
-        <translation type="unfinished"></translation>
+        <translation>선택을 이 전의 마커까지 늘리기</translation>
     </message>
     <message>
         <source>Extend Selection to Next Marker</source>
-        <translation type="unfinished"></translation>
+        <translation>선택을 다음 마커까지 늘리기</translation>
     </message>
     <message>
         <source>Reduce Selection to Next Marker</source>
-        <translation type="unfinished"></translation>
+        <translation>선택을 다음 마커까지 줄이기</translation>
     </message>
     <message>
         <source>Reduce Selection to Previous Marker</source>
-        <translation type="unfinished"></translation>
+        <translation>선택을 이전 마커까지 줄이기</translation>
     </message>
 </context>
 <context>
     <name>QOcenAudioNoiseReductionWidget</name>
     <message>
         <source>Form</source>
-        <translation type="unfinished"></translation>
+        <translation>형식</translation>
     </message>
     <message>
         <source>Noise Profiler</source>
-        <translation type="unfinished"></translation>
+        <translation>노이즈 프로파일러</translation>
     </message>
     <message>
         <source>Get profile</source>
-        <translation type="unfinished"></translation>
+        <translation>프로필 얻기</translation>
     </message>
     <message>
         <source>Update profile</source>
-        <translation type="unfinished"></translation>
+        <translation>프로필 갱신</translation>
     </message>
     <message>
         <source>Noise Reductor</source>
-        <translation type="unfinished"></translation>
+        <translation>노이즈 줄이는 도구</translation>
     </message>
     <message>
         <source>Noise</source>
-        <translation type="unfinished"></translation>
+        <translation>노이즈</translation>
     </message>
     <message>
         <source>Reduction factor</source>
-        <translation type="unfinished"></translation>
+        <translation>줄이기 요소</translation>
     </message>
     <message>
         <source>0 dB</source>
-        <translation type="unfinished"></translation>
+        <translation>0 dB</translation>
     </message>
     <message>
         <source>60 dB</source>
-        <translation type="unfinished"></translation>
+        <translation>60 dB</translation>
     </message>
     <message>
         <source>0.0 dB</source>
-        <translation type="unfinished"></translation>
+        <translation>0.0 dB</translation>
     </message>
     <message>
         <source>Output</source>
-        <translation type="unfinished"></translation>
+        <translation>출력</translation>
     </message>
     <message>
         <source>Reduce noise</source>
-        <translation type="unfinished"></translation>
+        <translation>노이즈 줄이기</translation>
     </message>
     <message>
         <source>Remove noise</source>
-        <translation type="unfinished"></translation>
+        <translation>노이즈 지우기</translation>
     </message>
     <message>
         <source>Gate Settings</source>
-        <translation type="unfinished"></translation>
+        <translation>게이트 설정</translation>
     </message>
     <message>
         <source>3 bands</source>
-        <translation type="unfinished"></translation>
+        <translation>3 밴드</translation>
     </message>
     <message>
         <source>Smoothing</source>
-        <translation type="unfinished"></translation>
+        <translation>부드럽게</translation>
     </message>
     <message>
         <source>Sensitivity</source>
-        <translation type="unfinished"></translation>
+        <translation>세심함</translation>
     </message>
     <message>
         <source>Fast</source>
-        <translation type="unfinished"></translation>
+        <translation>빠른</translation>
     </message>
     <message>
         <source>Slow</source>
-        <translation type="unfinished"></translation>
+        <translation>느린</translation>
     </message>
     <message>
         <source>Less</source>
-        <translation type="unfinished"></translation>
+        <translation>덜</translation>
     </message>
     <message>
         <source>More</source>
-        <translation type="unfinished"></translation>
+        <translation>더</translation>
     </message>
     <message>
         <source>0.1 ms</source>
-        <translation type="unfinished"></translation>
+        <translation>0.1 ms</translation>
     </message>
     <message>
         <source>5 ms</source>
-        <translation type="unfinished"></translation>
+        <translation>5ms</translation>
     </message>
     <message>
         <source>6 ㏑(10)</source>
-        <translation type="unfinished"></translation>
+        <translation>(10) 중 6</translation>
     </message>
     <message>
         <source>Release</source>
-        <translation type="unfinished"></translation>
+        <translation>공개하기</translation>
     </message>
     <message>
         <source>Attack</source>
-        <translation type="unfinished"></translation>
+        <translation>공격하기</translation>
     </message>
     <message>
         <source>Window Settings</source>
-        <translation type="unfinished"></translation>
+        <translation>창 설정</translation>
     </message>
     <message>
         <source>Analysis:</source>
-        <translation type="unfinished"></translation>
+        <translation>분석 :</translation>
     </message>
     <message>
         <source>Synthesis:</source>
-        <translation type="unfinished"></translation>
+        <translation>통합 :</translation>
     </message>
     <message>
         <source>Only for Noise Reductor</source>
-        <translation type="unfinished"></translation>
+        <translation>노이즈 감소기만을 위한</translation>
     </message>
     <message>
         <source>Size:</source>
-        <translation type="unfinished"></translation>
+        <translation>사이즈 :</translation>
     </message>
     <message>
         <source>Only for Noise Profiler</source>
-        <translation type="unfinished"></translation>
+        <translation>노이즈 프로파일러만을 위한</translation>
     </message>
     <message>
         <source>Overlap:</source>
-        <translation type="unfinished"></translation>
+        <translation>겹침 :</translation>
     </message>
     <message>
         <source>Updating noise profile...</source>
-        <translation type="unfinished"></translation>
+        <translation>노이즈 프로필 갱신</translation>
     </message>
     <message>
         <source>Noise Reduction</source>
-        <translation type="unfinished"></translation>
+        <translation>노이즈 감소</translation>
     </message>
     <message>
         <source>Reducing Noise</source>
-        <translation type="unfinished"></translation>
+        <translation>노이즈 줄이기</translation>
     </message>
     <message>
         <source>Removing Noise</source>
-        <translation type="unfinished"></translation>
+        <translation>노이즈 지우기</translation>
     </message>
     <message>
         <source>Estimating Noise</source>
-        <translation type="unfinished"></translation>
+        <translation>노이즈 평가하기</translation>
     </message>
     <message>
         <source>Creating noise profile...</source>
-        <translation type="unfinished"></translation>
+        <translation>노이즈 프로필 생성하기</translation>
     </message>
     <message>
         <source>On Update Profile</source>
-        <translation type="unfinished"></translation>
+        <translation>최신 프로필</translation>
     </message>
     <message>
         <source>Could not update profile</source>
-        <translation type="unfinished"></translation>
+        <translation>프로필을 갱신할 수 없습니다.</translation>
     </message>
     <message>
         <source>The selected audio must have the same configuration of the one used to estimate the noise profile.</source>
-        <translation type="unfinished"></translation>
+        <translation>선택된 오디오는 평가되었던 노이즈 프로필과 설정이 같아야 합니다.</translation>
     </message>
 </context>
 <context>
     <name>QOcenAudioNoiseReductionWidget::Data</name>
     <message>
         <source>no overlap</source>
-        <translation type="unfinished"></translation>
+        <translation>겹침 없음</translation>
     </message>
 </context>
 <context>
     <name>QOcenAudioOpenFilesPlugin</name>
     <message>
         <source>Opened Files</source>
-        <translation type="unfinished"></translation>
+        <translation>열린 파일</translation>
     </message>
     <message>
         <source>Current open files in ocenaudio</source>
-        <translation type="unfinished"></translation>
+        <translation>ocenaudio에 현재 열린 파일</translation>
     </message>
 </context>
 <context>
     <name>QOcenAudioPropertiesDialog</name>
     <message>
         <source>Audio Properties</source>
-        <translation type="unfinished"></translation>
+        <translation>오디오 설정</translation>
     </message>
     <message>
         <source>Artist</source>
-        <translation type="unfinished"></translation>
+        <translation>아티스트</translation>
     </message>
     <message>
         <source>Album</source>
-        <translation type="unfinished"></translation>
+        <translation>앨범</translation>
     </message>
     <message>
         <source>General</source>
-        <translation type="unfinished"></translation>
+        <translation>일반</translation>
     </message>
     <message>
         <source>File Name</source>
-        <translation type="unfinished"></translation>
+        <translation>파일 이름</translation>
     </message>
     <message>
         <source>filename.mp4</source>
-        <translation type="unfinished"></translation>
+        <translation>파일이름.mp4</translation>
     </message>
     <message>
         <source>File Container</source>
-        <translation type="unfinished"></translation>
+        <translation>파일 컨테이너</translation>
     </message>
     <message>
         <source>MP4</source>
-        <translation type="unfinished"></translation>
+        <translation>mp4</translation>
     </message>
     <message>
         <source>Audio Codec</source>
-        <translation type="unfinished"></translation>
+        <translation>오디오 코덱</translation>
     </message>
     <message>
         <source>AAC Low Complexity</source>
-        <translation type="unfinished"></translation>
+        <translation>AAC 낮은 복잡성</translation>
     </message>
     <message>
         <source>Encoded With</source>
-        <translation type="unfinished"></translation>
+        <translation>와 인코드된</translation>
     </message>
     <message>
         <source>LAME3.99</source>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
     <message>
         <source>Bit Rate</source>
