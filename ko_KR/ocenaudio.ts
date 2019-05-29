@@ -3859,230 +3859,230 @@ Channel
     </message>
     <message>
         <source>Are you sure you want to use the “.%1” extension?</source>
-        <translation type="unfinished"></translation>
+        <translation>확실히 ”.%1” 확장을 사용 하시겠습니까?</translation>
     </message>
     <message>
         <source>The default extension for the selected format is “.%1”. If you choose a different extension, you might not be able to open the exported file.</source>
-        <translation type="unfinished"></translation>
+        <translation>선택된 형식의 기본 확장은 ”.%1” 입니다. 다른 확장을 선택하면 내보낸 파일을 열지 못할 수 있습니다.</translation>
     </message>
     <message>
         <source>Keep “.%1”</source>
-        <translation type="unfinished"></translation>
+        <translation> ”.%1” 유지하기</translation>
     </message>
     <message>
         <source>Use “.%1” instead</source>
-        <translation type="unfinished"></translation>
+        <translation> ”.%1” 대신 사용하기</translation>
     </message>
     <message>
         <source>Current file path</source>
-        <translation type="unfinished"></translation>
+        <translation>현재 파일 경로</translation>
     </message>
     <message>
         <source>Last export path</source>
-        <translation type="unfinished"></translation>
+        <translation>지난 외부 경로</translation>
     </message>
 </context>
 <context>
     <name>QOcenFTPDirListDialog</name>
     <message>
         <source>Directory List</source>
-        <translation type="unfinished"></translation>
+        <translation>디렉토리 리스트</translation>
     </message>
     <message>
         <source>Directory</source>
-        <translation type="unfinished"></translation>
+        <translation>디렉토리</translation>
     </message>
     <message>
         <source>/</source>
-        <translation type="unfinished"></translation>
+        <translation>/</translation>
     </message>
     <message>
         <source>data</source>
-        <translation type="unfinished"></translation>
+        <translation>데이터</translation>
     </message>
     <message>
         <source>Selected Path</source>
-        <translation type="unfinished"></translation>
+        <translation>선택된 경로</translation>
     </message>
 </context>
 <context>
     <name>QOcenFTPExportDialog</name>
     <message>
         <source>Export Audio using FTP</source>
-        <translation type="unfinished"></translation>
+        <translation>FTP를 이용해 오디오 내보내기</translation>
     </message>
     <message>
         <source>Ftp Server</source>
-        <translation type="unfinished"></translation>
+        <translation>FTP 서버</translation>
     </message>
     <message>
         <source>Profile Name</source>
-        <translation type="unfinished"></translation>
+        <translation>프로필 이름</translation>
     </message>
     <message>
         <source>Address</source>
-        <translation type="unfinished"></translation>
+        <translation>주소</translation>
     </message>
     <message>
         <source>Port</source>
-        <translation type="unfinished"></translation>
+        <translation>포트</translation>
     </message>
     <message>
         <source>Anonymous Login</source>
-        <translation type="unfinished"></translation>
+        <translation>익명 로그인</translation>
     </message>
     <message>
         <source>Username</source>
-        <translation type="unfinished"></translation>
+        <translation>사용자 이름</translation>
     </message>
     <message>
         <source>Password</source>
-        <translation type="unfinished"></translation>
+        <translation>비밀번호</translation>
     </message>
     <message>
         <source>Server Path</source>
-        <translation type="unfinished"></translation>
+        <translation>서버 경로</translation>
     </message>
     <message>
         <source>...</source>
-        <translation type="unfinished"></translation>
+        <translation>...</translation>
     </message>
     <message>
         <source>File Info</source>
-        <translation type="unfinished"></translation>
+        <translation>파일 정보</translation>
     </message>
     <message>
         <source>Filename</source>
-        <translation type="unfinished"></translation>
+        <translation>파일 이름</translation>
     </message>
     <message>
         <source>File Format</source>
-        <translation type="unfinished"></translation>
+        <translation>파일 형식</translation>
     </message>
     <message>
         <source>Wav PCM (*.wav)</source>
-        <translation type="unfinished"></translation>
+        <translation> Wav PCM (*.wav) </translation>
     </message>
     <message>
         <source>MP3 File Format Franna (*.mp3)</source>
-        <translation type="unfinished"></translation>
+        <translation>MP3 파일 형식 Franna (*.mp3) </translation>
     </message>
     <message>
         <source>Upload only selection</source>
-        <translation type="unfinished"></translation>
+        <translation>선택만 업로드 </translation>
     </message>
     <message>
         <source>Upload</source>
-        <translation type="unfinished"></translation>
+        <translation>업로드</translation>
     </message>
     <message>
         <source>Uploading audio</source>
-        <translation type="unfinished"></translation>
+        <translation>업로드 오디오</translation>
     </message>
     <message>
         <source>Cancel</source>
-        <translation type="unfinished"></translation>
+        <translation>취소</translation>
     </message>
     <message>
         <source>Error</source>
-        <translation type="unfinished"></translation>
+        <translation>오류</translation>
     </message>
     <message>
         <source>The upload process was failed.</source>
-        <translation type="unfinished"></translation>
+        <translation>업로드를 실패 했습니다.</translation>
     </message>
     <message>
         <source>Upload Finished</source>
-        <translation type="unfinished"></translation>
+        <translation>업로드 완료</translation>
     </message>
     <message>
         <source>The file was successfully uploaded to your FTP server.</source>
-        <translation type="unfinished"></translation>
+        <translation>파일을 FTP 서버에 성공적으로 업로드 했습니다. </translation>
     </message>
     <message>
         <source>Warning</source>
-        <translation type="unfinished"></translation>
+        <translation>경고</translation>
     </message>
     <message>
         <source>The file %1 already exists in the FTP server.</source>
-        <translation type="unfinished"></translation>
+        <translation>FTP 서버에 파일이 이미 존재합니다.</translation>
     </message>
 </context>
 <context>
     <name>QOcenFTPExportThread</name>
     <message>
         <source>Connecting to FTP server...</source>
-        <translation type="unfinished"></translation>
+        <translation>FTP 서버에 접속중...</translation>
     </message>
     <message>
         <source>Connected to FTP server</source>
-        <translation type="unfinished"></translation>
+        <translation>FTP 서버에 접속 되었습니다.</translation>
     </message>
     <message>
         <source>Connection refused. Please, check the server address, username and password.</source>
-        <translation type="unfinished"></translation>
+        <translation>연결이 거부되었습니다. 서버이름, 사용자이름, 비밀번호를 확인해 주세요.</translation>
     </message>
     <message>
         <source>Preparing audio file to upload...</source>
-        <translation type="unfinished"></translation>
+        <translation>업로드 할 오디오 파일 준비중...</translation>
     </message>
     <message>
         <source>Fail to prepare file!</source>
-        <translation type="unfinished"></translation>
+        <translation>파일 준비 실패!</translation>
     </message>
     <message>
         <source>Fail to prepare audio file!</source>
-        <translation type="unfinished"></translation>
+        <translation>오디오 파일 준비 실패</translation>
     </message>
     <message>
         <source>Fail to remove existing file!</source>
-        <translation type="unfinished"></translation>
+        <translation>존재하는 파일 지우기 실패!</translation>
     </message>
     <message>
         <source>Uploading audio file...</source>
-        <translation type="unfinished"></translation>
+        <translation>오디오 파일 업로드 중...</translation>
     </message>
     <message>
         <source>Upload finished</source>
-        <translation type="unfinished"></translation>
+        <translation>업로드 완료</translation>
     </message>
     <message>
         <source>Disconnected</source>
-        <translation type="unfinished"></translation>
+        <translation>연결 해제</translation>
     </message>
 </context>
 <context>
     <name>QOcenFTPListThread</name>
     <message>
         <source>Connecting to FTP server...</source>
-        <translation type="unfinished"></translation>
+        <translation>FTP 서버에 연결 중...</translation>
     </message>
     <message>
         <source>Connected to FTP server</source>
-        <translation type="unfinished"></translation>
+        <translation>FTP 서버에 연결 됨</translation>
     </message>
     <message>
         <source>Connection refused. Please, check the server address, username and password.</source>
-        <translation type="unfinished"></translation>
+        <translation>연결이 거부 되었습니다. 서버주소, 사용자 이름, 비밀번호를 확인 해주세요.</translation>
     </message>
     <message>
         <source>Listing...</source>
-        <translation type="unfinished"></translation>
+        <translation>리스트 작성중...</translation>
     </message>
     <message>
         <source>List finished</source>
-        <translation type="unfinished"></translation>
+        <translation>리스트 작성 완료</translation>
     </message>
 </context>
 <context>
     <name>QOcenFormatSamplesDialog</name>
     <message>
         <source>Convert Audio Format</source>
-        <translation type="unfinished"></translation>
+        <translation>오디오 형식 바꾸기</translation>
     </message>
     <message>
         <source>Sample Rate</source>
-        <translation type="unfinished"></translation>
+        <translation>샘플링 레이트</translation>
     </message>
     <message>
         <source>16000</source>
@@ -4090,7 +4090,7 @@ Channel
     </message>
     <message>
         <source>Hz</source>
-        <translation type="unfinished"></translation>
+        <translation>Hz</translation>
     </message>
     <message>
         <source>48000</source>
@@ -4122,50 +4122,50 @@ Channel
     </message>
     <message>
         <source>Channels</source>
-        <translation type="unfinished"></translation>
+        <translation>채널</translation>
     </message>
     <message>
         <source>Mono</source>
-        <translation type="unfinished"></translation>
+        <translation>모노</translation>
     </message>
     <message>
         <source>Stereo</source>
-        <translation type="unfinished"></translation>
+        <translation>스테레오</translation>
     </message>
     <message>
         <source>Swap L/R Channels</source>
-        <translation type="unfinished"></translation>
+        <translation>왼쪽/오른쪽 채널 교체</translation>
     </message>
     <message>
         <source>Left Mix:</source>
-        <translation type="unfinished"></translation>
+        <translation>왼쪽 믹스:</translation>
     </message>
     <message>
         <source>50</source>
-        <translation></translation>
+        <translation>50</translation>
     </message>
     <message>
         <source>%</source>
-        <translation></translation>
+        <translation>%</translation>
     </message>
     <message>
         <source>Right Mix:</source>
-        <translation type="unfinished"></translation>
+        <translation>오른쪽 믹스:</translation>
     </message>
     <message>
         <source>L</source>
-        <translation type="unfinished"></translation>
+        <translatio>왼쪽</translation>
     </message>
     <message>
         <source>R</source>
-        <translation type="unfinished"></translation>
+        <translation>오른쪽</translation>
     </message>
 </context>
 <context>
     <name>QOcenFxDialog</name>
     <message>
         <source>Apply</source>
-        <translation type="unfinished"></translation>
+        <translation>적용하기</translation>
     </message>
     <message>
         <source>Save Preset</source>
