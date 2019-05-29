@@ -3579,35 +3579,35 @@ Channel
     <name>QOcenExportDialog</name>
     <message>
         <source>Export Audio</source>
-        <translation type="unfinished"></translation>
+        <translation>오디오 내보내기</translation>
     </message>
     <message>
         <source>RAW</source>
-        <translation type="unfinished"></translation>
+        <translation>RAW</translation>
     </message>
     <message>
         <source>Data Type:</source>
-        <translation type="unfinished"></translation>
+        <translation>데이터 타입</translation>
     </message>
     <message>
         <source>Precision:</source>
-        <translation type="unfinished"></translation>
+        <translation>정확도</translation>
     </message>
     <message>
         <source>WAV</source>
-        <translation type="unfinished"></translation>
+        <translation>WAV</translation>
     </message>
     <message>
         <source>Audio Format:</source>
-        <translation type="unfinished"></translation>
+        <translation>오디오 형식</translation>
     </message>
     <message>
         <source>CAF</source>
-        <translation type="unfinished"></translation>
+        <translation>CAF</translation>
     </message>
     <message>
         <source>MP3</source>
-        <translation type="unfinished"></translation>
+        <translation>MP3</translation>
     </message>
     <message>
         <source>Use Variable Bit Rate Encoding (VBR)</source>
@@ -3615,111 +3615,111 @@ Channel
     </message>
     <message>
         <source>Quality:</source>
-        <translation type="unfinished"></translation>
+        <translation>음질</translation>
     </message>
     <message>
         <source>Lowest</source>
-        <translation type="unfinished"></translation>
+        <translation>가장 낮음</translation>
     </message>
     <message>
         <source>Low</source>
-        <translation type="unfinished"></translation>
+        <translation>낮음</translation>
     </message>
     <message>
         <source>Medium Low</source>
-        <translation type="unfinished"></translation>
+        <translation>중간 낮음</translation>
     </message>
     <message>
         <source>Medium</source>
-        <translation type="unfinished"></translation>
+        <translation>중간</translation>
     </message>
     <message>
         <source>Medium High</source>
-        <translation type="unfinished"></translation>
+        <translation>중간 높음</translation>
     </message>
     <message>
         <source>High</source>
-        <translation type="unfinished"></translation>
+        <translation>높음</translation>
     </message>
     <message>
         <source>Highest</source>
-        <translation type="unfinished"></translation>
+        <translation>가장 높음</translation>
     </message>
     <message>
         <source>Minimum Bit Rate:</source>
-        <translation type="unfinished"></translation>
+        <translation>최소 비트 레이트:</translation>
     </message>
     <message>
         <source>16 kbps</source>
-        <translation type="unfinished"></translation>
+        <translation>16 kbps</translation>
     </message>
     <message>
         <source>24 kbps</source>
-        <translation type="unfinished"></translation>
+        <translation>24 kbps</translation>
     </message>
     <message>
         <source>32 kbps</source>
-        <translation type="unfinished"></translation>
+        <translation>32 kbps</translation>
     </message>
     <message>
         <source>40 kbps</source>
-        <translation type="unfinished"></translation>
+        <translation>40 kbps</translation>
     </message>
     <message>
         <source>48 kbps</source>
-        <translation type="unfinished"></translation>
+        <translation>48 kbps</translation>
     </message>
     <message>
         <source>56 kbps</source>
-        <translation type="unfinished"></translation>
+        <translation>56 kbps</translation>
     </message>
     <message>
         <source>64 kbps</source>
-        <translation type="unfinished"></translation>
+        <translation>64 kbps</translation>
     </message>
     <message>
         <source>80 kbps</source>
-        <translation type="unfinished"></translation>
+        <translation>80 kbps</translation>
     </message>
     <message>
         <source>96 kbps</source>
-        <translation type="unfinished"></translation>
+        <translation>96 kbps</translation>
     </message>
     <message>
         <source>112 kbps</source>
-        <translation type="unfinished"></translation>
+        <translation>112 kbps</translation>
     </message>
     <message>
         <source>128 kbps</source>
-        <translation type="unfinished"></translation>
+        <translation>128 kbps</translation>
     </message>
     <message>
         <source>160 kbps</source>
-        <translation type="unfinished"></translation>
+        <translation>160 kbps</translation>
     </message>
     <message>
         <source>192 kbps</source>
-        <translation type="unfinished"></translation>
+        <translation>192 kbps</translation>
     </message>
     <message>
         <source>224 kbps</source>
-        <translation type="unfinished"></translation>
+        <translation>224 kbps</translation>
     </message>
     <message>
         <source>256 kbps</source>
-        <translation type="unfinished"></translation>
+        <translation>256 kbps</translation>
     </message>
     <message>
         <source>320 kbps</source>
-        <translation type="unfinished"></translation>
+        <translation>320 kbps</translation>
     </message>
     <message>
         <source>Stereo Mode:</source>
-        <translation type="unfinished"></translation>
+        <translation>스테레오 모드:</translation>
     </message>
     <message>
         <source>Normal</source>
-        <translation type="unfinished"></translation>
+        <translation>일반</translation>
     </message>
     <message>
         <source>Joint Stereo</source>
@@ -3727,15 +3727,15 @@ Channel
     </message>
     <message>
         <source>MP4</source>
-        <translation type="unfinished"></translation>
+        <translation>MP4</translation>
     </message>
     <message>
         <source>Audio Compressor:</source>
-        <translation type="unfinished"></translation>
+        <translation>작곡가:</translation>
     </message>
     <message>
         <source>AAC - Advanced Audio Coding</source>
-        <translation type="unfinished"></translation>
+        <translation>AAC - 나은 오디오 코딩</translation>
     </message>
     <message>
         <source>ALAC - Apple Lossless Audio Codec</source>
@@ -3771,67 +3771,67 @@ Channel
     </message>
     <message>
         <source>Maximum Bit Rate:</source>
-        <translation type="unfinished"></translation>
+        <translation>최대 비트 레이트</translation>
     </message>
     <message>
         <source>Others</source>
-        <translation type="unfinished"></translation>
+        <translation>이 외</translation>
     </message>
     <message>
         <source>File Format:</source>
-        <translation type="unfinished"></translation>
+        <translation>파일 형식</translation>
     </message>
     <message>
         <source>FLAC</source>
-        <translation type="unfinished"></translation>
+        <translation>FLAC</translation>
     </message>
     <message>
         <source>Filename</source>
-        <translation type="unfinished"></translation>
+        <translation>파일 이름</translation>
     </message>
     <message>
-        <source>...</source>
+        <source>...</source>ㄹ
         <translation></translation>
-    </message>
+    </message르
     <message>
         <source>Save each selection to a separate file</source>
-        <translation type="unfinished"></translation>
+        <translation>각 선택을 분리해서 저장</translation>
     </message>
     <message>
         <source>Load exported file</source>
-        <translation type="unfinished"></translation>
+        <translation>외부 파일 불러오기</translation>
     </message>
     <message>
         <source>%1 kbps</source>
-        <translation type="unfinished"></translation>
+        <translation>%1 kbps</translation>
     </message>
     <message>
         <source>Save each %1 to a separate file</source>
-        <translation type="unfinished"></translation>
+        <translation>각 %1 분리해서 저장</translation>
     </message>
     <message>
         <source>Export Audio As</source>
-        <translation type="unfinished"></translation>
+        <translation>다른이름으로 내보내기</translation>
     </message>
     <message>
         <source>Question</source>
-        <translation type="unfinished"></translation>
+        <translation>질문</translation>
     </message>
     <message>
         <source>“%1” already exists. Do you want to replace it?</source>
-        <translation type="unfinished"></translation>
+        <translation>”%1” 이 이미 존재합니다. 대체 하시겠습니까?</translation>
     </message>
     <message>
         <source>A audio file with the same name already exists in the selected folder. Replacing it will overwrite its current contents.</source>
-        <translation type="unfinished"></translation>
+        <translation>선택된 파일에 같은 이름의 파일이 존재합니다. 대체하시면 현재 파일을 덮어 씁니다.</translation>
     </message>
     <message>
         <source>Replace</source>
-        <translation type="unfinished"></translation>
+        <translation>대체</translation>
     </message>
     <message>
         <source>Cancel</source>
-        <translation type="unfinished"></translation>
+        <translation>취소</translation>
     </message>
     <message>
         <source>Resolution:</source>
@@ -3839,7 +3839,7 @@ Channel
     </message>
     <message>
         <source>%1 bits</source>
-        <translation type="unfinished"></translation>
+        <translation>%1 비트</translation>
     </message>
     <message>
         <source>Dithering:</source>
@@ -3855,7 +3855,7 @@ Channel
     </message>
     <message>
         <source>%1</source>
-        <translation type="unfinished"></translation>
+        <translation>%1</translation>
     </message>
     <message>
         <source>Are you sure you want to use the “.%1” extension?</source>
