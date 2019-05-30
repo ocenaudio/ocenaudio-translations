@@ -4169,122 +4169,122 @@ Channel
     </message>
     <message>
         <source>Save Preset</source>
-        <translation type="unfinished"></translation>
+        <translation>사전설정 저장</translation>
     </message>
     <message>
         <source>Manage Presets</source>
-        <translation type="unfinished"></translation>
+        <translation>사전설정 관리</translation>
     </message>
     <message>
         <source>Playback Loop</source>
-        <translation type="unfinished"></translation>
+        <translation>재생 반복</translation>
     </message>
     <message>
         <source>Default Settings</source>
-        <translation type="unfinished"></translation>
+        <translation>기본 설정</translation>
     </message>
     <message>
         <source>Last Used Settings</source>
-        <translation type="unfinished"></translation>
+        <translation>마지막 사용된 설정</translation>
     </message>
     <message>
         <source>Last Used Settings in this file</source>
-        <translation type="unfinished"></translation>
+        <translation>이 파일에서 마지막 사용된 설정</translation>
     </message>
     <message>
         <source>Built-in Presets</source>
-        <translation type="unfinished"></translation>
+        <translation>사전설정 내재하기</translation>
     </message>
     <message>
         <source>Saved Presets</source>
-        <translation type="unfinished"></translation>
+        <translation>저장된 사전설정</translation>
     </message>
     <message>
         <source>Save Preset As</source>
-        <translation type="unfinished"></translation>
+        <translation>다른이름으로 사전설정 저장하기</translation>
     </message>
     <message>
         <source>Preset Name</source>
-        <translation type="unfinished"></translation>
+        <translation>사전설정 이름</translation>
     </message>
     <message>
         <source>The name &quot;%1&quot; is already taken.</source>
-        <translation type="unfinished"></translation>
+        <translation>이 이름 &quot;%1&quot; 의 설정이 이미 존재합니다.</translation>
     </message>
     <message>
         <source>Do you want to choose another name or replace the previous saved preset?</source>
-        <translation type="unfinished"></translation>
+        <translation>다른 이름을 사용하시겠습니까? 아니면 이전에 저장된 설정으로 대체 하시겠습니까?</translation>
     </message>
     <message>
         <source>Replace</source>
-        <translation type="unfinished"></translation>
+        <translation>대체하다.</translation>
     </message>
     <message>
         <source>Choose Another Name</source>
-        <translation type="unfinished"></translation>
+        <translation>다른 이름 사용</translation>
     </message>
     <message>
         <source>Playback Effect Preview</source>
-        <translation type="unfinished"></translation>
+        <translation>재생효과 미리보기</translation>
     </message>
     <message>
         <source>Turn On Effect Bypass</source>
-        <translation type="unfinished"></translation>
+        <translation>Bypass 효과 켜기</translation>
     </message>
     <message>
         <source>Show Waveform</source>
-        <translation type="unfinished"></translation>
+        <translation>파형 보기</translation>
     </message>
     <message>
         <source>Hide Waveform</source>
-        <translation type="unfinished"></translation>
+        <translation>파형 숨기기</translation>
     </message>
     <message>
         <source>Turn Off Effect Bypass</source>
-        <translation type="unfinished"></translation>
+        <translation>Bypass 효과 끄기</translation>
     </message>
     <message>
         <source>Stop Effect Preview</source>
-        <translation type="unfinished"></translation>
+        <translation>효과 미리보기 멈춤</translation>
     </message>
 </context>
 <context>
     <name>QOcenFxManagePresetDialog</name>
     <message>
         <source>Manage Presets</source>
-        <translation type="unfinished"></translation>
+        <translation>사전 설정 관리하기</translation>
     </message>
     <message>
         <source>Current Setting (before open preset manager)</source>
-        <translation type="unfinished"></translation>
+        <translation>현재 설정(사전설정 관리자 열기 전)</translation>
     </message>
     <message>
         <source>Setting 1</source>
-        <translation type="unfinished"></translation>
+        <translation>설정 1</translation>
     </message>
     <message>
         <source>Setting 2</source>
-        <translation type="unfinished"></translation>
+        <translation>설정 2</translation>
     </message>
     <message>
         <source>%1 Preset Manager</source>
-        <translation type="unfinished"></translation>
+        <translation>%1 사전설정 관리자</translation>
     </message>
     <message>
         <source>Current Preset (user&apos;s changes)</source>
-        <translation type="unfinished"></translation>
+        <translation>현재 사전설정 (user&apos;s changes )</translation>
     </message>
     <message>
         <source>Rename Preset</source>
-        <translation type="unfinished"></translation>
+        <translation>사전설정 이름 변경</translation>
     </message>
     <message>
         <source>The name &quot;%1&quot; is already taken.</source>
-        <translation type="unfinished"></translation>
+        <translation>이  이름 &quot;%1&quot; 의 설정은 이미 존재합니다.</translation>
     </message>
     <message>
         <source>Please choose another name.</source>
-        <translation type="unfinished"></translation>
+        <translation>다른 이름을 사용하세요.</translation>
     </message>
 </context>
 <context>
@@ -4295,7 +4295,7 @@ Channel
     </message>
     <message>
         <source>Volume</source>
-        <translation type="unfinished"></translation>
+        <translation>소리 크기</translation>
     </message>
     <message>
         <source>100</source>
@@ -4303,192 +4303,192 @@ Channel
     </message>
     <message>
         <source>Invert</source>
-        <translation type="unfinished"></translation>
+        <translation>뒤집다.</translation>
     </message>
     <message>
         <source>Left</source>
-        <translation type="unfinished"></translation>
+        <translation>왼쪽</translation>
     </message>
     <message>
         <source>Right</source>
-        <translation type="unfinished"></translation>
+        <translation>오른쪽</translation>
     </message>
     <message>
         <source>Lock Left/Right Channel</source>
-        <translation type="unfinished"></translation>
+        <translation>왼쪽/오른쪽 채널 잠그기</translation>
     </message>
     <message>
         <source>Paste Operation</source>
-        <translation type="unfinished"></translation>
+        <translation>동작 붙여넣기</translation>
     </message>
     <message>
         <source>Insert</source>
-        <translation type="unfinished"></translation>
+        <translation>뒤집다.</translation>
     </message>
     <message>
         <source>Overlap (Mix)</source>
-        <translation type="unfinished"></translation>
+        <translation>겹침 (Mix)</translation>
     </message>
     <message>
         <source>Replace</source>
-        <translation type="unfinished"></translation>
+        <translation>대체하다.</translation>
     </message>
     <message>
         <source>Signal Source</source>
-        <translation type="unfinished"></translation>
+        <translation>신호 자료</translation>
     </message>
     <message>
         <source>From Clipboard</source>
-        <translation type="unfinished"></translation>
+        <translation>클립보드에서</translation>
     </message>
     <message>
         <source>From File</source>
-        <translation type="unfinished"></translation>
+        <translation>파일에서</translation>
     </message>
     <message>
         <source>From Generator</source>
-        <translation type="unfinished"></translation>
+        <translation>생성자에서</translation>
     </message>
 </context>
 <context>
     <name>QOcenNewAudioDialog</name>
     <message>
         <source>New Audio ...</source>
-        <translation type="unfinished"></translation>
+        <translation>새로운 오디오...</translation>
     </message>
     <message>
         <source>Sample Rate</source>
-        <translation type="unfinished"></translation>
+        <translation>샘플링 레이트</translation>
     </message>
     <message>
         <source>Other</source>
-        <translation type="unfinished"></translation>
+        <translation>다른</translation>
     </message>
     <message>
         <source>8 kHz</source>
-        <translation type="unfinished"></translation>
+        <translation>8 kHz</translation>
     </message>
     <message>
         <source>11025 Hz</source>
-        <translation type="unfinished"></translation>
+        <translation>11025 Hz</translation>
     </message>
     <message>
         <source>16 kHz</source>
-        <translation type="unfinished"></translation>
+        <translation>16 kHz</translation>
     </message>
     <message>
         <source>Custom</source>
-        <translation type="unfinished"></translation>
+        <translation>사용자 설정의</translation>
     </message>
     <message>
         <source>Channels</source>
-        <translation type="unfinished"></translation>
+        <translation>채널</translation>
     </message>
     <message>
         <source>Mono</source>
-        <translation type="unfinished"></translation>
+        <translation>모노</translation>
     </message>
     <message>
         <source>Stereo</source>
-        <translation type="unfinished"></translation>
+        <translation>스테레오</translation>
     </message>
     <message>
         <source>Multichannel</source>
-        <translation type="unfinished"></translation>
+        <translation>다중 채널</translation>
     </message>
     <message>
         <source>3 channels</source>
-        <translation type="unfinished"></translation>
+        <translation>3 채널</translation>
     </message>
     <message>
         <source>4 channels</source>
-        <translation type="unfinished"></translation>
+        <translation>4 채널</translation>
     </message>
     <message>
         <source>5 channels</source>
-        <translation type="unfinished"></translation>
+        <translation>5 채널</translation>
     </message>
     <message>
         <source>6 channels</source>
-        <translation type="unfinished"></translation>
+        <translation>6 채널</translation>
     </message>
     <message>
         <source>7 channels</source>
-        <translation type="unfinished"></translation>
+        <translation>7 채널</translation>
     </message>
     <message>
         <source>8 channels</source>
-        <translation type="unfinished"></translation>
+        <translation>8 채널</translation>
     </message>
     <message>
         <source>44100 Hz</source>
-        <translation type="unfinished"></translation>
+        <translation>44100 Hz</translation>
     </message>
     <message>
         <source>48000 Hz</source>
-        <translation type="unfinished"></translation>
+        <translation>48000 Hz</translation>
     </message>
     <message>
         <source>Resolution</source>
-        <translation type="unfinished"></translation>
+        <translation>해상도</translation>
     </message>
     <message>
         <source>16 bits</source>
-        <translation type="unfinished"></translation>
+        <translation>16 bits</translation>
     </message>
     <message>
         <source>24 bits</source>
-        <translation type="unfinished"></translation>
+        <translation>24 bits</translation>
     </message>
     <message>
         <source>32 bits</source>
-        <translation type="unfinished"></translation>
+        <translation>32 bits</translation>
     </message>
 </context>
 <context>
     <name>QOcenNewAudioDialog::Data</name>
     <message>
         <source>Custom</source>
-        <translation type="unfinished"></translation>
+        <translation>사용자 설정의</translation>
     </message>
 </context>
 <context>
     <name>QOcenPluginsPrefs</name>
     <message>
         <source>Form</source>
-        <translation type="unfinished"></translation>
+        <translation>형식</translation>
     </message>
     <message>
         <source>Audio Units Preferences</source>
-        <translation type="unfinished"></translation>
+        <translation>오디오 구성 환경설정</translation>
     </message>
     <message>
         <source>Supports Audio Units (requires restart)</source>
-        <translation type="unfinished"></translation>
+        <translation>오디오 구성 지원</translation>
     </message>
     <message>
         <source>VST Plugins Preferences</source>
-        <translation type="unfinished"></translation>
+        <translation>VST 플러그인 환경설정</translation>
     </message>
     <message>
         <source>Supports VST Plugins (requires restart)</source>
-        <translation type="unfinished"></translation>
+        <translation>VST 플러그인 지원</translation>
     </message>
     <message>
         <source>Add VST Path</source>
-        <translation type="unfinished"></translation>
+        <translation>VST 경로 추가</translation>
     </message>
     <message>
         <source>Add a new path to search for VST effects</source>
-        <translation type="unfinished"></translation>
+        <translation>VST 효과 탐색을 위한 새로운 경로 추가</translation>
     </message>
     <message>
         <source>Remove VST Path</source>
-        <translation type="unfinished"></translation>
+        <translation>VST 경로 지우기</translation>
     </message>
     <message>
         <source>Remove path from VST path list</source>
-        <translation type="unfinished"></translation>
+        <translation>VST 경로 리스트에서 경로 지우기</translation>
     </message>
     <message>
         <source>Scanning Plugins</source>
@@ -4496,15 +4496,15 @@ Channel
     </message>
     <message>
         <source>Refresh VST Effects</source>
-        <translation type="unfinished"></translation>
+        <translation>VST 효과 되돌리기</translation>
     </message>
     <message>
         <source>Search for VST effects in the selected path</source>
-        <translation type="unfinished"></translation>
+        <translation>선택된 경로에서 VST 효과 찾기</translation>
     </message>
     <message>
         <source>Select Directory</source>
-        <translation type="unfinished"></translation>
+        <translation>디렉토리 선택</translation>
     </message>
     <message>
         <source>Show in Finder</source>
