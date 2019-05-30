@@ -4512,22 +4512,22 @@ Channel
     </message>
     <message>
         <source>Show Plugins List...</source>
-        <translation type="unfinished"></translation>
+        <translation>프러그인 리스트 보기</translation>
     </message>
     <message>
         <source>Remove Path from Search</source>
-        <translation type="unfinished"></translation>
+        <translation>검색해서 경로 지우기</translation>
     </message>
     <message>
         <source>Path not Found</source>
-        <translation type="unfinished"></translation>
+        <translation>경로를 찾을 수 없습니다.</translation>
     </message>
 </context>
 <context>
     <name>QOcenRecentMenu</name>
     <message>
         <source>Recent Files</source>
-        <translation type="unfinished"></translation>
+        <translation>최근 연 파일</translation>
     </message>
     <message>
         <source>Clear History</source>
@@ -4535,169 +4535,169 @@ Channel
     </message>
     <message>
         <source>Open both streams in this file</source>
-        <translation type="unfinished"></translation>
+        <translation>이 파일의 두 스트림 열기</translation>
     </message>
     <message>
         <source>Open all streams in this file</source>
-        <translation type="unfinished"></translation>
+        <translation>이 파일의 모든 스트림 열기</translation>
     </message>
     <message>
         <source>Open all files in this directory</source>
-        <translation type="unfinished"></translation>
+        <translation>이 디렉토리의 모든 파일 열기</translation>
     </message>
     <message>
         <source>Open both files in this %1</source>
-        <translation type="unfinished"></translation>
+        <translation>이 %1 에서 두 파일 열기</translation>
     </message>
     <message>
         <source>Open all %1 files in this %2</source>
-        <translation type="unfinished"></translation>
+        <translation>이 %2에서 모든 %1 열기 </translation>
     </message>
     <message>
         <source>and %1 other files</source>
-        <translation type="unfinished"></translation>
+        <translation>와 %1 다른 파일</translation>
     </message>
 </context>
 <context>
     <name>QOcenSelectStorageDialog</name>
     <message>
         <source>Temporary Storage Configuration</source>
-        <translation type="unfinished"></translation>
+        <translation>임시 저장소 환경설정</translation>
     </message>
     <message>
         <source>Select a volume for temporary storage:</source>
-        <translation type="unfinished"></translation>
+        <translation>임시 저장소를 위한 볼륨 선택</translation>
     </message>
 </context>
 <context>
     <name>QOcenSoundMixerConfigDialog</name>
     <message>
         <source>Sound Mixer Configuration</source>
-        <translation type="unfinished"></translation>
+        <translation>사운드 믹서 환경설정</translation>
     </message>
     <message>
         <source>Playback</source>
-        <translation type="unfinished"></translation>
+        <translation>재생</translation>
     </message>
     <message>
         <source>1 Channel (Mono)</source>
-        <translation type="unfinished"></translation>
+        <translation>1 채널 (모노)</translation>
     </message>
     <message>
         <source> ➨ </source>
-        <translation type="unfinished"></translation>
+        <translation> ➨ </translation>
     </message>
     <message>
         <source>Built-In Output (2 Channels)</source>
-        <translation type="unfinished"></translation>
+        <translation>출력 값 내재하기 ( 2 채널)</translation>
     </message>
     <message>
         <source>Built-In Input (2 Channels)</source>
-        <translation type="unfinished"></translation>
+        <translatio>입력 값 내재하기 (2 채널)</translation>
     </message>
     <message>
         <source>1 channel (mono)</source>
-        <translation type="unfinished"></translation>
+        <translation>1 채널 (모노)</translation>
     </message>
     <message>
         <source>2 channels (stereo)</source>
-        <translation type="unfinished"></translation>
+        <translation>2채널 (스테레오)</translation>
     </message>
     <message>
         <source>%1 channels</source>
-        <translation type="unfinished"></translation>
+        <translation>%1 채널</translation>
     </message>
     <message>
         <source>Input #%1 </source>
-        <translation type="unfinished"></translation>
+        <translation>입력 값 #%1</translation>
     </message>
     <message>
         <source>Channel
 #%1</source>
-        <translation type="unfinished"></translation>
+        <translation>채널 #%1</translation>
     </message>
     <message>
         <source>Channel #%1 </source>
-        <translation type="unfinished"></translation>
+        <translation>채널 #%1 </translation>
     </message>
     <message>
         <source>Output
 #%1</source>
-        <translation type="unfinished"></translation>
+        <translation>출력 값#%1</translation>
     </message>
     <message>
         <source>No recording devices found!</source>
-        <translation type="unfinished"></translation>
+        <translation>녹음 할 기기를 찾지 못했습니다.</translation>
     </message>
     <message>
         <source>No playback devices found!</source>
-        <translation type="unfinished"></translation>
+        <translation>재생할 기기를 찾지 못했습니다.</translation>
     </message>
     <message>
         <source>Record</source>
-        <translation type="unfinished"></translation>
+        <translation>녹음</translation>
     </message>
 </context>
 <context>
     <name>QOcenUrlDialog</name>
     <message>
         <source>Dialog</source>
-        <translation type="unfinished"></translation>
+        <translation>다이얼로그</translation>
     </message>
     <message>
         <source>Enter the URL or path to a sound file on the Internet, your computer,
 or your network that you want to open:</source>
-        <translation type="unfinished"></translation>
+        <translation>인터넷상의 사운드 파일, 컴퓨터 혹은 열기를 원하는 네트워크에 URL 혹은 경로를 입력 하세요. </translation>
     </message>
 </context>
 <context>
     <name>QOcenVSTWidget</name>
     <message>
         <source>VST Effect</source>
-        <translation type="unfinished"></translation>
+        <translation>VST 효과</translation>
     </message>
     <message>
         <source>Applying %1|%1</source>
-        <translation type="unfinished"></translation>
+        <translation>%1|%1 적용</translation>
     </message>
     <message>
         <source>Plugin crashed</source>
-        <translation type="unfinished"></translation>
+        <translation>플러그인 충돌</translation>
     </message>
     <message>
         <source>The plugin %1 crashed and will be finalized.</source>
-        <translation type="unfinished"></translation>
+        <translation>%1 플러그인이 충돌하여 종료됩니다.</translation>
     </message>
     <message>
         <source>Ocenaudio was not affected by this crash and will continue running normally.</source>
-        <translation type="unfinished"></translation>
+        <translation>ocenaudio는 이 충돌에 영향받지 않아 정상적으로 실행됩니다. </translation>
     </message>
     <message>
         <source>VST Effect:</source>
-        <translation type="unfinished"></translation>
+        <translation>VST 효과:</translation>
     </message>
     <message>
         <source>Manufacturer:</source>
-        <translation type="unfinished"></translation>
+        <translation>제조사:</translation>
     </message>
 </context>
 <context>
     <name>QOcenVstList</name>
     <message>
         <source>Dialog</source>
-        <translation type="unfinished"></translation>
+        <translation>다이얼로그</translation>
     </message>
     <message>
         <source>List of VST Plugins</source>
-        <translation type="unfinished"></translation>
+        <translation>VST 플러그인 리스트</translation>
     </message>
     <message>
         <source>/Library/Audio/plugins/VST/delay.vst</source>
-        <translation type="unfinished"></translation>
+        <translation> /Library/Audio/plugins/VST/delay.vst </translation>
     </message>
     <message>
         <source>/Library/Audio/plugins/VST/sampler.vst (crashed)</source>
-        <translation type="unfinished"></translation>
+        <translation> /Library/Audio/plugins/VST/sampler.vst (충돌된)</translation>
     </message>
     <message>
         <source>Enable All</source>
@@ -4713,86 +4713,86 @@ or your network that you want to open:</source>
     </message>
     <message>
         <source>Crashed</source>
-        <translation type="unfinished"></translation>
+        <translation>충돌된</translation>
     </message>
     <message>
         <source>Duplicated / Older Version</source>
-        <translation type="unfinished"></translation>
+        <translation>복제된 / 이전 버젼</translation>
     </message>
     <message>
         <source>Unsupported</source>
-        <translation type="unfinished"></translation>
+        <translation>지원되지 않는</translation>
     </message>
     <message>
         <source>Not Loaded</source>
-        <translation type="unfinished"></translation>
+        <translation>로드 되지 않은</translation>
     </message>
 </context>
 <context>
     <name>QOpenFilesView</name>
     <message>
         <source>Repeat %1 in Selected Files</source>
-        <translation type="unfinished"></translation>
+        <translation>선택된 파일에서 %1 반복</translation>
     </message>
     <message>
         <source>Extract %1 Channel</source>
-        <translation type="unfinished"></translation>
+        <translation>%1 채널 추출하기</translation>
     </message>
     <message>
         <source>Play</source>
-        <translation type="unfinished"></translation>
+        <translation>재생</translation>
     </message>
     <message>
         <source>Save</source>
-        <translation type="unfinished"></translation>
+        <translation>저장</translation>
     </message>
     <message>
         <source>Close selected Files</source>
-        <translation type="unfinished"></translation>
+        <translation>선택된 파일 닫기</translation>
     </message>
     <message>
         <source>Save Selected Files</source>
-        <translation type="unfinished"></translation>
+        <translation>선택된 파일 저장</translation>
     </message>
     <message>
         <source>Join</source>
-        <translation type="unfinished"></translation>
+        <translation>들어가기</translation>
     </message>
     <message>
         <source>Merge...</source>
-        <translation type="unfinished"></translation>
+        <translation>합치기...</translation>
     </message>
     <message>
         <source>Compare</source>
-        <translation type="unfinished"></translation>
+        <translation>비교하기</translation>
     </message>
     <message>
         <source>Compare...</source>
-        <translation type="unfinished"></translation>
+        <translation>비교하기...</translation>
     </message>
     <message>
         <source>Swap Channels</source>
-        <translation type="unfinished"></translation>
+        <translation>채널 변경</translation>
     </message>
     <message>
         <source>Convert Sample Type...</source>
-        <translation type="unfinished"></translation>
+        <translation>샘플 타입 바꾸기</translation>
     </message>
     <message>
         <source>Repeat Effect</source>
-        <translation type="unfinished"></translation>
+        <translation>효과 반복</translation>
     </message>
     <message>
         <source>Split to Mono Files</source>
-        <translation type="unfinished"></translation>
+        <translation>모노 파일로 분리하기</translation>
     </message>
     <message>
         <source>Combine to Stereo</source>
-        <translation type="unfinished"></translation>
+        <translation >스테레오에 더하기</translation>
     </message>
     <message>
         <source>Extract Channel %1</source>
-        <translation type="unfinished"></translation>
+        <translation>채널 %1 추출하기</translation>
     </message>
     <message>
         <source>Downmix to a Stereo File</source>
