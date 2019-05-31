@@ -4804,95 +4804,95 @@ or your network that you want to open:</source>
     </message>
     <message>
         <source>Get Info</source>
-        <translation type="unfinished"></translation>
+        <translation>정보 얻기</translation>
     </message>
     <message>
         <source>View File</source>
-        <translation type="unfinished"></translation>
+        <translation>파일 살펴보기</translation>
     </message>
     <message>
         <source>Paste to New</source>
-        <translation type="unfinished"></translation>
+        <translation>새롭게 붙여넣기</translation>
     </message>
     <message>
         <source>Save As...</source>
-        <translation type="unfinished"></translation>
+        <translation>다른이름으로 저장</translation>
     </message>
     <message>
         <source>Select All</source>
-        <translation type="unfinished"></translation>
+        <translation>모두 선택</translation>
     </message>
     <message>
         <source>Close File</source>
-        <translation type="unfinished"></translation>
+        <translation>파일 닫기</translation>
     </message>
     <message>
         <source>Append Multiple Files</source>
-        <translation type="unfinished"></translation>
+        <translation>여러 파일 더하기</translation>
     </message>
     <message>
         <source>You are about to append %1 files in the selected audio. Are you sure you want to proceed?</source>
-        <translation type="unfinished"></translation>
+        <translation>선택된 오디오에 %1 파일을 더하려 합니다. 계속 진행 하시겠까?</translation>
     </message>
     <message>
         <source>This operation may take a long time.</source>
-        <translation type="unfinished"></translation>
+        <translation>이 작업은 오래 걸릴 수 있습니다.</translation>
     </message>
     <message>
         <source>Confirm</source>
-        <translation type="unfinished"></translation>
+        <translation>확인</translation>
     </message>
     <message>
         <source>Cancel</source>
-        <translation type="unfinished"></translation>
+        <translation>취소</translation>
     </message>
     <message>
         <source>Appending File</source>
-        <translation type="unfinished"></translation>
+        <translation>파일 더하는 중</translation>
     </message>
     <message>
         <source>Append File</source>
-        <translation type="unfinished"></translation>
+        <translation>파일 더하기</translation>
     </message>
     <message>
         <source>Information</source>
-        <translation type="unfinished"></translation>
+        <translation>정보</translation>
     </message>
     <message>
         <source>Some files are still under processing!</source>
-        <translation type="unfinished"></translation>
+        <translation>몇몇 파일들은 아직 진행중에 있습니다.</translation>
     </message>
     <message>
         <source>You must wait for the end of processing to proceed.</source>
-        <translation type="unfinished"></translation>
+        <translation>작업을 마칠 때까지 기다려야 합니다.</translation>
     </message>
     <message>
         <source>Convert to Mono</source>
-        <translation type="unfinished"></translation>
+        <translation>모노로 바꾸기</translation>
     </message>
     <message>
         <source>Sort</source>
-        <translation type="unfinished"></translation>
+        <translation>분류</translation>
     </message>
     <message>
         <source>Disabled</source>
-        <translation type="unfinished"></translation>
+        <translation>불가한</translation>
     </message>
     <message>
         <source>By Display Name</source>
-        <translation type="unfinished"></translation>
+        <translation>디스플레이 이름에 의해</translation>
     </message>
     <message>
         <source>By Song Name</source>
-        <translation type="unfinished"></translation>
+        <translation>노래 제목에 의해</translation>
     </message>
     <message>
         <source>By Artist Name</source>
-        <translation type="unfinished"></translation>
+        <translation>아티스트 이름에 의해</translation>
     </message>
     <message>
         <source>By Album Name</source>
-        <translation type="unfinished"></translation>
+        <translation>앨범 이름에 의해</translation>
     </message>
     <message>
         <source>By Duration</source>
@@ -4912,7 +4912,7 @@ or your network that you want to open:</source>
     </message>
     <message>
         <source>Stop</source>
-        <translation type="unfinished"></translation>
+        <translation>멈춤</translation>
     </message>
     <message>
         <source>View/Edit</source>
@@ -4924,46 +4924,46 @@ or your network that you want to open:</source>
     </message>
     <message>
         <source>Close</source>
-        <translation type="unfinished"></translation>
+        <translation>닫기</translation>
     </message>
 </context>
 <context>
     <name>QSignalGeneratorDialog</name>
     <message>
         <source>Signal Generator</source>
-        <translation type="unfinished"></translation>
+        <translation>신호 생성자</translation>
     </message>
     <message>
         <source>Noise</source>
-        <translation type="unfinished"></translation>
+        <translation>노이즈</translation>
     </message>
     <message>
         <source>Color</source>
-        <translation type="unfinished"></translation>
+        <translation>색깔</translation>
     </message>
     <message>
         <source>Black (silence)</source>
-        <translation type="unfinished"></translation>
+        <translation>검정색(연한)</translation>
     </message>
     <message>
         <source>White</source>
-        <translation type="unfinished"></translation>
+        <translation>흰색</translation>
     </message>
     <message>
         <source>Pink</source>
-        <translation type="unfinished"></translation>
+        <translation>분홍색</translation>
     </message>
     <message>
         <source>Brown</source>
-        <translation type="unfinished"></translation>
+        <translation>갈색</translation>
     </message>
     <message>
         <source>Distribution</source>
-        <translation type="unfinished"></translation>
+        <translation>분배</translation>
     </message>
     <message>
         <source>Gaussian</source>
-        <translation type="unfinished"></translation>
+        <translation>가우시안</translation>
     </message>
     <message>
         <source>Uniform</source>
@@ -4979,7 +4979,7 @@ or your network that you want to open:</source>
     </message>
     <message>
         <source>Start</source>
-        <translation type="unfinished"></translation>
+        <translation>시작</translation>
     </message>
     <message>
         <source>300</source>
@@ -4987,19 +4987,19 @@ or your network that you want to open:</source>
     </message>
     <message>
         <source>Hz</source>
-        <translation type="unfinished"></translation>
+        <translation>Hz</translation>
     </message>
     <message>
         <source>End</source>
-        <translation type="unfinished"></translation>
+        <translation>끝</translation>
     </message>
     <message>
         <source>Options</source>
-        <translation type="unfinished"></translation>
+        <translation>옵션</translation>
     </message>
     <message>
         <source>Flavor</source>
-        <translation type="unfinished"></translation>
+        <translation>요소</translation>
     </message>
     <message>
         <source>Sine</source>
@@ -5023,79 +5023,79 @@ or your network that you want to open:</source>
     </message>
     <message>
         <source>Fade-in and Fade-out borders</source>
-        <translation type="unfinished"></translation>
+        <translation>경계선 희미해지고 선명해지게 하기</translation>
     </message>
     <message>
         <source>DTMF</source>
-        <translation type="unfinished"></translation>
+        <translation>DTMF</translation>
     </message>
     <message>
         <source>DTMF Codes</source>
-        <translation type="unfinished"></translation>
+        <translation>DTMF 코드</translation>
     </message>
     <message>
         <source>1</source>
-        <translation type="unfinished"></translation>
+        <translation>1</translation>
     </message>
     <message>
         <source>2</source>
-        <translation type="unfinished"></translation>
+        <translation>2</translation>
     </message>
     <message>
         <source>3</source>
-        <translation type="unfinished"></translation>
+        <translation>3</translation>
     </message>
     <message>
         <source>A</source>
-        <translation type="unfinished"></translation>
+        <translation>A</translation>
     </message>
     <message>
         <source>4</source>
-        <translation type="unfinished"></translation>
+        <translation>4</translation>
     </message>
     <message>
         <source>5</source>
-        <translation type="unfinished"></translation>
+        <translation>5</translation>
     </message>
     <message>
         <source>6</source>
-        <translation type="unfinished"></translation>
+        <translation>6</translation>
     </message>
     <message>
         <source>B</source>
-        <translation type="unfinished"></translation>
+        <translation>B</translation>
     </message>
     <message>
         <source>7</source>
-        <translation type="unfinished"></translation>
+        <translation>7</translation>
     </message>
     <message>
         <source>8</source>
-        <translation type="unfinished"></translation>
+        <translation>8</translation>
     </message>
     <message>
         <source>9</source>
-        <translation type="unfinished"></translation>
+        <translation>9</translation>
     </message>
     <message>
         <source>C</source>
-        <translation type="unfinished"></translation>
+        <translation>C</translation>
     </message>
     <message>
         <source>*</source>
-        <translation type="unfinished"></translation>
+        <translation>*</translation>
     </message>
     <message>
         <source>0</source>
-        <translation type="unfinished"></translation>
+        <translation>0</translation>
     </message>
     <message>
         <source>#</source>
-        <translation type="unfinished"></translation>
+        <translation>#</translation>
     </message>
     <message>
         <source>D</source>
-        <translation type="unfinished"></translation>
+        <translation>D</translation>
     </message>
     <message>
         <source>Code Duration</source>
@@ -5103,11 +5103,11 @@ or your network that you want to open:</source>
     </message>
     <message>
         <source>100</source>
-        <translation type="unfinished"></translation>
+        <translation>100</translation>
     </message>
     <message>
         <source>ms</source>
-        <translation type="unfinished"></translation>
+        <translation>ms</translation>
     </message>
     <message>
         <source>Break Duration</source>
@@ -5131,7 +5131,7 @@ or your network that you want to open:</source>
     </message>
     <message>
         <source>Configuration</source>
-        <translation type="unfinished"></translation>
+        <translation>환경설정</translation>
     </message>
     <message>
         <source>Intensity</source>
@@ -5143,7 +5143,7 @@ or your network that you want to open:</source>
     </message>
     <message>
         <source>dB</source>
-        <translation type="unfinished"></translation>
+        <translation>dB</translation>
     </message>
     <message>
         <source>Duration</source>
@@ -5155,7 +5155,7 @@ or your network that you want to open:</source>
     </message>
     <message>
         <source>seconds</source>
-        <translation type="unfinished"></translation>
+        <translation>초</translation>
     </message>
     <message>
         <source>DTMF Sequence (Valid chars: 1234567890#*ABCD,)</source>
@@ -5163,38 +5163,38 @@ or your network that you want to open:</source>
     </message>
     <message>
         <source>Preview</source>
-        <translation type="unfinished"></translation>
+        <translation>미리보기</translation>
     </message>
     <message>
         <source>Generating %1 Noise</source>
-        <translation type="unfinished"></translation>
+        <translation>%1 노이즈 생성하기</translation>
     </message>
     <message>
         <source>%1 Noise Generation</source>
-        <translation type="unfinished"></translation>
+        <translation>%1 노이즈 생성</translation>
     </message>
     <message>
         <source>Generating %1 Tone</source>
-        <translation type="unfinished"></translation>
+        <translation>%1 톤 생성하기</translation>
     </message>
     <message>
         <source>%1 Tone Generation</source>
-        <translation type="unfinished"></translation>
+        <translation>%1 톤 생성</translation>
     </message>
     <message>
         <source>Generating DTMF</source>
-        <translation type="unfinished"></translation>
+        <translation>DTMF 생성중</translation>
     </message>
     <message>
         <source>DTMF Generation</source>
-        <translation type="unfinished"></translation>
+        <translation>DTMF 생성</translation>
     </message>
 </context>
 <context>
     <name>QSilenceGeneratorDialog</name>
     <message>
         <source>Silence</source>
-        <translation type="unfinished"></translation>
+        <translation>조용한</translation>
     </message>
     <message>
         <source>Silence Duration</source>
@@ -5206,14 +5206,14 @@ or your network that you want to open:</source>
     </message>
     <message>
         <source>seconds</source>
-        <translation type="unfinished"></translation>
+        <translation>초</translation>
     </message>
 </context>
 <context>
     <name>QSoundFormatDialog</name>
     <message>
         <source>File name</source>
-        <translation type="unfinished"></translation>
+        <translation>파일 이름</translation>
     </message>
     <message>
         <source>/Users/ruijunior/teste/arquivos de audio/arquivo.pcm</source>
@@ -5221,15 +5221,15 @@ or your network that you want to open:</source>
     </message>
     <message>
         <source>Raw Data Format</source>
-        <translation type="unfinished"></translation>
+        <translation>Raw 데이터 형식</translation>
     </message>
     <message>
         <source>-</source>
-        <translation type="unfinished"></translation>
+        <translation>-</translation>
     </message>
     <message>
         <source>Sample Rate</source>
-        <translation type="unfinished"></translation>
+        <translation>샘플링 레이트</translation>
     </message>
     <message>
         <source>48000</source>
@@ -5265,55 +5265,55 @@ or your network that you want to open:</source>
     </message>
     <message>
         <source>Channels</source>
-        <translation type="unfinished"></translation>
+        <translation>채널</translation>
     </message>
     <message>
         <source>mono</source>
-        <translation type="unfinished"></translation>
+        <translation>모노</translation>
     </message>
     <message>
         <source>stereo</source>
-        <translation type="unfinished"></translation>
+        <translation>스테레오</translation>
     </message>
     <message>
         <source>Use this configuration for next files having extension &apos;.dat&apos;</source>
-        <translation type="unfinished"></translation>
+        <translation>확대하는 다음 파일을 위해 이 설정을 사용하세요. &apos;.dat&apos; </translation>
     </message>
     <message>
         <source>Raw Sound Format</source>
-        <translation type="unfinished"></translation>
+        <translation>Raw 사운드 형식</translation>
     </message>
     <message>
         <source>Preview</source>
-        <translation type="unfinished"></translation>
+        <translation>미리보기</translation>
     </message>
     <message>
         <source>Skip</source>
-        <translation type="unfinished"></translation>
+        <translation>넘기기</translation>
     </message>
     <message>
         <source>Use this configuration for next files having extension &apos;.%1&apos;</source>
-        <translation type="unfinished"></translation>
+        <translation> 확대하는 다음 파일을 위해 이 설정을 사용하세요. &apos;.dat&apos; </translation>
     </message>
     <message>
         <source>Use this configuration for next files having no extension</source>
-        <translation type="unfinished"></translation>
+        <translation>확대하지 않는 다음 파일을 위해 이 설정을 사용하세요.</translation>
     </message>
     <message>
         <source>3 channels</source>
-        <translation type="unfinished"></translation>
+        <translation>3 채널</translation>
     </message>
     <message>
         <source>4 channels</source>
-        <translation type="unfinished"></translation>
+        <translation>4 채널</translation>
     </message>
     <message>
         <source>5 channels</source>
-        <translation type="unfinished"></translation>
+        <translation>5 채널</translation>
     </message>
     <message>
         <source>6 channels</source>
-        <translation type="unfinished"></translation>
+        <translation>6 채널</translation>
     </message>
 </context>
 <context>
