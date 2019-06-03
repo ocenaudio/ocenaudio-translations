@@ -5320,209 +5320,209 @@ or your network that you want to open:</source>
     <name>QTestDialog</name>
     <message>
         <source>Dialog</source>
-        <translation type="unfinished"></translation>
+        <translatio>다이얼로그</translation>
     </message>
     <message>
         <source>Test Graph</source>
-        <translation type="unfinished"></translation>
+        <translation>테스트 그래프</translation>
     </message>
 </context>
 <context>
     <name>QuantizerDialog</name>
     <message>
         <source>Apply Quantization</source>
-        <translation type="unfinished"></translation>
+        <translation>양자화 적용</translation>
     </message>
     <message>
         <source>Quantization Method</source>
-        <translation type="unfinished"></translation>
+        <translation>양자화 방법</translation>
     </message>
     <message>
         <source>8 bits - PCM Linear</source>
-        <translation type="unfinished"></translation>
+        <translation> 8 bits - PCM Linear </translation>
     </message>
     <message>
         <source>16 bits - a-Law companding PCM (G.711a)</source>
-        <translation type="unfinished"></translation>
+        <translation> 16 bits - a-Law companding PCM (G.711a) </translation>
     </message>
     <message>
         <source>16 bits - μ-Law companding PCM (G.711u)</source>
-        <translation type="unfinished"></translation>
+        <translation> 16 bits - μ-Law companding PCM (G.711u) </translation>
     </message>
     <message>
         <source>16 bits - PCM Linear</source>
-        <translation type="unfinished"></translation>
+        <translation> 16 bits - PCM Linear </translation>
     </message>
     <message>
         <source>16 bits - DVI/IMA Adaptive DPCM</source>
-        <translation type="unfinished"></translation>
+        <translation> 16 bits - DVI/IMA Adaptive DPCM </translation>
     </message>
     <message>
         <source>16 bits - MS Adaptive DPCM (MS-ADPCM)</source>
-        <translation type="unfinished"></translation>
+        <translation> 16 bits - MS Adaptive DPCM (MS-ADPCM) </translation>
     </message>
     <message>
         <source>16 bits - ETSI GSM 06.10</source>
-        <translation type="unfinished"></translation>
+        <translation> 16 bits - ETSI GSM 06.10 </translation>
     </message>
     <message>
         <source>24 bits - PCM Linear</source>
-        <translation type="unfinished"></translation>
+        <translation> 24 bits - PCM Linear </translation>
     </message>
     <message>
         <source>32 bits - PCM Linear</source>
-        <translation type="unfinished"></translation>
+        <translation> 32 bits - PCM Linear </translation>
     </message>
     <message>
         <source>16 bits - ETSI GSM AMR</source>
-        <translation type="unfinished"></translation>
+        <translation> 16 bits - ETSI GSM AMR </translation>
     </message>
     <message>
         <source>16 bits - ITU-T G729 Annex A ( 8.0 kbps)</source>
-        <translation type="unfinished"></translation>
+        <translation> 16 bits - ITU-T G729 Annex A ( 8.0 kbps) </translation>
     </message>
     <message>
         <source>16 bits - ITU-T G729 Annex D ( 6.4 kbps)</source>
-        <translation type="unfinished"></translation>
+        <translation> 16 bits - ITU-T G729 Annex D ( 6.4 kbps) </translation>
     </message>
     <message>
         <source>16 bits - ITU-T G729 Annex E (11.8 kbps)</source>
-        <translation type="unfinished"></translation>
+        <translation> 16 bits - ITU-T G729 Annex E (11.8 kbps) </translation>
     </message>
     <message>
         <source>16 bits - ITU-T G723.1 (6.3 kbps)</source>
-        <translation type="unfinished"></translation>
+        <translation> 16 bits - ITU-T G723.1 (6.3 kbps) </translation>
     </message>
     <message>
         <source>16 bits - ITU-T G723.1 (5.3 kbps)</source>
-        <translation type="unfinished"></translation>
+        <translation> 16 bits - ITU-T G723.1 (5.3 kbps) </translation>
     </message>
     <message>
         <source>16 bits - iLBC 13.3 kbps</source>
-        <translation type="unfinished"></translation>
+        <translation> 16 bits - iLBC 13.3 kbps </translation>
     </message>
     <message>
         <source>16 bits - iLBC 15.0 kbps</source>
-        <translation type="unfinished"></translation>
+        <translation> 16 bits - iLBC 15.0 kbps </translation>
     </message>
     <message>
         <source>16 bits - iSAC</source>
-        <translation type="unfinished"></translation>
+        <translation> 16 bits - iSAC </translation>
     </message>
     <message>
         <source>16 bits - GSMAMR-WB ( 6.60 kbps)</source>
-        <translation type="unfinished"></translation>
+        <translation> 16 bits - GSMAMR-WB ( 6.60 kbps) </translation>
     </message>
     <message>
         <source>16 bits - GSMAMR-WB ( 8.85 kbps)</source>
-        <translation type="unfinished"></translation>
+        <translation> 16 bits - GSMAMR-WB ( 8.85 kbps) </translation>
     </message>
     <message>
         <source>16 bits - GSMAMR-WB (12.65 kbps)</source>
-        <translation type="unfinished"></translation>
+        <translation> 16 bits - GSMAMR-WB (12.65 kbps) </translation>
     </message>
     <message>
         <source>16 bits - GSMAMR-WB (14.25 kbps)</source>
-        <translation type="unfinished"></translation>
+        <translation> 16 bits - GSMAMR-WB (14.25 kbps) </translation>
     </message>
     <message>
         <source>16 bits - GSMAMR-WB (15.85 kbps)</source>
-        <translation type="unfinished"></translation>
+        <translation> 16 bits - GSMAMR-WB (15.85 kbps) </translation>
     </message>
     <message>
         <source>16 bits - GSMAMR-WB (18.25 kbps)</source>
-        <translation type="unfinished"></translation>
+        <translation> 16 bits - GSMAMR-WB (18.25 kbps) </translation>
     </message>
     <message>
         <source>16 bits - GSMAMR-WB (19.85 kbps)</source>
-        <translation type="unfinished"></translation>
+        <translation> 16 bits - GSMAMR-WB (19.85 kbps) </translation>
     </message>
     <message>
         <source>16 bits - GSMAMR-WB (23.05 kbps)</source>
-        <translation type="unfinished"></translation>
+        <translation> 16 bits - GSMAMR-WB (23.05 kbps) </translation>
     </message>
     <message>
         <source>16 bits - GSMAMR-WB (23.85 kbps)</source>
-        <translation type="unfinished"></translation>
+        <translation> 16 bits - GSMAMR-WB (23.85 kbps) </translation>
     </message>
     <message>
         <source>16 bits - G722.1 ( 24 kbps)</source>
-        <translation type="unfinished"></translation>
+        <translation> 16 bits - G722.1 ( 24 kbps) </translation>
     </message>
     <message>
         <source>16 bits - G722.1 ( 32 kbps)</source>
-        <translation type="unfinished"></translation>
+        <translation> 16 bits - G722.1 ( 32 kbps) </translation>
     </message>
     <message>
         <source>16 bits - GSM HR 06.20 ( 6.4 kbps)</source>
-        <translation type="unfinished"></translation>
+        <translation> 16 bits - GSM HR 06.20 ( 6.4 kbps) </translation>
     </message>
     <message>
         <source>16 bits - G.711.1 Mode 1 (a-law)</source>
-        <translation type="unfinished"></translation>
+        <translation> 16 bits - G.711.1 Mode 1 (a-law) </translation>
     </message>
     <message>
         <source>16 bits - G.711.1 Mode 1 (μ-law)</source>
-        <translation type="unfinished"></translation>
+        <translation> 16 bits - G.711.1 Mode 1 (μ-law) </translation>
     </message>
     <message>
         <source>16 bits - G.711.1 Mode 2 (a-law)</source>
-        <translation type="unfinished"></translation>
+        <translation> 16 bits - G.711.1 Mode 2 (a-law) </translation>
     </message>
     <message>
         <source>16 bits - G.711.1 Mode 2 (μ-law)</source>
-        <translation type="unfinished"></translation>
+        <translation> 16 bits - G.711.1 Mode 2 (μ-law) </translation>
     </message>
     <message>
         <source>16 bits - G.711.1 Mode 3 (a-law)</source>
-        <translation type="unfinished"></translation>
+        <translation> 16 bits - G.711.1 Mode 3 (a-law) </translation>
     </message>
     <message>
         <source>16 bits - G.711.1 Mode 3 (μ-law)</source>
-        <translation type="unfinished"></translation>
+        <translation> 16 bits - G.711.1 Mode 3 (μ-law) </translation>
     </message>
     <message>
         <source>16 bits - G.711.1 Mode 4 (a-law)</source>
-        <translation type="unfinished"></translation>
+        <translation> 16 bits - G.711.1 Mode 4 (a-law) </translation>
     </message>
     <message>
         <source>16 bits - G.711.1 Mode 4 (μ-law)</source>
-        <translation type="unfinished"></translation>
+        <translation> 16 bits - G.711.1 Mode 4 (μ-law) </translation>
     </message>
     <message>
         <source>16 bits - G.729.1</source>
-        <translation type="unfinished"></translation>
+        <translation> 16 bits - G.729.1 </translation>
     </message>
     <message>
         <source>Applying %1 quantization</source>
-        <translation type="unfinished"></translation>
+        <translation>양자화 %1 적용중</translation>
     </message>
 </context>
 <context>
     <name>ScreenshotDialog</name>
     <message>
         <source>Create Audio Screenshot</source>
-        <translation type="unfinished"></translation>
+        <translation>오디오 스크린샷 생성</translation>
     </message>
     <message>
         <source>Preview</source>
-        <translation type="unfinished"></translation>
+        <translation>미리보기</translation>
     </message>
     <message>
         <source>Options</source>
-        <translation type="unfinished"></translation>
+        <translation>옵션</translation>
     </message>
     <message>
         <source>View Mode:</source>
-        <translation type="unfinished"></translation>
+        <translation>보기 모드:</translation>
     </message>
     <message>
         <source>Show Horizontal Scale</source>
-        <translation type="unfinished"></translation>
+        <translation>수평 스케일 보이기</translation>
     </message>
     <message>
         <source>Show Vertical Scale</source>
-        <translation type="unfinished"></translation>
+        <translation>수직 스케일 보이기</translation>
     </message>
     <message>
         <source>Show Scale Grids</source>
@@ -5534,23 +5534,23 @@ or your network that you want to open:</source>
     </message>
     <message>
         <source>Transparent Brackground</source>
-        <translation type="unfinished"></translation>
+        <translation>투명 배경</translation>
     </message>
     <message>
         <source>Width:</source>
-        <translation type="unfinished"></translation>
+        <translation>폭</translation>
     </message>
     <message>
         <source> pixels</source>
-        <translation type="unfinished"></translation>
+        <translation>픽셀</translation>
     </message>
     <message>
         <source>Height:</source>
-        <translation type="unfinished"></translation>
+        <translation>높이:</translation>
     </message>
     <message>
         <source>Waveform</source>
-        <translation type="unfinished"></translation>
+        <translation>파동</translation>
     </message>
     <message>
         <source>Spectralform</source>
@@ -5566,11 +5566,11 @@ or your network that you want to open:</source>
     </message>
     <message>
         <source>Save Audio Screenshot</source>
-        <translation type="unfinished"></translation>
+        <translation>오디오 스크린샷 저장</translation>
     </message>
     <message>
         <source>Images (*.png *.xpm *.jpg)</source>
-        <translation type="unfinished"></translation>
+        <translation> Images (*.png *.xpm *.jpg) </translation>
     </message>
 </context>
 </TS>
