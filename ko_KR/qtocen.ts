@@ -5,42 +5,42 @@
     <name>QAudioStatistics</name>
     <message>
         <source>+%1</source>
-        <translation type="unfinished"></translation>
+        <translation>+%1</translation>
     </message>
     <message>
         <source>%1</source>
-        <translation type="unfinished"></translation>
+        <translation>%1</translation>
     </message>
     <message>
         <source>-</source>
-        <translation type="unfinished"></translation>
+        <translation>-</translation>
     </message>
     <message>
         <source>%1 dB</source>
-        <translation type="unfinished"></translation>
+        <translation>%1 dB</translation>
     </message>
     <message>
         <source>%1 %</source>
-        <translation type="unfinished"></translation>
+        <translation>%1 %</translation>
     </message>
 </context>
 <context>
     <name>QObject</name>
     <message>
         <source>Waiting</source>
-        <translation type="unfinished"></translation>
+        <translation>대기</translation>
     </message>
     <message>
         <source>Drop Files Here</source>
-        <translation type="unfinished"></translation>
+        <translation>여기에 파일 놓기</translation>
     </message>
     <message>
         <source>playlist</source>
-        <translation type="unfinished"></translation>
+        <translation>재생 목록</translation>
     </message>
     <message>
         <source>directory</source>
-        <translation type="unfinished"></translation>
+        <translation>디렉토리</translation>
     </message>
     <message>
         <source>archive</source>
@@ -48,7 +48,7 @@
     </message>
     <message>
         <source>file</source>
-        <translation type="unfinished"></translation>
+        <translation>파일</translation>
     </message>
     <message>
         <source>remoteurl</source>
@@ -56,71 +56,71 @@
     </message>
     <message>
         <source>%1 in %2</source>
-        <translation type="unfinished"></translation>
+        <translation>%1 in %2</translation>
     </message>
     <message>
         <source>Unsupported Language</source>
-        <translation type="unfinished"></translation>
+        <translation>지원하지 않는 언어</translation>
     </message>
     <message>
         <source>English</source>
-        <translation></translation>
+        <translation>영어</translation>
     </message>
     <message>
         <source>Portuguese</source>
-        <translation></translation>
+        <translation>포르투갈어</translation>
     </message>
     <message>
         <source>French</source>
-        <translation></translation>
+        <translation>프랑스어</translation>
     </message>
     <message>
         <source>Hindi</source>
-        <translation></translation>
+        <translation>힌두어</translation>
     </message>
     <message>
         <source>German</source>
-        <translation></translation>
+        <translation>독일어</translation>
     </message>
     <message>
         <source>Spanish</source>
-        <translation></translation>
+        <translation>스페인어</translation>
     </message>
     <message>
         <source>Italian</source>
-        <translation></translation>
+        <translation>이탈리아어</translation>
     </message>
     <message>
         <source>Japanese</source>
-        <translation></translation>
+        <translation>일본어</translation>
     </message>
     <message>
         <source>Bulgarian</source>
-        <translation></translation>
+        <translation>불가리어</translation>
     </message>
     <message>
         <source>Russian</source>
-        <translation></translation>
+        <translation>러시아어</translation>
     </message>
     <message>
         <source>Stream</source>
-        <translation type="unfinished"></translation>
+        <translation>스트림</translation>
     </message>
     <message>
         <source>stream</source>
-        <translation type="unfinished"></translation>
+        <translation>스트림</translation>
     </message>
     <message>
         <source>Stream %1 of %2</source>
-        <translation type="unfinished"></translation>
+        <translation>%2의 스트림 %1</translation>
     </message>
     <message>
         <source>Stream %1</source>
-        <translation type="unfinished"></translation>
+        <translation>스트림 %1</translation>
     </message>
     <message>
         <source>All Files</source>
-        <translation type="unfinished"></translation>
+        <translation>모든 파일</translation>
     </message>
     <message>
         <source>Reverting to Saved</source>
@@ -128,115 +128,115 @@
     </message>
     <message>
         <source>Opening %1</source>
-        <translation type="unfinished"></translation>
+        <translation>열기 %1</translation>
     </message>
     <message>
         <source>Saving %1</source>
-        <translation type="unfinished"></translation>
+        <translation>저장 %1</translation>
     </message>
     <message>
         <source>Ringtone created by ocenaudio</source>
-        <translation type="unfinished"></translation>
+        <translation>ocenaudio로 만든 신호음</translation>
     </message>
     <message>
         <source>Creating iTunes Ringtone</source>
-        <translation type="unfinished"></translation>
+        <translation>iTunes 신호음 만들기</translation>
     </message>
     <message>
         <source>Undoing</source>
-        <translation type="unfinished"></translation>
+        <translation>되돌리기</translation>
     </message>
     <message>
         <source>Redoing</source>
-        <translation type="unfinished"></translation>
+        <translation>다시하기</translation>
     </message>
     <message>
         <source>Undefined</source>
-        <translation type="unfinished"></translation>
+        <translation>정의되지 않은</translation>
     </message>
     <message>
         <source>Undefined Format</source>
-        <translation type="unfinished"></translation>
+        <translation>정의되지 않은 형식</translation>
     </message>
     <message>
         <source>Where</source>
-        <translation type="unfinished"></translation>
+        <translation>어디</translation>
     </message>
     <message>
         <source>Cutting</source>
-        <translation type="unfinished"></translation>
+        <translation>자르기</translation>
     </message>
     <message>
         <source>Cut</source>
-        <translation type="unfinished"></translation>
+        <translation>자르기</translation>
     </message>
     <message>
         <source>Copying</source>
-        <translation type="unfinished"></translation>
+        <translation>복사하기</translation>
     </message>
     <message>
         <source>Pasting</source>
-        <translation type="unfinished"></translation>
+        <translation>붙여넣기</translation>
     </message>
     <message>
         <source>Paste</source>
-        <translation type="unfinished"></translation>
+        <translation>붙여넣기</translation>
     </message>
     <message>
         <source>Deleting</source>
-        <translation type="unfinished"></translation>
+        <translation>지우기</translation>
     </message>
     <message>
         <source>Delete</source>
-        <translation type="unfinished"></translation>
+        <translation>지우기</translation>
     </message>
     <message>
         <source>Trimming</source>
-        <translation type="unfinished"></translation>
+        <translation>다듬기</translation>
     </message>
     <message>
         <source>Trim</source>
-        <translation type="unfinished"></translation>
+        <translation>다듬기</translation>
     </message>
     <message>
         <source>Mix pasting</source>
-        <translation type="unfinished"></translation>
+        <translation>믹스 붙여넣기</translation>
     </message>
     <message>
         <source>Mix Paste</source>
-        <translation type="unfinished"></translation>
+        <translation>믹스 붙여넣기</translation>
     </message>
     <message>
         <source>Mono</source>
-        <translation type="unfinished"></translation>
+        <translation>모노</translation>
     </message>
     <message>
         <source>Left</source>
-        <translation type="unfinished"></translation>
+        <translation>왼쪽</translation>
     </message>
     <message>
         <source>Right</source>
-        <translation type="unfinished"></translation>
+        <translation>오른쪽</translation>
     </message>
     <message>
         <source>0</source>
-        <translation type="unfinished"></translation>
+        <translation>0</translation>
     </message>
     <message>
         <source>L</source>
-        <translation type="unfinished"></translation>
+        <translation>왼쪽</translation>
     </message>
     <message>
         <source>R</source>
-        <translation type="unfinished"></translation>
+        <translation>오른쪽</translation>
     </message>
     <message>
         <source>%1 channel of</source>
-        <translation type="unfinished"></translation>
+        <translation>의 %1 채널</translation>
     </message>
     <message>
         <source>%1 combined with %2</source>
-        <translation type="unfinished"></translation>
+        <translation>%1을 %2와 합치다</translation>
     </message>
     <message>
         <source>Downmix of %1</source>
@@ -256,111 +256,111 @@
     </message>
     <message>
         <source>Reversing</source>
-        <translation type="unfinished"></translation>
+        <translation>바꾸기</translation>
     </message>
     <message>
         <source>Reverse</source>
-        <translation type="unfinished"></translation>
+        <translation>바꾸기</translation>
     </message>
     <message>
         <source>Inverting</source>
-        <translation type="unfinished"></translation>
+        <translation>순서 바꾸기</translation>
     </message>
     <message>
         <source>Invert</source>
-        <translation type="unfinished"></translation>
+        <translation>순서 바꾸기</translation>
     </message>
     <message>
         <source>Silencing</source>
-        <translation type="unfinished"></translation>
+        <translation>조용히</translation>
     </message>
     <message>
         <source>Silence</source>
-        <translation type="unfinished"></translation>
+        <translation>조용히</translation>
     </message>
     <message>
         <source>Removing DC</source>
-        <translation type="unfinished"></translation>
+        <translation>DC 지우기</translation>
     </message>
     <message>
         <source>Remove DC</source>
-        <translation type="unfinished"></translation>
+        <translation>DC 지우기</translation>
     </message>
     <message>
         <source>Normalize</source>
-        <translation type="unfinished"></translation>
+        <translation>일반화하기</translation>
     </message>
     <message>
         <source>Changing Audio Format</source>
-        <translation type="unfinished"></translation>
+        <translation>오디오 형식 바꾸기</translation>
     </message>
     <message>
         <source>Change Audio Format</source>
-        <translation type="unfinished"></translation>
+        <translation>오디오 형식 바꾸기</translation>
     </message>
     <message>
         <source>Channels Swap</source>
-        <translation type="unfinished"></translation>
+        <translation>채널 변경</translation>
     </message>
     <message>
         <source>Adjust Sample Rate</source>
-        <translation type="unfinished"></translation>
+        <translation>샘플링 레이트 조정</translation>
     </message>
     <message>
         <source>Remove all metadata</source>
-        <translation type="unfinished"></translation>
+        <translation>모든 메타데이터 지우기</translation>
     </message>
     <message>
         <source>marker %1</source>
-        <translation type="unfinished"></translation>
+        <translation>마커 %1</translation>
     </message>
     <message>
         <source>Create Region</source>
-        <translation type="unfinished"></translation>
+        <translation>영역 생성</translation>
     </message>
     <message>
         <source>Create Regions</source>
-        <translation type="unfinished"></translation>
+        <translation>여러 영역 생성</translation>
     </message>
     <message>
         <source>New Region</source>
-        <translation type="unfinished"></translation>
+        <translation>새로운 영역</translation>
     </message>
     <message>
         <source>Detecting Dtmf</source>
-        <translation type="unfinished"></translation>
+        <translation>Dtmf 탐색하기</translation>
     </message>
     <message>
         <source>Detect Dtmf</source>
-        <translation type="unfinished"></translation>
+        <translation>Dtmf 탐색하기</translation>
     </message>
     <message>
         <source>Save As</source>
-        <translation type="unfinished"></translation>
+        <translation>다른 이름으로 저장</translation>
     </message>
     <message>
         <source>Export As</source>
-        <translation type="unfinished"></translation>
+        <translation>다른 이름으로 내보내기</translation>
     </message>
     <message>
         <source>Exporting Selection As</source>
-        <translation type="unfinished"></translation>
+        <translation>다른 이름으로 선택 내보내기</translation>
     </message>
     <message>
         <source>Exporting Region As</source>
-        <translation type="unfinished"></translation>
+        <translation>다른 이름으로 영역 내보내기</translation>
     </message>
     <message>
         <source>Exporting Regions As</source>
-        <translation type="unfinished"></translation>
+        <translation>다른 이름으로 영역 내보내기</translation>
     </message>
     <message>
         <source>Paste Channel</source>
-        <translation type="unfinished"></translation>
+        <translation>채널 붙여넣기</translation>
     </message>
     <message>
         <source>Paste From File</source>
-        <translation type="unfinished"></translation>
+        <translation>파일로부터 붙여넣기</translation>
     </message>
     <message>
         <source>Paste Silence</source>
@@ -368,7 +368,7 @@
     </message>
     <message>
         <source>Append Audio</source>
-        <translation type="unfinished"></translation>
+        <translation>오디오 더하기</translation>
     </message>
     <message>
         <source>Append Silence</source>
@@ -376,31 +376,31 @@
     </message>
     <message>
         <source>Append From File</source>
-        <translation type="unfinished"></translation>
+        <translation>파일로부터 더하기</translation>
     </message>
     <message>
         <source>Change Metadata</source>
-        <translation type="unfinished"></translation>
+        <translation>메타데이터 바꾸기</translation>
     </message>
     <message>
         <source>Record</source>
-        <translation type="unfinished"></translation>
+        <translation>녹음하기</translation>
     </message>
     <message>
         <source>m s e c</source>
-        <translation type="unfinished"></translation>
+        <translation>밀리초</translation>
     </message>
     <message>
         <source>s e c</source>
-        <translation type="unfinished"></translation>
+        <translation>초</translation>
     </message>
     <message>
         <source>m i n</source>
-        <translation type="unfinished"></translation>
+        <translation>분</translation>
     </message>
     <message>
         <source>h r</source>
-        <translation type="unfinished"></translation>
+        <translation>시</translation>
     </message>
     <message>
         <source>s m p l</source>
@@ -412,35 +412,35 @@
     </message>
     <message>
         <source>Title</source>
-        <translation type="unfinished"></translation>
+        <translation>제목</translation>
     </message>
     <message>
         <source>Artist</source>
-        <translation type="unfinished"></translation>
+        <translation>아티스트</translation>
     </message>
     <message>
         <source>Album</source>
-        <translation type="unfinished"></translation>
+        <translation>앨범</translation>
     </message>
     <message>
         <source>Year</source>
-        <translation type="unfinished"></translation>
+        <translation>년도</translation>
     </message>
     <message>
         <source>Transform</source>
-        <translation type="unfinished"></translation>
+        <translation>변형하기</translation>
     </message>
     <message>
         <source>Change Gain/Offset</source>
-        <translation type="unfinished"></translation>
+        <translation>게인/오프셋 변경</translation>
     </message>
     <message>
         <source>Cancel</source>
-        <translation type="unfinished"></translation>
+        <translation>취소하기</translation>
     </message>
     <message>
         <source>Waiting for cancellation</source>
-        <translation type="unfinished"></translation>
+        <translation>취소 기다리는 중</translation>
     </message>
     <message>
         <source>Remaining</source>
@@ -448,27 +448,27 @@
     </message>
     <message>
         <source>Question</source>
-        <translation type="unfinished"></translation>
+        <translation>질문</translation>
     </message>
     <message>
         <source>Do you really want to discard the changes made in this region?</source>
-        <translation type="unfinished"></translation>
+        <translation>이 영역에서 바뀐 사항을 정말로 지우시겠습니까?</translation>
     </message>
     <message>
         <source>Changes in region text will be lost if you discard.</source>
-        <translation type="unfinished"></translation>
+        <translation>지우시면 텍스트 영역의 변경 사항들을 잃게됩니다.</translation>
     </message>
     <message>
         <source>Save</source>
-        <translation type="unfinished"></translation>
+        <translation>저장</translation>
     </message>
     <message>
         <source>Discard</source>
-        <translation type="unfinished"></translation>
+        <translation>지우기</translation>
     </message>
     <message>
         <source>Track %1</source>
-        <translation type="unfinished"></translation>
+        <translation>트랙 %1</translation>
     </message>
     <message>
         <source>@%1 (unlinked)</source>
@@ -480,11 +480,11 @@
     </message>
     <message>
         <source>General</source>
-        <translation type="unfinished"></translation>
+        <translation>일반</translation>
     </message>
     <message>
         <source>General Preferences</source>
-        <translation type="unfinished"></translation>
+        <translation>일반 환경설정</translation>
     </message>
     <message>
         <source>Key Bindings</source>
@@ -496,23 +496,23 @@
     </message>
     <message>
         <source>Network</source>
-        <translation type="unfinished"></translation>
+        <translation>네트워크</translation>
     </message>
     <message>
         <source>Network Preferences</source>
-        <translation type="unfinished"></translation>
+        <translation>네트워크 환경설정</translation>
     </message>
     <message>
         <source>Supported Sound Files</source>
-        <translation type="unfinished"></translation>
+        <translation>지원되는 사운드 파일</translation>
     </message>
     <message>
         <source>Sound</source>
-        <translation type="unfinished"></translation>
+        <translation>사운드</translation>
     </message>
     <message>
         <source>Sound Preferences</source>
-        <translation type="unfinished"></translation>
+        <translation>사운드 환경설정</translation>
     </message>
     <message>
         <source>Spectrogram</source>
@@ -524,11 +524,11 @@
     </message>
     <message>
         <source>Paste To Fit</source>
-        <translation type="unfinished"></translation>
+        <translation>알맞게 붙여넣기</translation>
     </message>
     <message>
         <source>Audio Canvas</source>
-        <translation type="unfinished"></translation>
+        <translation>오디오 캔버스</translation>
     </message>
     <message>
         <source>Quick zoom</source>
