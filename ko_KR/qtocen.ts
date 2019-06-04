@@ -560,39 +560,39 @@
     </message>
     <message>
         <source>Move cursor to previous page</source>
-        <translation type="unfinished"></translation>
+        <translation>커서를 이전 페이지로 옮기기</translation>
     </message>
     <message>
         <source>Move cursor to next page</source>
-        <translation type="unfinished"></translation>
+        <translation>커서를 다음 페이지로 옮기기</translation>
     </message>
     <message>
         <source>Move cursor to previous scale tick</source>
-        <translation type="unfinished"></translation>
+        <translation>커서를 이전 스케일로 옮기기</translation>
     </message>
     <message>
         <source>Move cursor to next scale tick</source>
-        <translation type="unfinished"></translation>
+        <translation>커서를 다음 틱으로 옮기기</translation>
     </message>
     <message>
         <source>Move cursor to left</source>
-        <translation type="unfinished"></translation>
+        <translation>커서를 왼쪽으로 옮기기</translation>
     </message>
     <message>
         <source>Move cursor to right</source>
-        <translation type="unfinished"></translation>
+        <translation>커서를 오른쪽으로 옮기기</translation>
     </message>
     <message>
         <source>Move cursor to begin</source>
-        <translation type="unfinished"></translation>
+        <translation>커서를 시작점으로 옮기기</translation>
     </message>
     <message>
         <source>Move cursor to end</source>
-        <translation type="unfinished"></translation>
+        <translation>커서를 마지막으로 옮기기</translation>
     </message>
     <message>
         <source>Select region under cursor/region</source>
-        <translation type="unfinished"></translation>
+        <translation>커서 아래영역 선택하기</translation>
     </message>
     <message>
         <source>Select Audio/Region to left</source>
@@ -612,39 +612,39 @@
     </message>
     <message>
         <source>Select to previous scale tick</source>
-        <translation type="unfinished"></translation>
+        <translation>이전 스케일 틱 선택하기</translation>
     </message>
     <message>
         <source>Select to next scale tick</source>
-        <translation type="unfinished"></translation>
+        <translation>다음 스케일 틱 선택하기</translation>
     </message>
     <message>
         <source>Move cursor to next marker</source>
-        <translation type="unfinished"></translation>
+        <translation>커서를 다음 마커로 옮기기</translation>
     </message>
     <message>
         <source>Move cursor to previous marker</source>
-        <translation type="unfinished"></translation>
+        <translation>커서를 이전 마커로 옮기기</translation>
     </message>
     <message>
         <source>Select to next marker</source>
-        <translation type="unfinished"></translation>
+        <translation>다음 마커 선택</translation>
     </message>
     <message>
         <source>Select to previous marker</source>
-        <translation type="unfinished"></translation>
+        <translation>이전 마커 선택</translation>
     </message>
     <message>
         <source>%1 sec</source>
-        <translation type="unfinished"></translation>
+        <translation>%1 초</translation>
     </message>
     <message>
         <source>%1 ms</source>
-        <translation type="unfinished"></translation>
+        <translation>%1 밀리초</translation>
     </message>
     <message>
         <source>Show cursor/Select region</source>
-        <translation type="unfinished"></translation>
+        <translation>커서 표시하기/영역 선택</translation>
     </message>
     <message>
         <source>Smoothing</source>
@@ -652,31 +652,31 @@
     </message>
     <message>
         <source>Create/Edit region</source>
-        <translation type="unfinished"></translation>
+        <translation>영역 생성/변경</translation>
     </message>
     <message>
         <source>Move Region</source>
-        <translation type="unfinished"></translation>
+        <translation>영역 옮기기</translation>
     </message>
     <message>
         <source>Pasting file %1</source>
-        <translation type="unfinished"></translation>
+        <translation>%1 파일 붙여넣기</translation>
     </message>
     <message>
         <source>Selection Begin</source>
-        <translation type="unfinished"></translation>
+        <translation>선택영역 시작</translation>
     </message>
     <message>
         <source>Selection End</source>
-        <translation type="unfinished"></translation>
+        <translation>선택영역 끝</translation>
     </message>
     <message>
         <source>Selection Duration</source>
-        <translation type="unfinished"></translation>
+        <translation>선택영역 길이</translation>
     </message>
     <message>
         <source>Copy</source>
-        <translation type="unfinished"></translation>
+        <translation>복사하기</translation>
     </message>
     <message>
         <source>Clear</source>
@@ -696,90 +696,90 @@
     </message>
     <message>
         <source>Double-Click to create a marker</source>
-        <translation type="unfinished"></translation>
+        <translation>마커를 생성하려면 더블 클릭 하세요.</translation>
     </message>
 </context>
 <context>
     <name>QOcenApplication</name>
     <message>
         <source>New Sound Device Found</source>
-        <translation type="unfinished"></translation>
+        <translation>새로운 사운드 장치 발견</translation>
     </message>
     <message>
         <source>ocenaudio Clipboard with %1 seconds in %2 %3</source>
-        <translation type="unfinished"></translation>
+        <translation>%2 %3 에서 %1초의 ocenaudio 클립보드</translation>
     </message>
     <message>
         <source>An error occured while writing temporary data to disk. This issue might happen if your main disk is running out of free space.</source>
-        <translation type="unfinished"></translation>
+        <translation>임시 데이터를 디스크에 쓰는 동안에 에러가 발생했습니다. 이 이슈는 메인 디스크의 공간이 부족할 때 일어납니다.</translation>
     </message>
     <message>
         <source>An error occured while allocating memory! This issue might happen if you are running out of memory</source>
-        <translation type="unfinished"></translation>
+        <translation>메모리를 할당 받는 동안 에러가 발생했습니다. 이 이슈는 메모리가 부족할 때 일어납니다.</translation>
     </message>
     <message>
         <source>Update Device List Failed</source>
-        <translation type="unfinished"></translation>
+        <translation>장치 목록 갱신 실패</translation>
     </message>
     <message>
         <source>An error occurred while updating the list of audio devices using the %1 backend. In this condition the capture and playback capabilities may not be available.
 You should check your audio settings in the ocenaudio preferences pane.</source>
-        <translation type="unfinished"></translation>
+        <translation>%1 백앤드를 사용하는 오디오 장치 목록을 갱신 받는 동안 에러가 발생했습니다. 이 상태에서 재생과 캡쳐가 되지 않습니다. ocenaudio의 환경설정에서 오디오 설정을 확인해주세요.</translation>
     </message>
 </context>
 <context>
     <name>QOcenAudio</name>
     <message>
         <source>Add Marker</source>
-        <translation type="unfinished"></translation>
+        <translation>마커 더하기</translation>
     </message>
     <message>
         <source>Move Marker</source>
-        <translation type="unfinished"></translation>
+        <translation>마커 옮기기</translation>
     </message>
     <message>
         <source>Import Regions</source>
-        <translation type="unfinished"></translation>
+        <translation>영역 불러오기</translation>
     </message>
     <message>
         <source>Add Region</source>
-        <translation type="unfinished"></translation>
+        <translation>영역 더하기</translation>
     </message>
     <message>
         <source>Delete Region</source>
-        <translation type="unfinished"></translation>
+        <translation>영역 지우기</translation>
     </message>
     <message>
         <source>Undelete Region</source>
-        <translation type="unfinished"></translation>
+        <translation>영역 지우기 취소</translation>
     </message>
     <message>
         <source>Delete Regions</source>
-        <translation type="unfinished"></translation>
+        <translation>영역 지우기</translation>
     </message>
     <message>
         <source>Convert Region to Loop</source>
-        <translation type="unfinished"></translation>
+        <translation>영역을 반복으로 바꾸기</translation>
     </message>
     <message>
         <source>Convert Loop to Region</source>
-        <translation type="unfinished"></translation>
+        <translation>반복을 영역으로 바꾸기</translation>
     </message>
     <message>
         <source>Merge Regions</source>
-        <translation type="unfinished"></translation>
+        <translation>영역 합치기</translation>
     </message>
     <message>
         <source>Change Region Comment</source>
-        <translation type="unfinished"></translation>
+        <translation>영역 설명 변경</translation>
     </message>
     <message>
         <source>Change Region Label</source>
-        <translation type="unfinished"></translation>
+        <translation>영역 라벨 변경</translation>
     </message>
     <message>
         <source>Change Region Track</source>
-        <translation type="unfinished"></translation>
+        <translation>영역 트랙 변경</translation>
     </message>
     <message>
         <source>Offset Region</source>
@@ -795,83 +795,83 @@ You should check your audio settings in the ocenaudio preferences pane.</source>
     </message>
     <message>
         <source>Resize Region</source>
-        <translation type="unfinished"></translation>
+        <translation>영역 사이즈 변경</translation>
     </message>
 </context>
 <context>
     <name>QOcenAudioDelegate</name>
     <message>
         <source>Duration</source>
-        <translation type="unfinished"></translation>
+        <translation>길이</translation>
     </message>
     <message>
         <source>readonly</source>
-        <translation type="unfinished"></translation>
+        <translation>읽기만 가능</translation>
     </message>
 </context>
 <context>
     <name>QOcenAudioJob_Append</name>
     <message>
         <source>Appending</source>
-        <translation type="unfinished"></translation>
+        <translation>추가하기</translation>
     </message>
     <message>
         <source>Append</source>
-        <translation type="unfinished"></translation>
+        <translation>추가하기</translation>
     </message>
 </context>
 <context>
     <name>QOcenAudioListView</name>
     <message>
         <source>Drop Files Here</source>
-        <translation type="unfinished"></translation>
+        <translation>여기에 파일 놓기</translation>
     </message>
     <message>
         <source>You can drop audio files, folders, archives, urls and playlists.</source>
-        <translation type="unfinished"></translation>
+        <translation>오디오 파일, 폴더, 아카이브, url, 재생목록을 놓을 수 없습니다.</translation>
     </message>
     <message>
         <source>Cancel</source>
-        <translation type="unfinished"></translation>
+        <translation>취소</translation>
     </message>
     <message>
         <source>Close</source>
-        <translation type="unfinished"></translation>
+        <translation>닫기</translation>
     </message>
     <message>
         <source>Play</source>
-        <translation type="unfinished"></translation>
+        <translation>재생</translation>
     </message>
     <message>
         <source>Stop</source>
-        <translation type="unfinished"></translation>
+        <translation>닫기</translation>
     </message>
     <message>
         <source>Link the view state of this audio to the current visible audio</source>
-        <translation type="unfinished"></translation>
+        <translation>이 오디오의 뷰 상태를 현재 보이는 오디오와 연결하기</translation>
     </message>
     <message>
         <source>Unlink the view state of this audio</source>
-        <translation type="unfinished"></translation>
+        <translation>이 오디오의 뷰 상태를 연결 해제하기</translation>
     </message>
     <message>
         <source>Link the view state of this audio to others linked audios (if any)</source>
-        <translation type="unfinished"></translation>
+        <translation>이 오디오의 뷰 상태를 다른 연결된 오디오와 연결하기</translation>
     </message>
     <message>
         <source>Save</source>
-        <translation type="unfinished"></translation>
+        <translation>저장</translation>
     </message>
 </context>
 <context>
     <name>QOcenAudioRegionMime</name>
     <message>
         <source>Region</source>
-        <translation type="unfinished"></translation>
+        <translation>영역</translation>
     </message>
     <message>
         <source>%1 from %2</source>
-        <translation type="unfinished"></translation>
+        <translation>%2 의 %1</translation>
     </message>
 </context>
 <context>
@@ -889,18 +889,18 @@ You should check your audio settings in the ocenaudio preferences pane.</source>
     <name>QOcenCanvas</name>
     <message>
         <source>You are about to delete %1 regions. Do you really want to do this?</source>
-        <translation type="unfinished"></translation>
+        <translation>%1 영역을 지우려 합니다. 정말 지우시겠습니까?</translation>
     </message>
 </context>
 <context>
     <name>QOcenCheckableMessageBox</name>
     <message>
         <source>Warning</source>
-        <translation type="unfinished"></translation>
+        <translation>경고</translation>
     </message>
     <message>
         <source>Message box text</source>
-        <translation type="unfinished"></translation>
+        <translation>메시지 박스 텍스트</translation>
     </message>
     <message>
         <source>Message box informative text</source>
@@ -908,48 +908,48 @@ You should check your audio settings in the ocenaudio preferences pane.</source>
     </message>
     <message>
         <source>Checkable option</source>
-        <translation type="unfinished"></translation>
+        <translation>옵션 체크 가능</translation>
     </message>
 </context>
 <context>
     <name>QOcenConfirmCloseDialog</name>
     <message>
         <source>Confirm Files Close</source>
-        <translation type="unfinished"></translation>
+        <translation>파일이 닫혔는지 확인</translation>
     </message>
     <message>
         <source>The following files have unsaved changes</source>
-        <translation type="unfinished"></translation>
+        <translation>이 파일들은 변경 사항들을 변경하지 않았습니다.</translation>
     </message>
     <message>
         <source>&amp;Save All</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp; 모두 저장</translation>
     </message>
     <message>
         <source>&amp;Save Selected</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp; 선택된 사항 저장</translation>
     </message>
 </context>
 <context>
     <name>QOcenEditMenuSeparator</name>
     <message>
         <source>-</source>
-        <translation type="unfinished"></translation>
+        <translation>-</translation>
     </message>
 </context>
 <context>
     <name>QOcenGeneralPrefs</name>
     <message>
         <source>Language</source>
-        <translation type="unfinished"></translation>
+        <translation>언어</translation>
     </message>
     <message>
         <source>Automatically check for updates</source>
-        <translation type="unfinished"></translation>
+        <translation>업데이트 자동 체크</translation>
     </message>
     <message>
         <source>Options</source>
-        <translation type="unfinished"></translation>
+        <translation>옵션</translation>
     </message>
     <message>
         <source>Color Scheme</source>
