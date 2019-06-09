@@ -981,7 +981,7 @@ You should check your audio settings in the ocenaudio preferences pane.</source>
     </message>
     <message>
         <source>System Language (%1)</source>
-        <translation type="unfinished"></translation>
+        <translation>시스템 언어</translation>
     </message>
     <message>
         <source>Aqua</source>
@@ -1004,7 +1004,7 @@ You should check your audio settings in the ocenaudio preferences pane.</source>
     <name>QOcenGetTextDialog</name>
     <message>
         <source>Dialog</source>
-        <translation type="unfinished"></translation>
+        <translation>다이얼로그</translation>
     </message>
     <message>
         <source>TextLabel</source>
@@ -1034,7 +1034,7 @@ You should check your audio settings in the ocenaudio preferences pane.</source>
     <name>QOcenKeyBindingsPrefs</name>
     <message>
         <source>Form</source>
-        <translation type="unfinished"></translation>
+        <translation>형식</translation>
     </message>
     <message>
         <source>Command</source>
@@ -1069,11 +1069,11 @@ You should check your audio settings in the ocenaudio preferences pane.</source>
     <name>QOcenListViewModeSelector</name>
     <message>
         <source>Show files with details</source>
-        <translation type="unfinished"></translation>
+        <translation>세부사항과 함께 파일 표시하기</translation>
     </message>
     <message>
         <source>Show files in list</source>
-        <translation type="unfinished"></translation>
+        <translation>목록의 파일 표시하기</translation>
     </message>
     <message>
         <source>Show files in grid</source>
@@ -1084,127 +1084,127 @@ You should check your audio settings in the ocenaudio preferences pane.</source>
     <name>QOcenMainWindow</name>
     <message>
         <source>All Files</source>
-        <translation type="unfinished"></translation>
+        <translation>모든 파일</translation>
     </message>
     <message>
         <source>Open Sound File</source>
-        <translation type="unfinished"></translation>
+        <translation>사운드 파일 열기</translation>
     </message>
     <message>
         <source>Warning</source>
-        <translation type="unfinished"></translation>
+        <translation>경고</translation>
     </message>
     <message>
         <source>Save Sound As ...</source>
-        <translation type="unfinished"></translation>
+        <translation>다른 이름으로 사운드 저장</translation>
     </message>
     <message>
         <source>The following files have unsaved changes</source>
-        <translation type="unfinished"></translation>
+        <translation>이 파일은 변경사항을 저장하지 않았습니다.</translation>
     </message>
     <message>
         <source>Question</source>
-        <translation type="unfinished"></translation>
+        <translation>질문</translation>
     </message>
     <message>
         <source>Do you want to save the changes you made in the sound “%1”?</source>
-        <translation type="unfinished"></translation>
+        <translation>사운드 “%1”의 변경사항들을 정말로 저장 하시겠습니까?</translation>
     </message>
     <message>
         <source>Your changes will be lost if you don’t save them.</source>
-        <translation type="unfinished"></translation>
+        <translation>그들을 저장하지 않으면 변경사항을 잃을 수 있습니다.</translation>
     </message>
     <message>
         <source>Save As...</source>
-        <translation type="unfinished"></translation>
+        <translation>다른 이름으로 저장하기</translation>
     </message>
     <message>
         <source>Save</source>
-        <translation type="unfinished"></translation>
+        <translation>저장</translation>
     </message>
     <message>
         <source>Cancel</source>
-        <translation type="unfinished"></translation>
+        <translation>취소</translation>
     </message>
     <message>
         <source>Don&apos;t Save</source>
-        <translation type="unfinished"></translation>
+        <translation>저&apos;t 장 하지않기</translation>
     </message>
     <message>
         <source>Save...</source>
-        <translation type="unfinished"></translation>
+        <translation>저장하기</translation>
     </message>
     <message>
         <source>&amp;Cancel</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;취소</translation>
     </message>
     <message>
         <source>Closing Files</source>
-        <translation type="unfinished"></translation>
+        <translation>파일 닫는 중</translation>
     </message>
     <message>
         <source>Closing %1 files...</source>
-        <translation type="unfinished"></translation>
+        <translation>%1 파일 닫는 중...</translation>
     </message>
     <message>
         <source>Keep ocenaudio Version</source>
-        <translation type="unfinished"></translation>
+        <translation>ocenaudio 버젼 유지하기</translation>
     </message>
     <message>
         <source>Revert</source>
-        <translation type="unfinished"></translation>
+        <translation>변경</translation>
     </message>
     <message>
         <source>Close</source>
-        <translation type="unfinished"></translation>
+        <translation>닫기</translation>
     </message>
     <message>
         <source>The current file&apos;s format does not support these settings. Do you want to make this changes anyway?</source>
-        <translation type="unfinished"></translation>
+        <translation>현재 파일&apos;의 형식은 이 셋칭을 지원하지 않습니다. 그래도 정말 변경 하시겠습니까?</translation>
     </message>
     <message>
         <source>If you proceed, you will have to save the file with a different format.</source>
-        <translation type="unfinished"></translation>
+        <translation>저장 하시려면, 파일을 다른 형식으로 저장하셔야 합니다.</translation>
     </message>
     <message>
         <source>The current file&apos;s format does not support regions and/or markers. Do you want to create this region anyway?</source>
-        <translation type="unfinished"></translation>
+        <translation>현재 파일&apos;의 형식은 영역과 마커를 지원하지 않습니다. 그래도 영역을 생성 하시겠습니까?</translation>
     </message>
     <message>
         <source>You are about to undo past the last point this sound was saved. Do you want to do this?</source>
-        <translation type="unfinished"></translation>
+        <translation>이 사운드가 저장된 지난 지점의 변경사항들을 취소 하려합니다. 정말 하시겠습니까?</translation>
     </message>
     <message>
         <source>This undo operation will revert your sound file data to a version prior to the last saved version.</source>
-        <translation type="unfinished"></translation>
+        <translation>이 취소 동작은 먼저 사운드 파일의 데이터 버젼을 이전 저장된 버젼으로 바꿀 것 입니다.</translation>
     </message>
     <message>
         <source>Undo</source>
-        <translation type="unfinished"></translation>
+        <translation>변경사항 취소</translation>
     </message>
     <message>
         <source>Don&apos;t Undo</source>
-        <translation type="unfinished"></translation>
+        <translation>취&apos;t 소 하지않기</translation>
     </message>
     <message>
         <source>You are about to combine two mono files with different sample rates. In order to proceed you must choose which sample rate use in the new combined audio.</source>
-        <translation type="unfinished"></translation>
+        <translation>두 모노 파일을 다른 샘플레이트로 합치려 합니다. 진행하려면 새롭게 합쳐진 파일에 적용될 샘플레이트를 정해야 합니다. </translation>
     </message>
     <message>
         <source>Which sample rate you want to use?</source>
-        <translation type="unfinished"></translation>
+        <translation>어느 샘플레이트로 하시겠습니까?</translation>
     </message>
     <message>
         <source>%1 Hz</source>
-        <translation type="unfinished"></translation>
+        <translation>%1 Hz</translation>
     </message>
     <message>
         <source>Audio format not changed</source>
-        <translation type="unfinished"></translation>
+        <translation>오디오 형식은 바뀌지 않았습니다.</translation>
     </message>
     <message>
         <source>The audio signal has already the selected format!</source>
-        <translation type="unfinished"></translation>
+        <translation>오디오 신호는 이미 형식을 정했습니다.</translation>
     </message>
     <message>
         <source>The conversion from region to loop will discard comments. You want to proceed?</source>
