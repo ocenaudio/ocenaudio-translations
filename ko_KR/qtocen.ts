@@ -1208,95 +1208,95 @@ You should check your audio settings in the ocenaudio preferences pane.</source>
     </message>
     <message>
         <source>The conversion from region to loop will discard comments. You want to proceed?</source>
-        <translation type="unfinished"></translation>
+        <translation>반복되는 영역의 변경은 설명을 지웁니다. 계속 진행 하시겠습니까?</translation>
     </message>
     <message>
         <source>Fatal Error</source>
-        <translation type="unfinished"></translation>
+        <translation>심각한 에러</translation>
     </message>
     <message>
         <source>Information</source>
-        <translation type="unfinished"></translation>
+        <translation>정보</translation>
     </message>
     <message>
         <source>Unsupported Format</source>
-        <translation type="unfinished"></translation>
+        <translation>지원하지 않는 형식</translation>
     </message>
     <message>
         <source>The maximum number of channels supported is %1 channels.</source>
-        <translation type="unfinished"></translation>
+        <translation>지원되는 채널의 최대 숫자는 %1 입니다.</translation>
     </message>
     <message>
         <source>The minimum sample rate supported is %1 Hz.</source>
-        <translation type="unfinished"></translation>
+        <translation>지원되는 최소 샘플링 레이트는 %1 Hz입니다.</translation>
     </message>
     <message>
         <source>The maximum sample rate supported is %1 Hz.</source>
-        <translation type="unfinished"></translation>
+        <translation>지원되는 최대 샘플링 레이트는 %1 Hz입니다.</translation>
     </message>
     <message>
         <source>Audio VST Check Failed</source>
-        <translation type="unfinished"></translation>
+        <translation>오디오 VST 체크 실패</translation>
     </message>
     <message>
         <source>An error occurred in the execution of VST plugin application. No VST plugin can be loaded in this condition.</source>
-        <translation type="unfinished"></translation>
+        <translation>VST 플러그인 앱의 실행동안에 에러가 발생 했습니다. 이 상태에서는 VST 플러그인은 실행되지 않습니다.</translation>
     </message>
     <message>
         <source>Audio not saved</source>
-        <translation type="unfinished"></translation>
+        <translation>오디오 저장 안됨</translation>
     </message>
     <message>
         <source>An error was encountered while saving your sound file “%1”!</source>
-        <translation type="unfinished"></translation>
+        <translation>%1 파일을 저장하는 동안에 에러가 발생 했습니다.</translation>
     </message>
     <message>
         <source>It was not possible to complete the save of file “%1” because the chosen container does not support metadata.</source>
-        <translation type="unfinished"></translation>
+        <translation>선택되어진 컨테이너는 지원하지 않는 메타데이터기 때문에 “%1” 파일을 저장할 수 없었습니다.</translation>
     </message>
     <message>
         <source>Your sound “%1” contains informations that can not be saved in the selected format. You want to continue and export to this format?</source>
-        <translation type="unfinished"></translation>
+        <translation>선택되어진 형식안에 이 소리가 저장될 수 없는 정보를 담고 있습니다. 이 형식을 계속 내보내시겠습니까? </translation>
     </message>
     <message>
         <source>Export</source>
-        <translation type="unfinished"></translation>
+        <translation>내보내기</translation>
     </message>
     <message>
         <source>Exporting As</source>
-        <translation type="unfinished"></translation>
+        <translation>다른 이름으로 내보내기</translation>
     </message>
     <message>
         <source>Unsupported information will not be present in the exported file.</source>
-        <translation type="unfinished"></translation>
+        <translation>내보낸 파일에 지원되지 않는 정보는 존재하지 않을 것 입니다.</translation>
     </message>
     <message>
         <source>The file for the sound that was at %1 is now empty. Do you want to keep as new, save or close the sound?</source>
-        <translation type="unfinished"></translation>
+        <translation>%1에 있던 소리를 위한 파일은 지금 비어있습니다.</translation>
     </message>
     <message>
         <source>The file for the sound that was at %1 is now corrupted. Do you want to keep as new, save or close the sound?</source>
-        <translation type="unfinished"></translation>
+        <translation>%1에 있던 소리를 위한 파일은 오류가 발생했습니다. 새롭게 만들어 저장 하시겠습니까?아니면 소리를 닫으시겠습니까? </translation>
     </message>
     <message>
         <source>Keep as New</source>
-        <translation type="unfinished"></translation>
+        <translation>새롭게 만들어 유지하기</translation>
     </message>
     <message>
         <source>The file for the sound that was at %1 has disappeared. The document has previously unsaved changes. Do you want to keep as new, save or close the sound?</source>
-        <translation type="unfinished"></translation>
+        <translation>%1에 있던 소리를 위한 파일이 사라졌습니다. 컴퓨터 문서에 이전에 저장이 되지않은 변경이 있습니다. 새롭게 만들어 저장 하시겠습니까?아니면 소리를 닫으시겠습니까? </translation>
     </message>
     <message>
         <source>Would you like to proceed and reencode the audio?</source>
-        <translation type="unfinished"></translation>
+        <translation>계속 진행하시겠습니까? 아니면 다시 인코딩 하시겠습니까?</translation>
     </message>
     <message>
         <source>Your changes affect only the metadata, however ocenaudio don&apos;t supports metadata update for this format. If you proceed, a complete rewrite of your file will be done (this may re-encode your audio signal).</source>
-        <translation type="unfinished"></translation>
+        <translation>이 변경은 메타데이터에만 영향을 미칩니다. 하지만 ocenaudio는 &apos; 이 형식의 메타데이터 업데이트를 지원하지 않습니다. 계속 진행하시면, 파일이 완전히 다시 써집니다. (이는 오디오 신호를 다시 인코딩 하게될 수 있습니다.</translation>
     </message>
     <message>
         <source>The file for the sound at %1 has been modified by another application. There are also unsaved changes in ocenaudio. Do you want to keep the ocenaudio version or revert to the version on disk?</source>
-        <translation type="unfinished"></translation>
+        <translation>%1의 소리를 위한 파일은 다른 앱에 의해 변경 되었습니다. ocenaudio에 저장이 되지 않은 변경이 있습니다. ocenaudio의 버전을 유지하시겠습니까? 아니면 변경 하시겠습니까?</translation>
     </message>
     <message>
         <source>The file for the sound that was at %1 has disappeared. Do you want to keep as new, save or close the sound?</source>
