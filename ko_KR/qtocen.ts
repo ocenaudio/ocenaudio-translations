@@ -1300,39 +1300,39 @@ You should check your audio settings in the ocenaudio preferences pane.</source>
     </message>
     <message>
         <source>The file for the sound that was at %1 has disappeared. Do you want to keep as new, save or close the sound?</source>
-        <translation type="unfinished"></translation>
+        <translation>%1의 소리를 위한 파일이 사라졌습니다. 새롭게 만들어 저장하시겠습니까? 아니면 소리를 닫으시겠습니까?</translation>
     </message>
     <message>
         <source>Supported Sound Files</source>
-        <translation type="unfinished"></translation>
+        <translation>지원되는 소리파일</translation>
     </message>
     <message>
         <source>Do you want to overwrite the backup copy of the original file?</source>
-        <translation type="unfinished"></translation>
+        <translation>원본 백업본에 덮어쓰시겠습니까?</translation>
     </message>
     <message>
         <source>The file “%1” already has a backup. If you proceed it will be replaced by the current version of this file.</source>
-        <translation type="unfinished"></translation>
+        <translation>%1 파일은 이미 백업본을 가지고 있습니다. 계속 진행하시면, 현재 파일로 대체될 것 입니다.</translation>
     </message>
     <message>
         <source>readonly</source>
-        <translation type="unfinished"></translation>
+        <translation>무작위로</translation>
     </message>
     <message>
         <source>This is an unrecoverable error and ocenaudio must quit!</source>
-        <translation type="unfinished"></translation>
+        <translation>이는 되돌릴 수 없는 에러입니다. ocenaudio가 종료됩니다.</translation>
     </message>
     <message>
         <source>If you continue all comments from this region will be removed.</source>
-        <translation type="unfinished"></translation>
+        <translation>계속 진행하시면, 영역에 있는 설명이 모두 지워집니다.</translation>
     </message>
     <message>
         <source>The disk you are using to save is full.</source>
-        <translation type="unfinished"></translation>
+        <translation>저장하려는 디스크의 공간이 없습니다.</translation>
     </message>
     <message>
         <source>File: %1</source>
-        <translation type="unfinished"></translation>
+        <translation>파일 : %1</translation>
     </message>
     <message>
         <source>
@@ -1341,18 +1341,18 @@ Storage: %1 mount on %2</source>
     </message>
     <message>
         <source>Disk Is Full</source>
-        <translation type="unfinished"></translation>
+        <translation>디스크 공간 부족</translation>
     </message>
 </context>
 <context>
     <name>QOcenNetworkPrefs</name>
     <message>
         <source>HTTP/HTTPS Proxy Configuration</source>
-        <translation type="unfinished"></translation>
+        <translation>HTTP/HTTPS 프록시 환경설정</translation>
     </message>
     <message>
         <source>Enable Proxy</source>
-        <translation type="unfinished"></translation>
+        <translation>프록시 가능하게 하기</translation>
     </message>
     <message>
         <source>Network OK</source>
@@ -1368,34 +1368,34 @@ Storage: %1 mount on %2</source>
     </message>
     <message>
         <source>Authentication</source>
-        <translation type="unfinished"></translation>
+        <translation>인증</translation>
     </message>
     <message>
         <source>Proxy server requires authentication</source>
-        <translation type="unfinished"></translation>
+        <translation>프록시 서버에서 인증을 요구합니다.</translation>
     </message>
     <message>
         <source>Username:</source>
-        <translation type="unfinished"></translation>
+        <translation>사용자이름:</translation>
     </message>
     <message>
         <source>Password:</source>
-        <translation type="unfinished"></translation>
+        <translation>비밀번호</translation>
     </message>
     <message>
         <source>Checking connectivity</source>
-        <translation type="unfinished"></translation>
+        <translation>연결 확인</translation>
     </message>
     <message>
         <source>No connectivity</source>
-        <translation type="unfinished"></translation>
+        <translation>연결 됨</translation>
     </message>
 </context>
 <context>
     <name>QOcenNotificationWidget</name>
     <message>
         <source>Press &apos;alt&apos; to close all</source>
-        <translation type="unfinished"></translation>
+        <translation>모두 닫기를 위해 &apos; alt&apos;를 누르세요.</translation>
     </message>
 </context>
 <context>
@@ -1406,87 +1406,87 @@ Storage: %1 mount on %2</source>
     </message>
     <message>
         <source>Opening &quot;%1&quot;</source>
-        <translation type="unfinished"></translation>
+        <translation> &quot;%1&quot; 여는 중</translation>
     </message>
     <message>
         <source>Question</source>
-        <translation type="unfinished"></translation>
+        <translation>질문</translation>
     </message>
     <message>
         <source>Warning</source>
-        <translation type="unfinished"></translation>
+        <translation>경고</translation>
     </message>
     <message>
         <source>Keep ocenaudio Version</source>
-        <translation type="unfinished"></translation>
+        <translation>ocenaudio 버젼 유지하기</translation>
     </message>
     <message>
         <source>Revert</source>
-        <translation type="unfinished"></translation>
+        <translation>바꾸기</translation>
     </message>
     <message>
         <source>File not found.</source>
-        <translation type="unfinished"></translation>
+        <translation>파일을 찾을 수 없습니다.</translation>
     </message>
     <message>
         <source>The file that was at %1 no longer exists.</source>
-        <translation type="unfinished"></translation>
+        <translation>%1에 있던 파일은 더이상 존재하지 않습니다.</translation>
     </message>
     <message>
         <source>Ok</source>
-        <translation type="unfinished"></translation>
+        <translation>확인</translation>
     </message>
     <message>
         <source>Open File Error</source>
-        <translation type="unfinished"></translation>
+        <translation>파일 열림 에러</translation>
     </message>
     <message>
         <source>An error occurred while trying to open the file “%1”.</source>
-        <translation type="unfinished"></translation>
+        <translation>%1 파일을 여는 동안 에러가 발생했습니다.</translation>
     </message>
     <message>
         <source>Apparently your file is empty.</source>
-        <translation type="unfinished"></translation>
+        <translation>명백하게 파일이 비었습니다.</translation>
     </message>
     <message>
         <source>The number of audio channels in this file has exceeded the maximum number of audio channels supported.</source>
-        <translation type="unfinished"></translation>
+        <translation>이 파일의 오디오채널 개수가 지원하는 최대 개수를 넘었습니다.</translation>
     </message>
     <message>
         <source>Check if your file have an incorrect or unsuported format.</source>
-        <translation type="unfinished"></translation>
+        <translation>파일이 올바른지 지원하는 파일인지 확인하세요.</translation>
     </message>
     <message>
         <source>No supported audio files found!</source>
-        <translation type="unfinished"></translation>
+        <translation>지원되는 오디오 파일을 찾을 수 없습니다.</translation>
     </message>
     <message>
         <source>The package “%1” does not contains any supported audio file.</source>
-        <translation type="unfinished"></translation>
+        <translation>%1 패키지는 지원되는 오디오 파일을 가지고 있지 않습니다.</translation>
     </message>
     <message>
         <source>File not found!</source>
-        <translation type="unfinished"></translation>
+        <translation>파일을 찾을 수 없습니다.</translation>
     </message>
     <message>
         <source>The file “%1” was not found. Check if your filename is valid and you have permission to open it.</source>
-        <translation type="unfinished"></translation>
+        <translation>”%1” 파일을 찾을 수 없습니다. 파일 이름이 올바른지 확인하고 열기 위한 승인을 가졌는지 학인하세요.</translation>
     </message>
     <message>
         <source>Analyzing files in %1 %2</source>
-        <translation type="unfinished"></translation>
+        <translation>%1과 %2의 파일 분석</translation>
     </message>
     <message>
         <source>Analyzing files in %1</source>
-        <translation type="unfinished"></translation>
+        <translation>%1의 파일 분석</translation>
     </message>
     <message>
         <source>The file for the sound at “%1” is already opened. There are also unsaved changes in ocenaudio.  Do you want to keep the ocenaudio version or revert to the version on disk?</source>
-        <translation type="unfinished"></translation>
+        <translation>%1의 소리를 위한 파일이 이미 열려 있습니다. 또한 ocenaudio에 저장되지 않은 변경시항이 있습니다. ocenaudio 버젼을 유지 하시겠습니까? 혹은 버젼을 변경 하시겠습니까?</translation>
     </message>
     <message>
         <source>Cue File Found</source>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
     <message>
         <source>A cue file containing %2 tracks associated with the “%1” file was found. You want to open these tracks separately?</source>
@@ -1494,110 +1494,110 @@ Storage: %1 mount on %2</source>
     </message>
     <message>
         <source>Open Tracks</source>
-        <translation type="unfinished"></translation>
+        <translation>트랙 열기</translation>
     </message>
     <message>
         <source>Open Original</source>
-        <translation type="unfinished"></translation>
+        <translation>원본 열기</translation>
     </message>
 </context>
 <context>
     <name>QOcenPluginManager</name>
     <message>
         <source>Warning</source>
-        <translation type="unfinished"></translation>
+        <translation>경고</translation>
     </message>
     <message>
         <source>The plugin &quot;%1&quot; is already installed on your system.</source>
-        <translation type="unfinished"></translation>
+        <translation>&quot;%1&quot; 플러그인은 이미 설치되어져 있습니다.</translation>
     </message>
     <message>
         <source>To proceed with the installation it is necessary to first remove the currently installed version of this plugin.</source>
-        <translation type="unfinished"></translation>
+        <translation>설치를 진행하려면 현재 설치된 플러그인 버젼을 먼저 지워야 합니다.</translation>
     </message>
     <message>
         <source>The plugin &quot;%1&quot; is not compatible with your ocenaudio version.</source>
-        <translation type="unfinished"></translation>
+        <translation>&quot;%1&quot; 플러그인은 설치된 ocenaudio 버젼과 맞지 않습니다.</translation>
     </message>
     <message>
         <source>To proceed with the installation it is necessary to first update ocenaudio.</source>
-        <translation type="unfinished"></translation>
+        <translation>계속 진행하려면 먼저 ocenaudio를 업데이트 해야합니다.</translation>
     </message>
     <message>
         <source>Question</source>
-        <translation type="unfinished"></translation>
+        <translation>질문</translation>
     </message>
     <message>
         <source>Do you want to proceed with the installation of the plugin &quot;%1&quot;?</source>
-        <translation type="unfinished"></translation>
+        <translation> &quot;%1&quot; 플러그인의 설치를 계속 진행 하시겠습니까?</translation>
     </message>
     <message>
         <source>If you proceed ocenaudio will check the integrity, install and load the selected plugin package.</source>
-        <translation type="unfinished"></translation>
+        <translation>계속 진행 하시면, ocenaudio는 무결성을 확인하고 선택된 플러그인 패키지를 설치하고 로드할 것 입니다.</translation>
     </message>
     <message>
         <source>Error</source>
-        <translation type="unfinished"></translation>
+        <translation>에러</translation>
     </message>
     <message>
         <source>The verification process has detected errors in the &quot;%1&quot; plugin package.</source>
-        <translation type="unfinished"></translation>
+        <translation> &quot;%1&quot; 플러그인 패키지의 확인 과정에서 에러가 발견 되었습니다.</translation>
     </message>
     <message>
         <source>The verification process has detected one or more inconsistency in this package. Therefore this installation process was interrupted.</source>
-        <translation type="unfinished"></translation>
+        <translation>이 패키지의 확인 과정에서 한개 이상의 불일치가 발견 되었습니다. 그러므로 설치가 방해 받았습니다.</translation>
     </message>
     <message>
         <source>Unable to install the plugin &quot;%1&quot;.</source>
-        <translation type="unfinished"></translation>
+        <translation> &quot;%1&quot; 플러그인을 설치할 수 없습니다.</translation>
     </message>
     <message>
         <source>One or more errors were detected during the installation process. You can try again and if the error persists contact the ocenaudio team.</source>
-        <translation type="unfinished"></translation>
+        <translation>설치괴정 동안에 하나 이상의 에러가 발견 되었습니다. 다시 시도하거나 에러가 지속 되면 ocenaudio로 연락해 주세요.</translation>
     </message>
     <message>
         <source>Invalid Plugin Code Signature</source>
-        <translation type="unfinished"></translation>
+        <translation>플러그인 코드 서명이 유효하지 않습니다.</translation>
     </message>
     <message>
         <source>This means %1 plugin has been tampered, possibly making it less secure. The plugin cannot be loaded in this state. It is necessary to reinstall the %1 plugin in order to use it.</source>
-        <translation type="unfinished"></translation>
+        <translation>이것은 %1 플러그인이 만료 되었음을 의미합니다. 불안전할 수 있습니다. 이 상태에서 플러그인이 로드될 수 없습니다. 이것을 사용하려면 %1 플러그인을 재설치 해야합니다.</translation>
     </message>
 </context>
 <context>
     <name>QOcenPluginPrefs</name>
     <message>
         <source>Preferences</source>
-        <translation type="unfinished"></translation>
+        <translation>참조</translation>
     </message>
     <message>
         <source>Done</source>
-        <translation type="unfinished"></translation>
+        <translation>마침</translation>
     </message>
     <message>
         <source>Back</source>
-        <translation type="unfinished"></translation>
+        <translation>뒤로가기</translation>
     </message>
 </context>
 <context>
     <name>QOcenPreferences</name>
     <message>
         <source>Settings</source>
-        <translation type="unfinished"></translation>
+        <translation>설정</translation>
     </message>
 </context>
 <context>
     <name>QOcenQuickOpenWidget</name>
     <message>
         <source>File or http address</source>
-        <translation type="unfinished"></translation>
+        <translation>파일 또는 http 주소</translation>
     </message>
 </context>
 <context>
     <name>QOcenSaveFileDialog</name>
     <message>
         <source>Question</source>
-        <translation type="unfinished"></translation>
+        <translation>질문</translation>
     </message>
     <message>
         <source>The selected format doesn&apos;t support regions and markers. Do you want to proceed without save regions?</source>
