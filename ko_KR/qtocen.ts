@@ -1601,77 +1601,77 @@ Storage: %1 mount on %2</source>
     </message>
     <message>
         <source>The selected format doesn&apos;t support regions and markers. Do you want to proceed without save regions?</source>
-        <translation type="unfinished"></translation>
+        <translation>선택된 형식은 영역과 마커를 지원하지 않습니다. 영역을 제외하고 저장을 진행 하시겠습니까?</translation>
     </message>
     <message>
         <source>If you continue the saved file will not contain the regions created in this audio.</source>
-        <translation type="unfinished"></translation>
+        <translation>계속 진행하시면 저장된 파일은 이 오디오에 생성된 영역을 저장하지 않습니다.</translation>
     </message>
     <message>
         <source>Format</source>
-        <translation type="unfinished"></translation>
+        <translation>형식</translation>
     </message>
 </context>
 <context>
     <name>QOcenSettingsDialog</name>
     <message>
         <source>Settings</source>
-        <translation type="unfinished"></translation>
+        <translation>설정</translation>
     </message>
     <message>
         <source>Search</source>
-        <translation type="unfinished"></translation>
+        <translation>찾기</translation>
     </message>
     <message>
         <source>Edit</source>
-        <translation type="unfinished"></translation>
+        <translation>변경</translation>
     </message>
     <message>
         <source>Reset</source>
-        <translation type="unfinished"></translation>
+        <translation>되돌리기</translation>
     </message>
     <message>
         <source>Remove</source>
-        <translation type="unfinished"></translation>
+        <translation>삭제</translation>
     </message>
 </context>
 <context>
     <name>QOcenSoundPrefs</name>
     <message>
         <source>Playback Device/Options</source>
-        <translation type="unfinished"></translation>
+        <translation>재생장치/옵션</translation>
     </message>
     <message>
         <source>Options</source>
-        <translation type="unfinished"></translation>
+        <translation>옵션</translation>
     </message>
     <message>
         <source>Move cursor to playback stop position</source>
-        <translation type="unfinished"></translation>
+        <translation>재생을 멈춘 곳으로 커서 이동</translation>
     </message>
     <message>
         <source>Record Device/Options</source>
-        <translation type="unfinished"></translation>
+        <translation>녹음 장치/옵션</translation>
     </message>
     <message>
         <source>Move cursor to record stop position</source>
-        <translation type="unfinished"></translation>
+        <translation>녹음을 멈춘 곳으로 커서 이동</translation>
     </message>
     <message>
         <source>Mixer Sample Rate</source>
-        <translation type="unfinished"></translation>
+        <translation>믹서 샘플링 레이트</translation>
     </message>
     <message>
         <source>48000 Hz</source>
-        <translation type="unfinished"></translation>
+        <translation>48000 Hz</translation>
     </message>
     <message>
         <source>44100 Hz</source>
-        <translation type="unfinished"></translation>
+        <translation>44100 Hz</translation>
     </message>
     <message>
         <source>22050 Hz</source>
-        <translation type="unfinished"></translation>
+        <translation>22050 Hz</translation>
     </message>
     <message>
         <source>Mixer Backend</source>
@@ -1703,15 +1703,15 @@ Storage: %1 mount on %2</source>
     </message>
     <message>
         <source>Select Playback device</source>
-        <translation type="unfinished"></translation>
+        <translation>재생장치 선택</translation>
     </message>
     <message>
         <source>Record Device</source>
-        <translation type="unfinished"></translation>
+        <translation>녹음 장치</translation>
     </message>
     <message>
         <source>Select record device</source>
-        <translation type="unfinished"></translation>
+        <translation>녹음장치 선택</translation>
     </message>
     <message>
         <source>Preroll Time</source>
@@ -1723,35 +1723,35 @@ Storage: %1 mount on %2</source>
     </message>
     <message>
         <source>Sample Rate</source>
-        <translation type="unfinished"></translation>
+        <translation>샘플 레이트</translation>
     </message>
     <message>
         <source>Select the mixer sample rate</source>
-        <translation type="unfinished"></translation>
+        <translation>믹서 샘플 레이트 선택</translation>
     </message>
     <message>
         <source>Buffer Size</source>
-        <translation type="unfinished"></translation>
+        <translation>버퍼 크기</translation>
     </message>
     <message>
         <source>128 samples</source>
-        <translation type="unfinished"></translation>
+        <translation>128 samples</translation>
     </message>
     <message>
         <source>256 samples</source>
-        <translation type="unfinished"></translation>
+        <translation>256 samples</translation>
     </message>
     <message>
         <source>512 samples</source>
-        <translation type="unfinished"></translation>
+        <translation>512 samples</translation>
     </message>
     <message>
         <source>1024 samples</source>
-        <translation type="unfinished"></translation>
+        <translation>1024 samples</translation>
     </message>
     <message>
         <source>2048 samples</source>
-        <translation type="unfinished"></translation>
+        <translation>2048 samples</translation>
     </message>
     <message>
         <source>Select the mixer backend API</source>
@@ -1759,19 +1759,19 @@ Storage: %1 mount on %2</source>
     </message>
     <message>
         <source>samples</source>
-        <translation type="unfinished"></translation>
+        <translation>samples</translation>
     </message>
     <message>
         <source>Playback Device</source>
-        <translation type="unfinished"></translation>
+        <translation>재생 장치</translation>
     </message>
     <message>
         <source>%1 channels</source>
-        <translation type="unfinished"></translation>
+        <translation>%1 채널</translation>
     </message>
     <message>
         <source>%1 s</source>
-        <translation type="unfinished"></translation>
+        <translation>%1 s</translation>
     </message>
     <message>
         <source>Custom</source>
@@ -1779,7 +1779,7 @@ Storage: %1 mount on %2</source>
     </message>
     <message>
         <source>No Devices Found</source>
-        <translation type="unfinished"></translation>
+        <translation>장치를 찾지 못했습니다.</translation>
     </message>
     <message>
         <source>No common sampling rate</source>
@@ -1787,15 +1787,15 @@ Storage: %1 mount on %2</source>
     </message>
     <message>
         <source>Select recorded audio</source>
-        <translation type="unfinished"></translation>
+        <translation>녹음된 오디오 선택</translation>
     </message>
     <message>
         <source>Audio Device</source>
-        <translation type="unfinished"></translation>
+        <translation>오디오 장치</translation>
     </message>
     <message>
         <source>Replace existing audio (overwrite mode)</source>
-        <translation type="unfinished"></translation>
+        <translation>존재하는 오디오 대체(덮어쓰기 모드)</translation>
     </message>
     <message>
         <source>Use only full duplex devices</source>
@@ -1803,15 +1803,15 @@ Storage: %1 mount on %2</source>
     </message>
     <message>
         <source>Pause playback on markers</source>
-        <translation type="unfinished"></translation>
+        <translation>표시된 곳에서 재생 멈춤</translation>
     </message>
     <message>
         <source>Playback Options</source>
-        <translation type="unfinished"></translation>
+        <translation>재생 옵션</translation>
     </message>
     <message>
         <source>Record Options</source>
-        <translation type="unfinished"></translation>
+        <translation>녹음 옵션</translation>
     </message>
     <message>
         <source>No Full-Duplex Devices Found</source>
@@ -1819,14 +1819,14 @@ Storage: %1 mount on %2</source>
     </message>
     <message>
         <source>Continue to play next/selected audio </source>
-        <translation type="unfinished"></translation>
+        <translation>연속으로 다음/선택된 오디오 재생</translation>
     </message>
 </context>
 <context>
     <name>QOcenSpectrogramPrefs</name>
     <message>
         <source>Form</source>
-        <translation type="unfinished"></translation>
+        <translation>형식</translation>
     </message>
     <message>
         <source>Presets</source>
@@ -1834,7 +1834,7 @@ Storage: %1 mount on %2</source>
     </message>
     <message>
         <source>Settings</source>
-        <translation type="unfinished"></translation>
+        <translation>설정</translation>
     </message>
     <message>
         <source>100%</source>
@@ -1846,7 +1846,7 @@ Storage: %1 mount on %2</source>
     </message>
     <message>
         <source>Color Settings</source>
-        <translation type="unfinished"></translation>
+        <translation>색상 설정</translation>
     </message>
     <message>
         <source>Normalize</source>
@@ -1906,7 +1906,7 @@ Storage: %1 mount on %2</source>
     </message>
     <message>
         <source>Color</source>
-        <translation type="unfinished"></translation>
+        <translation>색상</translation>
     </message>
     <message>
         <source>Spectrogram Presets</source>
@@ -1922,7 +1922,7 @@ Storage: %1 mount on %2</source>
     </message>
     <message>
         <source>Window Size</source>
-        <translation type="unfinished"></translation>
+        <translation>창 크기</translation>
     </message>
     <message>
         <source>Dynamic Range</source>
@@ -1930,7 +1930,7 @@ Storage: %1 mount on %2</source>
     </message>
     <message>
         <source>Window Type</source>
-        <translation type="unfinished"></translation>
+        <translation>창 타입</translation>
     </message>
     <message>
         <source>Select the windowing function type. Window functions are used in signal processing to minimize the effect of spectral leakages</source>
@@ -1938,7 +1938,7 @@ Storage: %1 mount on %2</source>
     </message>
     <message>
         <source>Color Scheme</source>
-        <translation type="unfinished"></translation>
+        <translation>색상 스키마</translation>
     </message>
     <message>
         <source>Select Spectrogram Color Scheme</source>
