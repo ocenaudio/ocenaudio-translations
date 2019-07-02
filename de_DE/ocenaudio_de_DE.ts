@@ -836,7 +836,7 @@
     </message>
     <message>
         <source>Hide Navigator</source>
-        <translation type="unfinished">Navigator verbergen</translation>
+        <translation>Navigator verbergen</translation>
     </message>
     <message>
         <source>Donate Now!</source>
@@ -3979,7 +3979,7 @@ Channel
     </message>
     <message>
         <source>MPEG</source>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
     <message>
         <source>Type:</source>
@@ -3987,11 +3987,11 @@ Channel
     </message>
     <message>
         <source>MPEG Audio Layer III (MP3)</source>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
     <message>
         <source>MPEG Audio Layer II (MP2)</source>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
 </context>
 <context>
@@ -5362,7 +5362,7 @@ auf Ihrem Computer oder in Ihrem Netzwerk ein, um sie zu öffnen:</translation>
     </message>
     <message>
         <source>samples</source>
-        <translation type="unfinished"></translation>
+        <translation>samples</translation>
     </message>
 </context>
 <context>

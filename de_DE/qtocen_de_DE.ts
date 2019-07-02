@@ -794,6 +794,14 @@
         <source>Zoom Out Vertical</source>
         <translation type="unfinished"></translation>
     </message>
+    <message>
+        <source>Press %1 to create!</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Apply</source>
+        <translation>Anwenden</translation>
+    </message>
 </context>
 <context>
     <name>QOcenApplication</name>
@@ -1019,7 +1027,7 @@ You should check your audio settings in the ocenaudio preferences pane.</source>
     <name>QOcenEditMenuSeparator</name>
     <message>
         <source>-</source>
-        <translation type="unfinished">-</translation>
+        <translation></translation>
     </message>
 </context>
 <context>

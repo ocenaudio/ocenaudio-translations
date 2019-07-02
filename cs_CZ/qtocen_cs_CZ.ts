@@ -794,6 +794,14 @@
         <source>Zoom Out Vertical</source>
         <translation type="unfinished"></translation>
     </message>
+    <message>
+        <source>Press %1 to create!</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Apply</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>QOcenApplication</name>
