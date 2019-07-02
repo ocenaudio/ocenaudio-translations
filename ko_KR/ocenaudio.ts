@@ -208,7 +208,7 @@
     </message>
     <message>
         <source>Zoom Selection</source>
-        <translation type="unfinished"></translation>
+        <translation>줌 선택</translation>
     </message>
     <message>
         <source>Zoom In</source>
@@ -224,11 +224,11 @@
     </message>
     <message>
         <source>Vertical Zoom In</source>
-        <translation>모름</translation>
+        <translation>세로 확대</translation>
     </message>
     <message>
         <source>Vertical Zoom Out</source>
-        <translation>모름</translation>
+        <translation>세로 축소</translation>
     </message>
     <message>
         <source>Restore Vertical Zoom</source>
@@ -236,7 +236,7 @@
     </message>
     <message>
         <source>-</source>
-        <translation> - </translation>
+        <translation>-</translation>
     </message>
     <message>
         <source>Save Copy As...</source>
@@ -276,11 +276,11 @@
     </message>
     <message>
         <source>Normalize...</source>
-        <translation>모름</translation>
+        <translation>정상화...</translation>
     </message>
     <message>
         <source>DC Offset...</source>
-        <translation>모름</translation>
+        <translation>DC 오프셋</translation>
     </message>
     <message>
         <source>Hide Toolbar</source>
@@ -288,7 +288,7 @@
     </message>
     <message>
         <source>Hide Waveform Navigator</source>
-        <translation>모름</translation>
+        <translation>파형 네비게이터 숨기기</translation>
     </message>
     <message>
         <source>Show Sidebar</source>
@@ -316,7 +316,7 @@
     </message>
     <message>
         <source>Clear History</source>
-        <translation>모름</translation>
+        <translation>내역 비우기</translation>
     </message>
     <message>
         <source>Lowpass Filter...</source>
@@ -356,11 +356,11 @@
     </message>
     <message>
         <source>Flanger...</source>
-        <translation>모름</translation>
+        <translation>플렌저...</translation>
     </message>
     <message>
         <source>Chorus...</source>
-        <translation>모름</translation>
+        <translation>코러스...</translation>
     </message>
     <message>
         <source>Reverb...</source>
@@ -368,19 +368,19 @@
     </message>
     <message>
         <source>Vibrato...</source>
-        <translation>모름</translation>
+        <translation>비브라토...</translation>
     </message>
     <message>
         <source>Compressor...</source>
-        <translation>모름</translation>
+        <translation>컴프레서...</translation>
     </message>
     <message>
         <source>Expander...</source>
-        <translation>모름</translation>
+        <translation>익스펜더...</translation>
     </message>
     <message>
         <source>Limiter...</source>
-        <translation>모름</translation>
+        <translation>리미터...</translation>
     </message>
     <message>
         <source>Noise Gate...</source>
@@ -408,15 +408,15 @@
     </message>
     <message>
         <source>Export Selection...</source>
-        <translation>모름</translation>
+        <translation>내보내기 선택...</translation>
     </message>
     <message>
         <source>PlaceHolder</source>
-        <translation>모름</translation>
+        <translation>플레이스 홀더</translation>
     </message>
     <message>
         <source>Add Marker</source>
-        <translation>모름</translation>
+        <translation>표시 추가</translation>
     </message>
     <message>
         <source>Show All</source>
@@ -424,7 +424,7 @@
     </message>
     <message>
         <source>Show Regions</source>
-        <translation>모름</translation>
+        <translation>영역 보기</translation>
     </message>
     <message>
         <source>Show Loops</source>
@@ -432,7 +432,7 @@
     </message>
     <message>
         <source>Show Markers</source>
-        <translation>마커 보기</translation>
+        <translation>표시 보기</translation>
     </message>
     <message>
         <source>Create iPhone Ringtone...</source>
@@ -440,15 +440,15 @@
     </message>
     <message>
         <source>Snap to Scale Tick</source>
-        <translation>모름</translation>
+        <translation>척도 눈금에 맞추기</translation>
     </message>
     <message>
         <source>Snap to Zero Cross</source>
-        <translation>모름</translation>
+        <translation>영점에 맞추기</translation>
     </message>
     <message>
         <source>Regions and Markers...</source>
-        <translation>모름</translation>
+        <translation>영역과 표시</translation>
     </message>
     <message>
         <source>Remove All Metadata</source>
@@ -468,23 +468,23 @@
     </message>
     <message>
         <source>Select Audio From Regions</source>
-        <translation>모름</translation>
+        <translation>영역에서 오디오 선택</translation>
     </message>
     <message>
         <source>Export Audio From Regions...</source>
-        <translation>모름</translation>
+        <translation>영역엣 오디오 내보내기</translation>
     </message>
     <message>
         <source>Import Regions...</source>
-        <translation>모름</translation>
+        <translation>영역 가져오기...</translation>
     </message>
     <message>
         <source>Mini Level Meter</source>
-        <translation>모름</translation>
+        <translation>소형 레벨계</translation>
     </message>
     <message>
         <source>Full-size Level Meter</source>
-        <translation>모름</translation>
+        <translation>최대 레벨계</translation>
     </message>
     <message>
         <source>Play and Select</source>
@@ -500,35 +500,35 @@
     </message>
     <message>
         <source>Dirac LE</source>
-        <translation>모름</translation>
+        <translation>Direc LE</translation>
     </message>
     <message>
         <source>Split Audio at Markers</source>
-        <translation>모름</translation>
+        <translation>표시에서 오디오 나누기</translation>
     </message>
     <message>
         <source>Goto Preview Marker</source>
-        <translation>모름</translation>
+        <translation>프리뷰 표시로 이동</translation>
     </message>
     <message>
         <source>Next Zero Crossing</source>
-        <translation></translation>
+        <translation>다음 영점</translation>
     </message>
     <message>
         <source>Prev Zero Crossing</source>
-        <translation></translation>
+        <translation>이전 영점</translation>
     </message>
     <message>
         <source>Fade...</source>
-        <translation type="unfinished"></translation>
+        <translation>희미하게...</translation>
     </message>
     <message>
         <source>Hide Markers Label</source>
-        <translation type="unfinished"></translation>
+        <translation>표시 라벨 숨기기</translation>
     </message>
     <message>
         <source>Detect DTMF Tones</source>
-        <translation>모름</translation>
+        <translation>DTMF 톤 탐색하기</translation>
     </message>
     <message>
         <source>Rescan Audio Devices</source>
@@ -536,7 +536,7 @@
     </message>
     <message>
         <source>Meta+Space</source>
-        <translation>모름</translation>
+        <translation>Meta+Space</translation>
     </message>
     <message>
         <source>Send Crash Report...</source>
@@ -556,7 +556,7 @@
     </message>
     <message>
         <source>Preroll</source>
-        <translation>모름</translation>
+        <translation>프리롤</translation>
     </message>
     <message>
         <source>Ctrl+P</source>
@@ -652,7 +652,7 @@
     </message>
     <message>
         <source>&amp;Amplitude</source>
-        <translation>모름</translation>
+        <translation>&amp;진폭</translation>
     </message>
     <message>
         <source>&amp;New...</source>
@@ -768,39 +768,39 @@
     </message>
     <message>
         <source>&amp;Invert Selection</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;선택 뒤집기</translation>
     </message>
     <message>
         <source>&amp;FFT Analysis</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;FFT 분석</translation>
     </message>
     <message>
         <source>&amp;Normalize</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp; 표준화하기</translation>
     </message>
     <message>
         <source>&amp;Invert</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp; 뒤집기</translation>
     </message>
     <message>
         <source>&amp;Export...</source>
-        <translation>내보내기</translation>
+        <translation>&amp;내보내기</translation>
     </message>
     <message>
         <source>&amp;Metadata...</source>
-        <translation> &amp; 메타데이터</translation>
+        <translation> &amp;메타데이터</translation>
     </message>
     <message>
         <source>&amp;Redo</source>
-        <translation> &amp; 다시 하기</translation>
+        <translation>&amp;다시 하기</translation>
     </message>
     <message>
         <source>&amp;Quit</source>
-        <translation> &amp; 나가기</translation>
+        <translation>&amp;나가기</translation>
     </message>
     <message>
         <source>S&amp;mooth</source>
-        <translation type="unfinished"></translation>
+        <translation>잔&amp;잔한</translation>
     </message>
     <message>
         <source>Pa&amp;use</source>
@@ -910,7 +910,7 @@
     </message>
     <message>
         <source>Uniform</source>
-        <translation type="unfinished"></translation>
+        <translation>유니폼</translation>
     </message>
     <message>
         <source>Configuration</source>
@@ -993,7 +993,7 @@
     </message>
     <message>
         <source>Wet</source>
-        <translation>웻</translation>
+        <translation>Wet</translation>
     </message>
     <message>
         <source>10,6 ms</source>
@@ -1167,19 +1167,19 @@
     </message>
     <message>
         <source>Expander</source>
-        <translation></translation>
+        <translation>익스펜더</translation>
     </message>
     <message>
         <source>-30 dB</source>
-        <translation type="unfinished"></translation>
+        <translation>-30 dB</translation>
     </message>
     <message>
         <source>Limiter</source>
-        <translation type="unfinished"></translation>
+        <translation>리미터</translation>
     </message>
     <message>
         <source>-2dB</source>
-        <translation type="unfinished"></translation>
+        <translation>-2dB</translation>
     </message>
     <message>
         <source>Noise Gate</source>
@@ -1191,7 +1191,7 @@
     </message>
     <message>
         <source>Attack</source>
-        <translation type="unfinished"></translation>
+        <translation>조음 개시</translation>
     </message>
     <message>
         <source>Fast</source>
@@ -1207,7 +1207,7 @@
     </message>
     <message>
         <source>Release</source>
-        <translation type="unfinished"></translation>
+        <translation>배포</translation>
     </message>
     <message>
         <source>5 ms</source>
@@ -1243,15 +1243,15 @@
     </message>
     <message>
         <source>Applying Expansor</source>
-        <translation type="unfinished"></translation>
+        <translation>익스펜서 적용</translation>
     </message>
     <message>
         <source>Expansor</source>
-        <translation type="unfinished"></translation>
+        <translation>익스펜서</translation>
     </message>
     <message>
         <source>Applying Limiter</source>
-        <translation type="unfinished"></translation>
+        <translation>리미터 적용</translation>
     </message>
     <message>
         <source>Applying Noise Gate</source>
@@ -1270,7 +1270,7 @@
     </message>
     <message>
         <source>Direction</source>
-        <translation type="unfinished"></translation>
+        <translation>디렉션</translation>
     </message>
     <message>
         <source>Fade In</source>
@@ -1282,19 +1282,19 @@
     </message>
     <message>
         <source>Curve</source>
-        <translation type="unfinished"></translation>
+        <translation>곡선</translation>
     </message>
     <message>
         <source>Linear</source>
-        <translation type="unfinished"></translation>
+        <translation>선형</translation>
     </message>
     <message>
         <source>Cosine</source>
-        <translation type="unfinished"></translation>
+        <translation>코사인</translation>
     </message>
     <message>
         <source>Exponential</source>
-        <translation type="unfinished"></translation>
+        <translation>지수의</translation>
     </message>
     <message>
         <source>Use this curve for all fade operations</source>
@@ -1306,7 +1306,7 @@
     </message>
     <message>
         <source>Logarithmic</source>
-        <translation type="unfinished"></translation>
+        <translation>로그</translation>
     </message>
     <message>
         <source>Applying %1 </source>
@@ -1325,7 +1325,7 @@
     </message>
     <message>
         <source>Passband Limit</source>
-        <translation type="unfinished"></translation>
+        <translation>통과대역 제한</translation>
     </message>
     <message>
         <source>10,6 ms</source>
@@ -1341,23 +1341,23 @@
     </message>
     <message>
         <source>Passband Limits</source>
-        <translation type="unfinished"></translation>
+        <translation>통과대역 제한</translation>
     </message>
     <message>
         <source>Bandstop</source>
-        <translation type="unfinished"></translation>
+        <translation>Bandstop</translation>
     </message>
     <message>
         <source>Rolloff</source>
-        <translation type="unfinished"></translation>
+        <translation>Rolloff</translation>
     </message>
     <message>
         <source>Passband Atenuation</source>
-        <translation type="unfinished"></translation>
+        <translation>통과대역 감쇠</translation>
     </message>
     <message>
         <source>%1 dB/decade</source>
-        <translation type="unfinished"></translation>
+        <translation>%1 db/decade</translation>
     </message>
     <message>
         <source>Applying Lowpass Filter</source>
@@ -1412,7 +1412,7 @@
     </message>
     <message>
         <source>Invert</source>
-        <translation type="unfinished"></translation>
+        <translation>뒤집기</translation>
     </message>
     <message>
         <source>Right</source>
@@ -1444,11 +1444,11 @@
     </message>
     <message>
         <source>Gain Unit</source>
-        <translation type="unfinished"></translation>
+        <translation>소리 단위</translation>
     </message>
     <message>
         <source>Percentual</source>
-        <translation type="unfinished"></translation>
+        <translation>Percentual</translation>
     </message>
     <message>
         <source>Decibels</source>
@@ -1464,7 +1464,7 @@
     </message>
     <message>
         <source>Amplitude</source>
-        <translation type="unfinished"></translation>
+        <translation>진폭</translation>
     </message>
     <message>
         <source>Changing gain</source>
