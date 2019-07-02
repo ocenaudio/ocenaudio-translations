@@ -287,10 +287,6 @@
         <translation>Ocultar barra de herramientas</translation>
     </message>
     <message>
-        <source>Hide Waveform Navigator</source>
-        <translation>Ocultar navegador en forma onda</translation>
-    </message>
-    <message>
         <source>Show Sidebar</source>
         <translation>Mostrar barra lateral</translation>
     </message>
@@ -836,6 +832,18 @@
     </message>
     <message>
         <source>Reduce to Previous Marker (from end)</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Hide Navigator</source>
+        <translation type="unfinished">Ocultar navegador</translation>
+    </message>
+    <message>
+        <source>Donate Now!</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Show Audio Tools</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -1962,6 +1970,42 @@
         <source>Plugins Preferences</source>
         <translation>Preferencias de complementos</translation>
     </message>
+    <message>
+        <source>Mono</source>
+        <translation type="unfinished">Mono</translation>
+    </message>
+    <message>
+        <source>Stereo</source>
+        <translation type="unfinished">Estéreo</translation>
+    </message>
+    <message>
+        <source>Dual Channel</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Swap Channels</source>
+        <translation type="unfinished">Cambiar canales</translation>
+    </message>
+    <message>
+        <source>Converting to Mono</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Convert to Mono</source>
+        <translation type="unfinished">Convertir a Mono</translation>
+    </message>
+    <message>
+        <source>Converting to Stereo</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Convert to Stereo</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Undo</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>QOcenAboutDialog</name>
@@ -2043,6 +2087,26 @@ Haga clic aquí para descargarla.</translation>
     <message>
         <source>New Plugin Installed</source>
         <translation>Nuevo complemento instalado</translation>
+    </message>
+    <message>
+        <source>Sending log reports</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Clearing thread pool</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Help us improve ocenaudio</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>By contributing, you are enabling ocenaudio to grow and mature.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Donate now!</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -2630,10 +2694,6 @@ Canal
         <translation>Generación de silencio</translation>
     </message>
     <message>
-        <source>Applying Fade</source>
-        <translation>Aplicando desvanecimiento</translation>
-    </message>
-    <message>
         <source>Fade In</source>
         <translation>Aparecer progresivamente</translation>
     </message>
@@ -3015,6 +3075,50 @@ Canal
     </message>
     <message>
         <source>Reduce Selection to Previous Marker</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Silence</source>
+        <translation type="unfinished">Silencio</translation>
+    </message>
+    <message>
+        <source>Normalize</source>
+        <translation type="unfinished">Normalizar</translation>
+    </message>
+    <message>
+        <source>Invert</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Reverse</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Smooth</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Remove Dc</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Applying Fade In</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Applying Fade Out</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Hide Canvas Tools</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Show Canvas Tools</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>readonly</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -3614,10 +3718,6 @@ Canal
         <translation>CAF</translation>
     </message>
     <message>
-        <source>MP3</source>
-        <translation>MP3</translation>
-    </message>
-    <message>
         <source>Use Variable Bit Rate Encoding (VBR)</source>
         <translation>Usar codificación de Tasa de Bits Variable (VBR)</translation>
     </message>
@@ -3754,10 +3854,6 @@ Canal
         <translation>Tasa de Bits:</translation>
     </message>
     <message>
-        <source>Quantizer Quality:</source>
-        <translation>Calidad de cuantizador:</translation>
-    </message>
-    <message>
         <source>OGG</source>
         <translation>OGG</translation>
     </message>
@@ -3888,6 +3984,22 @@ Canal
     <message>
         <source>Last export path</source>
         <translation>Última ruta de exportación</translation>
+    </message>
+    <message>
+        <source>MPEG</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Type:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>MPEG Audio Layer III (MP3)</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>MPEG Audio Layer II (MP2)</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -4294,6 +4406,22 @@ Canal
         <source>Please choose another name.</source>
         <translation>Por favor elija otro nombre.</translation>
     </message>
+    <message>
+        <source>Import Presets</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Export Presets</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Import Presets File</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Export Presets File</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>QOcenMixPasteDialog</name>
@@ -4451,6 +4579,10 @@ Canal
     <message>
         <source>32 bits</source>
         <translation>32</translation>
+    </message>
+    <message>
+        <source>192000 Hz</source>
+        <translation type="unfinished">44100 Hz {11025 ?} {192000 ?}</translation>
     </message>
 </context>
 <context>
@@ -4626,16 +4758,6 @@ Canal
 #%1</translation>
     </message>
     <message>
-        <source>Channel #%1 </source>
-        <translation>Canal #%1 </translation>
-    </message>
-    <message>
-        <source>Output
-#%1</source>
-        <translation>Salida
-#%1</translation>
-    </message>
-    <message>
         <source>No recording devices found!</source>
         <translation>¡No hay dispositivos de grabación encontrados!</translation>
     </message>
@@ -4646,6 +4768,10 @@ Canal
     <message>
         <source>Record</source>
         <translation>Grabar</translation>
+    </message>
+    <message>
+        <source>Output #%1 </source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -4741,10 +4867,6 @@ su ordenador, o red que desea abrir:</translation>
 </context>
 <context>
     <name>QOpenFilesView</name>
-    <message>
-        <source>Repeat %1 in Selected Files</source>
-        <translation>Repetir %1 en archivos seleccionados</translation>
-    </message>
     <message>
         <source>Extract %1 Channel</source>
         <translation>Extraer canal %1</translation>
@@ -4936,6 +5058,34 @@ su ordenador, o red que desea abrir:</translation>
     <message>
         <source>Close</source>
         <translation>Cerrar</translation>
+    </message>
+    <message>
+        <source>Convert to Stereo</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Undo Action in Selected Files</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Repeat %1 %2</source>
+        <translation type="unfinished">Repetir %1 %2</translation>
+    </message>
+    <message>
+        <source>in Selected File</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>in Selected Files</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Undo %1 %2</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Change Artwork</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -5218,6 +5368,10 @@ su ordenador, o red que desea abrir:</translation>
     <message>
         <source>seconds</source>
         <translation>segundos</translation>
+    </message>
+    <message>
+        <source>samples</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>

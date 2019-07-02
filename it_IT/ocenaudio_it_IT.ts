@@ -288,10 +288,6 @@
         <translation>Nascondi la barra strumenti</translation>
     </message>
     <message>
-        <source>Hide Waveform Navigator</source>
-        <translation>Nascondi navigatore forma d&apos;onda</translation>
-    </message>
-    <message>
         <source>Show Sidebar</source>
         <translation>Mostra la barra laterale</translation>
     </message>
@@ -843,6 +839,18 @@
     </message>
     <message>
         <source>Reduce to Previous Marker (from end)</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Hide Navigator</source>
+        <translation type="unfinished">Nascondi navigatore</translation>
+    </message>
+    <message>
+        <source>Donate Now!</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Show Audio Tools</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -1963,6 +1971,42 @@
         <source>Plugins Preferences</source>
         <translation>Preferenze dei plugin</translation>
     </message>
+    <message>
+        <source>Mono</source>
+        <translation type="unfinished">Mono</translation>
+    </message>
+    <message>
+        <source>Stereo</source>
+        <translation type="unfinished">Stereo</translation>
+    </message>
+    <message>
+        <source>Dual Channel</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Swap Channels</source>
+        <translation type="unfinished">Scambia canali</translation>
+    </message>
+    <message>
+        <source>Converting to Mono</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Convert to Mono</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Converting to Stereo</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Convert to Stereo</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Undo</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>QOcenAboutDialog</name>
@@ -2044,6 +2088,26 @@ Clicca qui per scaricarla.</translation>
     <message>
         <source>New Plugin Installed</source>
         <translation>Nuovo plugin installato</translation>
+    </message>
+    <message>
+        <source>Sending log reports</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Clearing thread pool</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Help us improve ocenaudio</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>By contributing, you are enabling ocenaudio to grow and mature.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Donate now!</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -2631,10 +2695,6 @@ Canale
         <translation>Generazione Silenzio</translation>
     </message>
     <message>
-        <source>Applying Fade</source>
-        <translation>Sto applicando Dissolvenza</translation>
-    </message>
-    <message>
         <source>Fade In</source>
         <translation>Dissolvenza in ingresso</translation>
     </message>
@@ -3016,6 +3076,50 @@ Canale
     </message>
     <message>
         <source>Reduce Selection to Previous Marker</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Silence</source>
+        <translation type="unfinished">Silenzio</translation>
+    </message>
+    <message>
+        <source>Normalize</source>
+        <translation type="unfinished">Normalizza</translation>
+    </message>
+    <message>
+        <source>Invert</source>
+        <translation type="unfinished">Inverti</translation>
+    </message>
+    <message>
+        <source>Reverse</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Smooth</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Remove Dc</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Applying Fade In</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Applying Fade Out</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Hide Canvas Tools</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Show Canvas Tools</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>readonly</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -3615,10 +3719,6 @@ Canale
         <translation></translation>
     </message>
     <message>
-        <source>MP3</source>
-        <translation></translation>
-    </message>
-    <message>
         <source>Use Variable Bit Rate Encoding (VBR)</source>
         <translation>Usa codifica a Bit Rate Variabile (VBR)</translation>
     </message>
@@ -3755,10 +3855,6 @@ Canale
         <translation></translation>
     </message>
     <message>
-        <source>Quantizer Quality:</source>
-        <translation>Qualità quantizzatore:</translation>
-    </message>
-    <message>
         <source>OGG</source>
         <translation></translation>
     </message>
@@ -3888,6 +3984,22 @@ Canale
     </message>
     <message>
         <source>Last export path</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>MPEG</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Type:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>MPEG Audio Layer III (MP3)</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>MPEG Audio Layer II (MP2)</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -4295,6 +4407,22 @@ Canale
         <source>Please choose another name.</source>
         <translation type="unfinished"></translation>
     </message>
+    <message>
+        <source>Import Presets</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Export Presets</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Import Presets File</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Export Presets File</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>QOcenMixPasteDialog</name>
@@ -4452,6 +4580,10 @@ Canale
     <message>
         <source>32 bits</source>
         <translation></translation>
+    </message>
+    <message>
+        <source>192000 Hz</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -4626,15 +4758,6 @@ Canale
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Channel #%1 </source>
-        <translation type="unfinished">Canale #%1 </translation>
-    </message>
-    <message>
-        <source>Output
-#%1</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>No recording devices found!</source>
         <translation type="unfinished"></translation>
     </message>
@@ -4645,6 +4768,10 @@ Canale
     <message>
         <source>Record</source>
         <translation type="unfinished">Registra</translation>
+    </message>
+    <message>
+        <source>Output #%1 </source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -4740,10 +4867,6 @@ sul tuo computer, o nella tua rete:</translation>
 </context>
 <context>
     <name>QOpenFilesView</name>
-    <message>
-        <source>Repeat %1 in Selected Files</source>
-        <translation>Ripeti %1 nei files selezionati</translation>
-    </message>
     <message>
         <source>Extract %1 Channel</source>
         <translation>Estrai canale %1</translation>
@@ -4936,6 +5059,34 @@ sul tuo computer, o nella tua rete:</translation>
     <message>
         <source>Close</source>
         <translation>Chiudi</translation>
+    </message>
+    <message>
+        <source>Convert to Stereo</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Undo Action in Selected Files</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Repeat %1 %2</source>
+        <translation type="unfinished">Ripeti %1 %2</translation>
+    </message>
+    <message>
+        <source>in Selected File</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>in Selected Files</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Undo %1 %2</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Change Artwork</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -5218,6 +5369,10 @@ sul tuo computer, o nella tua rete:</translation>
     <message>
         <source>seconds</source>
         <translation>secondi</translation>
+    </message>
+    <message>
+        <source>samples</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>

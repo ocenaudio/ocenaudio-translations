@@ -679,10 +679,6 @@
         <translation>Copiar</translation>
     </message>
     <message>
-        <source>Clear</source>
-        <translation>Despejar</translation>
-    </message>
-    <message>
         <source>Zoom Selection</source>
         <translation>Zoom de selección</translation>
     </message>
@@ -697,6 +693,106 @@
     <message>
         <source>Double-Click to create a marker</source>
         <translation>Doble clic para crear marcador</translation>
+    </message>
+    <message>
+        <source>Converting to Stereo</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Convert to Stereo</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Converting to Mono</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Convert to Mono</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Changing Audio Sample Rate</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Change Audio Sample Rate</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Moving Audio</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Move Audio</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Copy Audio</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Undo</source>
+        <translation type="unfinished">Deshacer</translation>
+    </message>
+    <message>
+        <source>Redo</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Applying Fade</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Fade In</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Fade Out</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Change Gain by +%1 dB</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Change Gain by %1 dB</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>%1 %2</source>
+        <translation type="unfinished">%1 %2</translation>
+    </message>
+    <message>
+        <source>Delete Selection</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Show/Hide Gain Tool</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Change Gain</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Zoom In</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Zoom Out</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Zoom Out Full</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Zoom In Vertical</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Zoom Out Vertical</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -808,17 +904,6 @@ Debes verificar tu configuración de audio en el panel de preferencias de Ocenau
     <message>
         <source>readonly</source>
         <translation>solo lectura</translation>
-    </message>
-</context>
-<context>
-    <name>QOcenAudioJob_Append</name>
-    <message>
-        <source>Appending</source>
-        <translation>Anexando</translation>
-    </message>
-    <message>
-        <source>Append</source>
-        <translation>Anexar</translation>
     </message>
 </context>
 <context>
@@ -997,8 +1082,12 @@ Debes verificar tu configuración de audio en el panel de preferencias de Ocenau
         <translation>Aqua Oscuro</translation>
     </message>
     <message>
-        <source>Dark Mojave</source>
-        <translation>Mojave Oscuro</translation>
+        <source>Use this scheme when %1 %2 appearance is selected</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Dark Theme</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -1010,6 +1099,17 @@ Debes verificar tu configuración de audio en el panel de preferencias de Ocenau
     <message>
         <source>TextLabel</source>
         <translation>Etiqueta de texto</translation>
+    </message>
+</context>
+<context>
+    <name>QOcenJobs::Append</name>
+    <message>
+        <source>Appending</source>
+        <translation type="unfinished">Anexando</translation>
+    </message>
+    <message>
+        <source>Append</source>
+        <translation type="unfinished">Anexar</translation>
     </message>
 </context>
 <context>
@@ -1314,10 +1414,6 @@ Debes verificar tu configuración de audio en el panel de preferencias de Ocenau
     <message>
         <source>The file “%1” already has a backup. If you proceed it will be replaced by the current version of this file.</source>
         <translation>El archivo “%1”&quot; ya tiene una copia de seguridad. Si continúa, será reemplazado por la versión actual de este archivo.</translation>
-    </message>
-    <message>
-        <source>readonly</source>
-        <translation>solo lectura</translation>
     </message>
     <message>
         <source>This is an unrecoverable error and ocenaudio must quit!</source>

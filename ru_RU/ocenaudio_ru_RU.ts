@@ -287,10 +287,6 @@
         <translation>Скрыть панель инструментов</translation>
     </message>
     <message>
-        <source>Hide Waveform Navigator</source>
-        <translation>Скрыть осциллограмму</translation>
-    </message>
-    <message>
         <source>Remove All Metadata</source>
         <translation>Удалить все метаданные</translation>
     </message>
@@ -837,6 +833,18 @@
     <message>
         <source>Reduce to Previous Marker (from end)</source>
         <translation>Уменьшить до предыдущего маркера (от конца)</translation>
+    </message>
+    <message>
+        <source>Hide Navigator</source>
+        <translation type="unfinished">Скрыть навигатор</translation>
+    </message>
+    <message>
+        <source>Donate Now!</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Show Audio Tools</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -1956,6 +1964,42 @@
         <source>Plugins Preferences</source>
         <translation>Настройки плагинов</translation>
     </message>
+    <message>
+        <source>Mono</source>
+        <translation type="unfinished">Моно</translation>
+    </message>
+    <message>
+        <source>Stereo</source>
+        <translation type="unfinished">Стерео</translation>
+    </message>
+    <message>
+        <source>Dual Channel</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Swap Channels</source>
+        <translation type="unfinished">Поменять каналы местами</translation>
+    </message>
+    <message>
+        <source>Converting to Mono</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Convert to Mono</source>
+        <translation type="unfinished">Преобразовать в моно</translation>
+    </message>
+    <message>
+        <source>Converting to Stereo</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Convert to Stereo</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Undo</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>QOcenAboutDialog</name>
@@ -2037,6 +2081,26 @@ Click here to download it.</source>
     <message>
         <source>New Plugin Installed</source>
         <translation>Установлен новый плагин</translation>
+    </message>
+    <message>
+        <source>Sending log reports</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Clearing thread pool</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Help us improve ocenaudio</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>By contributing, you are enabling ocenaudio to grow and mature.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Donate now!</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -2624,10 +2688,6 @@ Channel
         <translation>Генерация тишины</translation>
     </message>
     <message>
-        <source>Applying Fade</source>
-        <translation>Применение затухания</translation>
-    </message>
-    <message>
         <source>Fade In</source>
         <translation>Нарастание силы звука</translation>
     </message>
@@ -3010,6 +3070,50 @@ Channel
     <message>
         <source>Reduce Selection to Previous Marker</source>
         <translation>Уменьшить выбор до предыдущего маркера</translation>
+    </message>
+    <message>
+        <source>Silence</source>
+        <translation type="unfinished">Тишина</translation>
+    </message>
+    <message>
+        <source>Normalize</source>
+        <translation type="unfinished">Нормализовать</translation>
+    </message>
+    <message>
+        <source>Invert</source>
+        <translation type="unfinished">Инвертировать</translation>
+    </message>
+    <message>
+        <source>Reverse</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Smooth</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Remove Dc</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Applying Fade In</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Applying Fade Out</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Hide Canvas Tools</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Show Canvas Tools</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>readonly</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -3608,10 +3712,6 @@ Channel
         <translation>CAF</translation>
     </message>
     <message>
-        <source>MP3</source>
-        <translation>MP3</translation>
-    </message>
-    <message>
         <source>Use Variable Bit Rate Encoding (VBR)</source>
         <translation>Переменный битрейт (VBR)</translation>
     </message>
@@ -3748,10 +3848,6 @@ Channel
         <translation>Битрейт:</translation>
     </message>
     <message>
-        <source>Quantizer Quality:</source>
-        <translation>Качество квантователя:</translation>
-    </message>
-    <message>
         <source>OGG</source>
         <translation>OGG</translation>
     </message>
@@ -3882,6 +3978,22 @@ Channel
     <message>
         <source>Last export path</source>
         <translation>Последний путь экспорта</translation>
+    </message>
+    <message>
+        <source>MPEG</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Type:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>MPEG Audio Layer III (MP3)</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>MPEG Audio Layer II (MP2)</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -4288,6 +4400,22 @@ Channel
         <source>Please choose another name.</source>
         <translation>Выберите другое имя.</translation>
     </message>
+    <message>
+        <source>Import Presets</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Export Presets</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Import Presets File</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Export Presets File</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>QOcenMixPasteDialog</name>
@@ -4445,6 +4573,10 @@ Channel
     <message>
         <source>32 bits</source>
         <translation>32 бит</translation>
+    </message>
+    <message>
+        <source>192000 Hz</source>
+        <translation type="unfinished">48000 Гц {192000 ?}</translation>
     </message>
 </context>
 <context>
@@ -4619,16 +4751,6 @@ Channel
         <translation>Канал #%1</translation>
     </message>
     <message>
-        <source>Channel #%1 </source>
-        <translation>Канал #%1</translation>
-    </message>
-    <message>
-        <source>Output
-#%1</source>
-        <translation>Выход
-#%1</translation>
-    </message>
-    <message>
         <source>No recording devices found!</source>
         <translation>Устройства записи не найдены!</translation>
     </message>
@@ -4639,6 +4761,10 @@ Channel
     <message>
         <source>Record</source>
         <translation>Запись</translation>
+    </message>
+    <message>
+        <source>Output #%1 </source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -4811,10 +4937,6 @@ or your network that you want to open:</source>
         <translation>Закрыть все</translation>
     </message>
     <message>
-        <source>Repeat %1 in Selected Files</source>
-        <translation>Повторить %1 в выбранных файлах</translation>
-    </message>
-    <message>
         <source>Extract %1 Channel</source>
         <translation>Извлечь %1 канал</translation>
     </message>
@@ -4929,6 +5051,34 @@ or your network that you want to open:</source>
     <message>
         <source>Close</source>
         <translation>Закрыть</translation>
+    </message>
+    <message>
+        <source>Convert to Stereo</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Undo Action in Selected Files</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Repeat %1 %2</source>
+        <translation type="unfinished">Повторить %1 %2</translation>
+    </message>
+    <message>
+        <source>in Selected File</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>in Selected Files</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Undo %1 %2</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Change Artwork</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -5211,6 +5361,10 @@ or your network that you want to open:</source>
     <message>
         <source>seconds</source>
         <translation>секунд</translation>
+    </message>
+    <message>
+        <source>samples</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>

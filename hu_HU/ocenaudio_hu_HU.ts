@@ -287,10 +287,6 @@
         <translation>Eszközsáv elrejtése</translation>
     </message>
     <message>
-        <source>Hide Waveform Navigator</source>
-        <translation>Hullámforma navigátor elrejtése</translation>
-    </message>
-    <message>
         <source>Remove All Metadata</source>
         <translation>Minden metaadat eltávolítása</translation>
     </message>
@@ -836,6 +832,18 @@
     </message>
     <message>
         <source>Reduce to Previous Marker (from end)</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Hide Navigator</source>
+        <translation type="unfinished">Navigátor elrejtése</translation>
+    </message>
+    <message>
+        <source>Donate Now!</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Show Audio Tools</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -1956,6 +1964,42 @@
         <source>Plugins Preferences</source>
         <translation type="unfinished"></translation>
     </message>
+    <message>
+        <source>Mono</source>
+        <translation type="unfinished">Monó</translation>
+    </message>
+    <message>
+        <source>Stereo</source>
+        <translation type="unfinished">Sztereó</translation>
+    </message>
+    <message>
+        <source>Dual Channel</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Swap Channels</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Converting to Mono</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Convert to Mono</source>
+        <translation type="unfinished">Konvwertálás monóba</translation>
+    </message>
+    <message>
+        <source>Converting to Stereo</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Convert to Stereo</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Undo</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>QOcenAboutDialog</name>
@@ -2037,6 +2081,26 @@ Kattintson itt a letöltéshez.</translation>
     <message>
         <source>New Plugin Installed</source>
         <translation>Új beépülő telepítve</translation>
+    </message>
+    <message>
+        <source>Sending log reports</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Clearing thread pool</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Help us improve ocenaudio</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>By contributing, you are enabling ocenaudio to grow and mature.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Donate now!</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -2622,10 +2686,6 @@ Channel
         <translation>Csend készítés</translation>
     </message>
     <message>
-        <source>Applying Fade</source>
-        <translation>Fényrekesz használata</translation>
-    </message>
-    <message>
         <source>Fade In</source>
         <translation>Beúsztatás</translation>
     </message>
@@ -3007,6 +3067,50 @@ Channel
     </message>
     <message>
         <source>Reduce Selection to Previous Marker</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Silence</source>
+        <translation type="unfinished">Csend</translation>
+    </message>
+    <message>
+        <source>Normalize</source>
+        <translation type="unfinished">Normalizálás</translation>
+    </message>
+    <message>
+        <source>Invert</source>
+        <translation type="unfinished">Megfordítás</translation>
+    </message>
+    <message>
+        <source>Reverse</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Smooth</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Remove Dc</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Applying Fade In</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Applying Fade Out</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Hide Canvas Tools</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Show Canvas Tools</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>readonly</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -3606,10 +3710,6 @@ Channel
         <translation>CAF</translation>
     </message>
     <message>
-        <source>MP3</source>
-        <translation>MP3</translation>
-    </message>
-    <message>
         <source>Use Variable Bit Rate Encoding (VBR)</source>
         <translation>(VBR) változó bitráta</translation>
     </message>
@@ -3746,10 +3846,6 @@ Channel
         <translation>Bitráta:</translation>
     </message>
     <message>
-        <source>Quantizer Quality:</source>
-        <translation>Kvantálás-minőség:</translation>
-    </message>
-    <message>
         <source>OGG</source>
         <translation>OGG</translation>
     </message>
@@ -3879,6 +3975,22 @@ Channel
     </message>
     <message>
         <source>Last export path</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>MPEG</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Type:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>MPEG Audio Layer III (MP3)</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>MPEG Audio Layer II (MP2)</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -4286,6 +4398,22 @@ Channel
         <source>Please choose another name.</source>
         <translation>Válasszon másik nevet.</translation>
     </message>
+    <message>
+        <source>Import Presets</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Export Presets</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Import Presets File</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Export Presets File</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>QOcenMixPasteDialog</name>
@@ -4443,6 +4571,10 @@ Channel
     <message>
         <source>32 bits</source>
         <translation type="unfinished">32 bit</translation>
+    </message>
+    <message>
+        <source>192000 Hz</source>
+        <translation type="unfinished">48000 Hz {192000 ?}</translation>
     </message>
 </context>
 <context>
@@ -4618,16 +4750,6 @@ Channel
 Csatorna</translation>
     </message>
     <message>
-        <source>Channel #%1 </source>
-        <translation>#%1 csatorna </translation>
-    </message>
-    <message>
-        <source>Output
-#%1</source>
-        <translation>#%1
-Kimenet</translation>
-    </message>
-    <message>
         <source>No recording devices found!</source>
         <translation>Nem található felvevő-eszköz!</translation>
     </message>
@@ -4638,6 +4760,10 @@ Kimenet</translation>
     <message>
         <source>Record</source>
         <translation>Felvétel</translation>
+    </message>
+    <message>
+        <source>Output #%1 </source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -4810,10 +4936,6 @@ a PC-n vagy hálózatán a megnyitáshoz:</translation>
         <translation>Fájl bezárása</translation>
     </message>
     <message>
-        <source>Repeat %1 in Selected Files</source>
-        <translation>%1 ismétlése a kiválasztott fájlokban</translation>
-    </message>
-    <message>
         <source>Extract %1 Channel</source>
         <translation>%1 csatorna extrahálása</translation>
     </message>
@@ -4928,6 +5050,34 @@ a PC-n vagy hálózatán a megnyitáshoz:</translation>
     <message>
         <source>Close</source>
         <translation type="unfinished">Bezárás</translation>
+    </message>
+    <message>
+        <source>Convert to Stereo</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Undo Action in Selected Files</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Repeat %1 %2</source>
+        <translation type="unfinished">%1 %2 ismétlése</translation>
+    </message>
+    <message>
+        <source>in Selected File</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>in Selected Files</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Undo %1 %2</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Change Artwork</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -5210,6 +5360,10 @@ a PC-n vagy hálózatán a megnyitáshoz:</translation>
     <message>
         <source>seconds</source>
         <translation>másodperc</translation>
+    </message>
+    <message>
+        <source>samples</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>

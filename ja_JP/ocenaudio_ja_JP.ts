@@ -247,10 +247,6 @@
         <translation>ファイルのフォルダーを表示する...</translation>
     </message>
     <message>
-        <source>Hide Waveform Navigator</source>
-        <translation>波形ナビゲータを非表示</translation>
-    </message>
-    <message>
         <source>PlaceHolder</source>
         <translation>代替物</translation>
     </message>
@@ -838,6 +834,18 @@
         <source>Reduce to Previous Marker (from end)</source>
         <translation type="unfinished"></translation>
     </message>
+    <message>
+        <source>Hide Navigator</source>
+        <translation type="unfinished">ナビゲータを非表示</translation>
+    </message>
+    <message>
+        <source>Donate Now!</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Show Audio Tools</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>NavigatorDialog</name>
@@ -1116,7 +1124,7 @@
     </message>
     <message>
         <source>In current version, ocenaudio uses DIRAC LE library that supports only one audio channel with sampling rate of 44100 Hz or 48000 Hz.</source>
-        <translation>現在のocenaudioバージョン上で　利用されてるDIRAC LEライブラリが44100 Hz 又は 48000 Hzサンプルレートオーディオチャンネル一つしか対応されていません。</translation>
+        <translation>現在のocenaudioバージョン上で&#x3000;利用されてるDIRAC LEライブラリが44100 Hz 又は 48000 Hzサンプルレートオーディオチャンネル一つしか対応されていません。</translation>
     </message>
     <message>
         <source>Time and Pitch Adjust</source>
@@ -1516,11 +1524,11 @@
     </message>
     <message>
         <source>Limit gain values to avoid clipping</source>
-        <translation>クリップされない様　増幅値を制限する</translation>
+        <translation>クリップされない様&#x3000;増幅値を制限する</translation>
     </message>
     <message>
         <source>Limit offset values to avoid clipping</source>
-        <translation>クリップされない様　オフセット値を制限する</translation>
+        <translation>クリップされない様&#x3000;オフセット値を制限する</translation>
     </message>
     <message>
         <source>Lock Channels</source>
@@ -1928,7 +1936,7 @@
     </message>
     <message>
         <source>From &lt;b&gt;multiples sample rates&lt;b&gt;</source>
-        <translation>&lt;b&gt;サンプルレートの数倍の数&lt;b&gt;　から</translation>
+        <translation>&lt;b&gt;サンプルレートの数倍の数&lt;b&gt;&#x3000;から</translation>
     </message>
     <message>
         <source>From &lt;b&gt;multiples number of channels&lt;b&gt;</source>
@@ -1936,15 +1944,15 @@
     </message>
     <message>
         <source>From &lt;b&gt;1 channel (mono)&lt;b&gt;</source>
-        <translation>&lt;b&gt;1 チャンネル （モノラル）&lt;b&gt;　から</translation>
+        <translation>&lt;b&gt;1 チャンネル （モノラル）&lt;b&gt;&#x3000;から</translation>
     </message>
     <message>
         <source>From &lt;b&gt;2 channels (stereo)&lt;b&gt;</source>
-        <translation>&lt;b&gt;2 チャンネル （ステレオ）&lt;b&gt;　から</translation>
+        <translation>&lt;b&gt;2 チャンネル （ステレオ）&lt;b&gt;&#x3000;から</translation>
     </message>
     <message>
         <source>From &lt;b&gt;%1 channels&lt;b&gt;</source>
-        <translation>&lt;b&gt;%1 チャンネル&lt;b&gt;　から</translation>
+        <translation>&lt;b&gt;%1 チャンネル&lt;b&gt;&#x3000;から</translation>
     </message>
     <message>
         <source>Custom Sample Rate</source>
@@ -1956,6 +1964,42 @@
     </message>
     <message>
         <source>Plugins Preferences</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Mono</source>
+        <translation type="unfinished">モノラル</translation>
+    </message>
+    <message>
+        <source>Stereo</source>
+        <translation type="unfinished">ステレオ</translation>
+    </message>
+    <message>
+        <source>Dual Channel</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Swap Channels</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Converting to Mono</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Convert to Mono</source>
+        <translation type="unfinished">モノラルに変換する</translation>
+    </message>
+    <message>
+        <source>Converting to Stereo</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Convert to Stereo</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Undo</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -2035,11 +2079,31 @@ Click here to download it.</source>
     </message>
     <message>
         <source>You are using a 64-bit operating system and ocenaudio is available for this architecture. For better performance use the 64-bit version of ocenaudio.</source>
-        <translation>64-bitのオペレーティング システムを利用してる様です。より良いパフォーマンスには　ocenaudioの64-bit版をお使いになって下さい。</translation>
+        <translation>64-bitのオペレーティング システムを利用してる様です。より良いパフォーマンスには&#x3000;ocenaudioの64-bit版をお使いになって下さい。</translation>
     </message>
     <message>
         <source>New Plugin Installed</source>
         <translation>新プラグインインストール完了</translation>
+    </message>
+    <message>
+        <source>Sending log reports</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Clearing thread pool</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Help us improve ocenaudio</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>By contributing, you are enabling ocenaudio to grow and mature.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Donate now!</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -2110,7 +2174,7 @@ Click here to download it.</source>
     </message>
     <message>
         <source>From &lt;b&gt;1 channel (mono)&lt;/b&gt;</source>
-        <translation>From &lt;b&gt;1 チャンネル　（モノラル）&lt;/b&gt;</translation>
+        <translation>From &lt;b&gt;1 チャンネル&#x3000;（モノラル）&lt;/b&gt;</translation>
     </message>
     <message>
         <source>Don&apos;t Change (mono)</source>
@@ -2118,7 +2182,7 @@ Click here to download it.</source>
     </message>
     <message>
         <source>2 channels (stereo)</source>
-        <translation>2 チャンネル　（ステレオ）</translation>
+        <translation>2 チャンネル&#x3000;（ステレオ）</translation>
     </message>
     <message>
         <source>3 channels</source>
@@ -2162,7 +2226,7 @@ Click here to download it.</source>
     </message>
     <message>
         <source>1 channel (mono)</source>
-        <translation>1 チャンネル　（モノラル）</translation>
+        <translation>1 チャンネル&#x3000;（モノラル）</translation>
     </message>
     <message>
         <source>%1 channels</source>
@@ -2526,7 +2590,7 @@ Channel
     </message>
     <message>
         <source>Select “separate” to save each selection to a different file. If you select “single”, all your selections will be appended and saved to a single file.</source>
-        <translation>各選択を別々保存するには「分ける」を選択してください。「総合」をせんたくしますと　全ての選択が一つのファイル総合して　保存されます。</translation>
+        <translation>各選択を別々保存するには「分ける」を選択してください。「総合」をせんたくしますと&#x3000;全ての選択が一つのファイル総合して&#x3000;保存されます。</translation>
     </message>
     <message>
         <source>Separate</source>
@@ -2638,7 +2702,7 @@ Channel
     </message>
     <message>
         <source>You are about to split your audio by %1 parts. Are you sure you want to proceed?</source>
-        <translation>オーディオが　%1 部分に分けられます。宜しいですか？</translation>
+        <translation>オーディオが&#x3000;%1 部分に分けられます。宜しいですか？</translation>
     </message>
     <message>
         <source>If you proceed this operation will generate %1 new audio files.</source>
@@ -2666,15 +2730,15 @@ Channel
     </message>
     <message>
         <source>You are about to extract %1 regions from your audio. Are you sure you want to proceed?</source>
-        <translation>オーディオから　領域　%1 を抜き出します。よろしいですか？</translation>
+        <translation>オーディオから&#x3000;領域&#x3000;%1 を抜き出します。よろしいですか？</translation>
     </message>
     <message>
         <source>Region “%1” of </source>
-        <translation>領域 “%1”　/ </translation>
+        <translation>領域 “%1”&#x3000;/ </translation>
     </message>
     <message>
         <source>Region %1 of </source>
-        <translation>領域 %1　/ </translation>
+        <translation>領域 %1&#x3000;/ </translation>
     </message>
     <message>
         <source>Error</source>
@@ -2695,10 +2759,6 @@ Channel
     <message>
         <source>Silence Generation</source>
         <translation>無音生成</translation>
-    </message>
-    <message>
-        <source>Applying Fade</source>
-        <translation>フェードを適用中</translation>
     </message>
     <message>
         <source>Fade In</source>
@@ -3012,6 +3072,50 @@ Channel
         <source>Reduce Selection to Previous Marker</source>
         <translation type="unfinished"></translation>
     </message>
+    <message>
+        <source>Silence</source>
+        <translation type="unfinished">無音</translation>
+    </message>
+    <message>
+        <source>Normalize</source>
+        <translation type="unfinished">正規化機</translation>
+    </message>
+    <message>
+        <source>Invert</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Reverse</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Smooth</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Remove Dc</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Applying Fade In</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Applying Fade Out</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Hide Canvas Tools</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Show Canvas Tools</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>readonly</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>QOcenAudioNoiseReductionWidget</name>
@@ -3181,7 +3285,7 @@ Channel
     </message>
     <message>
         <source>The selected audio must have the same configuration of the one used to estimate the noise profile.</source>
-        <translation>ノイズプロフィールを検出するには　選択されたオーディオが</translation>
+        <translation>ノイズプロフィールを検出するには&#x3000;選択されたオーディオが</translation>
     </message>
 </context>
 <context>
@@ -3496,7 +3600,7 @@ Channel
     </message>
     <message>
         <source>If you want, you can enter a few lines on what you did before ocenaudio crashed along with other helpful information: sample file, os crash report, screen shots, ...</source>
-        <translation>宜しければ、関係のサンプルファイル、OS クラッシュレポート、スクショ、と一緒に　ocenaudioがクラッシュする迄何をなさったのと数文章で説明して頂けると役に立つ可能性があります。</translation>
+        <translation>宜しければ、関係のサンプルファイル、OS クラッシュレポート、スクショ、と一緒に&#x3000;ocenaudioがクラッシュする迄何をなさったのと数文章で説明して頂けると役に立つ可能性があります。</translation>
     </message>
     <message>
         <source>If you agree to be contacted about this bug report enter your email below:</source>
@@ -3591,10 +3695,6 @@ Channel
     <message>
         <source>Precision:</source>
         <translation>精度:</translation>
-    </message>
-    <message>
-        <source>MP3</source>
-        <translation>MP3</translation>
     </message>
     <message>
         <source>Use Variable Bit Rate Encoding (VBR)</source>
@@ -3749,10 +3849,6 @@ Channel
         <translation>ビットレート:</translation>
     </message>
     <message>
-        <source>Quantizer Quality:</source>
-        <translation>量子化の質:</translation>
-    </message>
-    <message>
         <source>OGG</source>
         <translation>OGG</translation>
     </message>
@@ -3811,7 +3907,7 @@ Channel
     </message>
     <message>
         <source>Save each %1 to a separate file</source>
-        <translation>各　%1 を別なファイルとして保存</translation>
+        <translation>各&#x3000;%1 を別なファイルとして保存</translation>
     </message>
     <message>
         <source>Export Audio As</source>
@@ -3883,6 +3979,22 @@ Channel
     </message>
     <message>
         <source>Last export path</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>MPEG</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Type:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>MPEG Audio Layer III (MP3)</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>MPEG Audio Layer II (MP2)</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -4009,7 +4121,7 @@ Channel
     </message>
     <message>
         <source>The file %1 already exists in the FTP server.</source>
-        <translation>ファイル　%1 が　既に　FTPサーバーに格納しています。</translation>
+        <translation>ファイル&#x3000;%1 が&#x3000;既に&#x3000;FTPサーバーに格納しています。</translation>
     </message>
 </context>
 <context>
@@ -4290,6 +4402,22 @@ Channel
         <source>Please choose another name.</source>
         <translation>他の名前を入力して下さい。</translation>
     </message>
+    <message>
+        <source>Import Presets</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Export Presets</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Import Presets File</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Export Presets File</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>QOcenMixPasteDialog</name>
@@ -4448,6 +4576,10 @@ Channel
         <source>32 bits</source>
         <translation>32 ビット</translation>
     </message>
+    <message>
+        <source>192000 Hz</source>
+        <translation type="unfinished">48000 Hz {192000 ?}</translation>
+    </message>
 </context>
 <context>
     <name>QOcenNewAudioDialog::Data</name>
@@ -4555,11 +4687,11 @@ Channel
     </message>
     <message>
         <source>Open all %1 files in this %2</source>
-        <translation>この　%2 に全ての　%1 ファイルを開く</translation>
+        <translation>この&#x3000;%2 に全ての&#x3000;%1 ファイルを開く</translation>
     </message>
     <message>
         <source>and %1 other files</source>
-        <translation>それに　%1 他のファイル</translation>
+        <translation>それに&#x3000;%1 他のファイル</translation>
     </message>
 </context>
 <context>
@@ -4585,7 +4717,7 @@ Channel
     </message>
     <message>
         <source>1 Channel (Mono)</source>
-        <translation>1 チャンネル　（モノラル）</translation>
+        <translation>1 チャンネル&#x3000;（モノラル）</translation>
     </message>
     <message>
         <source> ➨ </source>
@@ -4601,11 +4733,11 @@ Channel
     </message>
     <message>
         <source>1 channel (mono)</source>
-        <translation>1 チャンネル　（モノラル）</translation>
+        <translation>1 チャンネル&#x3000;（モノラル）</translation>
     </message>
     <message>
         <source>2 channels (stereo)</source>
-        <translation>2 チャンネル　（ステレオ）</translation>
+        <translation>2 チャンネル&#x3000;（ステレオ）</translation>
     </message>
     <message>
         <source>%1 channels</source>
@@ -4621,15 +4753,6 @@ Channel
         <translation>チャンネル</translation>
     </message>
     <message>
-        <source>Channel #%1 </source>
-        <translation>チャンネル #%1</translation>
-    </message>
-    <message>
-        <source>Output
-#%1</source>
-        <translation>アウトプット</translation>
-    </message>
-    <message>
         <source>No recording devices found!</source>
         <translation>録音デバイスが見つかりません</translation>
     </message>
@@ -4640,6 +4763,10 @@ Channel
     <message>
         <source>Record</source>
         <translation>録音</translation>
+    </message>
+    <message>
+        <source>Output #%1 </source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -4713,7 +4840,7 @@ or your network that you want to open:</source>
     </message>
     <message>
         <source>Effects in Folder %1</source>
-        <translation>フォルダー　%1 のエフェクト</translation>
+        <translation>フォルダー&#x3000;%1 のエフェクト</translation>
     </message>
     <message>
         <source>Crashed</source>
@@ -4811,10 +4938,6 @@ or your network that you want to open:</source>
         <translation>ファイルを閉じる</translation>
     </message>
     <message>
-        <source>Repeat %1 in Selected Files</source>
-        <translation>選択されたファイルに　%1 を付ける</translation>
-    </message>
-    <message>
         <source>Extract %1 Channel</source>
         <translation>%1 チャンネルを抜き取る</translation>
     </message>
@@ -4836,7 +4959,7 @@ or your network that you want to open:</source>
     </message>
     <message>
         <source>You are about to append %1 files in the selected audio. Are you sure you want to proceed?</source>
-        <translation>選択されたファイルに　%1 のファイルを加えます。宜しいですか？</translation>
+        <translation>選択されたファイルに&#x3000;%1 のファイルを加えます。宜しいですか？</translation>
     </message>
     <message>
         <source>This operation may take a long time.</source>
@@ -4929,6 +5052,34 @@ or your network that you want to open:</source>
     <message>
         <source>Close</source>
         <translation>閉じる</translation>
+    </message>
+    <message>
+        <source>Convert to Stereo</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Undo Action in Selected Files</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Repeat %1 %2</source>
+        <translation type="unfinished">%1 %2 を繰り返す</translation>
+    </message>
+    <message>
+        <source>in Selected File</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>in Selected Files</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Undo %1 %2</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Change Artwork</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -5211,6 +5362,10 @@ or your network that you want to open:</source>
     <message>
         <source>seconds</source>
         <translation>秒</translation>
+    </message>
+    <message>
+        <source>samples</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>

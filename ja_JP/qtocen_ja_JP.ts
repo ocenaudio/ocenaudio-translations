@@ -56,7 +56,7 @@
     </message>
     <message>
         <source>%1 in %2</source>
-        <translation>%2 の中で　%1</translation>
+        <translation>%2 の中で&#x3000;%1</translation>
     </message>
     <message>
         <source>Unsupported Language</source>
@@ -112,11 +112,11 @@
     </message>
     <message>
         <source>Stream %1 of %2</source>
-        <translation>ストリーム　%2　の　%1&gt;</translation>
+        <translation>ストリーム&#x3000;%2&#x3000;の&#x3000;%1&gt;</translation>
     </message>
     <message>
         <source>Stream %1</source>
-        <translation>ストリーム　%1&gt;</translation>
+        <translation>ストリーム&#x3000;%1&gt;</translation>
     </message>
     <message>
         <source>All Files</source>
@@ -236,7 +236,7 @@
     </message>
     <message>
         <source>%1 combined with %2</source>
-        <translation>%1 を　%2 に合体</translation>
+        <translation>%1 を&#x3000;%2 に合体</translation>
     </message>
     <message>
         <source>Downmix of %1</source>
@@ -244,15 +244,15 @@
     </message>
     <message>
         <source>Join of %1 and %2</source>
-        <translation>%1 、　%2 の結合</translation>
+        <translation>%1 、&#x3000;%2 の結合</translation>
     </message>
     <message>
         <source>Join of %1, %2 and %3</source>
-        <translation>%1　、 %2　、　%3 の結合</translation>
+        <translation>%1&#x3000;、 %2&#x3000;、&#x3000;%3 の結合</translation>
     </message>
     <message>
         <source>Join of %1, %2 and other %3 files</source>
-        <translation>%1 ・ %2 ・ 他の　%3 ファイル　を結合する</translation>
+        <translation>%1 ・ %2 ・ 他の&#x3000;%3 ファイル&#x3000;を結合する</translation>
     </message>
     <message>
         <source>Reversing</source>
@@ -312,7 +312,7 @@
     </message>
     <message>
         <source>marker %1</source>
-        <translation>マーカー　%1</translation>
+        <translation>マーカー&#x3000;%1</translation>
     </message>
     <message>
         <source>Create Region</source>
@@ -679,10 +679,6 @@
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Clear</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>Zoom Selection</source>
         <translation type="unfinished"></translation>
     </message>
@@ -696,6 +692,106 @@
     </message>
     <message>
         <source>Double-Click to create a marker</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Converting to Stereo</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Convert to Stereo</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Converting to Mono</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Convert to Mono</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Changing Audio Sample Rate</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Change Audio Sample Rate</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Moving Audio</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Move Audio</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Copy Audio</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Undo</source>
+        <translation type="unfinished">元に戻す</translation>
+    </message>
+    <message>
+        <source>Redo</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Applying Fade</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Fade In</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Fade Out</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Change Gain by +%1 dB</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Change Gain by %1 dB</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>%1 %2</source>
+        <translation type="unfinished">%1 %2</translation>
+    </message>
+    <message>
+        <source>Delete Selection</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Show/Hide Gain Tool</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Change Gain</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Zoom In</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Zoom Out</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Zoom Out Full</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Zoom In Vertical</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Zoom Out Vertical</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -810,17 +906,6 @@ You should check your audio settings in the ocenaudio preferences pane.</source>
     </message>
 </context>
 <context>
-    <name>QOcenAudioJob_Append</name>
-    <message>
-        <source>Appending</source>
-        <translation>加えています</translation>
-    </message>
-    <message>
-        <source>Append</source>
-        <translation>加える</translation>
-    </message>
-</context>
-<context>
     <name>QOcenAudioListView</name>
     <message>
         <source>Drop Files Here</source>
@@ -848,7 +933,7 @@ You should check your audio settings in the ocenaudio preferences pane.</source>
     </message>
     <message>
         <source>Link the view state of this audio to the current visible audio</source>
-        <translation>現在表示されてるオーディオに　このオーディオの表示状態をリンクする</translation>
+        <translation>現在表示されてるオーディオに&#x3000;このオーディオの表示状態をリンクする</translation>
     </message>
     <message>
         <source>Unlink the view state of this audio</source>
@@ -878,18 +963,18 @@ You should check your audio settings in the ocenaudio preferences pane.</source>
     <name>QOcenAudioSelectionMime</name>
     <message>
         <source>%1 Snippets from %2</source>
-        <translation>%2　から　%1の断片</translation>
+        <translation>%2&#x3000;から&#x3000;%1の断片</translation>
     </message>
     <message>
         <source>Snippet from %1</source>
-        <translation>%1　からの断片</translation>
+        <translation>%1&#x3000;からの断片</translation>
     </message>
 </context>
 <context>
     <name>QOcenCanvas</name>
     <message>
         <source>You are about to delete %1 regions. Do you really want to do this?</source>
-        <translation>%1　の領域が削除されます。宜しいですか?</translation>
+        <translation>%1&#x3000;の領域が削除されます。宜しいですか?</translation>
     </message>
 </context>
 <context>
@@ -973,7 +1058,7 @@ You should check your audio settings in the ocenaudio preferences pane.</source>
     </message>
     <message>
         <source>Smooth Cut and Delete boundaries</source>
-        <translation>限度を和らげて　切り取って削除する</translation>
+        <translation>限度を和らげて&#x3000;切り取って削除する</translation>
     </message>
     <message>
         <source>Keep a backup copy of original file before overwrite</source>
@@ -996,7 +1081,11 @@ You should check your audio settings in the ocenaudio preferences pane.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Dark Mojave</source>
+        <source>Use this scheme when %1 %2 appearance is selected</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Dark Theme</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -1009,6 +1098,17 @@ You should check your audio settings in the ocenaudio preferences pane.</source>
     <message>
         <source>TextLabel</source>
         <translation>テキストラベル</translation>
+    </message>
+</context>
+<context>
+    <name>QOcenJobs::Append</name>
+    <message>
+        <source>Appending</source>
+        <translation type="unfinished">加えています</translation>
+    </message>
+    <message>
+        <source>Append</source>
+        <translation type="unfinished">加える</translation>
     </message>
 </context>
 <context>
@@ -1315,10 +1415,6 @@ You should check your audio settings in the ocenaudio preferences pane.</source>
         <translation>“%1” のファイルにバックアップがあります。続行しますとこのファイルの現在バージョンに上書きされます。</translation>
     </message>
     <message>
-        <source>readonly</source>
-        <translation>読み出し専用</translation>
-    </message>
-    <message>
         <source>This is an unrecoverable error and ocenaudio must quit!</source>
         <translation type="unfinished"></translation>
     </message>
@@ -1395,7 +1491,7 @@ Storage: %1 mount on %2</source>
     <name>QOcenNotificationWidget</name>
     <message>
         <source>Press &apos;alt&apos; to close all</source>
-        <translation>&apos;Alt&apos; で　全てを閉じます</translation>
+        <translation>&apos;Alt&apos; で&#x3000;全てを閉じます</translation>
     </message>
 </context>
 <context>
@@ -1406,7 +1502,7 @@ Storage: %1 mount on %2</source>
     </message>
     <message>
         <source>Opening &quot;%1&quot;</source>
-        <translation>&quot;%1&quot;　を開いています</translation>
+        <translation>&quot;%1&quot;&#x3000;を開いています</translation>
     </message>
     <message>
         <source>Question</source>
@@ -1545,15 +1641,15 @@ Storage: %1 mount on %2</source>
     </message>
     <message>
         <source>The verification process has detected one or more inconsistency in this package. Therefore this installation process was interrupted.</source>
-        <translation>検証の結果として　１以上の齟齬がこのパッケージに検出されました。</translation>
+        <translation>検証の結果として&#x3000;１以上の齟齬がこのパッケージに検出されました。</translation>
     </message>
     <message>
         <source>Unable to install the plugin &quot;%1&quot;.</source>
-        <translation>&quot;%1&quot;　のプラグインをインストール不可能です。</translation>
+        <translation>&quot;%1&quot;&#x3000;のプラグインをインストール不可能です。</translation>
     </message>
     <message>
         <source>One or more errors were detected during the installation process. You can try again and if the error persists contact the ocenaudio team.</source>
-        <translation>インストール中に　１以上のエラーが検出されました。再インストールしてみてください。問題が解決しない場合、Ocenaudioチームにご連絡下さい。</translation>
+        <translation>インストール中に&#x3000;１以上のエラーが検出されました。再インストールしてみてください。問題が解決しない場合、Ocenaudioチームにご連絡下さい。</translation>
     </message>
     <message>
         <source>Invalid Plugin Code Signature</source>
@@ -1679,7 +1775,7 @@ Storage: %1 mount on %2</source>
     </message>
     <message>
         <source>CoreAudio</source>
-        <translation>コア　オーディオ</translation>
+        <translation>コア&#x3000;オーディオ</translation>
     </message>
     <message>
         <source>Disabled</source>

@@ -679,10 +679,6 @@
         <translation>Copiar</translation>
     </message>
     <message>
-        <source>Clear</source>
-        <translation>Limpar</translation>
-    </message>
-    <message>
         <source>Zoom Selection</source>
         <translation>Zoom da Seleção</translation>
     </message>
@@ -697,6 +693,106 @@
     <message>
         <source>Double-Click to create a marker</source>
         <translation>Duplo-Clique para criar marcador</translation>
+    </message>
+    <message>
+        <source>Converting to Stereo</source>
+        <translation>Convertendo para Estéreo</translation>
+    </message>
+    <message>
+        <source>Convert to Stereo</source>
+        <translation>Converter para Estéreo</translation>
+    </message>
+    <message>
+        <source>Converting to Mono</source>
+        <translation>Convertendo para Mono</translation>
+    </message>
+    <message>
+        <source>Convert to Mono</source>
+        <translation>Converter para Mono</translation>
+    </message>
+    <message>
+        <source>Changing Audio Sample Rate</source>
+        <translation>Alterando Taxa de Amostragem</translation>
+    </message>
+    <message>
+        <source>Change Audio Sample Rate</source>
+        <translation>Alterar Taxa de Amostragem</translation>
+    </message>
+    <message>
+        <source>Moving Audio</source>
+        <translation>Movendo Áudio</translation>
+    </message>
+    <message>
+        <source>Move Audio</source>
+        <translation>Mover Áudio</translation>
+    </message>
+    <message>
+        <source>Copy Audio</source>
+        <translation>Copiar Áudio</translation>
+    </message>
+    <message>
+        <source>Undo</source>
+        <translation>Desfazer</translation>
+    </message>
+    <message>
+        <source>Redo</source>
+        <translation>Refazer</translation>
+    </message>
+    <message>
+        <source>Applying Fade</source>
+        <translation>Aplicando Fade</translation>
+    </message>
+    <message>
+        <source>Fade In</source>
+        <translation></translation>
+    </message>
+    <message>
+        <source>Fade Out</source>
+        <translation></translation>
+    </message>
+    <message>
+        <source>Change Gain by +%1 dB</source>
+        <translation>Alterar Ganho em +%1 dB</translation>
+    </message>
+    <message>
+        <source>Change Gain by %1 dB</source>
+        <translation>Alterar Ganho em %1 dB</translation>
+    </message>
+    <message>
+        <source>%1 %2</source>
+        <translation></translation>
+    </message>
+    <message>
+        <source>Delete Selection</source>
+        <translation>Apagar Seleção</translation>
+    </message>
+    <message>
+        <source>Show/Hide Gain Tool</source>
+        <translation>Mostrar/Ocultar Barra de Ganho</translation>
+    </message>
+    <message>
+        <source>Change Gain</source>
+        <translation>Alterar Ganho</translation>
+    </message>
+    <message>
+        <source>Zoom In</source>
+        <translation></translation>
+    </message>
+    <message>
+        <source>Zoom Out</source>
+        <translation></translation>
+    </message>
+    <message>
+        <source>Zoom Out Full</source>
+        <translation>Zoom Out Completo</translation>
+    </message>
+    <message>
+        <source>Zoom In Vertical</source>
+        <translation></translation>
+    </message>
+    <message>
+        <source>Zoom Out Vertical</source>
+        <translation></translation>
     </message>
 </context>
 <context>
@@ -808,17 +904,6 @@ Você deve checar suas configurações de áudio no painel de preferências.</tr
     <message>
         <source>readonly</source>
         <translation></translation>
-    </message>
-</context>
-<context>
-    <name>QOcenAudioJob_Append</name>
-    <message>
-        <source>Appending</source>
-        <translation>Anexando</translation>
-    </message>
-    <message>
-        <source>Append</source>
-        <translation>Anexar</translation>
     </message>
 </context>
 <context>
@@ -997,8 +1082,12 @@ Você deve checar suas configurações de áudio no painel de preferências.</tr
         <translation>Aqua Escuro</translation>
     </message>
     <message>
-        <source>Dark Mojave</source>
-        <translation>Mojave Escuro</translation>
+        <source>Use this scheme when %1 %2 appearance is selected</source>
+        <translation>Usar este esquema quando a aparência %2 do %1 for selecionada</translation>
+    </message>
+    <message>
+        <source>Dark Theme</source>
+        <translation>Tema Escuro</translation>
     </message>
 </context>
 <context>
@@ -1010,6 +1099,17 @@ Você deve checar suas configurações de áudio no painel de preferências.</tr
     <message>
         <source>TextLabel</source>
         <translation></translation>
+    </message>
+</context>
+<context>
+    <name>QOcenJobs::Append</name>
+    <message>
+        <source>Appending</source>
+        <translation>Anexando</translation>
+    </message>
+    <message>
+        <source>Append</source>
+        <translation>Anexar</translation>
     </message>
 </context>
 <context>
@@ -1314,10 +1414,6 @@ Você deve checar suas configurações de áudio no painel de preferências.</tr
     <message>
         <source>The file “%1” already has a backup. If you proceed it will be replaced by the current version of this file.</source>
         <translation>O arquivo “%1” já possui backup. Se você prosseguir ele será substituído pela versão atual do arquivo.</translation>
-    </message>
-    <message>
-        <source>readonly</source>
-        <translation></translation>
     </message>
     <message>
         <source>This is an unrecoverable error and ocenaudio must quit!</source>

@@ -679,10 +679,6 @@
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Clear</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>Zoom Selection</source>
         <translation type="unfinished"></translation>
     </message>
@@ -696,6 +692,106 @@
     </message>
     <message>
         <source>Double-Click to create a marker</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Converting to Stereo</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Convert to Stereo</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Converting to Mono</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Convert to Mono</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Changing Audio Sample Rate</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Change Audio Sample Rate</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Moving Audio</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Move Audio</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Copy Audio</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Undo</source>
+        <translation type="unfinished">Visszavonás folytatása</translation>
+    </message>
+    <message>
+        <source>Redo</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Applying Fade</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Fade In</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Fade Out</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Change Gain by +%1 dB</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Change Gain by %1 dB</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>%1 %2</source>
+        <translation type="unfinished">%1 %2</translation>
+    </message>
+    <message>
+        <source>Delete Selection</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Show/Hide Gain Tool</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Change Gain</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Zoom In</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Zoom Out</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Zoom Out Full</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Zoom In Vertical</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Zoom Out Vertical</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -807,17 +903,6 @@ You should check your audio settings in the ocenaudio preferences pane.</source>
     <message>
         <source>readonly</source>
         <translation>Csak olvasható</translation>
-    </message>
-</context>
-<context>
-    <name>QOcenAudioJob_Append</name>
-    <message>
-        <source>Appending</source>
-        <translation>Hozzáfűzés</translation>
-    </message>
-    <message>
-        <source>Append</source>
-        <translation>Hozzáfűzés</translation>
     </message>
 </context>
 <context>
@@ -996,7 +1081,11 @@ You should check your audio settings in the ocenaudio preferences pane.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Dark Mojave</source>
+        <source>Use this scheme when %1 %2 appearance is selected</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Dark Theme</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -1009,6 +1098,17 @@ You should check your audio settings in the ocenaudio preferences pane.</source>
     <message>
         <source>TextLabel</source>
         <translation>Címkézés</translation>
+    </message>
+</context>
+<context>
+    <name>QOcenJobs::Append</name>
+    <message>
+        <source>Appending</source>
+        <translation type="unfinished">Hozzáfűzés</translation>
+    </message>
+    <message>
+        <source>Append</source>
+        <translation type="unfinished">Hozzáfűzés</translation>
     </message>
 </context>
 <context>
@@ -1313,10 +1413,6 @@ You should check your audio settings in the ocenaudio preferences pane.</source>
     <message>
         <source>The file “%1” already has a backup. If you proceed it will be replaced by the current version of this file.</source>
         <translation>A(z) “%1” fájlról már van biztonsági másolat. Ha folytatja, a jelenlegi verzió helyébe ezt a fájl lép.</translation>
-    </message>
-    <message>
-        <source>readonly</source>
-        <translation>Csak olvasható</translation>
     </message>
     <message>
         <source>This is an unrecoverable error and ocenaudio must quit!</source>
