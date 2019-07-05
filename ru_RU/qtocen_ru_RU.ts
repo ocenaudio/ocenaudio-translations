@@ -831,6 +831,10 @@ You should check your audio settings in the ocenaudio preferences pane.</source>
         <translation>Ошибка при обновлении списка звуковых устройств серверной части %1. В этом состоянии возможности захвата и воспроизведения могут быть недоступны.
 Вы должны проверить свои настройки звука на панели настроек ocenaudio.</translation>
     </message>
+    <message>
+        <source>Failed to execute last action!</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>QOcenAudio</name>

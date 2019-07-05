@@ -831,6 +831,10 @@ You should check your audio settings in the ocenaudio preferences pane.</source>
         <translation>Se produjo un error al actualizar la lista de dispositivos de audio usando el backend %1. En esta condición, las capacidades de captura y reproducción pueden no estar disponibles.
 Debes verificar tu configuración de audio en el panel de preferencias de Ocenaudio.</translation>
     </message>
+    <message>
+        <source>Failed to execute last action!</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>QOcenAudio</name>

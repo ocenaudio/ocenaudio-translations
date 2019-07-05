@@ -830,6 +830,10 @@
 You should check your audio settings in the ocenaudio preferences pane.</source>
         <translation type="unfinished"></translation>
     </message>
+    <message>
+        <source>Failed to execute last action!</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>QOcenAudio</name>

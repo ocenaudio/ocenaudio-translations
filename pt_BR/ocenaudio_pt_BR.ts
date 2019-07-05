@@ -1930,10 +1930,6 @@
         <translation>A partir da faixa</translation>
     </message>
     <message>
-        <source>From &lt;b&gt;%1 Hz&lt;/b&gt;</source>
-        <translation>De &lt;b&gt;%1 Hz&lt;/b&gt;</translation>
-    </message>
-    <message>
         <source>From &lt;b&gt;multiples sample rates&lt;b&gt;</source>
         <translation>De &lt;b&gt;múltiplas taxas de amostragem&lt;b&gt;</translation>
     </message>
@@ -2000,6 +1996,10 @@
     <message>
         <source>Undo</source>
         <translation>Desfazer</translation>
+    </message>
+    <message>
+        <source>From &lt;b&gt;%1&lt;/b&gt;</source>
+        <translation>De &lt;b&gt;%1&lt;/b&gt;</translation>
     </message>
 </context>
 <context>
