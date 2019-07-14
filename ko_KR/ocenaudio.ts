@@ -1695,14 +1695,14 @@
     </message>
     <message>
         <source>Inverted V shape</source>
-        <translation type="unfinished"></translation>
+        <translation>V Shape로 변경됨</translation>
     </message>
 </context>
 <context>
     <name>QMarkersItemModel</name>
     <message>
         <source>not set</source>
-        <translation type="unfinished"></translation>
+        <translation>설정하지 않음</translation>
     </message>
 </context>
 <context>
@@ -1769,19 +1769,19 @@
     </message>
     <message>
         <source>Joint Stereo</source>
-        <translation type="unfinished"></translation>
+        <translation>조인트 스테레오</translation>
     </message>
     <message>
         <source>Variable Bit Rate (VBR)</source>
-        <translation type="unfinished"></translation>
+        <translation>가변 전송률</translation>
     </message>
     <message>
         <source>Constant Bit Rate (CBR)</source>
-        <translation type="unfinished"></translation>
+        <translation>불변 전송률</translation>
     </message>
     <message>
         <source>Limited Variable Bit Rate (ABR)</source>
-        <translation type="unfinished"></translation>
+        <translation>제한 가변 전송률</translation>
     </message>
     <message>
         <source>32 bits</source>
@@ -1797,19 +1797,19 @@
     </message>
     <message>
         <source>bins</source>
-        <translation type="unfinished"></translation>
+        <translation>저장소</translation>
     </message>
     <message>
         <source>Window Function</source>
-        <translation type="unfinished"></translation>
+        <translation>창 기능</translation>
     </message>
     <message>
         <source>Number of Bins</source>
-        <translation type="unfinished"></translation>
+        <translation>저장소 개수</translation>
     </message>
     <message>
         <source>Scale Kind</source>
-        <translation type="unfinished"></translation>
+        <translation>규모 종류</translation>
     </message>
     <message>
         <source>Other Options</source>
@@ -1854,7 +1854,7 @@
     </message>
     <message>
         <source>Possible Clipped Samples</source>
-        <translation type="unfinished"></translation>
+        <translation>가능한 클립드 샘플</translation>
     </message>
     <message>
         <source>DC Offset</source>
@@ -1906,11 +1906,11 @@
     </message>
     <message>
         <source>Rectangular PDF</source>
-        <translation type="unfinished"></translation>
+        <translation>사각 PDF</translation>
     </message>
     <message>
         <source>Triangular PDF</source>
-        <translation type="unfinished"></translation>
+        <translation>삼각 PDF</translation>
     </message>
     <message>
         <source>Noise Shaping</source>
@@ -1918,7 +1918,7 @@
     </message>
     <message>
         <source>From stream</source>
-        <translation type="unfinished"></translation>
+        <translation>스트림으로부터</translation>
     </message>
     <message>
         <source>From &lt;b&gt;%1 Hz&lt;/b&gt;</source>
@@ -1977,7 +1977,7 @@
     </message>
     <message>
         <source>All rights reserved.</source>
-        <translation type="unfinished"></translation>
+        <translation> All rights reserved. </translation>
     </message>
     <message>
         <source>Version 2.0.0.rc1 (Build 2292)</source>
@@ -2233,63 +2233,63 @@ Channel
     </message>
     <message>
         <source>Apple Peak Limiter</source>
-        <translation type="unfinished"></translation>
+        <translation>Apple 피크 리미터</translation>
     </message>
     <message>
         <source>Apple Multiband Compressor</source>
-        <translation type="unfinished"></translation>
+        <translation>Apple 멀티밴드 컴프레서</translation>
     </message>
     <message>
         <source>Apple Delay</source>
-        <translation type="unfinished"></translation>
+        <translation>Apple 딜레이</translation>
     </message>
     <message>
         <source>Apple Matrix Reverb</source>
-        <translation type="unfinished"></translation>
+        <translation>Apple 매트릭스 리버브</translation>
     </message>
     <message>
         <source>Apple Sample Delay</source>
-        <translation type="unfinished"></translation>
+        <translation>Apple 샘플 지연</translation>
     </message>
     <message>
         <source>Apple Graphic Equalizer</source>
-        <translation type="unfinished"></translation>
+        <translation>Apple 그래픽 이퀄라이저</translation>
     </message>
     <message>
         <source>Apple Parametric Equalizer</source>
-        <translation type="unfinished"></translation>
+        <translation>Apple 파라메트릭 이퀄라이저</translation>
     </message>
     <message>
         <source>Apple N-Band Equalizer</source>
-        <translation type="unfinished"></translation>
+        <translation>Apple N-Band 이퀄라이저</translation>
     </message>
     <message>
         <source>Apple Pitch</source>
-        <translation type="unfinished"></translation>
+        <translation>Apple 피치</translation>
     </message>
     <message>
         <source>Apple New Pitch</source>
-        <translation type="unfinished"></translation>
+        <translation>Apple 새로운 피치</translation>
     </message>
     <message>
         <source>Apple Distortion</source>
-        <translation type="unfinished"></translation>
+        <translation>Apple 왜곡</translation>
     </message>
     <message>
         <source>Apple Roger Beep</source>
-        <translation type="unfinished"></translation>
+        <translation>Apple 송신 확인음 설정</translation>
     </message>
     <message>
         <source>Apple Net Send</source>
-        <translation type="unfinished"></translation>
+        <translation>Apple Net Send</translation>
     </message>
     <message>
         <source>Apple AAC Encoder Round Trip</source>
-        <translation type="unfinished"></translation>
+        <translation>AAC 인코더 확인 시험</translation>
     </message>
     <message>
         <source>Audio Unit</source>
-        <translation type="unfinished"></translation>
+        <translation>오디오 유닛</translation>
     </message>
     <message>
         <source>File Menu</source>
@@ -2329,15 +2329,15 @@ Channel
     </message>
     <message>
         <source>Help Menu</source>
-        <translation type="unfinished"></translation>
+        <translation>도움 메뉴</translation>
     </message>
     <message>
         <source>New From Selection</source>
-        <translation type="unfinished"></translation>
+        <translation>영역에서 새로운 파일</translation>
     </message>
     <message>
         <source>New From Clipboard</source>
-        <translation type="unfinished"></translation>
+        <translation>클립보드에서 새로운 파일</translation>
     </message>
     <message>
         <source>Close File</source>
@@ -2349,19 +2349,19 @@ Channel
     </message>
     <message>
         <source>Adjust Selection to Scale Tick</source>
-        <translation></translation>
+        <translation>선택 사항을 스케일 틱에 맞추기</translation>
     </message>
     <message>
         <source>Adjust Selection to Zero Cross</source>
-        <translation type="unfinished"></translation>
+        <translation>선택 사항을 제로크로스에 맞추기</translation>
     </message>
     <message>
         <source>Create Marker/Region</source>
-        <translation type="unfinished"></translation>
+        <translation>마커/영역 생성</translation>
     </message>
     <message>
         <source>Waveform and Spectral View</source>
-        <translation type="unfinished"></translation>
+        <translation>파형 및 스펙트럴 뷰</translation>
     </message>
     <message>
         <source>Display Time Format in Decimal</source>
@@ -2369,11 +2369,11 @@ Channel
     </message>
     <message>
         <source>Display Time Format in Samples</source>
-        <translation></translation>
+        <translation>샘플의 시간 형식 보여주기</translation>
     </message>
     <message>
         <source>Display Time Format in Frames</source>
-        <translation type="unfinished"></translation>
+        <translation>프레임의 시간 형식 보여주기</translation>
     </message>
     <message>
         <source>Vertical Scale in Sample Value</source>
