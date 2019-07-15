@@ -2105,6 +2105,26 @@ Clique aqui para baixá-la.</translation>
         <source>Donate now!</source>
         <translation>Doar Agora!</translation>
     </message>
+    <message>
+        <source>Recordings backup found</source>
+        <translation>Backup de gravações encontrado</translation>
+    </message>
+    <message>
+        <source>One or more capture backuped files were left from previous uses of ocenaudio!</source>
+        <translation>Um ou mais arquivos de backup de captura foram deixados de usos anteriores do ocenaudio!</translation>
+    </message>
+    <message>
+        <source>This message will be shown until you move or delete these files.</source>
+        <translation>Esta mensagem será exibida até você mover ou apagar esses arquivos.</translation>
+    </message>
+    <message>
+        <source>Click here to open backup folder.</source>
+        <translation>Clique aqui para abrir a pasta de backup.</translation>
+    </message>
+    <message>
+        <source>Removing capture backuped files</source>
+        <translation>Removendo arquivos de backup de captura</translation>
+    </message>
 </context>
 <context>
     <name>QOcenAudioChangeFormatDialog</name>

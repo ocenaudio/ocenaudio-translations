@@ -802,6 +802,10 @@
         <source>Apply</source>
         <translation type="unfinished"></translation>
     </message>
+    <message>
+        <source>Duplicated from %1</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>QOcenApplication</name>
@@ -1929,6 +1933,10 @@ Storage: %1 mount on %2</source>
     <message>
         <source>Continue to play next/selected audio </source>
         <translation>Continuar reproduciendo el audio siguiente/seleccionado</translation>
+    </message>
+    <message>
+        <source>Keep a backup for each recording </source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
