@@ -2377,27 +2377,27 @@ Channel
     </message>
     <message>
         <source>Vertical Scale in Sample Value</source>
-        <translation type="unfinished"></translation>
+        <translation>샘플 값의 수직 스케일</translation>
     </message>
     <message>
         <source>Vertical Scale Normalized</source>
-        <translation type="unfinished"></translation>
+        <translation>수직 스케일 정규화</translation>
     </message>
     <message>
         <source>Vertical Scale Percentages</source>
-        <translation type="unfinished"></translation>
+        <translation>수직 스케일 퍼센트</translation>
     </message>
     <message>
         <source>Vertical Scale in Decibels</source>
-        <translation type="unfinished"></translation>
+        <translation>데시벨의 수직 스케일</translation>
     </message>
     <message>
         <source>Spectral Scale in Mels</source>
-        <translation type="unfinished"></translation>
+        <translation>멜의 수직 스케일</translation>
     </message>
     <message>
         <source>Spectral Scale in Hz</source>
-        <translation type="unfinished"></translation>
+        <translation>Hz의 스펙트럼 스케일</translation>
     </message>
     <message>
         <source>Show/Hide Regions</source>
@@ -2405,7 +2405,7 @@ Channel
     </message>
     <message>
         <source>Show/Hide Loops</source>
-        <translation type="unfinished"></translation>
+        <translation>반복 보기/가리기</translation>
     </message>
     <message>
         <source>Show/Hide Markers</source>
@@ -2413,7 +2413,7 @@ Channel
     </message>
     <message>
         <source>Show/Hide All Regions, Loops and Markers</source>
-        <translation type="unfinished"></translation>
+        <translation>영역,반복,마커 보기/숨기기</translation>
     </message>
     <message>
         <source>Show/Hide Toolbar</source>
@@ -2498,15 +2498,15 @@ Channel
     </message>
     <message>
         <source>Single</source>
-        <translation type="unfinished"></translation>
+        <translation>싱글</translation>
     </message>
     <message>
         <source>Save Each Selection Prefixed With ...</source>
-        <translation type="unfinished"></translation>
+        <translation>의 앞에 각 선택들을 저장</translation>
     </message>
     <message>
         <source>Prefix With:</source>
-        <translation type="unfinished"></translation>
+        <translation>의 앞에</translation>
     </message>
     <message>
         <source>Save Sound Selections As ...</source>
@@ -2566,7 +2566,7 @@ Channel
     </message>
     <message>
         <source>Attention</source>
-        <translation type="unfinished"></translation>
+        <translation>주의</translation>
     </message>
     <message>
         <source>You are about to remove all metadata of this file. Are you sure you want to proceed?</source>
@@ -2614,11 +2614,11 @@ Channel
     </message>
     <message>
         <source>Generating Silence</source>
-        <translation></translation>
+        <translation>정적 생성</translation>
     </message>
     <message>
         <source>Silence Generation</source>
-        <translation type="unfinished"></translation>
+        <translation>정적 생성</translation>
     </message>
     <message>
         <source>Applying Fade</source>
@@ -2907,15 +2907,15 @@ Channel
     </message>
     <message>
         <source>Show/Hide Selection Overlays</source>
-        <translation type="unfinished"></translation>
+        <translation>선택 오버레이 보기/숨기기</translation>
     </message>
     <message>
         <source>Show/Hide Overlay Tools</source>
-        <translation type="unfinished"></translation>
+        <translation>오버레이 툴 보기/숨기기</translation>
     </message>
     <message>
         <source>Note</source>
-        <translation type="unfinished"></translation>
+        <translation>알림</translation>
     </message>
     <message>
         <source>You are about to create extra tracks for each channel in your audio file. Are you sure you want to proceed?</source>
@@ -3074,7 +3074,7 @@ Channel
     </message>
     <message>
         <source>Smoothing</source>
-        <translation>부드럽게</translation>
+        <translation>다듬기</translation>
     </message>
     <message>
         <source>Sensitivity</source>
@@ -3275,7 +3275,7 @@ Channel
     </message>
     <message>
         <source>Resolution</source>
-        <translation type="unfinished"></translation>
+        <translation>음질</translation>
     </message>
     <message>
         <source>16 bits</source>
@@ -3611,7 +3611,7 @@ Channel
     </message>
     <message>
         <source>Use Variable Bit Rate Encoding (VBR)</source>
-        <translation type="unfinished"></translation>
+        <translation>VBR 인코딩 사용</translation>
     </message>
     <message>
         <source>Quality:</source>
@@ -3739,35 +3739,35 @@ Channel
     </message>
     <message>
         <source>ALAC - Apple Lossless Audio Codec</source>
-        <translation type="unfinished"></translation>
+        <translation>ALAC Apple 무손실 오디오 코덱</translation>
     </message>
     <message>
         <source>Bit Rate:</source>
-        <translation type="unfinished"></translation>
+        <translation>비트 레이트:</translation>
     </message>
     <message>
         <source>Quantizer Quality:</source>
-        <translation type="unfinished"></translation>
+        <translation>양자화도구 질</translation>
     </message>
     <message>
         <source>OGG</source>
-        <translation type="unfinished"></translation>
+        <translation>OGG</translation>
     </message>
     <message>
         <source>Mode:</source>
-        <translation type="unfinished"></translation>
+        <translation>모드:</translation>
     </message>
     <message>
         <source>Variable Bit Rate (VBR)</source>
-        <translation type="unfinished"></translation>
+        <translation> Variable Bit Rate (VBR) </translation>
     </message>
     <message>
         <source>Constant Bit Rate (CBR)</source>
-        <translation type="unfinished"></translation>
+        <translation> Constant Bit Rate (CBR) </translation>
     </message>
     <message>
         <source>Limited Variable Bit Rate (ABR)</source>
-        <translation type="unfinished"></translation>
+        <translation> Limited Variable Bit Rate (ABR) </translation>
     </message>
     <message>
         <source>Maximum Bit Rate:</source>
@@ -3791,7 +3791,7 @@ Channel
     </message>
     <message>
         <source>...</source>ㄹ
-        <translation></translation>
+        <translation>...</translation>
     </message르
     <message>
         <source>Save each selection to a separate file</source>
