@@ -5099,7 +5099,7 @@ or your network that you want to open:</source>
     </message>
     <message>
         <source>Code Duration</source>
-        <translation type="unfinished"></translation>
+        <translation>코드 시간</translation>
     </message>
     <message>
         <source>100</source>
@@ -5111,7 +5111,7 @@ or your network that you want to open:</source>
     </message>
     <message>
         <source>Break Duration</source>
-        <translation type="unfinished"></translation>
+        <translation>쉬는 시간</translation>
     </message>
     <message>
         <source>40</source>
@@ -5119,7 +5119,7 @@ or your network that you want to open:</source>
     </message>
     <message>
         <source>Pause Duration</source>
-        <translation type="unfinished"></translation>
+        <translation>멈춤 시간</translation>
     </message>
     <message>
         <source>500</source>
@@ -5127,7 +5127,7 @@ or your network that you want to open:</source>
     </message>
     <message>
         <source>Fade Borders</source>
-        <translation type="unfinished"></translation>
+        <translation>흐려지는 경계</translation>
     </message>
     <message>
         <source>Configuration</source>
@@ -5135,7 +5135,7 @@ or your network that you want to open:</source>
     </message>
     <message>
         <source>Intensity</source>
-        <translation type="unfinished"></translation>
+        <translation>강도</translation>
     </message>
     <message>
         <source>-6</source>
@@ -5147,7 +5147,7 @@ or your network that you want to open:</source>
     </message>
     <message>
         <source>Duration</source>
-        <translation type="unfinished"></translation>
+        <translation>시간</translation>
     </message>
     <message>
         <source>10</source>
@@ -5159,7 +5159,7 @@ or your network that you want to open:</source>
     </message>
     <message>
         <source>DTMF Sequence (Valid chars: 1234567890#*ABCD,)</source>
-        <translation type="unfinished"></translation>
+        <translation> DTMF Sequence (Valid chars: 1234567890#*ABCD,) </translation>
     </message>
     <message>
         <source>Preview</source>
@@ -5194,11 +5194,11 @@ or your network that you want to open:</source>
     <name>QSilenceGeneratorDialog</name>
     <message>
         <source>Silence</source>
-        <translation>조용한</translation>
+        <translation>정적</translation>
     </message>
     <message>
         <source>Silence Duration</source>
-        <translation type="unfinished"></translation>
+        <translation>정적의 시간</translation>
     </message>
     <message>
         <source>10</source>
@@ -5526,11 +5526,11 @@ or your network that you want to open:</source>
     </message>
     <message>
         <source>Show Scale Grids</source>
-        <translation type="unfinished"></translation>
+        <translation>격자규모 보이기</translation>
     </message>
     <message>
         <source>Visible Audio</source>
-        <translation type="unfinished"></translation>
+        <translation>보이는 오디오</translation>
     </message>
     <message>
         <source>Transparent Brackground</source>
@@ -5554,15 +5554,15 @@ or your network that you want to open:</source>
     </message>
     <message>
         <source>Spectralform</source>
-        <translation type="unfinished"></translation>
+        <translation>스펙트럼 형태</translation>
     </message>
     <message>
         <source>Both</source>
-        <translation type="unfinished"></translation>
+        <translation>둘 다</translation>
     </message>
     <message>
         <source>High Dpi Image</source>
-        <translation type="unfinished"></translation>
+        <translation>high Dpi 이미지</translation>
     </message>
     <message>
         <source>Save Audio Screenshot</source>
