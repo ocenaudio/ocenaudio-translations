@@ -44,7 +44,7 @@
     </message>
     <message>
         <source>archive</source>
-        <translation type="unfinished"></translation>
+        <translation>아키브</translation>
     </message>
     <message>
         <source>file</source>
@@ -52,7 +52,7 @@
     </message>
     <message>
         <source>remoteurl</source>
-        <translation type="unfinished"></translation>
+        <translation>remoteurl</translation>
     </message>
     <message>
         <source>%1 in %2</source>
@@ -60,7 +60,7 @@
     </message>
     <message>
         <source>Unsupported Language</source>
-        <translation>지원하지 않는 언어</translation>
+        <translation>지원되지 않는 언어</translation>
     </message>
     <message>
         <source>English</source>
@@ -124,7 +124,7 @@
     </message>
     <message>
         <source>Reverting to Saved</source>
-        <translation type="unfinished"></translation>
+        <translation>저장된 상태로 되돌리기</translation>
     </message>
     <message>
         <source>Opening %1</source>
@@ -240,19 +240,19 @@
     </message>
     <message>
         <source>Downmix of %1</source>
-        <translation type="unfinished"></translation>
+        <translation>%1의 다운믹스</translation>
     </message>
     <message>
         <source>Join of %1 and %2</source>
-        <translation type="unfinished"></translation>
+        <translation>%1과 %2 파일의 결합</translation>
     </message>
     <message>
         <source>Join of %1, %2 and %3</source>
-        <translation type="unfinished"></translation>
+        <translation>%1,%2 와 %3 파일의 결합</translation>
     </message>
     <message>
         <source>Join of %1, %2 and other %3 files</source>
-        <translation type="unfinished"></translation>
+        <translation>%1,%2 와 다른 %3파일의 결합</translation>
     </message>
     <message>
         <source>Reversing</source>
@@ -364,7 +364,7 @@
     </message>
     <message>
         <source>Paste Silence</source>
-        <translation type="unfinished"></translation>
+        <translation>무음 붙이기</translation>
     </message>
     <message>
         <source>Append Audio</source>
@@ -372,7 +372,7 @@
     </message>
     <message>
         <source>Append Silence</source>
-        <translation type="unfinished"></translation>
+        <translation>무음 추가</translation>
     </message>
     <message>
         <source>Append From File</source>
@@ -404,11 +404,11 @@
     </message>
     <message>
         <source>s m p l</source>
-        <translation type="unfinished"></translation>
+        <translation>샘플</translation>
     </message>
     <message>
         <source>f r a m e s</source>
-        <translation type="unfinished"></translation>
+        <translation>프레임</translation>
     </message>
     <message>
         <source>Title</source>
@@ -444,7 +444,7 @@
     </message>
     <message>
         <source>Remaining</source>
-        <translation type="unfinished"></translation>
+        <translation>유지하기</translation>
     </message>
     <message>
         <source>Question</source>
@@ -472,11 +472,11 @@
     </message>
     <message>
         <source>@%1 (unlinked)</source>
-        <translation type="unfinished"></translation>
+        <translation>@%1 (연결되지 않은)</translation>
     </message>
     <message>
         <source>Smooth</source>
-        <translation type="unfinished"></translation>
+        <translation>자연스러운</translation>
     </message>
     <message>
         <source>General</source>
@@ -488,11 +488,11 @@
     </message>
     <message>
         <source>Key Bindings</source>
-        <translation type="unfinished"></translation>
+        <translation>키 바인딩</translation>
     </message>
     <message>
         <source>Key Bindings Preferences</source>
-        <translation type="unfinished"></translation>
+        <translation>키 바인딩 환경설정</translation>
     </message>
     <message>
         <source>Network</source>
@@ -516,11 +516,11 @@
     </message>
     <message>
         <source>Spectrogram</source>
-        <translation type="unfinished"></translation>
+        <translation>스펙트로그램</translation>
     </message>
     <message>
         <source>Spectogram Preferences</source>
-        <translation type="unfinished"></translation>
+        <translation>스펙트로그램 환경설정</translation>
     </message>
     <message>
         <source>Paste To Fit</source>
@@ -532,31 +532,31 @@
     </message>
     <message>
         <source>Quick zoom</source>
-        <translation type="unfinished"></translation>
+        <translation>빠른 줌</translation>
     </message>
     <message>
         <source>Move to previous zero crossing</source>
-        <translation type="unfinished"></translation>
+        <translation>이전 제로 크로싱으로 이동</translation>
     </message>
     <message>
         <source>Move to next zero crossing</source>
-        <translation type="unfinished"></translation>
+        <translation>다음 제로 크로싱으로 이동</translation>
     </message>
     <message>
         <source>Select to previous zero crossing</source>
-        <translation type="unfinished"></translation>
+        <translation>이전 제로 크로싱 선택</translation>
     </message>
     <message>
         <source>Select to next zero crossing</source>
-        <translation type="unfinished"></translation>
+        <translation>다음 제로 크로싱 선택</translation>
     </message>
     <message>
         <source>Scroll audio backward</source>
-        <translation type="unfinished"></translation>
+        <translation>오디오를 뒤로 스크롤</translation>
     </message>
     <message>
         <source>Scroll audio forward</source>
-        <translation type="unfinished"></translation>
+        <translation>오디오를 앞으로 스크롤</translation>
     </message>
     <message>
         <source>Move cursor to previous page</source>
@@ -596,19 +596,19 @@
     </message>
     <message>
         <source>Select Audio/Region to left</source>
-        <translation type="unfinished"></translation>
+        <translation>왼쪽으로 오디오/영역 선택하기</translation>
     </message>
     <message>
         <source>Select Audio/Region to right</source>
-        <translation type="unfinished"></translation>
+        <translation>오른쪽으로 오디오/영역 선택하기</translation>
     </message>
     <message>
         <source>Select Audio/Region to begin</source>
-        <translation type="unfinished"></translation>
+        <translation>시작으로 오디오/영역 선택하기</translation>
     </message>
     <message>
         <source>Select Audio/Region to end</source>
-        <translation type="unfinished"></translation>
+        <translation>끝으로 오디오/영역 선택하기</translation>
     </message>
     <message>
         <source>Select to previous scale tick</source>
@@ -648,7 +648,7 @@
     </message>
     <message>
         <source>Smoothing</source>
-        <translation type="unfinished"></translation>
+        <translation>자연스럽게</translation>
     </message>
     <message>
         <source>Create/Edit region</source>
@@ -680,19 +680,19 @@
     </message>
     <message>
         <source>Clear</source>
-        <translation type="unfinished"></translation>
+        <translation>지우기</translation>
     </message>
     <message>
         <source>Zoom Selection</source>
-        <translation type="unfinished"></translation>
+        <translation>줌 선택</translation>
     </message>
     <message>
         <source>Zoom Back</source>
-        <translation type="unfinished"></translation>
+        <translation>축소하기</translation>
     </message>
     <message>
         <source>Drag me!</source>
-        <translation type="unfinished"></translation>
+        <translation>여기를 드래그하세요</translation>
     </message>
     <message>
         <source>Double-Click to create a marker</source>
@@ -783,15 +783,15 @@ You should check your audio settings in the ocenaudio preferences pane.</source>
     </message>
     <message>
         <source>Offset Region</source>
-        <translation type="unfinished"></translation>
+        <translation>오프셋 영역</translation>
     </message>
     <message>
         <source>Change Region Begin</source>
-        <translation type="unfinished"></translation>
+        <translation>영역 시작점 변경</translation>
     </message>
     <message>
         <source>Change Region End</source>
-        <translation type="unfinished"></translation>
+        <translation>영역 끝지점 변경</translation>
     </message>
     <message>
         <source>Resize Region</source>
@@ -878,11 +878,11 @@ You should check your audio settings in the ocenaudio preferences pane.</source>
     <name>QOcenAudioSelectionMime</name>
     <message>
         <source>%1 Snippets from %2</source>
-        <translation type="unfinished"></translation>
+        <translation>%2의 %1 단편</translation>
     </message>
     <message>
         <source>Snippet from %1</source>
-        <translation type="unfinished"></translation>
+        <translation>%1의 단편</translation>
     </message>
 </context>
 <context>
@@ -904,7 +904,7 @@ You should check your audio settings in the ocenaudio preferences pane.</source>
     </message>
     <message>
         <source>Message box informative text</source>
-        <translation type="unfinished"></translation>
+        <translation>메시지 상자 정보 텍스트</translation>
     </message>
     <message>
         <source>Checkable option</source>
@@ -953,27 +953,27 @@ You should check your audio settings in the ocenaudio preferences pane.</source>
     </message>
     <message>
         <source>Color Scheme</source>
-        <translation type="unfinished"></translation>
+        <translation>색 스킴</translation>
     </message>
     <message>
         <source>Classic</source>
-        <translation type="unfinished"></translation>
+        <translation>클래식</translation>
     </message>
     <message>
         <source>Light</source>
-        <translation type="unfinished"></translation>
+        <translation>밝은</translation>
     </message>
     <message>
         <source>Select ocenaudio interface language</source>
-        <translation type="unfinished"></translation>
+        <translation>ocenaudio 인터페이스 언어 선택</translation>
     </message>
     <message>
         <source>Select color scheme to be used in ocenaudio interface</source>
-        <translation type="unfinished"></translation>
+        <translation>ocenaudio인터페이스에서 사용할 색 스킴 선택</translation>
     </message>
     <message>
         <source>Smooth Cut and Delete boundaries</source>
-        <translation type="unfinished"></translation>
+        <translation>자연스럽게 자르고 영역 지우기</translation>
     </message>
     <message>
         <source>Keep a backup copy of original file before overwrite</source>
