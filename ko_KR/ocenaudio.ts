@@ -3835,7 +3835,7 @@ Channel
     </message>
     <message>
         <source>Resolution:</source>
-        <translation type="unfinished"></translation>
+        <translation>음질</translation>
     </message>
     <message>
         <source>%1 bits</source>
@@ -3843,15 +3843,15 @@ Channel
     </message>
     <message>
         <source>Dithering:</source>
-        <translation type="unfinished"></translation>
+        <translation>디더링:</translation>
     </message>
     <message>
         <source>Vorbis</source>
-        <translation type="unfinished"></translation>
+        <translation>Vorbis</translation>
     </message>
     <message>
         <source>Opus</source>
-        <translation type="unfinished"></translation>
+        <translation>Opus</translation>
     </message>
     <message>
         <source>%1</source>
@@ -4291,7 +4291,7 @@ Channel
     <name>QOcenMixPasteDialog</name>
     <message>
         <source>Paste Special</source>
-        <translation type="unfinished"></translation>
+        <translation>붙여넣기</translation>
     </message>
     <message>
         <source>Volume</source>
@@ -4492,7 +4492,7 @@ Channel
     </message>
     <message>
         <source>Scanning Plugins</source>
-        <translation type="unfinished"></translation>
+        <translation>스캐닝 플러그인</translation>
     </message>
     <message>
         <source>Refresh VST Effects</source>
@@ -4508,7 +4508,7 @@ Channel
     </message>
     <message>
         <source>Show in Finder</source>
-        <translation type="unfinished"></translation>
+        <translation>finder에서 보기</translation>
     </message>
     <message>
         <source>Show Plugins List...</source>
@@ -4531,7 +4531,7 @@ Channel
     </message>
     <message>
         <source>Clear History</source>
-        <translation type="unfinished"></translation>
+        <translation>기록 지우기</translation>
     </message>
     <message>
         <source>Open both streams in this file</source>
@@ -4701,15 +4701,15 @@ or your network that you want to open:</source>
     </message>
     <message>
         <source>Enable All</source>
-        <translation type="unfinished"></translation>
+        <translation>모두 가능하게 하기</translation>
     </message>
     <message>
         <source>Disable All</source>
-        <translation type="unfinished"></translation>
+        <translation>모두 불가능하게 하기</translation>
     </message>
     <message>
         <source>Effects in Folder %1</source>
-        <translation type="unfinished"></translation>
+        <translation>폴더1의 effects</translation>
     </message>
     <message>
         <source>Crashed</source>
@@ -4796,11 +4796,11 @@ or your network that you want to open:</source>
     </message>
     <message>
         <source>Downmix to a Stereo File</source>
-        <translation type="unfinished"></translation>
+        <translation>스테레오 파일에 다운믹스</translation>
     </message>
     <message>
         <source>Downmix to a Quadraphonic File</source>
-        <translation type="unfinished"></translation>
+        <translation>4채널 파일에 다운믹스</translation>
     </message>
     <message>
         <source>Get Info</source>
@@ -4896,19 +4896,19 @@ or your network that you want to open:</source>
     </message>
     <message>
         <source>By Duration</source>
-        <translation type="unfinished"></translation>
+        <translation>음원 길이에 의해</translation>
     </message>
     <message>
         <source>By Date</source>
-        <translation type="unfinished"></translation>
+        <translation>날짜에 의해</translation>
     </message>
     <message>
         <source>Ascending</source>
-        <translation type="unfinished"></translation>
+        <translation>오름차순</translation>
     </message>
     <message>
         <source>Descending</source>
-        <translation type="unfinished"></translation>
+        <translation>내림차순</translation>
     </message>
     <message>
         <source>Stop</source>
@@ -4916,11 +4916,11 @@ or your network that you want to open:</source>
     </message>
     <message>
         <source>View/Edit</source>
-        <translation type="unfinished"></translation>
+        <translation>보기/수정</translation>
     </message>
     <message>
         <source>View</source>
-        <translation type="unfinished"></translation>
+        <translation>보기</translation>
     </message>
     <message>
         <source>Close</source>
@@ -4967,15 +4967,15 @@ or your network that you want to open:</source>
     </message>
     <message>
         <source>Uniform</source>
-        <translation type="unfinished"></translation>
+        <translation>유니폼</translation>
     </message>
     <message>
         <source>Tones</source>
-        <translation type="unfinished"></translation>
+        <translation>톤</translation>
     </message>
     <message>
         <source>Frequency</source>
-        <translation type="unfinished"></translation>
+        <translation>진동수</translation>
     </message>
     <message>
         <source>Start</source>
@@ -5003,23 +5003,23 @@ or your network that you want to open:</source>
     </message>
     <message>
         <source>Sine</source>
-        <translation type="unfinished"></translation>
+        <translation>사인(sine)</translation>
     </message>
     <message>
         <source>Triangular</source>
-        <translation type="unfinished"></translation>
+        <translation>트라이앵귤러</translation>
     </message>
     <message>
         <source>Sawtooth</source>
-        <translation type="unfinished"></translation>
+        <translation>톱니</translation>
     </message>
     <message>
         <source>Square</source>
-        <translation type="unfinished"></translation>
+        <translation>스퀘어</translation>
     </message>
     <message>
         <source>Lock start and end frequencies</source>
-        <translation type="unfinished"></translation>
+        <translation>처음과 마지막 진동수 Lock하기</translation>
     </message>
     <message>
         <source>Fade-in and Fade-out borders</source>
