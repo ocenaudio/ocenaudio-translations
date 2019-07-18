@@ -973,31 +973,31 @@ You should check your audio settings in the ocenaudio preferences pane.</source>
     </message>
     <message>
         <source>Smooth Cut and Delete boundaries</source>
-        <translation>자연스럽게 자르고 영역 지우기</translation>
+        <translation>자연스럽게 자르고 경계 지우기</translation>
     </message>
     <message>
         <source>Keep a backup copy of original file before overwrite</source>
-        <translation type="unfinished"></translation>
+        <translation>덮어쓰기 전에 원본파일의 백업본을 보관하세요.</translation>
     </message>
     <message>
         <source>System Language (%1)</source>
-        <translation>시스템 언어</translation>
+        <translation>시스템 언어(%1)</translation>
     </message>
     <message>
         <source>Aqua</source>
-        <translation type="unfinished"></translation>
+        <translation>아쿠아</translation>
     </message>
     <message>
         <source>Dark Classic</source>
-        <translation type="unfinished"></translation>
+        <translation>다크 클래식</translation>
     </message>
     <message>
         <source>Dark Aqua</source>
-        <translation type="unfinished"></translation>
+        <translation>다크 아쿠아</translation>
     </message>
     <message>
         <source>Dark Mojave</source>
-        <translation type="unfinished"></translation>
+        <translation>다크 모하비</translation>
     </message>
 </context>
 <context>
@@ -1008,26 +1008,26 @@ You should check your audio settings in the ocenaudio preferences pane.</source>
     </message>
     <message>
         <source>TextLabel</source>
-        <translation type="unfinished"></translation>
+        <translation>텍스트 라벨</translation>
     </message>
 </context>
 <context>
     <name>QOcenKeyBindings</name>
     <message>
         <source>Command</source>
-        <translation type="unfinished"></translation>
+        <translation>명령</translation>
     </message>
     <message>
         <source>Key</source>
-        <translation type="unfinished"></translation>
+        <translation>키</translation>
     </message>
     <message>
         <source>Restore to default (no shortcut)</source>
-        <translation type="unfinished"></translation>
+        <translation>기본값으로 복원(바로가기 없음)</translation>
     </message>
     <message>
         <source>Restore to default shortcut (&apos;%1&apos;)</source>
-        <translation type="unfinished"></translation>
+        <translation>기본 바로가기로 복원 (&apos;%1&apos;) </translation>
     </message>
 </context>
 <context>
@@ -1038,31 +1038,31 @@ You should check your audio settings in the ocenaudio preferences pane.</source>
     </message>
     <message>
         <source>Command</source>
-        <translation type="unfinished"></translation>
+        <translation>명령</translation>
     </message>
     <message>
         <source>Key</source>
-        <translation type="unfinished"></translation>
+        <translation>키</translation>
     </message>
     <message>
         <source>Key binding action list</source>
-        <translation type="unfinished"></translation>
+        <translation>키 바인딩 작업 목록</translation>
     </message>
     <message>
         <source>List of ocenaudio actions and theirs key bindings</source>
-        <translation type="unfinished"></translation>
+        <translation>ocenaudio 작업 목록과 그들의 키 바인딩</translation>
     </message>
     <message>
         <source>Key bindings action filter</source>
-        <translation type="unfinished"></translation>
+        <translation>키 바인딩 작업 필터</translation>
     </message>
     <message>
         <source>Filter the key bindings action list</source>
-        <translation type="unfinished"></translation>
+        <translation>키 바인딩 작업 필터하기</translation>
     </message>
     <message>
         <source>Filter</source>
-        <translation type="unfinished"></translation>
+        <translation>필터</translation>
     </message>
 </context>
 <context>
@@ -1077,7 +1077,7 @@ You should check your audio settings in the ocenaudio preferences pane.</source>
     </message>
     <message>
         <source>Show files in grid</source>
-        <translation type="unfinished"></translation>
+        <translation>눈금에 파일 보이기</translation>
     </message>
 </context>
 <context>
@@ -1337,7 +1337,7 @@ You should check your audio settings in the ocenaudio preferences pane.</source>
     <message>
         <source>
 Storage: %1 mount on %2</source>
-        <translation type="unfinished"></translation>
+        <translation>저장공간 : %1이 %2를 탑재하다</translation>
     </message>
     <message>
         <source>Disk Is Full</source>
@@ -1356,11 +1356,11 @@ Storage: %1 mount on %2</source>
     </message>
     <message>
         <source>Network OK</source>
-        <translation type="unfinished"></translation>
+        <translation>네트워크 문제없음</translation>
     </message>
     <message>
         <source>Server:</source>
-        <translation type="unfinished"></translation>
+        <translation>서버:</translation>
     </message>
     <message>
         <source>:</source>
@@ -1402,7 +1402,7 @@ Storage: %1 mount on %2</source>
     <name>QOcenOpenFile</name>
     <message>
         <source>Probing</source>
-        <translation type="unfinished"></translation>
+        <translation>프로빙</translation>
     </message>
     <message>
         <source>Opening &quot;%1&quot;</source>
@@ -1486,11 +1486,11 @@ Storage: %1 mount on %2</source>
     </message>
     <message>
         <source>Cue File Found</source>
-        <translation></translation>
+        <translation>큐 파일 발견</translation>
     </message>
     <message>
         <source>A cue file containing %2 tracks associated with the “%1” file was found. You want to open these tracks separately?</source>
-        <translation type="unfinished"></translation>
+        <translation>%1과 연관된 %2트랙이 담긴 큐 파일이 발견되었습니다. 이 트랙들을 따로 여시겠습니까?</translation>
     </message>
     <message>
         <source>Open Tracks</source>
@@ -1675,31 +1675,31 @@ Storage: %1 mount on %2</source>
     </message>
     <message>
         <source>Mixer Backend</source>
-        <translation type="unfinished"></translation>
+        <translation>믹서 백앤드</translation>
     </message>
     <message>
         <source>CoreAudio</source>
-        <translation type="unfinished"></translation>
+        <translation>코어 오디오</translation>
     </message>
     <message>
         <source>Disabled</source>
-        <translation type="unfinished"></translation>
+        <translation>활성화 안됨</translation>
     </message>
     <message>
         <source>System Default</source>
-        <translation type="unfinished"></translation>
+        <translation>시스템 기본값</translation>
     </message>
     <message>
         <source>Play head follows cursor position</source>
-        <translation type="unfinished"></translation>
+        <translation>재생 헤드가 커서 위치를 따름</translation>
     </message>
     <message>
         <source>Preroll</source>
-        <translation type="unfinished"></translation>
+        <translation>프리롤</translation>
     </message>
     <message>
         <source>Play only visible portion of the audio</source>
-        <translation type="unfinished"></translation>
+        <translation>오디오의 보이는 부분만 재생</translation>
     </message>
     <message>
         <source>Select Playback device</source>
@@ -1715,11 +1715,11 @@ Storage: %1 mount on %2</source>
     </message>
     <message>
         <source>Preroll Time</source>
-        <translation type="unfinished"></translation>
+        <translation>프리롤 시간</translation>
     </message>
     <message>
         <source>Sets the preroll time.</source>
-        <translation type="unfinished"></translation>
+        <translation>프리롤 시간 설정</translation>
     </message>
     <message>
         <source>Sample Rate</source>
@@ -1755,7 +1755,7 @@ Storage: %1 mount on %2</source>
     </message>
     <message>
         <source>Select the mixer backend API</source>
-        <translation type="unfinished"></translation>
+        <translation>믹서 백엔드 API 선택</translation>
     </message>
     <message>
         <source>samples</source>
@@ -1775,7 +1775,7 @@ Storage: %1 mount on %2</source>
     </message>
     <message>
         <source>Custom</source>
-        <translation type="unfinished"></translation>
+        <translation>사용자 설정</translation>
     </message>
     <message>
         <source>No Devices Found</source>
@@ -1783,7 +1783,7 @@ Storage: %1 mount on %2</source>
     </message>
     <message>
         <source>No common sampling rate</source>
-        <translation type="unfinished"></translation>
+        <translation>일반적이지 않은 샘플링 레이트</translation>
     </message>
     <message>
         <source>Select recorded audio</source>
@@ -1799,11 +1799,11 @@ Storage: %1 mount on %2</source>
     </message>
     <message>
         <source>Use only full duplex devices</source>
-        <translation type="unfinished"></translation>
+        <translation>전이중 장치만을 사용하세요.</translation>
     </message>
     <message>
         <source>Pause playback on markers</source>
-        <translation>표시된 곳에서 재생 멈춤</translation>
+        <translation>표시된 곳에서 재생 멈추세요.</translation>
     </message>
     <message>
         <source>Playback Options</source>
@@ -1815,7 +1815,7 @@ Storage: %1 mount on %2</source>
     </message>
     <message>
         <source>No Full-Duplex Devices Found</source>
-        <translation type="unfinished"></translation>
+        <translation>전이중 장치 발견되지 않음</translation>
     </message>
     <message>
         <source>Continue to play next/selected audio </source>
@@ -1842,7 +1842,7 @@ Storage: %1 mount on %2</source>
     </message>
     <message>
         <source>XXX dB</source>
-        <translation type="unfinished"></translation>
+        <translation>XXX dB</translation>
     </message>
     <message>
         <source>Color Settings</source>
@@ -1850,59 +1850,59 @@ Storage: %1 mount on %2</source>
     </message>
     <message>
         <source>Normalize</source>
-        <translation type="unfinished"></translation>
+        <translation>표준화</translation>
     </message>
     <message>
         <source>Narrow Band</source>
-        <translation type="unfinished"></translation>
+        <translation>좁은 밴드</translation>
     </message>
     <message>
         <source>Wide Band</source>
-        <translation type="unfinished"></translation>
+        <translation>넓은 밴드</translation>
     </message>
     <message>
         <source>Custom</source>
-        <translation type="unfinished"></translation>
+        <translation>사용자 설정</translation>
     </message>
     <message>
         <source>Triangular</source>
-        <translation type="unfinished"></translation>
+        <translation>심각형의</translation>
     </message>
     <message>
         <source>Blackman</source>
-        <translation type="unfinished"></translation>
+        <translation>Blackman</translation>
     </message>
     <message>
         <source>Blackman-Harris</source>
-        <translation type="unfinished"></translation>
+        <translation>Blackman-Harris</translation>
     </message>
     <message>
         <source>Blackman-Nuttall</source>
-        <translation type="unfinished"></translation>
+        <translation> Blackman-Nuttall </translation>
     </message>
     <message>
         <source>Hanning</source>
-        <translation type="unfinished"></translation>
+        <translation>해닝</translation>
     </message>
     <message>
         <source>Hamming</source>
-        <translation type="unfinished"></translation>
+        <translation>해밍</translation>
     </message>
     <message>
         <source>Inv. Linear Grayscale</source>
-        <translation type="unfinished"></translation>
+        <translation>Inv. 선형 그레이 스케일</translation>
     </message>
     <message>
         <source>Linear Grayscale</source>
-        <translation type="unfinished"></translation>
+        <translation>선형 그레이 스케일</translation>
     </message>
     <message>
         <source>Grayscale</source>
-        <translation type="unfinished"></translation>
+        <translation>그레이 스케일</translation>
     </message>
     <message>
         <source>Inv. Grayscale</source>
-        <translation type="unfinished"></translation>
+        <translation>Inv. 그레이 스케일</translation>
     </message>
     <message>
         <source>Color</source>
@@ -1910,15 +1910,15 @@ Storage: %1 mount on %2</source>
     </message>
     <message>
         <source>Spectrogram Presets</source>
-        <translation type="unfinished"></translation>
+        <translation>스펙트로그램 사전설정</translation>
     </message>
     <message>
         <source>Select spectrogram preset</source>
-        <translation type="unfinished"></translation>
+        <translation>사전 설정 스펙트로그램 선택</translation>
     </message>
     <message>
         <source>Number of bins</source>
-        <translation type="unfinished"></translation>
+        <translation>상자의 수</translation>
     </message>
     <message>
         <source>Window Size</source>
@@ -1926,7 +1926,7 @@ Storage: %1 mount on %2</source>
     </message>
     <message>
         <source>Dynamic Range</source>
-        <translation type="unfinished"></translation>
+        <translation>다이나믹 범위</translation>
     </message>
     <message>
         <source>Window Type</source>
@@ -1934,7 +1934,7 @@ Storage: %1 mount on %2</source>
     </message>
     <message>
         <source>Select the windowing function type. Window functions are used in signal processing to minimize the effect of spectral leakages</source>
-        <translation type="unfinished"></translation>
+        <translation>윈도우 기능 타입 선택. 윈도우 기능은 신호처리에 사용되는 스펙트럼 누출의 영향을 최소화합니다.</translation>
     </message>
     <message>
         <source>Color Scheme</source>
@@ -1942,31 +1942,31 @@ Storage: %1 mount on %2</source>
     </message>
     <message>
         <source>Select Spectrogram Color Scheme</source>
-        <translation type="unfinished"></translation>
+        <translation>스펙트로그램 색 스킴 선택</translation>
     </message>
     <message>
         <source>Sets the spectrogram range normalization on/off</source>
-        <translation type="unfinished"></translation>
+        <translation>스펙트로그램 범위 정규화를 on/off로 설정</translation>
     </message>
     <message>
         <source>Select the number of frequency bins to be used to construct the spectrogram</source>
-        <translation type="unfinished"></translation>
+        <translation>스펙트로그램을 구성하는데 사용되어지는 진동수 상자의 수를 선택</translation>
     </message>
     <message>
         <source>Select spectrogram dynamic range. The chosen value will be used as lower energy displayed in the spectrogram</source>
-        <translation type="unfinished"></translation>
+        <translation>스펙트로그램 다이나믹 범위 선택. 선택된 값은 스펙트로그램에 표시된 낮은 에너지로 사용됩니다.</translation>
     </message>
     <message>
         <source>Select spectrogram window size. The window size is a percentage of two times the number of bins</source>
-        <translation type="unfinished"></translation>
+        <translation>스펙트로그램 창 크기 설정. 창 크기는 저장소 수의 두배입니다.</translation>
     </message>
     <message>
         <source>Number of Bins</source>
-        <translation type="unfinished"></translation>
+        <translation>저장소 개수</translation>
     </message>
     <message>
         <source>Use Pre-Emphasis Filtering</source>
-        <translation type="unfinished"></translation>
+        <translation프리 엠퍼시스 필터링을 사용하세요.></translation>
     </message>
 </context>
 <context>
