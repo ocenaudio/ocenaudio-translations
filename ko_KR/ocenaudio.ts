@@ -17,7 +17,7 @@
     </message>
     <message>
         <source>Hz</source>
-        <translation type="unfinished"></translation>
+        <translation>Hz</translation>
     </message>
     <message>
         <source>48000</source>
@@ -100,7 +100,7 @@
     </message>
     <message>
         <source>Level Meter</source>
-        <translation type="unfinished"></translation>
+        <translation>레벨계</translation>
     </message>
     <message>
         <source>Effec&amp;ts</source>
@@ -2899,7 +2899,7 @@ Channel
     </message>
     <message>
         <source>Enable/Disable Select Captured Audio</source>
-        <translation></translation>
+        <translation>캡처된 오디오 활성화/비활성화</translation>
     </message>
     <message>
         <source>Enable/Disable Move Cursor to Record Stop Position</source>
@@ -3723,7 +3723,7 @@ Channel
     </message>
     <message>
         <source>Joint Stereo</source>
-        <translation type="unfinished"></translation>
+        <translation>조인트 스테레오</translation>
     </message>
     <message>
         <source>MP4</source>

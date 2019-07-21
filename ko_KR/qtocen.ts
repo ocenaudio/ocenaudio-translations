@@ -1830,7 +1830,7 @@ Storage: %1 mount on %2</source>
     </message>
     <message>
         <source>Presets</source>
-        <translation type="unfinished"></translation>
+        <translation>사전 설정</translation>
     </message>
     <message>
         <source>Settings</source>
@@ -1838,7 +1838,7 @@ Storage: %1 mount on %2</source>
     </message>
     <message>
         <source>100%</source>
-        <translation type="unfinished"></translation>
+        <translation>100%</translation>
     </message>
     <message>
         <source>XXX dB</source>
