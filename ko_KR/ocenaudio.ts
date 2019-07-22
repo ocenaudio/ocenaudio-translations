@@ -84,7 +84,7 @@
     </message>
     <message>
         <source>Spectral Scale Format</source>
-        <translation>모름</translation>
+        <translation>스펙트럼 스케일 형식</translation>
     </message>
     <message>
         <source>Zoom</source>
@@ -96,7 +96,7 @@
     </message>
     <message>
         <source>Regions and Markers</source>
-        <translation>모름</translation>
+        <translation>영역 및 표시</translation>
     </message>
     <message>
         <source>Level Meter</source>
@@ -160,7 +160,7 @@
     </message>
     <message>
         <source>Paste Special...</source>
-        <translation>모름</translation>
+        <translation>특수 붙여넣기</translation>
     </message>
     <message>
         <source>Adjust Sample Rate...</source>
@@ -172,11 +172,11 @@
     </message>
     <message>
         <source>Waveform &amp;&amp; Spectral View</source>
-        <translation>모름</translation>
+        <translation>파형 &amp;&amp; 스펙트럼 뷰</translation>
     </message>
     <message>
         <source>Decimal (mm:ss.ddd)</source>
-        <translation>모름</translation>
+        <translation> 소수 (mm:ss.ddd) </translation>
     </message>
     <message>
         <source>Samples</source>
@@ -296,7 +296,7 @@
     </message>
     <message>
         <source>Create Region</source>
-        <translation>모름</translation>
+        <translation>영역 생성</translation>
     </message>
     <message>
         <source>Apply Quantization...</source>
@@ -464,7 +464,7 @@
     </message>
     <message>
         <source>Export Regions Text...</source>
-        <translation>모름</translation>
+        <translation>영역 텍스트 내보내기</translation>
     </message>
     <message>
         <source>Select Audio From Regions</source>
@@ -472,7 +472,7 @@
     </message>
     <message>
         <source>Export Audio From Regions...</source>
-        <translation>영역엣 오디오 내보내기</translation>
+        <translation>영역의 오디오 내보내기</translation>
     </message>
     <message>
         <source>Import Regions...</source>
