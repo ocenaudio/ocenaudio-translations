@@ -248,7 +248,7 @@
     </message>
     <message>
         <source>Join of %1, %2 and %3</source>
-        <translation>%1,%2 와 %3 파일의 결합</translation>
+        <translation>%1, %2 와 %3 파일의 결합</translation>
     </message>
     <message>
         <source>Join of %1, %2 and other %3 files</source>
