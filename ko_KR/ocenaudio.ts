@@ -4876,7 +4876,7 @@ or your network that you want to open:</source>
     </message>
     <message>
         <source>Disabled</source>
-        <translation>불가한</translation>
+        <translation>비활성화</translation>
     </message>
     <message>
         <source>By Display Name</source>
