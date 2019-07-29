@@ -828,7 +828,7 @@ You should check your audio settings in the ocenaudio preferences pane.</source>
     </message>
     <message>
         <source>You can drop audio files, folders, archives, urls and playlists.</source>
-        <translation>오디오 파일, 폴더, 아카이브, url, 재생목록을 놓을 수 없습니다.</translation>
+        <translation>오디오 파일, 폴더, 아카이브, url, 재생목록을 놓을 수 있습니다.</translation>
     </message>
     <message>
         <source>Cancel</source>
@@ -1683,7 +1683,7 @@ Storage: %1 mount on %2</source>
     </message>
     <message>
         <source>Disabled</source>
-        <translation>활성화 안됨</translation>
+        <translation>비활성화</translation>
     </message>
     <message>
         <source>System Default</source>
