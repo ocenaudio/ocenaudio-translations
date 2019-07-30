@@ -712,7 +712,7 @@
     </message>
     <message>
         <source>&amp;Spectral View</source>
-        <translation스펙트럼 뷰></translation>
+        <translation>스펙트럼 뷰</translation>
     </message>
     <message>
         <source>Sound &amp;Properties...</source>
@@ -977,7 +977,7 @@
     </message>
     <message>
         <source>100%</source>
-        <translation100%></translation>
+        <translation>100%</translation>
     </message>
     <message>
         <source>-100.0 %</source>
@@ -1239,7 +1239,7 @@
     </message>
     <message>
         <source>Applying Compressor</source>
-        <translation컴프레서 적용></translation>
+        <translation>컴프레서 적용</translation>
     </message>
     <message>
         <source>Applying Expansor</source>
@@ -2057,7 +2057,7 @@ Click here to download it.</source>
     </message>
     <message>
         <source>Don&apos;t Change (22050 Hz)</source>
-        <translation> 바&apos꾸지 마세요. (22050 Hz) </translation>
+        <translation>바꾸지 마세요 (22050 Hz) </translation>
     </message>
     <message>
         <source>6000 Hz</source>
@@ -2959,7 +2959,7 @@ Channel
     </message>
     <message>
         <source>Stop &amp;Recording</source>
-        <translation>녹음 &amp 멈추기</translation>
+        <translation>녹음 &amp; 멈추기</translation>
     </message>
     <message>
         <source>&amp;Record</source>
@@ -2983,7 +2983,7 @@ Channel
     </message>
     <message>
         <source>&amp;Play</source>
-        <translation> &amp;재생</translation>
+        <translation>&amp;재생</translation>
     </message>
     <message>
         <source>Extend Selection to Begin</source>
@@ -3403,7 +3403,7 @@ Channel
     </message>
     <message>
         <source>Statistics</source>
-        <translation통계></translation>
+        <translation>통계</translation>
     </message>
     <message>
         <source>Select Artwork</source>
@@ -3790,9 +3790,9 @@ Channel
         <translation>파일 이름</translation>
     </message>
     <message>
-        <source>...</source>ㄹ
+        <source>...</source>
         <translation>...</translation>
-    </message르
+    </message>
     <message>
         <source>Save each selection to a separate file</source>
         <translation>각 선택을 분리해서 저장</translation>
@@ -4154,7 +4154,7 @@ Channel
     </message>
     <message>
         <source>L</source>
-        <translatio>왼쪽</translation>
+        <translation>왼쪽</translation>
     </message>
     <message>
         <source>R</source>
@@ -4593,7 +4593,7 @@ Channel
     </message>
     <message>
         <source>Built-In Input (2 Channels)</source>
-        <translatio>입력 값 내재하기 (2 채널)</translation>
+        <translation>입력 값 내재하기 (2 채널)</translation>
     </message>
     <message>
         <source>1 channel (mono)</source>
@@ -5320,7 +5320,7 @@ or your network that you want to open:</source>
     <name>QTestDialog</name>
     <message>
         <source>Dialog</source>
-        <translatio>다이얼로그</translation>
+        <translation>다이얼로그</translation>
     </message>
     <message>
         <source>Test Graph</source>

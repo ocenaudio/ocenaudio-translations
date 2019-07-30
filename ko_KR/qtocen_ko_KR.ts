@@ -1966,7 +1966,7 @@ Storage: %1 mount on %2</source>
     </message>
     <message>
         <source>Use Pre-Emphasis Filtering</source>
-        <translation프리 엠퍼시스 필터링을 사용하세요.></translation>
+        <translation>프리 엠퍼시스 필터링을 사용하세요.</translation>
     </message>
 </context>
 <context>
