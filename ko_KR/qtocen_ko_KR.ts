@@ -679,10 +679,6 @@
         <translation>복사하기</translation>
     </message>
     <message>
-        <source>Clear</source>
-        <translation>지우기</translation>
-    </message>
-    <message>
         <source>Zoom Selection</source>
         <translation>줌 선택</translation>
     </message>
@@ -697,6 +693,182 @@
     <message>
         <source>Double-Click to create a marker</source>
         <translation>마커를 생성하려면 더블 클릭 하세요.</translation>
+    </message>
+    <message>
+        <source>Duplicated from %1</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Converting to Stereo</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Convert to Stereo</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Converting to Mono</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Convert to Mono</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Changing Audio Sample Rate</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Change Audio Sample Rate</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Moving Audio</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Move Audio</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Copy Audio</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Undo</source>
+        <translation type="unfinished">변경사항 취소</translation>
+    </message>
+    <message>
+        <source>Redo</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Applying Fade</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Fade In</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Fade Out</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Change Gain by +%1 dB</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Change Gain by %1 dB</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>%1 %2</source>
+        <translation type="unfinished">%1 %2</translation>
+    </message>
+    <message>
+        <source>Delete Selection</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Show/Hide Gain Tool</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Show/Hide Speed Tool</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Change Gain</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Zoom In</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Zoom Out</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Zoom Out Full</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Zoom In Vertical</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Zoom Out Vertical</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Paste Metadata</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Settings</source>
+        <translation type="unfinished">설정</translation>
+    </message>
+    <message>
+        <source>Show Settings Dialog</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>About</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Show About Window</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Quit</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Quit ocenaudio</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Preferences</source>
+        <translation type="unfinished">참조</translation>
+    </message>
+    <message>
+        <source>Show Preferences Dialog</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Donate</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Donate to ocenaudio Team!</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Play</source>
+        <translation type="unfinished">재생</translation>
+    </message>
+    <message>
+        <source>Stop</source>
+        <translation type="unfinished">닫기</translation>
+    </message>
+    <message>
+        <source>Sleep</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Wake</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Press %1 to create!</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Apply</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -725,6 +897,14 @@
         <source>An error occurred while updating the list of audio devices using the %1 backend. In this condition the capture and playback capabilities may not be available.
 You should check your audio settings in the ocenaudio preferences pane.</source>
         <translation>%1 백앤드를 사용하는 오디오 장치 목록을 갱신 받는 동안 에러가 발생했습니다. 이 상태에서 재생과 캡쳐가 되지 않습니다. ocenaudio의 환경설정에서 오디오 설정을 확인해주세요.</translation>
+    </message>
+    <message>
+        <source>Failed to execute last action!</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Last action was canceled!</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -807,17 +987,6 @@ You should check your audio settings in the ocenaudio preferences pane.</source>
     <message>
         <source>readonly</source>
         <translation>읽기만 가능</translation>
-    </message>
-</context>
-<context>
-    <name>QOcenAudioJob_Append</name>
-    <message>
-        <source>Appending</source>
-        <translation>추가하기</translation>
-    </message>
-    <message>
-        <source>Append</source>
-        <translation>추가하기</translation>
     </message>
 </context>
 <context>
@@ -938,6 +1107,109 @@ You should check your audio settings in the ocenaudio preferences pane.</source>
     </message>
 </context>
 <context>
+    <name>QOcenFilesProcessor</name>
+    <message>
+        <source>Probing</source>
+        <translation type="unfinished">프로빙</translation>
+    </message>
+    <message>
+        <source>Analyzing files in %1 %2</source>
+        <translation type="unfinished">%1과 %2의 파일 분석</translation>
+    </message>
+    <message>
+        <source>Analyzing files in %1</source>
+        <translation type="unfinished">%1의 파일 분석</translation>
+    </message>
+    <message>
+        <source>No supported audio files found!</source>
+        <translation type="unfinished">지원되는 오디오 파일을 찾을 수 없습니다.</translation>
+    </message>
+    <message>
+        <source>The package “%1” does not contains any supported audio file.</source>
+        <translation type="unfinished">%1 패키지는 지원되는 오디오 파일을 가지고 있지 않습니다.</translation>
+    </message>
+    <message>
+        <source>Opening &quot;%1&quot;</source>
+        <translation type="unfinished"> &quot;%1&quot; 여는 중</translation>
+    </message>
+    <message>
+        <source>Question</source>
+        <translation type="unfinished">질문</translation>
+    </message>
+    <message>
+        <source>Warning</source>
+        <translation type="unfinished">경고</translation>
+    </message>
+    <message>
+        <source>The file for the sound at “%1” is already opened. There are also unsaved changes in ocenaudio.  Do you want to keep the ocenaudio version or revert to the version on disk?</source>
+        <translation type="unfinished">%1의 소리를 위한 파일이 이미 열려 있습니다. 또한 ocenaudio에 저장되지 않은 변경시항이 있습니다. ocenaudio 버젼을 유지 하시겠습니까? 혹은 버젼을 변경 하시겠습니까?</translation>
+    </message>
+    <message>
+        <source>Keep ocenaudio Version</source>
+        <translation type="unfinished">ocenaudio 버젼 유지하기</translation>
+    </message>
+    <message>
+        <source>Revert</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Cue File Found</source>
+        <translation type="unfinished">큐 파일 발견</translation>
+    </message>
+    <message>
+        <source>A cue file containing %2 tracks associated with the “%1” file was found. You want to open these tracks separately?</source>
+        <translation type="unfinished">%1과 연관된 %2트랙이 담긴 큐 파일이 발견되었습니다. 이 트랙들을 따로 여시겠습니까?</translation>
+    </message>
+    <message>
+        <source>Open Tracks</source>
+        <translation type="unfinished">트랙 열기</translation>
+    </message>
+    <message>
+        <source>Open Original</source>
+        <translation type="unfinished">원본 열기</translation>
+    </message>
+    <message>
+        <source>File not found.</source>
+        <translation type="unfinished">파일을 찾을 수 없습니다.</translation>
+    </message>
+    <message>
+        <source>The file that was at %1 no longer exists.</source>
+        <translation type="unfinished">%1에 있던 파일은 더이상 존재하지 않습니다.</translation>
+    </message>
+    <message>
+        <source>Ok</source>
+        <translation type="unfinished">확인</translation>
+    </message>
+    <message>
+        <source>Open File Error</source>
+        <translation type="unfinished">파일 열림 에러</translation>
+    </message>
+    <message>
+        <source>An error occurred while trying to open the file “%1”.</source>
+        <translation type="unfinished">%1 파일을 여는 동안 에러가 발생했습니다.</translation>
+    </message>
+    <message>
+        <source>Apparently your file is empty.</source>
+        <translation type="unfinished">명백하게 파일이 비었습니다.</translation>
+    </message>
+    <message>
+        <source>The number of audio channels in this file has exceeded the maximum number of audio channels supported.</source>
+        <translation type="unfinished">이 파일의 오디오채널 개수가 지원하는 최대 개수를 넘었습니다.</translation>
+    </message>
+    <message>
+        <source>File not found!</source>
+        <translation type="unfinished">파일을 찾을 수 없습니다.</translation>
+    </message>
+    <message>
+        <source>Check if your file have an incorrect or unsuported format.</source>
+        <translation type="unfinished">파일이 올바른지 지원하는 파일인지 확인하세요.</translation>
+    </message>
+    <message>
+        <source>The file “%1” was not found. Check if your filename is valid and you have permission to open it.</source>
+        <translation type="unfinished">”%1” 파일을 찾을 수 없습니다. 파일 이름이 올바른지 확인하고 열기 위한 승인을 가졌는지 학인하세요.</translation>
+    </message>
+</context>
+<context>
     <name>QOcenGeneralPrefs</name>
     <message>
         <source>Language</source>
@@ -996,8 +1268,12 @@ You should check your audio settings in the ocenaudio preferences pane.</source>
         <translation>다크 아쿠아</translation>
     </message>
     <message>
-        <source>Dark Mojave</source>
-        <translation>다크 모하비</translation>
+        <source>Use this scheme when %1 %2 appearance is selected</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Dark Theme</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -1009,6 +1285,17 @@ You should check your audio settings in the ocenaudio preferences pane.</source>
     <message>
         <source>TextLabel</source>
         <translation>텍스트 라벨</translation>
+    </message>
+</context>
+<context>
+    <name>QOcenJobs::Append</name>
+    <message>
+        <source>Appending</source>
+        <translation type="unfinished">추가하기</translation>
+    </message>
+    <message>
+        <source>Append</source>
+        <translation type="unfinished">추가하기</translation>
     </message>
 </context>
 <context>
@@ -1133,18 +1420,6 @@ You should check your audio settings in the ocenaudio preferences pane.</source>
     <message>
         <source>Save...</source>
         <translation>저장하기</translation>
-    </message>
-    <message>
-        <source>&amp;Cancel</source>
-        <translation>&amp;취소</translation>
-    </message>
-    <message>
-        <source>Closing Files</source>
-        <translation>파일 닫는 중</translation>
-    </message>
-    <message>
-        <source>Closing %1 files...</source>
-        <translation>%1 파일 닫는 중...</translation>
     </message>
     <message>
         <source>Keep ocenaudio Version</source>
@@ -1315,10 +1590,6 @@ You should check your audio settings in the ocenaudio preferences pane.</source>
         <translation>%1 파일은 이미 백업본을 가지고 있습니다. 계속 진행하시면, 현재 파일로 대체될 것 입니다.</translation>
     </message>
     <message>
-        <source>readonly</source>
-        <translation>무작위로</translation>
-    </message>
-    <message>
         <source>This is an unrecoverable error and ocenaudio must quit!</source>
         <translation>이는 되돌릴 수 없는 에러입니다. ocenaudio가 종료됩니다.</translation>
     </message>
@@ -1342,6 +1613,14 @@ Storage: %1 mount on %2</source>
     <message>
         <source>Disk Is Full</source>
         <translation>디스크 공간 부족</translation>
+    </message>
+    <message>
+        <source>The conversion from region to markers will discard comments. You want to proceed?</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>It was not possible to complete the save of file “%1” because the chosen container does not support markers/regions.</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -1396,109 +1675,6 @@ Storage: %1 mount on %2</source>
     <message>
         <source>Press &apos;alt&apos; to close all</source>
         <translation>모두 닫기를 위해 &apos; alt&apos;를 누르세요.</translation>
-    </message>
-</context>
-<context>
-    <name>QOcenOpenFile</name>
-    <message>
-        <source>Probing</source>
-        <translation>프로빙</translation>
-    </message>
-    <message>
-        <source>Opening &quot;%1&quot;</source>
-        <translation> &quot;%1&quot; 여는 중</translation>
-    </message>
-    <message>
-        <source>Question</source>
-        <translation>질문</translation>
-    </message>
-    <message>
-        <source>Warning</source>
-        <translation>경고</translation>
-    </message>
-    <message>
-        <source>Keep ocenaudio Version</source>
-        <translation>ocenaudio 버젼 유지하기</translation>
-    </message>
-    <message>
-        <source>Revert</source>
-        <translation>바꾸기</translation>
-    </message>
-    <message>
-        <source>File not found.</source>
-        <translation>파일을 찾을 수 없습니다.</translation>
-    </message>
-    <message>
-        <source>The file that was at %1 no longer exists.</source>
-        <translation>%1에 있던 파일은 더이상 존재하지 않습니다.</translation>
-    </message>
-    <message>
-        <source>Ok</source>
-        <translation>확인</translation>
-    </message>
-    <message>
-        <source>Open File Error</source>
-        <translation>파일 열림 에러</translation>
-    </message>
-    <message>
-        <source>An error occurred while trying to open the file “%1”.</source>
-        <translation>%1 파일을 여는 동안 에러가 발생했습니다.</translation>
-    </message>
-    <message>
-        <source>Apparently your file is empty.</source>
-        <translation>명백하게 파일이 비었습니다.</translation>
-    </message>
-    <message>
-        <source>The number of audio channels in this file has exceeded the maximum number of audio channels supported.</source>
-        <translation>이 파일의 오디오채널 개수가 지원하는 최대 개수를 넘었습니다.</translation>
-    </message>
-    <message>
-        <source>Check if your file have an incorrect or unsuported format.</source>
-        <translation>파일이 올바른지 지원하는 파일인지 확인하세요.</translation>
-    </message>
-    <message>
-        <source>No supported audio files found!</source>
-        <translation>지원되는 오디오 파일을 찾을 수 없습니다.</translation>
-    </message>
-    <message>
-        <source>The package “%1” does not contains any supported audio file.</source>
-        <translation>%1 패키지는 지원되는 오디오 파일을 가지고 있지 않습니다.</translation>
-    </message>
-    <message>
-        <source>File not found!</source>
-        <translation>파일을 찾을 수 없습니다.</translation>
-    </message>
-    <message>
-        <source>The file “%1” was not found. Check if your filename is valid and you have permission to open it.</source>
-        <translation>”%1” 파일을 찾을 수 없습니다. 파일 이름이 올바른지 확인하고 열기 위한 승인을 가졌는지 학인하세요.</translation>
-    </message>
-    <message>
-        <source>Analyzing files in %1 %2</source>
-        <translation>%1과 %2의 파일 분석</translation>
-    </message>
-    <message>
-        <source>Analyzing files in %1</source>
-        <translation>%1의 파일 분석</translation>
-    </message>
-    <message>
-        <source>The file for the sound at “%1” is already opened. There are also unsaved changes in ocenaudio.  Do you want to keep the ocenaudio version or revert to the version on disk?</source>
-        <translation>%1의 소리를 위한 파일이 이미 열려 있습니다. 또한 ocenaudio에 저장되지 않은 변경시항이 있습니다. ocenaudio 버젼을 유지 하시겠습니까? 혹은 버젼을 변경 하시겠습니까?</translation>
-    </message>
-    <message>
-        <source>Cue File Found</source>
-        <translation>큐 파일 발견</translation>
-    </message>
-    <message>
-        <source>A cue file containing %2 tracks associated with the “%1” file was found. You want to open these tracks separately?</source>
-        <translation>%1과 연관된 %2트랙이 담긴 큐 파일이 발견되었습니다. 이 트랙들을 따로 여시겠습니까?</translation>
-    </message>
-    <message>
-        <source>Open Tracks</source>
-        <translation>트랙 열기</translation>
-    </message>
-    <message>
-        <source>Open Original</source>
-        <translation>원본 열기</translation>
     </message>
 </context>
 <context>
@@ -1820,6 +1996,14 @@ Storage: %1 mount on %2</source>
     <message>
         <source>Continue to play next/selected audio </source>
         <translation>연속으로 다음/선택된 오디오 재생</translation>
+    </message>
+    <message>
+        <source>Keep a backup for each recording </source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Disable mixer when screen sleeps</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>

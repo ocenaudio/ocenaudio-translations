@@ -806,6 +806,70 @@
         <source>Duplicated from %1</source>
         <translation type="unfinished"></translation>
     </message>
+    <message>
+        <source>Show/Hide Speed Tool</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Paste Metadata</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Settings</source>
+        <translation type="unfinished">设置项</translation>
+    </message>
+    <message>
+        <source>Show Settings Dialog</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>About</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Show About Window</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Quit</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Quit ocenaudio</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Preferences</source>
+        <translation type="unfinished">设置</translation>
+    </message>
+    <message>
+        <source>Show Preferences Dialog</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Donate</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Donate to ocenaudio Team!</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Play</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Stop</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Sleep</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Wake</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>QOcenApplication</name>
@@ -836,6 +900,10 @@ You should check your audio settings in the ocenaudio preferences pane.</source>
     </message>
     <message>
         <source>Failed to execute last action!</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Last action was canceled!</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -1036,6 +1104,109 @@ You should check your audio settings in the ocenaudio preferences pane.</source>
     <message>
         <source>-</source>
         <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>QOcenFilesProcessor</name>
+    <message>
+        <source>Probing</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Analyzing files in %1 %2</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Analyzing files in %1</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>No supported audio files found!</source>
+        <translation type="unfinished">未找到支持的音频文件!</translation>
+    </message>
+    <message>
+        <source>The package “%1” does not contains any supported audio file.</source>
+        <translation type="unfinished">”%1“中未包含支持的音频文件。</translation>
+    </message>
+    <message>
+        <source>Opening &quot;%1&quot;</source>
+        <translation type="unfinished">正在打开&quot;%1&quot;</translation>
+    </message>
+    <message>
+        <source>Question</source>
+        <translation type="unfinished">问题</translation>
+    </message>
+    <message>
+        <source>Warning</source>
+        <translation type="unfinished">警告</translation>
+    </message>
+    <message>
+        <source>The file for the sound at “%1” is already opened. There are also unsaved changes in ocenaudio.  Do you want to keep the ocenaudio version or revert to the version on disk?</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Keep ocenaudio Version</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Revert</source>
+        <translation type="unfinished">恢复</translation>
+    </message>
+    <message>
+        <source>Cue File Found</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>A cue file containing %2 tracks associated with the “%1” file was found. You want to open these tracks separately?</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Open Tracks</source>
+        <translation type="unfinished">打开音轨</translation>
+    </message>
+    <message>
+        <source>Open Original</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>File not found.</source>
+        <translation type="unfinished">文件未找到。</translation>
+    </message>
+    <message>
+        <source>The file that was at %1 no longer exists.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Ok</source>
+        <translation type="unfinished">好</translation>
+    </message>
+    <message>
+        <source>Open File Error</source>
+        <translation type="unfinished">文件打开错误</translation>
+    </message>
+    <message>
+        <source>An error occurred while trying to open the file “%1”.</source>
+        <translation type="unfinished">尝试打开文件&quot;%1&quot;时发生了错误。</translation>
+    </message>
+    <message>
+        <source>Apparently your file is empty.</source>
+        <translation type="unfinished">文件居然是空的。</translation>
+    </message>
+    <message>
+        <source>The number of audio channels in this file has exceeded the maximum number of audio channels supported.</source>
+        <translation type="unfinished">此文件的声道数目超出了最多支持的声道数。</translation>
+    </message>
+    <message>
+        <source>File not found!</source>
+        <translation type="unfinished">文件未找到!</translation>
+    </message>
+    <message>
+        <source>Check if your file have an incorrect or unsuported format.</source>
+        <translation type="unfinished">请检查文件是否为错误或不支持的格式。</translation>
+    </message>
+    <message>
+        <source>The file “%1” was not found. Check if your filename is valid and you have permission to open it.</source>
+        <translation type="unfinished">文件&quot;%1&quot;未找到，请先确认文件名是否正确或有打开权限。</translation>
     </message>
 </context>
 <context>
@@ -1251,18 +1422,6 @@ You should check your audio settings in the ocenaudio preferences pane.</source>
         <translation>保存...</translation>
     </message>
     <message>
-        <source>&amp;Cancel</source>
-        <translation>&amp;取消</translation>
-    </message>
-    <message>
-        <source>Closing Files</source>
-        <translation>文件关闭中</translation>
-    </message>
-    <message>
-        <source>Closing %1 files...</source>
-        <translation>正在关闭%1个文件...</translation>
-    </message>
-    <message>
         <source>Keep ocenaudio Version</source>
         <translation type="unfinished"></translation>
     </message>
@@ -1455,6 +1614,14 @@ Storage: %1 mount on %2</source>
         <source>Disk Is Full</source>
         <translation type="unfinished"></translation>
     </message>
+    <message>
+        <source>The conversion from region to markers will discard comments. You want to proceed?</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>It was not possible to complete the save of file “%1” because the chosen container does not support markers/regions.</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>QOcenNetworkPrefs</name>
@@ -1508,109 +1675,6 @@ Storage: %1 mount on %2</source>
     <message>
         <source>Press &apos;alt&apos; to close all</source>
         <translation>按&apos;alt&apos;关闭所有</translation>
-    </message>
-</context>
-<context>
-    <name>QOcenOpenFile</name>
-    <message>
-        <source>Probing</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Opening &quot;%1&quot;</source>
-        <translation>正在打开&quot;%1&quot;</translation>
-    </message>
-    <message>
-        <source>Question</source>
-        <translation type="unfinished">问题</translation>
-    </message>
-    <message>
-        <source>Warning</source>
-        <translation>警告</translation>
-    </message>
-    <message>
-        <source>Keep ocenaudio Version</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Revert</source>
-        <translation>恢复</translation>
-    </message>
-    <message>
-        <source>File not found.</source>
-        <translation>文件未找到。</translation>
-    </message>
-    <message>
-        <source>The file that was at %1 no longer exists.</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Ok</source>
-        <translation>好</translation>
-    </message>
-    <message>
-        <source>Open File Error</source>
-        <translation>文件打开错误</translation>
-    </message>
-    <message>
-        <source>An error occurred while trying to open the file “%1”.</source>
-        <translation>尝试打开文件&quot;%1&quot;时发生了错误。</translation>
-    </message>
-    <message>
-        <source>Apparently your file is empty.</source>
-        <translation>文件居然是空的。</translation>
-    </message>
-    <message>
-        <source>The number of audio channels in this file has exceeded the maximum number of audio channels supported.</source>
-        <translation>此文件的声道数目超出了最多支持的声道数。</translation>
-    </message>
-    <message>
-        <source>Check if your file have an incorrect or unsuported format.</source>
-        <translation>请检查文件是否为错误或不支持的格式。</translation>
-    </message>
-    <message>
-        <source>No supported audio files found!</source>
-        <translation>未找到支持的音频文件!</translation>
-    </message>
-    <message>
-        <source>The package “%1” does not contains any supported audio file.</source>
-        <translation>”%1“中未包含支持的音频文件。</translation>
-    </message>
-    <message>
-        <source>File not found!</source>
-        <translation>文件未找到!</translation>
-    </message>
-    <message>
-        <source>The file “%1” was not found. Check if your filename is valid and you have permission to open it.</source>
-        <translation>文件&quot;%1&quot;未找到，请先确认文件名是否正确或有打开权限。</translation>
-    </message>
-    <message>
-        <source>Analyzing files in %1 %2</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Analyzing files in %1</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>The file for the sound at “%1” is already opened. There are also unsaved changes in ocenaudio.  Do you want to keep the ocenaudio version or revert to the version on disk?</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Cue File Found</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>A cue file containing %2 tracks associated with the “%1” file was found. You want to open these tracks separately?</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Open Tracks</source>
-        <translation>打开音轨</translation>
-    </message>
-    <message>
-        <source>Open Original</source>
-        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -1935,6 +1999,10 @@ Storage: %1 mount on %2</source>
     </message>
     <message>
         <source>Keep a backup for each recording </source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Disable mixer when screen sleeps</source>
         <translation type="unfinished"></translation>
     </message>
 </context>

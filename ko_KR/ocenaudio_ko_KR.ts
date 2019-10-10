@@ -155,10 +155,6 @@
         <translation>선택 저장... </translation>
     </message>
     <message>
-        <source>Paste to New</source>
-        <translation>새로 붙이기</translation>
-    </message>
-    <message>
         <source>Paste Special...</source>
         <translation>특수 붙여넣기</translation>
     </message>
@@ -285,10 +281,6 @@
     <message>
         <source>Hide Toolbar</source>
         <translation>툴바 숨기기</translation>
-    </message>
-    <message>
-        <source>Hide Waveform Navigator</source>
-        <translation>파형 네비게이터 숨기기</translation>
     </message>
     <message>
         <source>Show Sidebar</source>
@@ -607,10 +599,6 @@
         <translation>시간/피치 조정</translation>
     </message>
     <message>
-        <source>Paste to Fit</source>
-        <translation>알맞게 붙여넣기</translation>
-    </message>
-    <message>
         <source>Select Recorded Audio</source>
         <translation>녹음된 오디오 선택</translation>
     </message>
@@ -713,10 +701,6 @@
     <message>
         <source>&amp;Spectral View</source>
         <translation>스펙트럼 뷰</translation>
-    </message>
-    <message>
-        <source>Sound &amp;Properties...</source>
-        <translation>소리  &amp; 특성...</translation>
     </message>
     <message>
         <source>&amp;Reverse</source>
@@ -837,6 +821,50 @@
     <message>
         <source>Reduce to Previous Marker (from end)</source>
         <translation>이전 마커까지 줄이기</translation>
+    </message>
+    <message>
+        <source>Paste to</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Paste only</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>New Audio</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Audio &amp;Properties...</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Hide Navigator</source>
+        <translation type="unfinished">네비게이터 숨기기</translation>
+    </message>
+    <message>
+        <source>Fit in Selection</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Donate Now!</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Show Audio Tools</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Signal</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Metadata</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Markers</source>
+        <translation type="unfinished">표시</translation>
     </message>
 </context>
 <context>
@@ -1921,16 +1949,12 @@
         <translation>스트림으로부터</translation>
     </message>
     <message>
-        <source>From &lt;b&gt;%1 Hz&lt;/b&gt;</source>
-        <translation> &lt;b&gt;%1 Hz&lt;/b&gt; 에서부터</translation>
-    </message>
-    <message>
         <source>From &lt;b&gt;multiples sample rates&lt;b&gt;</source>
         <translation> &lt;b&gt;여러 샘플 결과&lt;b&gt; 에서부터</translation>
     </message>
     <message>
         <source>From &lt;b&gt;multiples number of channels&lt;b&gt;</source>
-        <translation> >&lt;b&gt;여러개의 채널&lt;b&gt; 에서부터</translation>
+        <translation> &gt;&lt;b&gt;여러개의 채널&lt;b&gt; 에서부터</translation>
     </message>
     <message>
         <source>From &lt;b&gt;1 channel (mono)&lt;b&gt;</source>
@@ -1955,6 +1979,50 @@
     <message>
         <source>Plugins Preferences</source>
         <translation>플러그인 환경설정</translation>
+    </message>
+    <message>
+        <source>Mono</source>
+        <translation type="unfinished">모노</translation>
+    </message>
+    <message>
+        <source>Stereo</source>
+        <translation type="unfinished">스테레오</translation>
+    </message>
+    <message>
+        <source>Dual Channel</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Swap Channels</source>
+        <translation type="unfinished">채널 변경</translation>
+    </message>
+    <message>
+        <source>Paste Metadata</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Converting to Mono</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Convert to Mono</source>
+        <translation type="unfinished">모노로 바꾸기</translation>
+    </message>
+    <message>
+        <source>Converting to Stereo</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Convert to Stereo</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Undo</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>From &lt;b&gt;%1&lt;/b&gt;</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -2035,6 +2103,46 @@ Click here to download it.</source>
     <message>
         <source>New Plugin Installed</source>
         <translation>새로운 플러그인이 설치 되었습니다.</translation>
+    </message>
+    <message>
+        <source>Recordings backup found</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>One or more capture backuped files were left from previous uses of ocenaudio!</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>This message will be shown until you move or delete these files.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Click here to open backup folder.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Sending log reports</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Clearing thread pool</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Removing capture backuped files</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Help us improve ocenaudio</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>By contributing, you are enabling ocenaudio to grow and mature.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Donate now!</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -2621,10 +2729,6 @@ Channel
         <translation>정적 생성</translation>
     </message>
     <message>
-        <source>Applying Fade</source>
-        <translation>Fade 적용</translation>
-    </message>
-    <message>
         <source>Fade In</source>
         <translation>확대</translation>
     </message>
@@ -3008,6 +3112,186 @@ Channel
     <message>
         <source>Reduce Selection to Previous Marker</source>
         <translation>선택을 이전 마커까지 줄이기</translation>
+    </message>
+    <message>
+        <source>Paste Only Signal</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Paste Only Metadata</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Paste Only Markers</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Silence</source>
+        <translation type="unfinished">정적</translation>
+    </message>
+    <message>
+        <source>Effect: %1</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Invert</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Reverse</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Smooth</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Remove DC</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Normalize</source>
+        <translation type="unfinished">맞추다</translation>
+    </message>
+    <message>
+        <source>Fade</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Effect: Open %1 Effect</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Gain</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Normalize Custom</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>DC Offset</source>
+        <translation type="unfinished">DC 오프셋</translation>
+    </message>
+    <message>
+        <source>Add Noise</source>
+        <translation type="unfinished">노이즈 추가</translation>
+    </message>
+    <message>
+        <source>Low Pass Filter</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>High Pass Filter</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Band Pass Filter</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Band Stop Filter</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>11-Band Graphic Equalizer</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Graphic Equalizer (11 bands)</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>31-Band Graphic Equalizer</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Graphic Equalizer (31 bands)</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Delay</source>
+        <translation type="unfinished">지연</translation>
+    </message>
+    <message>
+        <source>Flanger</source>
+        <translation type="unfinished">플랜저</translation>
+    </message>
+    <message>
+        <source>Chorus</source>
+        <translation type="unfinished">코러스</translation>
+    </message>
+    <message>
+        <source>Reverb</source>
+        <translation type="unfinished">리버브</translation>
+    </message>
+    <message>
+        <source>Vibrato</source>
+        <translation type="unfinished">비브라토</translation>
+    </message>
+    <message>
+        <source>Compressor</source>
+        <translation type="unfinished">컴프레서</translation>
+    </message>
+    <message>
+        <source>Expander</source>
+        <translation type="unfinished">익스펜더</translation>
+    </message>
+    <message>
+        <source>Limiter</source>
+        <translation type="unfinished">리미터</translation>
+    </message>
+    <message>
+        <source>Noise Gate</source>
+        <translation type="unfinished">노이즈 게이트</translation>
+    </message>
+    <message>
+        <source>Dirac</source>
+        <translation type="unfinished">Dirac</translation>
+    </message>
+    <message>
+        <source>Time and Pitch Adjust</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Automatic Noise Reduction</source>
+        <translation type="unfinished">자동으로 노이즈 줄이기</translation>
+    </message>
+    <message>
+        <source>Apply Quantization</source>
+        <translation type="unfinished">양자화 적용</translation>
+    </message>
+    <message>
+        <source>Remove Dc</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Applying Fade In</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Applying Fade Out</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Hide Canvas Tools</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Show Canvas Tools</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>readonly</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Convert Region to Markers</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Convert Loop to Markers</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -3606,10 +3890,6 @@ Channel
         <translation>CAF</translation>
     </message>
     <message>
-        <source>MP3</source>
-        <translation>MP3</translation>
-    </message>
-    <message>
         <source>Use Variable Bit Rate Encoding (VBR)</source>
         <translation>VBR 인코딩 사용</translation>
     </message>
@@ -3746,10 +4026,6 @@ Channel
         <translation>비트 레이트:</translation>
     </message>
     <message>
-        <source>Quantizer Quality:</source>
-        <translation>양자화도구 질</translation>
-    </message>
-    <message>
         <source>OGG</source>
         <translation>OGG</translation>
     </message>
@@ -3880,6 +4156,22 @@ Channel
     <message>
         <source>Last export path</source>
         <translation>지난 외부 경로</translation>
+    </message>
+    <message>
+        <source>MPEG</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Type:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>MPEG Audio Layer III (MP3)</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>MPEG Audio Layer II (MP2)</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -4286,6 +4578,22 @@ Channel
         <source>Please choose another name.</source>
         <translation>다른 이름을 사용하세요.</translation>
     </message>
+    <message>
+        <source>Import Presets</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Export Presets</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Import Presets File</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Export Presets File</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>QOcenMixPasteDialog</name>
@@ -4443,6 +4751,10 @@ Channel
     <message>
         <source>32 bits</source>
         <translation>32 bits</translation>
+    </message>
+    <message>
+        <source>192000 Hz</source>
+        <translation type="unfinished">48000 Hz {192000 ?}</translation>
     </message>
 </context>
 <context>
@@ -4617,15 +4929,6 @@ Channel
         <translation>채널 #%1</translation>
     </message>
     <message>
-        <source>Channel #%1 </source>
-        <translation>채널 #%1 </translation>
-    </message>
-    <message>
-        <source>Output
-#%1</source>
-        <translation>출력 값#%1</translation>
-    </message>
-    <message>
         <source>No recording devices found!</source>
         <translation>녹음 할 기기를 찾지 못했습니다.</translation>
     </message>
@@ -4636,6 +4939,10 @@ Channel
     <message>
         <source>Record</source>
         <translation>녹음</translation>
+    </message>
+    <message>
+        <source>Output #%1 </source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -4731,10 +5038,6 @@ or your network that you want to open:</source>
 <context>
     <name>QOpenFilesView</name>
     <message>
-        <source>Repeat %1 in Selected Files</source>
-        <translation>선택된 파일에서 %1 반복</translation>
-    </message>
-    <message>
         <source>Extract %1 Channel</source>
         <translation>%1 채널 추출하기</translation>
     </message>
@@ -4788,7 +5091,7 @@ or your network that you want to open:</source>
     </message>
     <message>
         <source>Combine to Stereo</source>
-        <translation >스테레오에 더하기</translation>
+        <translation>스테레오에 더하기</translation>
     </message>
     <message>
         <source>Extract Channel %1</source>
@@ -4925,6 +5228,46 @@ or your network that you want to open:</source>
     <message>
         <source>Close</source>
         <translation>닫기</translation>
+    </message>
+    <message>
+        <source>Convert to Stereo</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Undo Action in Selected Files</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Audio Properties...</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Paste Metadata</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Repeat %1 on %2</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Selected File</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Selected Files</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Undo %1 on %2</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Paste Metadata into %1</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Change Artwork</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -5207,6 +5550,10 @@ or your network that you want to open:</source>
     <message>
         <source>seconds</source>
         <translation>초</translation>
+    </message>
+    <message>
+        <source>samples</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>

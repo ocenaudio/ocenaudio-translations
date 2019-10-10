@@ -806,6 +806,70 @@
         <source>Duplicated from %1</source>
         <translation type="unfinished"></translation>
     </message>
+    <message>
+        <source>Show/Hide Speed Tool</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Paste Metadata</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Settings</source>
+        <translation type="unfinished">Настройки</translation>
+    </message>
+    <message>
+        <source>Show Settings Dialog</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>About</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Show About Window</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Quit</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Quit ocenaudio</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Preferences</source>
+        <translation type="unfinished">Параметры</translation>
+    </message>
+    <message>
+        <source>Show Preferences Dialog</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Donate</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Donate to ocenaudio Team!</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Play</source>
+        <translation type="unfinished">Воспроизвести</translation>
+    </message>
+    <message>
+        <source>Stop</source>
+        <translation type="unfinished">Остановить</translation>
+    </message>
+    <message>
+        <source>Sleep</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Wake</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>QOcenApplication</name>
@@ -837,6 +901,10 @@ You should check your audio settings in the ocenaudio preferences pane.</source>
     </message>
     <message>
         <source>Failed to execute last action!</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Last action was canceled!</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -1040,6 +1108,109 @@ You should check your audio settings in the ocenaudio preferences pane.</source>
     </message>
 </context>
 <context>
+    <name>QOcenFilesProcessor</name>
+    <message>
+        <source>Probing</source>
+        <translation type="unfinished">Проба</translation>
+    </message>
+    <message>
+        <source>Analyzing files in %1 %2</source>
+        <translation type="unfinished">Анализ файлов в %1 %2</translation>
+    </message>
+    <message>
+        <source>Analyzing files in %1</source>
+        <translation type="unfinished">Анализ файлов в %1</translation>
+    </message>
+    <message>
+        <source>No supported audio files found!</source>
+        <translation type="unfinished">Не найдены поддерживаемые аудиофайлы!</translation>
+    </message>
+    <message>
+        <source>The package “%1” does not contains any supported audio file.</source>
+        <translation type="unfinished">Пакет “%1” не содержит поддерживаемых аудиофайлов.</translation>
+    </message>
+    <message>
+        <source>Opening &quot;%1&quot;</source>
+        <translation type="unfinished">Открывается &quot;%1&quot;</translation>
+    </message>
+    <message>
+        <source>Question</source>
+        <translation type="unfinished">Вопрос</translation>
+    </message>
+    <message>
+        <source>Warning</source>
+        <translation type="unfinished">Предупреждение</translation>
+    </message>
+    <message>
+        <source>The file for the sound at “%1” is already opened. There are also unsaved changes in ocenaudio.  Do you want to keep the ocenaudio version or revert to the version on disk?</source>
+        <translation type="unfinished">Файл со звуком “%1” уже открыт. Здесь также есть несохраненные изменения. Хотите сохранить эту версию или вернуться к версии на диске?</translation>
+    </message>
+    <message>
+        <source>Keep ocenaudio Version</source>
+        <translation type="unfinished">Оставить версию ocenaudio</translation>
+    </message>
+    <message>
+        <source>Revert</source>
+        <translation type="unfinished">Вернуться</translation>
+    </message>
+    <message>
+        <source>Cue File Found</source>
+        <translation type="unfinished">Найден файл cue</translation>
+    </message>
+    <message>
+        <source>A cue file containing %2 tracks associated with the “%1” file was found. You want to open these tracks separately?</source>
+        <translation type="unfinished">Файл cue, содержит %2 трека, связанных с “%1”. Хотите открыть эти треки отдельно?</translation>
+    </message>
+    <message>
+        <source>Open Tracks</source>
+        <translation type="unfinished">Открыть треки</translation>
+    </message>
+    <message>
+        <source>Open Original</source>
+        <translation type="unfinished">Открыть оригинал</translation>
+    </message>
+    <message>
+        <source>File not found.</source>
+        <translation type="unfinished">Файл не найден.</translation>
+    </message>
+    <message>
+        <source>The file that was at %1 no longer exists.</source>
+        <translation type="unfinished">Файл, бывший в %1, больше не существует.</translation>
+    </message>
+    <message>
+        <source>Ok</source>
+        <translation type="unfinished">ОК</translation>
+    </message>
+    <message>
+        <source>Open File Error</source>
+        <translation type="unfinished">Ошибка открытия файла</translation>
+    </message>
+    <message>
+        <source>An error occurred while trying to open the file “%1”.</source>
+        <translation type="unfinished">Произошла ошибка при открытии файла “%1”.</translation>
+    </message>
+    <message>
+        <source>Apparently your file is empty.</source>
+        <translation type="unfinished">Видимо, ваш файл пуст.</translation>
+    </message>
+    <message>
+        <source>The number of audio channels in this file has exceeded the maximum number of audio channels supported.</source>
+        <translation type="unfinished">Количество аудиоканалов в этом файле превысило максимальное число поддерживаемых аудиоканалов.</translation>
+    </message>
+    <message>
+        <source>File not found!</source>
+        <translation type="unfinished">Файл не найден!</translation>
+    </message>
+    <message>
+        <source>Check if your file have an incorrect or unsuported format.</source>
+        <translation type="unfinished">Проверьте, имеет ли файл верный и поддерживаемый формат.</translation>
+    </message>
+    <message>
+        <source>The file “%1” was not found. Check if your filename is valid and you have permission to open it.</source>
+        <translation type="unfinished">Файл “%1” не найден. Проверьте правильность имени файла и наличие прав на его открытие.</translation>
+    </message>
+</context>
+<context>
     <name>QOcenGeneralPrefs</name>
     <message>
         <source>Language</source>
@@ -1224,10 +1395,6 @@ You should check your audio settings in the ocenaudio preferences pane.</source>
         <translation>Вернуться</translation>
     </message>
     <message>
-        <source>&amp;Cancel</source>
-        <translation>&amp;Отмена</translation>
-    </message>
-    <message>
         <source>Your changes will be lost if you don’t save them.</source>
         <translation>Все изменения будут потеряны если вы не сохраните их.</translation>
     </message>
@@ -1262,14 +1429,6 @@ You should check your audio settings in the ocenaudio preferences pane.</source>
     <message>
         <source>Save...</source>
         <translation>Сохранить...</translation>
-    </message>
-    <message>
-        <source>Closing Files</source>
-        <translation>Закрываются файлы</translation>
-    </message>
-    <message>
-        <source>Closing %1 files...</source>
-        <translation>Закрывается %1 файлов...</translation>
     </message>
     <message>
         <source>Close</source>
@@ -1457,6 +1616,14 @@ Storage: %1 mount on %2</source>
         <source>Disk Is Full</source>
         <translation>Диск переполнен</translation>
     </message>
+    <message>
+        <source>The conversion from region to markers will discard comments. You want to proceed?</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>It was not possible to complete the save of file “%1” because the chosen container does not support markers/regions.</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>QOcenNetworkPrefs</name>
@@ -1510,109 +1677,6 @@ Storage: %1 mount on %2</source>
     <message>
         <source>Press &apos;alt&apos; to close all</source>
         <translation>Нажмите &apos;alt&apos; чтобы закрыть все</translation>
-    </message>
-</context>
-<context>
-    <name>QOcenOpenFile</name>
-    <message>
-        <source>Probing</source>
-        <translation>Проба</translation>
-    </message>
-    <message>
-        <source>Opening &quot;%1&quot;</source>
-        <translation>Открывается &quot;%1&quot;</translation>
-    </message>
-    <message>
-        <source>Question</source>
-        <translation>Вопрос</translation>
-    </message>
-    <message>
-        <source>Warning</source>
-        <translation>Предупреждение</translation>
-    </message>
-    <message>
-        <source>Keep ocenaudio Version</source>
-        <translation>Сохранить версию ocenaudio</translation>
-    </message>
-    <message>
-        <source>Revert</source>
-        <translation>Вернуться</translation>
-    </message>
-    <message>
-        <source>The file that was at %1 no longer exists.</source>
-        <translation>Файл, бывший в %1, больше не существует.</translation>
-    </message>
-    <message>
-        <source>Ok</source>
-        <translation>ОК</translation>
-    </message>
-    <message>
-        <source>Open File Error</source>
-        <translation>Ошибка открытия файла</translation>
-    </message>
-    <message>
-        <source>An error occurred while trying to open the file “%1”.</source>
-        <translation>Произошла ошибка при открытии файла “%1”.</translation>
-    </message>
-    <message>
-        <source>Apparently your file is empty.</source>
-        <translation>Видимо, ваш файл пуст.</translation>
-    </message>
-    <message>
-        <source>The number of audio channels in this file has exceeded the maximum number of audio channels supported.</source>
-        <translation>Количество аудиоканалов в этом файле превысило максимальное число поддерживаемых аудиоканалов.</translation>
-    </message>
-    <message>
-        <source>Check if your file have an incorrect or unsuported format.</source>
-        <translation>Проверьте, имеет ли файл верный и поддерживаемый формат.</translation>
-    </message>
-    <message>
-        <source>File not found.</source>
-        <translation>Файл не найден.</translation>
-    </message>
-    <message>
-        <source>No supported audio files found!</source>
-        <translation>Не найдены поддерживаемые аудиофайлы!</translation>
-    </message>
-    <message>
-        <source>The package “%1” does not contains any supported audio file.</source>
-        <translation>Пакет “%1” не содержит поддерживаемых аудиофайлов.</translation>
-    </message>
-    <message>
-        <source>File not found!</source>
-        <translation>Файл не найден!</translation>
-    </message>
-    <message>
-        <source>The file “%1” was not found. Check if your filename is valid and you have permission to open it.</source>
-        <translation>Файл “%1” не найден. Проверьте правильность имени файла и наличие прав на его открытие.</translation>
-    </message>
-    <message>
-        <source>Analyzing files in %1 %2</source>
-        <translation>Анализ файлов в %1 %2</translation>
-    </message>
-    <message>
-        <source>Analyzing files in %1</source>
-        <translation>Анализ файлов в %1</translation>
-    </message>
-    <message>
-        <source>The file for the sound at “%1” is already opened. There are also unsaved changes in ocenaudio.  Do you want to keep the ocenaudio version or revert to the version on disk?</source>
-        <translation>Файл со звуком “%1” уже открыт. Здесь также есть несохраненные изменения. Хотите сохранить эту версию или вернуться к версии на диске?</translation>
-    </message>
-    <message>
-        <source>Cue File Found</source>
-        <translation>Найден файл cue</translation>
-    </message>
-    <message>
-        <source>A cue file containing %2 tracks associated with the “%1” file was found. You want to open these tracks separately?</source>
-        <translation>Файл cue, содержит %2 трека, связанных с “%1”. Хотите открыть эти треки отдельно?</translation>
-    </message>
-    <message>
-        <source>Open Tracks</source>
-        <translation>Открыть треки</translation>
-    </message>
-    <message>
-        <source>Open Original</source>
-        <translation>Открыть оригинал</translation>
     </message>
 </context>
 <context>
@@ -1937,6 +2001,10 @@ Storage: %1 mount on %2</source>
     </message>
     <message>
         <source>Keep a backup for each recording </source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Disable mixer when screen sleeps</source>
         <translation type="unfinished"></translation>
     </message>
 </context>

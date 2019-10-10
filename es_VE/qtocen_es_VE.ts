@@ -806,6 +806,70 @@
         <source>Duplicated from %1</source>
         <translation type="unfinished"></translation>
     </message>
+    <message>
+        <source>Show/Hide Speed Tool</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Paste Metadata</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Settings</source>
+        <translation type="unfinished">Ajustes</translation>
+    </message>
+    <message>
+        <source>Show Settings Dialog</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>About</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Show About Window</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Quit</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Quit ocenaudio</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Preferences</source>
+        <translation type="unfinished">Preferencias</translation>
+    </message>
+    <message>
+        <source>Show Preferences Dialog</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Donate</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Donate to ocenaudio Team!</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Play</source>
+        <translation type="unfinished">Reproducir</translation>
+    </message>
+    <message>
+        <source>Stop</source>
+        <translation type="unfinished">Detener</translation>
+    </message>
+    <message>
+        <source>Sleep</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Wake</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>QOcenApplication</name>
@@ -837,6 +901,10 @@ Debes verificar tu configuración de audio en el panel de preferencias de Ocenau
     </message>
     <message>
         <source>Failed to execute last action!</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Last action was canceled!</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -1037,6 +1105,109 @@ Debes verificar tu configuración de audio en el panel de preferencias de Ocenau
     <message>
         <source>-</source>
         <translation></translation>
+    </message>
+</context>
+<context>
+    <name>QOcenFilesProcessor</name>
+    <message>
+        <source>Probing</source>
+        <translation type="unfinished">Explorando</translation>
+    </message>
+    <message>
+        <source>Analyzing files in %1 %2</source>
+        <translation type="unfinished">Analisando archivos en %1 %2</translation>
+    </message>
+    <message>
+        <source>Analyzing files in %1</source>
+        <translation type="unfinished">Analisando archivos en %1</translation>
+    </message>
+    <message>
+        <source>No supported audio files found!</source>
+        <translation type="unfinished">¡No se encontraron archivos de audio compatibles!</translation>
+    </message>
+    <message>
+        <source>The package “%1” does not contains any supported audio file.</source>
+        <translation type="unfinished">El paquete “%1” no contiene ningún archivo de audio compatible.</translation>
+    </message>
+    <message>
+        <source>Opening &quot;%1&quot;</source>
+        <translation type="unfinished">Abriendo &quot;%1&quot;</translation>
+    </message>
+    <message>
+        <source>Question</source>
+        <translation type="unfinished">Pregunta</translation>
+    </message>
+    <message>
+        <source>Warning</source>
+        <translation type="unfinished">Advertencia</translation>
+    </message>
+    <message>
+        <source>The file for the sound at “%1” is already opened. There are also unsaved changes in ocenaudio.  Do you want to keep the ocenaudio version or revert to the version on disk?</source>
+        <translation type="unfinished">El archivo de sonido en “%1” ya está abierto. También hay cambios sin guardar en ocenaudio.  ¿Desea mantener la versión de ocenaudio o volver a la versión en el disco?</translation>
+    </message>
+    <message>
+        <source>Keep ocenaudio Version</source>
+        <translation type="unfinished">Mantener versión de ocenaudio</translation>
+    </message>
+    <message>
+        <source>Revert</source>
+        <translation type="unfinished">Revertir</translation>
+    </message>
+    <message>
+        <source>Cue File Found</source>
+        <translation type="unfinished">Archivo Cue encontrado</translation>
+    </message>
+    <message>
+        <source>A cue file containing %2 tracks associated with the “%1” file was found. You want to open these tracks separately?</source>
+        <translation type="unfinished">Se encontró un archivo cue que contiene %2 pistas asociados con el archivo “%1”. ¿Desea abrir estas pistas por separado?</translation>
+    </message>
+    <message>
+        <source>Open Tracks</source>
+        <translation type="unfinished">Abrir pistas</translation>
+    </message>
+    <message>
+        <source>Open Original</source>
+        <translation type="unfinished">Abrir original</translation>
+    </message>
+    <message>
+        <source>File not found.</source>
+        <translation type="unfinished">Archivo no encontrado.</translation>
+    </message>
+    <message>
+        <source>The file that was at %1 no longer exists.</source>
+        <translation type="unfinished">El archivo que estaba en %1 ya no existe.</translation>
+    </message>
+    <message>
+        <source>Ok</source>
+        <translation type="unfinished">Aceptar</translation>
+    </message>
+    <message>
+        <source>Open File Error</source>
+        <translation type="unfinished">Error al abrir archivo</translation>
+    </message>
+    <message>
+        <source>An error occurred while trying to open the file “%1”.</source>
+        <translation type="unfinished">Se produjo un error al intentar abrir el archivo “%1”.</translation>
+    </message>
+    <message>
+        <source>Apparently your file is empty.</source>
+        <translation type="unfinished">Al parecer, el archivo está vacío.</translation>
+    </message>
+    <message>
+        <source>The number of audio channels in this file has exceeded the maximum number of audio channels supported.</source>
+        <translation type="unfinished">El número de canales de audio en este archivo ha superado el número máximo de canales de audio soportado.</translation>
+    </message>
+    <message>
+        <source>File not found!</source>
+        <translation type="unfinished">¡Archivo no encontrado!</translation>
+    </message>
+    <message>
+        <source>Check if your file have an incorrect or unsuported format.</source>
+        <translation type="unfinished">Compruebe si el archivo tiene un formato incorrecto o no soportado.</translation>
+    </message>
+    <message>
+        <source>The file “%1” was not found. Check if your filename is valid and you have permission to open it.</source>
+        <translation type="unfinished">El archivo “%1” no se ha encontrado. Compruebe si su nombre de archivo es válido y usted tiene el permiso para abrirlo.</translation>
     </message>
 </context>
 <context>
@@ -1252,18 +1423,6 @@ Debes verificar tu configuración de audio en el panel de preferencias de Ocenau
         <translation>Guardar...</translation>
     </message>
     <message>
-        <source>&amp;Cancel</source>
-        <translation>&amp;Cancelar</translation>
-    </message>
-    <message>
-        <source>Closing Files</source>
-        <translation>Cerrando archivos</translation>
-    </message>
-    <message>
-        <source>Closing %1 files...</source>
-        <translation>Cerrando %1 archivos...</translation>
-    </message>
-    <message>
         <source>Keep ocenaudio Version</source>
         <translation>Mantener versión de ocenaudio</translation>
     </message>
@@ -1456,6 +1615,14 @@ Storage: %1 mount on %2</source>
         <source>Disk Is Full</source>
         <translation>El disco esta lleno</translation>
     </message>
+    <message>
+        <source>The conversion from region to markers will discard comments. You want to proceed?</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>It was not possible to complete the save of file “%1” because the chosen container does not support markers/regions.</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>QOcenNetworkPrefs</name>
@@ -1509,109 +1676,6 @@ Storage: %1 mount on %2</source>
     <message>
         <source>Press &apos;alt&apos; to close all</source>
         <translation>Pulse &apos;alt &apos; para cerrar todo</translation>
-    </message>
-</context>
-<context>
-    <name>QOcenOpenFile</name>
-    <message>
-        <source>Probing</source>
-        <translation>Explorando</translation>
-    </message>
-    <message>
-        <source>Opening &quot;%1&quot;</source>
-        <translation>Abriendo &quot;%1&quot;</translation>
-    </message>
-    <message>
-        <source>Question</source>
-        <translation>Pregunta</translation>
-    </message>
-    <message>
-        <source>Warning</source>
-        <translation>Advertencia</translation>
-    </message>
-    <message>
-        <source>Keep ocenaudio Version</source>
-        <translation>Mantener versión de ocenaudio</translation>
-    </message>
-    <message>
-        <source>Revert</source>
-        <translation>Revertir</translation>
-    </message>
-    <message>
-        <source>File not found.</source>
-        <translation>Archivo no encontrado.</translation>
-    </message>
-    <message>
-        <source>The file that was at %1 no longer exists.</source>
-        <translation>El archivo que estaba en %1 ya no existe.</translation>
-    </message>
-    <message>
-        <source>Ok</source>
-        <translation>Aceptar</translation>
-    </message>
-    <message>
-        <source>Open File Error</source>
-        <translation>Error al abrir archivo</translation>
-    </message>
-    <message>
-        <source>An error occurred while trying to open the file “%1”.</source>
-        <translation>Se produjo un error al intentar abrir el archivo “%1”.</translation>
-    </message>
-    <message>
-        <source>Apparently your file is empty.</source>
-        <translation>Al parecer, el archivo está vacío.</translation>
-    </message>
-    <message>
-        <source>The number of audio channels in this file has exceeded the maximum number of audio channels supported.</source>
-        <translation>El número de canales de audio en este archivo ha superado el número máximo de canales de audio soportado.</translation>
-    </message>
-    <message>
-        <source>Check if your file have an incorrect or unsuported format.</source>
-        <translation>Compruebe si el archivo tiene un formato incorrecto o no soportado.</translation>
-    </message>
-    <message>
-        <source>No supported audio files found!</source>
-        <translation>¡No se encontraron archivos de audio compatibles!</translation>
-    </message>
-    <message>
-        <source>The package “%1” does not contains any supported audio file.</source>
-        <translation>El paquete “%1” no contiene ningún archivo de audio compatible.</translation>
-    </message>
-    <message>
-        <source>File not found!</source>
-        <translation>¡Archivo no encontrado!</translation>
-    </message>
-    <message>
-        <source>The file “%1” was not found. Check if your filename is valid and you have permission to open it.</source>
-        <translation>El archivo “%1” no se ha encontrado. Compruebe si su nombre de archivo es válido y usted tiene el permiso para abrirlo.</translation>
-    </message>
-    <message>
-        <source>Analyzing files in %1 %2</source>
-        <translation>Analisando archivos en %1 %2</translation>
-    </message>
-    <message>
-        <source>Analyzing files in %1</source>
-        <translation>Analisando archivos en %1</translation>
-    </message>
-    <message>
-        <source>The file for the sound at “%1” is already opened. There are also unsaved changes in ocenaudio.  Do you want to keep the ocenaudio version or revert to the version on disk?</source>
-        <translation>El archivo de sonido en “%1” ya está abierto. También hay cambios sin guardar en ocenaudio.  ¿Desea mantener la versión de ocenaudio o volver a la versión en el disco?</translation>
-    </message>
-    <message>
-        <source>Cue File Found</source>
-        <translation>Archivo Cue encontrado</translation>
-    </message>
-    <message>
-        <source>A cue file containing %2 tracks associated with the “%1” file was found. You want to open these tracks separately?</source>
-        <translation>Se encontró un archivo cue que contiene %2 pistas asociados con el archivo “%1”. ¿Desea abrir estas pistas por separado?</translation>
-    </message>
-    <message>
-        <source>Open Tracks</source>
-        <translation>Abrir pistas</translation>
-    </message>
-    <message>
-        <source>Open Original</source>
-        <translation>Abrir original</translation>
     </message>
 </context>
 <context>
@@ -1936,6 +2000,10 @@ Storage: %1 mount on %2</source>
     </message>
     <message>
         <source>Keep a backup for each recording </source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Disable mixer when screen sleeps</source>
         <translation type="unfinished"></translation>
     </message>
 </context>

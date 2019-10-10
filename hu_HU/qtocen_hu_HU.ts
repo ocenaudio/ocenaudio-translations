@@ -806,6 +806,70 @@
         <source>Duplicated from %1</source>
         <translation type="unfinished"></translation>
     </message>
+    <message>
+        <source>Show/Hide Speed Tool</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Paste Metadata</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Settings</source>
+        <translation type="unfinished">Beállítások</translation>
+    </message>
+    <message>
+        <source>Show Settings Dialog</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>About</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Show About Window</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Quit</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Quit ocenaudio</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Preferences</source>
+        <translation type="unfinished">Beállítások</translation>
+    </message>
+    <message>
+        <source>Show Preferences Dialog</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Donate</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Donate to ocenaudio Team!</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Play</source>
+        <translation type="unfinished">Lejátszás</translation>
+    </message>
+    <message>
+        <source>Stop</source>
+        <translation type="unfinished">Állj</translation>
+    </message>
+    <message>
+        <source>Sleep</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Wake</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>QOcenApplication</name>
@@ -836,6 +900,10 @@ You should check your audio settings in the ocenaudio preferences pane.</source>
     </message>
     <message>
         <source>Failed to execute last action!</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Last action was canceled!</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -1039,6 +1107,109 @@ You should check your audio settings in the ocenaudio preferences pane.</source>
     </message>
 </context>
 <context>
+    <name>QOcenFilesProcessor</name>
+    <message>
+        <source>Probing</source>
+        <translation type="unfinished">Tesztelés</translation>
+    </message>
+    <message>
+        <source>Analyzing files in %1 %2</source>
+        <translation type="unfinished">Fájlok elemzése itt: %1 %2</translation>
+    </message>
+    <message>
+        <source>Analyzing files in %1</source>
+        <translation type="unfinished">Fájlok elemzése itt: %1</translation>
+    </message>
+    <message>
+        <source>No supported audio files found!</source>
+        <translation type="unfinished">Nem találhatók támogatott audiófájlok!</translation>
+    </message>
+    <message>
+        <source>The package “%1” does not contains any supported audio file.</source>
+        <translation type="unfinished">A(z) &quot;%1&quot; csomag nem tartalmaz támogatott audiófájlokat.</translation>
+    </message>
+    <message>
+        <source>Opening &quot;%1&quot;</source>
+        <translation type="unfinished">&quot;%1&quot; megnyitása</translation>
+    </message>
+    <message>
+        <source>Question</source>
+        <translation type="unfinished">Kérdés</translation>
+    </message>
+    <message>
+        <source>Warning</source>
+        <translation type="unfinished">Figyelmeztetés</translation>
+    </message>
+    <message>
+        <source>The file for the sound at “%1” is already opened. There are also unsaved changes in ocenaudio.  Do you want to keep the ocenaudio version or revert to the version on disk?</source>
+        <translation type="unfinished">A fájl az audióhoz az &quot;%1&quot;-ben már nyitva van. Nincsenek mentett változások sem az ocenaudio-ban. Meg akarja tartani az ocenaudio-verziót, vagy visszatér a merevlemezen lévő változathoz?</translation>
+    </message>
+    <message>
+        <source>Keep ocenaudio Version</source>
+        <translation type="unfinished">Ocenaudio-verzió megtartása</translation>
+    </message>
+    <message>
+        <source>Revert</source>
+        <translation type="unfinished">Alapra állítás</translation>
+    </message>
+    <message>
+        <source>Cue File Found</source>
+        <translation type="unfinished">Cue-fáj található</translation>
+    </message>
+    <message>
+        <source>A cue file containing %2 tracks associated with the “%1” file was found. You want to open these tracks separately?</source>
+        <translation type="unfinished">A Cue-fájl %2 sávot tartalmazó fájlt talált, melyek az “%1” fájlhoz lettek rendelve. Medgnyitja ezeket külön-külön?</translation>
+    </message>
+    <message>
+        <source>Open Tracks</source>
+        <translation type="unfinished">Sávok megnyitása</translation>
+    </message>
+    <message>
+        <source>Open Original</source>
+        <translation type="unfinished">Eredeti megnyitása</translation>
+    </message>
+    <message>
+        <source>File not found.</source>
+        <translation type="unfinished">A fájl nem található.</translation>
+    </message>
+    <message>
+        <source>The file that was at %1 no longer exists.</source>
+        <translation type="unfinished">A fájl a(z) %1 sávhoz már nem létezik.</translation>
+    </message>
+    <message>
+        <source>Ok</source>
+        <translation type="unfinished">Ok</translation>
+    </message>
+    <message>
+        <source>Open File Error</source>
+        <translation type="unfinished">Hiba a fájl megnyitásakor</translation>
+    </message>
+    <message>
+        <source>An error occurred while trying to open the file “%1”.</source>
+        <translation type="unfinished">Hiba történt a(z) &quot;%1&quot; fájl megnyitásakor.</translation>
+    </message>
+    <message>
+        <source>Apparently your file is empty.</source>
+        <translation type="unfinished">Lehet, hogy ez a fájl üres.</translation>
+    </message>
+    <message>
+        <source>The number of audio channels in this file has exceeded the maximum number of audio channels supported.</source>
+        <translation type="unfinished">E fájlban a hangcsatornák száma meghaladja a támogatott hangcsatornák számát.</translation>
+    </message>
+    <message>
+        <source>File not found!</source>
+        <translation type="unfinished">Fájl nem található!</translation>
+    </message>
+    <message>
+        <source>Check if your file have an incorrect or unsuported format.</source>
+        <translation type="unfinished">Ellenőrizze, hogy ez a fájl hibás vagy nem támogatott formátumú-e.</translation>
+    </message>
+    <message>
+        <source>The file “%1” was not found. Check if your filename is valid and you have permission to open it.</source>
+        <translation type="unfinished">A(z) &quot;%1&quot; fájl nem található. Ellenőrizze, hogy érvényes-e a fájlnév és van-e Önnek joga megnyitni a fájlt.</translation>
+    </message>
+</context>
+<context>
     <name>QOcenGeneralPrefs</name>
     <message>
         <source>Language</source>
@@ -1223,10 +1394,6 @@ You should check your audio settings in the ocenaudio preferences pane.</source>
         <translation>Alapra állítás</translation>
     </message>
     <message>
-        <source>&amp;Cancel</source>
-        <translation>&amp;Mégse</translation>
-    </message>
-    <message>
         <source>Your changes will be lost if you don’t save them.</source>
         <translation>A változások elvesznek, ha nem mentő ezeket.</translation>
     </message>
@@ -1261,14 +1428,6 @@ You should check your audio settings in the ocenaudio preferences pane.</source>
     <message>
         <source>Save...</source>
         <translation>Menteni...</translation>
-    </message>
-    <message>
-        <source>Closing Files</source>
-        <translation>Fájlok bezárása</translation>
-    </message>
-    <message>
-        <source>Closing %1 files...</source>
-        <translation> %1 fájl bezérésa...</translation>
     </message>
     <message>
         <source>Close</source>
@@ -1455,6 +1614,14 @@ Storage: %1 mount on %2</source>
         <source>Disk Is Full</source>
         <translation type="unfinished"></translation>
     </message>
+    <message>
+        <source>The conversion from region to markers will discard comments. You want to proceed?</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>It was not possible to complete the save of file “%1” because the chosen container does not support markers/regions.</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>QOcenNetworkPrefs</name>
@@ -1508,109 +1675,6 @@ Storage: %1 mount on %2</source>
     <message>
         <source>Press &apos;alt&apos; to close all</source>
         <translation>Nyomjon &apos;Alt&apos;-ot, hogy minden keresést bezárjon</translation>
-    </message>
-</context>
-<context>
-    <name>QOcenOpenFile</name>
-    <message>
-        <source>Probing</source>
-        <translation>Tesztelés</translation>
-    </message>
-    <message>
-        <source>Opening &quot;%1&quot;</source>
-        <translation>&quot;%1&quot; megnyitása</translation>
-    </message>
-    <message>
-        <source>Question</source>
-        <translation>Kérdés</translation>
-    </message>
-    <message>
-        <source>Warning</source>
-        <translation>Figyelmeztetés</translation>
-    </message>
-    <message>
-        <source>Keep ocenaudio Version</source>
-        <translation>Ocenaudio-verzió megtartása</translation>
-    </message>
-    <message>
-        <source>Revert</source>
-        <translation>Alapra állítás</translation>
-    </message>
-    <message>
-        <source>File not found.</source>
-        <translation>A fájl nem található.</translation>
-    </message>
-    <message>
-        <source>The file that was at %1 no longer exists.</source>
-        <translation>A fájl a(z) %1 sávhoz már nem létezik.</translation>
-    </message>
-    <message>
-        <source>Ok</source>
-        <translation>Ok</translation>
-    </message>
-    <message>
-        <source>Open File Error</source>
-        <translation>Hiba a fájl megnyitásakor</translation>
-    </message>
-    <message>
-        <source>An error occurred while trying to open the file “%1”.</source>
-        <translation>Hiba történt a(z) &quot;%1&quot; fájl megnyitásakor.</translation>
-    </message>
-    <message>
-        <source>Apparently your file is empty.</source>
-        <translation>Lehet, hogy ez a fájl üres.</translation>
-    </message>
-    <message>
-        <source>The number of audio channels in this file has exceeded the maximum number of audio channels supported.</source>
-        <translation>E fájlban a hangcsatornák száma meghaladja a támogatott hangcsatornák számát.</translation>
-    </message>
-    <message>
-        <source>Check if your file have an incorrect or unsuported format.</source>
-        <translation>Ellenőrizze, hogy ez a fájl hibás vagy nem támogatott formátumú-e.</translation>
-    </message>
-    <message>
-        <source>No supported audio files found!</source>
-        <translation>Nem találhatók támogatott audiófájlok!</translation>
-    </message>
-    <message>
-        <source>The package “%1” does not contains any supported audio file.</source>
-        <translation>A(z) &quot;%1&quot; csomag nem tartalmaz támogatott audiófájlokat.</translation>
-    </message>
-    <message>
-        <source>File not found!</source>
-        <translation>Fájl nem található!</translation>
-    </message>
-    <message>
-        <source>The file “%1” was not found. Check if your filename is valid and you have permission to open it.</source>
-        <translation>A(z) &quot;%1&quot; fájl nem található. Ellenőrizze, hogy érvényes-e a fájlnév és van-e Önnek joga megnyitni a fájlt.</translation>
-    </message>
-    <message>
-        <source>Analyzing files in %1 %2</source>
-        <translation>Fájlok elemzése itt: %1 %2</translation>
-    </message>
-    <message>
-        <source>Analyzing files in %1</source>
-        <translation>Fájlok elemzése itt: %1</translation>
-    </message>
-    <message>
-        <source>The file for the sound at “%1” is already opened. There are also unsaved changes in ocenaudio.  Do you want to keep the ocenaudio version or revert to the version on disk?</source>
-        <translation>A fájl az audióhoz az &quot;%1&quot;-ben már nyitva van. Nincsenek mentett változások sem az ocenaudio-ban. Meg akarja tartani az ocenaudio-verziót, vagy visszatér a merevlemezen lévő változathoz?</translation>
-    </message>
-    <message>
-        <source>Cue File Found</source>
-        <translation>Cue-fáj található</translation>
-    </message>
-    <message>
-        <source>A cue file containing %2 tracks associated with the “%1” file was found. You want to open these tracks separately?</source>
-        <translation>A Cue-fájl %2 sávot tartalmazó fájlt talált, melyek az “%1” fájlhoz lettek rendelve. Medgnyitja ezeket külön-külön?</translation>
-    </message>
-    <message>
-        <source>Open Tracks</source>
-        <translation>Sávok megnyitása</translation>
-    </message>
-    <message>
-        <source>Open Original</source>
-        <translation>Eredeti megnyitása</translation>
     </message>
 </context>
 <context>
@@ -1935,6 +1999,10 @@ Storage: %1 mount on %2</source>
     </message>
     <message>
         <source>Keep a backup for each recording </source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Disable mixer when screen sleeps</source>
         <translation type="unfinished"></translation>
     </message>
 </context>

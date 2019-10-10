@@ -155,10 +155,6 @@
         <translation>Guardar selección...</translation>
     </message>
     <message>
-        <source>Paste to New</source>
-        <translation>Pegar como nuevo</translation>
-    </message>
-    <message>
         <source>Paste Special...</source>
         <translation>Pegado especial...</translation>
     </message>
@@ -603,10 +599,6 @@
         <translation>Ajustar tiempo/tono</translation>
     </message>
     <message>
-        <source>Paste to Fit</source>
-        <translation>Pegar para ajustar</translation>
-    </message>
-    <message>
         <source>Select Recorded Audio</source>
         <translation>Seleccionar audio grabado</translation>
     </message>
@@ -709,10 +701,6 @@
     <message>
         <source>&amp;Spectral View</source>
         <translation>Vista &amp;Espectral</translation>
-    </message>
-    <message>
-        <source>Sound &amp;Properties...</source>
-        <translation>&amp;Propiedades de Sonido...</translation>
     </message>
     <message>
         <source>&amp;Reverse</source>
@@ -844,6 +832,38 @@
     </message>
     <message>
         <source>Show Audio Tools</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Paste to</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Paste only</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>New Audio</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Audio &amp;Properties...</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Fit in Selection</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Signal</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Metadata</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Markers</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -2006,6 +2026,10 @@
         <source>From &lt;b&gt;%1&lt;/b&gt;</source>
         <translation type="unfinished"></translation>
     </message>
+    <message>
+        <source>Paste Metadata</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>QOcenAboutDialog</name>
@@ -3139,6 +3163,142 @@ Canal
     </message>
     <message>
         <source>readonly</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Paste Only Signal</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Paste Only Metadata</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Paste Only Markers</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Remove DC</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Fade</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Gain</source>
+        <translation type="unfinished">Ganancia</translation>
+    </message>
+    <message>
+        <source>Normalize Custom</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>DC Offset</source>
+        <translation type="unfinished">DC Offset</translation>
+    </message>
+    <message>
+        <source>Add Noise</source>
+        <translation type="unfinished">Añadir ruido</translation>
+    </message>
+    <message>
+        <source>Low Pass Filter</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>High Pass Filter</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Band Pass Filter</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Band Stop Filter</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>11-Band Graphic Equalizer</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>31-Band Graphic Equalizer</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Delay</source>
+        <translation type="unfinished">Retraso</translation>
+    </message>
+    <message>
+        <source>Flanger</source>
+        <translation type="unfinished">Flanger</translation>
+    </message>
+    <message>
+        <source>Chorus</source>
+        <translation type="unfinished">Coro</translation>
+    </message>
+    <message>
+        <source>Reverb</source>
+        <translation type="unfinished">Reverberación</translation>
+    </message>
+    <message>
+        <source>Vibrato</source>
+        <translation type="unfinished">Vibrato</translation>
+    </message>
+    <message>
+        <source>Compressor</source>
+        <translation type="unfinished">Compresor</translation>
+    </message>
+    <message>
+        <source>Expander</source>
+        <translation type="unfinished">Expansor</translation>
+    </message>
+    <message>
+        <source>Limiter</source>
+        <translation type="unfinished">Limitador</translation>
+    </message>
+    <message>
+        <source>Noise Gate</source>
+        <translation type="unfinished">Puerta de ruido</translation>
+    </message>
+    <message>
+        <source>Dirac</source>
+        <translation type="unfinished">Dirac</translation>
+    </message>
+    <message>
+        <source>Time and Pitch Adjust</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Automatic Noise Reduction</source>
+        <translation type="unfinished">Reducción automática de ruido</translation>
+    </message>
+    <message>
+        <source>Apply Quantization</source>
+        <translation type="unfinished">Aplicar cuantización</translation>
+    </message>
+    <message>
+        <source>Convert Region to Markers</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Convert Loop to Markers</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Effect: %1</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Effect: Open %1 Effect</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Graphic Equalizer (11 bands)</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Graphic Equalizer (31 bands)</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -5088,23 +5248,35 @@ su ordenador, o red que desea abrir:</translation>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Repeat %1 %2</source>
-        <translation type="unfinished">Repetir %1 %2</translation>
-    </message>
-    <message>
-        <source>in Selected File</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>in Selected Files</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Undo %1 %2</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>Change Artwork</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Audio Properties...</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Paste Metadata</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Repeat %1 on %2</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Selected File</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Selected Files</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Undo %1 on %2</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Paste Metadata into %1</source>
         <translation type="unfinished"></translation>
     </message>
 </context>

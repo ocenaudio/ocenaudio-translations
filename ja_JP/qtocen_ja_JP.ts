@@ -806,6 +806,70 @@
         <source>Duplicated from %1</source>
         <translation type="unfinished"></translation>
     </message>
+    <message>
+        <source>Show/Hide Speed Tool</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Paste Metadata</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Settings</source>
+        <translation type="unfinished">設定</translation>
+    </message>
+    <message>
+        <source>Show Settings Dialog</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>About</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Show About Window</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Quit</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Quit ocenaudio</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Preferences</source>
+        <translation type="unfinished">詳細設定</translation>
+    </message>
+    <message>
+        <source>Show Preferences Dialog</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Donate</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Donate to ocenaudio Team!</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Play</source>
+        <translation type="unfinished">再生</translation>
+    </message>
+    <message>
+        <source>Stop</source>
+        <translation type="unfinished">中止</translation>
+    </message>
+    <message>
+        <source>Sleep</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Wake</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>QOcenApplication</name>
@@ -836,6 +900,10 @@ You should check your audio settings in the ocenaudio preferences pane.</source>
     </message>
     <message>
         <source>Failed to execute last action!</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Last action was canceled!</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -1036,6 +1104,109 @@ You should check your audio settings in the ocenaudio preferences pane.</source>
     <message>
         <source>-</source>
         <translation type="unfinished">-</translation>
+    </message>
+</context>
+<context>
+    <name>QOcenFilesProcessor</name>
+    <message>
+        <source>Probing</source>
+        <translation type="unfinished">探査中</translation>
+    </message>
+    <message>
+        <source>Analyzing files in %1 %2</source>
+        <translation type="unfinished">%1 %2 のファイルを分析中</translation>
+    </message>
+    <message>
+        <source>Analyzing files in %1</source>
+        <translation type="unfinished">%1 のファイルを分析中</translation>
+    </message>
+    <message>
+        <source>No supported audio files found!</source>
+        <translation type="unfinished">対応してるオーディオファイルは見つかっていません。</translation>
+    </message>
+    <message>
+        <source>The package “%1” does not contains any supported audio file.</source>
+        <translation type="unfinished">“%1” パッケージに対応オーディオファイルは入っていません。</translation>
+    </message>
+    <message>
+        <source>Opening &quot;%1&quot;</source>
+        <translation type="unfinished">&quot;%1&quot;&#x3000;を開いています</translation>
+    </message>
+    <message>
+        <source>Question</source>
+        <translation type="unfinished">質問</translation>
+    </message>
+    <message>
+        <source>Warning</source>
+        <translation type="unfinished">警告</translation>
+    </message>
+    <message>
+        <source>The file for the sound at “%1” is already opened. There are also unsaved changes in ocenaudio.  Do you want to keep the ocenaudio version or revert to the version on disk?</source>
+        <translation type="unfinished">サウンド “%1” のファイルは既に開いています。ocenaudioにて保全されていない変更もあります。ocenaudioのバージョンを利用するかディスクのバージョンを利用しますか？</translation>
+    </message>
+    <message>
+        <source>Keep ocenaudio Version</source>
+        <translation type="unfinished">このocenaudioのバージョンを取っておく</translation>
+    </message>
+    <message>
+        <source>Revert</source>
+        <translation type="unfinished">復帰する</translation>
+    </message>
+    <message>
+        <source>Cue File Found</source>
+        <translation type="unfinished">キューファイル見つかりました。</translation>
+    </message>
+    <message>
+        <source>A cue file containing %2 tracks associated with the “%1” file was found. You want to open these tracks separately?</source>
+        <translation type="unfinished">“%1” ファイルに %2 トラック入ってるキューファイルが見つかりました。トラックを別々開きますか？</translation>
+    </message>
+    <message>
+        <source>Open Tracks</source>
+        <translation type="unfinished">トラックを開く</translation>
+    </message>
+    <message>
+        <source>Open Original</source>
+        <translation type="unfinished">元のを開く</translation>
+    </message>
+    <message>
+        <source>File not found.</source>
+        <translation type="unfinished">ファイルは見つかりません。</translation>
+    </message>
+    <message>
+        <source>The file that was at %1 no longer exists.</source>
+        <translation type="unfinished">%1 にあったファイルはもう存在していません。</translation>
+    </message>
+    <message>
+        <source>Ok</source>
+        <translation type="unfinished">OK</translation>
+    </message>
+    <message>
+        <source>Open File Error</source>
+        <translation type="unfinished">ファイル開きエラー</translation>
+    </message>
+    <message>
+        <source>An error occurred while trying to open the file “%1”.</source>
+        <translation type="unfinished">“%1” にあるファイルを開こうとしたがエラーが発生されました。</translation>
+    </message>
+    <message>
+        <source>Apparently your file is empty.</source>
+        <translation type="unfinished">選択されたファイルは空らしいです。</translation>
+    </message>
+    <message>
+        <source>The number of audio channels in this file has exceeded the maximum number of audio channels supported.</source>
+        <translation type="unfinished">このファイルのオーディオチャンネル数が最大数を超えています。</translation>
+    </message>
+    <message>
+        <source>File not found!</source>
+        <translation type="unfinished">ファイルは見つかっていません！</translation>
+    </message>
+    <message>
+        <source>Check if your file have an incorrect or unsuported format.</source>
+        <translation type="unfinished">ファイルの形式が正しくないか、非対応かご確認下さい。</translation>
+    </message>
+    <message>
+        <source>The file “%1” was not found. Check if your filename is valid and you have permission to open it.</source>
+        <translation type="unfinished">“%1” ファイルはみつかっていません。 ファイル名が正しいか、 開くのに許可を得ている事を確認して下さい。</translation>
     </message>
 </context>
 <context>
@@ -1247,18 +1418,6 @@ You should check your audio settings in the ocenaudio preferences pane.</source>
         <translation>保存...</translation>
     </message>
     <message>
-        <source>&amp;Cancel</source>
-        <translation>&amp;取り消す</translation>
-    </message>
-    <message>
-        <source>Closing Files</source>
-        <translation>ファイルを閉じています</translation>
-    </message>
-    <message>
-        <source>Closing %1 files...</source>
-        <translation>%1 ファイルを閉じています...</translation>
-    </message>
-    <message>
         <source>Keep ocenaudio Version</source>
         <translation>このocenaudioのバージョンを取っておく</translation>
     </message>
@@ -1455,6 +1614,14 @@ Storage: %1 mount on %2</source>
         <source>Disk Is Full</source>
         <translation type="unfinished"></translation>
     </message>
+    <message>
+        <source>The conversion from region to markers will discard comments. You want to proceed?</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>It was not possible to complete the save of file “%1” because the chosen container does not support markers/regions.</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>QOcenNetworkPrefs</name>
@@ -1508,109 +1675,6 @@ Storage: %1 mount on %2</source>
     <message>
         <source>Press &apos;alt&apos; to close all</source>
         <translation>&apos;Alt&apos; で&#x3000;全てを閉じます</translation>
-    </message>
-</context>
-<context>
-    <name>QOcenOpenFile</name>
-    <message>
-        <source>Probing</source>
-        <translation>探査中</translation>
-    </message>
-    <message>
-        <source>Opening &quot;%1&quot;</source>
-        <translation>&quot;%1&quot;&#x3000;を開いています</translation>
-    </message>
-    <message>
-        <source>Question</source>
-        <translation>質問</translation>
-    </message>
-    <message>
-        <source>Warning</source>
-        <translation>警告</translation>
-    </message>
-    <message>
-        <source>Keep ocenaudio Version</source>
-        <translation>ocenaudioのバージョンを変更しない</translation>
-    </message>
-    <message>
-        <source>Revert</source>
-        <translation>復帰する</translation>
-    </message>
-    <message>
-        <source>File not found.</source>
-        <translation>ファイルは見つかりません。</translation>
-    </message>
-    <message>
-        <source>The file that was at %1 no longer exists.</source>
-        <translation>%1 にあったファイルはもう存在していません。</translation>
-    </message>
-    <message>
-        <source>Ok</source>
-        <translation>OK</translation>
-    </message>
-    <message>
-        <source>Open File Error</source>
-        <translation>ファイル開きエラー</translation>
-    </message>
-    <message>
-        <source>Apparently your file is empty.</source>
-        <translation>選択されたファイルは空らしいです。</translation>
-    </message>
-    <message>
-        <source>The number of audio channels in this file has exceeded the maximum number of audio channels supported.</source>
-        <translation>このファイルのオーディオチャンネル数が最大数を超えています。</translation>
-    </message>
-    <message>
-        <source>No supported audio files found!</source>
-        <translation>対応してるオーディオファイルは見つかっていません。</translation>
-    </message>
-    <message>
-        <source>The package “%1” does not contains any supported audio file.</source>
-        <translation>“%1” パッケージに対応オーディオファイルは入っていません。</translation>
-    </message>
-    <message>
-        <source>File not found!</source>
-        <translation>ファイルは見つかっていません！</translation>
-    </message>
-    <message>
-        <source>The file “%1” was not found. Check if your filename is valid and you have permission to open it.</source>
-        <translation>“%1” ファイルはみつかっていません。 ファイル名が正しいか、 開くのに許可を得ている事を確認して下さい。</translation>
-    </message>
-    <message>
-        <source>An error occurred while trying to open the file “%1”.</source>
-        <translation>“%1” にあるファイルを開こうとしたがエラーが発生されました。</translation>
-    </message>
-    <message>
-        <source>Check if your file have an incorrect or unsuported format.</source>
-        <translation>ファイルの形式が正しくないか、非対応かご確認下さい。</translation>
-    </message>
-    <message>
-        <source>Analyzing files in %1 %2</source>
-        <translation>%1 %2 のファイルを分析中</translation>
-    </message>
-    <message>
-        <source>Analyzing files in %1</source>
-        <translation>%1 のファイルを分析中</translation>
-    </message>
-    <message>
-        <source>The file for the sound at “%1” is already opened. There are also unsaved changes in ocenaudio.  Do you want to keep the ocenaudio version or revert to the version on disk?</source>
-        <translation>サウンド “%1” のファイルは既に開いています。ocenaudioにて保全されていない変更もあります。ocenaudioのバージョンを利用するかディスクのバージョンを利用しますか？</translation>
-    </message>
-    <message>
-        <source>Cue File Found</source>
-        <translation>キューファイル見つかりました。</translation>
-    </message>
-    <message>
-        <source>A cue file containing %2 tracks associated with the “%1” file was found. You want to open these tracks separately?</source>
-        <translation>“%1” ファイルに %2 トラック入ってるキューファイルが見つかりました。トラックを別々開きますか？</translation>
-    </message>
-    <message>
-        <source>Open Tracks</source>
-        <translation>トラックを開く</translation>
-    </message>
-    <message>
-        <source>Open Original</source>
-        <translation>元のを開く</translation>
     </message>
 </context>
 <context>
@@ -1935,6 +1999,10 @@ Storage: %1 mount on %2</source>
     </message>
     <message>
         <source>Keep a backup for each recording </source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Disable mixer when screen sleeps</source>
         <translation type="unfinished"></translation>
     </message>
 </context>

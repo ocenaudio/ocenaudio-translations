@@ -155,10 +155,6 @@
         <translation>Kiválasztás mentése...</translation>
     </message>
     <message>
-        <source>Paste to New</source>
-        <translation>Beillesztés új sávba</translation>
-    </message>
-    <message>
         <source>Paste Special...</source>
         <translation>Bővítmény beillesztése...</translation>
     </message>
@@ -603,10 +599,6 @@
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Paste to Fit</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>Select Recorded Audio</source>
         <translation type="unfinished"></translation>
     </message>
@@ -709,10 +701,6 @@
     <message>
         <source>&amp;Spectral View</source>
         <translation>Spektrogramm</translation>
-    </message>
-    <message>
-        <source>Sound &amp;Properties...</source>
-        <translation>Audiótulajdonságok...</translation>
     </message>
     <message>
         <source>&amp;Reverse</source>
@@ -845,6 +833,38 @@
     <message>
         <source>Show Audio Tools</source>
         <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Paste to</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Paste only</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>New Audio</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Audio &amp;Properties...</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Fit in Selection</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Signal</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Metadata</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Markers</source>
+        <translation type="unfinished">Jelölő</translation>
     </message>
 </context>
 <context>
@@ -2000,6 +2020,10 @@
         <source>From &lt;b&gt;%1&lt;/b&gt;</source>
         <translation type="unfinished"></translation>
     </message>
+    <message>
+        <source>Paste Metadata</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>QOcenAboutDialog</name>
@@ -3131,6 +3155,142 @@ Channel
     </message>
     <message>
         <source>readonly</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Paste Only Signal</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Paste Only Metadata</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Paste Only Markers</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Remove DC</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Fade</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Gain</source>
+        <translation type="unfinished">Szint</translation>
+    </message>
+    <message>
+        <source>Normalize Custom</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>DC Offset</source>
+        <translation type="unfinished">DC Offset</translation>
+    </message>
+    <message>
+        <source>Add Noise</source>
+        <translation type="unfinished">Zaj hozzáadása</translation>
+    </message>
+    <message>
+        <source>Low Pass Filter</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>High Pass Filter</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Band Pass Filter</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Band Stop Filter</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>11-Band Graphic Equalizer</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>31-Band Graphic Equalizer</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Delay</source>
+        <translation type="unfinished">Késleltetés</translation>
+    </message>
+    <message>
+        <source>Flanger</source>
+        <translation type="unfinished">Hajlító</translation>
+    </message>
+    <message>
+        <source>Chorus</source>
+        <translation type="unfinished">Kórus</translation>
+    </message>
+    <message>
+        <source>Reverb</source>
+        <translation type="unfinished">utócsengés</translation>
+    </message>
+    <message>
+        <source>Vibrato</source>
+        <translation type="unfinished">Vibrato</translation>
+    </message>
+    <message>
+        <source>Compressor</source>
+        <translation type="unfinished">Tömörítő</translation>
+    </message>
+    <message>
+        <source>Expander</source>
+        <translation type="unfinished">Bővítő</translation>
+    </message>
+    <message>
+        <source>Limiter</source>
+        <translation type="unfinished">Korlátozó</translation>
+    </message>
+    <message>
+        <source>Noise Gate</source>
+        <translation type="unfinished">Zajkapu</translation>
+    </message>
+    <message>
+        <source>Dirac</source>
+        <translation type="unfinished">Dirac</translation>
+    </message>
+    <message>
+        <source>Time and Pitch Adjust</source>
+        <translation type="unfinished">Idő és hangmagasság</translation>
+    </message>
+    <message>
+        <source>Automatic Noise Reduction</source>
+        <translation type="unfinished">Automatikus zajcsökkentés</translation>
+    </message>
+    <message>
+        <source>Apply Quantization</source>
+        <translation type="unfinished">Kvantálás használata</translation>
+    </message>
+    <message>
+        <source>Convert Region to Markers</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Convert Loop to Markers</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Effect: %1</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Effect: Open %1 Effect</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Graphic Equalizer (11 bands)</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Graphic Equalizer (31 bands)</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -5080,23 +5240,35 @@ a PC-n vagy hálózatán a megnyitáshoz:</translation>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Repeat %1 %2</source>
-        <translation type="unfinished">%1 %2 ismétlése</translation>
-    </message>
-    <message>
-        <source>in Selected File</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>in Selected Files</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Undo %1 %2</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>Change Artwork</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Audio Properties...</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Paste Metadata</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Repeat %1 on %2</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Selected File</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Selected Files</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Undo %1 on %2</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Paste Metadata into %1</source>
         <translation type="unfinished"></translation>
     </message>
 </context>

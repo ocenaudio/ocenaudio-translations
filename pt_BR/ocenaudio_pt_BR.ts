@@ -151,10 +151,6 @@
         <translation>Salvar Seleção...</translation>
     </message>
     <message>
-        <source>Paste to New</source>
-        <translation>Colar para Novo</translation>
-    </message>
-    <message>
         <source>Paste Special...</source>
         <oldsource>Mix Paste...</oldsource>
         <translation>Colar Especial...</translation>
@@ -604,10 +600,6 @@
         <translation>Ajuste de Time/Pitch</translation>
     </message>
     <message>
-        <source>Paste to Fit</source>
-        <translation>Colar para Caber</translation>
-    </message>
-    <message>
         <source>Select Recorded Audio</source>
         <translation>Selecionar Áudio Gravado</translation>
     </message>
@@ -710,10 +702,6 @@
     <message>
         <source>&amp;Spectral View</source>
         <translation>&amp;Espectrograma</translation>
-    </message>
-    <message>
-        <source>Sound &amp;Properties...</source>
-        <translation>&amp;Propriedadas do Áudio...</translation>
     </message>
     <message>
         <source>&amp;Reverse</source>
@@ -846,6 +834,38 @@
     <message>
         <source>Show Audio Tools</source>
         <translation>Mostrar Ferramentas de Áudio</translation>
+    </message>
+    <message>
+        <source>Paste to</source>
+        <translation>Colar para</translation>
+    </message>
+    <message>
+        <source>Paste only</source>
+        <translation>Colar somente</translation>
+    </message>
+    <message>
+        <source>New Audio</source>
+        <translation>Novo Áudio</translation>
+    </message>
+    <message>
+        <source>Audio &amp;Properties...</source>
+        <translation>&amp;Propriedades do Áudio</translation>
+    </message>
+    <message>
+        <source>Fit in Selection</source>
+        <translation>Ajustar na Seleção</translation>
+    </message>
+    <message>
+        <source>Signal</source>
+        <translation>Sinal</translation>
+    </message>
+    <message>
+        <source>Metadata</source>
+        <translation>Metadados</translation>
+    </message>
+    <message>
+        <source>Markers</source>
+        <translation>Marcadores</translation>
     </message>
 </context>
 <context>
@@ -2001,6 +2021,10 @@
         <source>From &lt;b&gt;%1&lt;/b&gt;</source>
         <translation>De &lt;b&gt;%1&lt;/b&gt;</translation>
     </message>
+    <message>
+        <source>Paste Metadata</source>
+        <translation>Colar Metadados</translation>
+    </message>
 </context>
 <context>
     <name>QOcenAboutDialog</name>
@@ -3137,6 +3161,142 @@ Saída
     <message>
         <source>readonly</source>
         <translation>somente leitura</translation>
+    </message>
+    <message>
+        <source>Paste Only Signal</source>
+        <translation>Colar Somente Sinal</translation>
+    </message>
+    <message>
+        <source>Paste Only Metadata</source>
+        <translation>Colar Somente Metadados</translation>
+    </message>
+    <message>
+        <source>Paste Only Markers</source>
+        <translation>Colar Somente Marcadores</translation>
+    </message>
+    <message>
+        <source>Remove DC</source>
+        <translation>Remover DC</translation>
+    </message>
+    <message>
+        <source>Fade</source>
+        <translation></translation>
+    </message>
+    <message>
+        <source>Gain</source>
+        <translation>Ganho</translation>
+    </message>
+    <message>
+        <source>Normalize Custom</source>
+        <translation>Normalizar Personalizado</translation>
+    </message>
+    <message>
+        <source>DC Offset</source>
+        <translation>Offset DC</translation>
+    </message>
+    <message>
+        <source>Add Noise</source>
+        <translation>Adicionar Ruído</translation>
+    </message>
+    <message>
+        <source>Low Pass Filter</source>
+        <translation>Filtro Passa-baixas</translation>
+    </message>
+    <message>
+        <source>High Pass Filter</source>
+        <translation>Filtro Passa-altas</translation>
+    </message>
+    <message>
+        <source>Band Pass Filter</source>
+        <translation>Filtro Passa-faixa</translation>
+    </message>
+    <message>
+        <source>Band Stop Filter</source>
+        <translation>Filtro Rejeita-faixa</translation>
+    </message>
+    <message>
+        <source>11-Band Graphic Equalizer</source>
+        <translation>Equalizador Gráfico de 11 Bandas</translation>
+    </message>
+    <message>
+        <source>31-Band Graphic Equalizer</source>
+        <translation>Equalizador Gráfico de 31 Bandas</translation>
+    </message>
+    <message>
+        <source>Delay</source>
+        <translation>Atraso</translation>
+    </message>
+    <message>
+        <source>Flanger</source>
+        <translation></translation>
+    </message>
+    <message>
+        <source>Chorus</source>
+        <translation>Chorus</translation>
+    </message>
+    <message>
+        <source>Reverb</source>
+        <translation></translation>
+    </message>
+    <message>
+        <source>Vibrato</source>
+        <translation>Vibrato</translation>
+    </message>
+    <message>
+        <source>Compressor</source>
+        <translation>Compressor</translation>
+    </message>
+    <message>
+        <source>Expander</source>
+        <translation>Expansor</translation>
+    </message>
+    <message>
+        <source>Limiter</source>
+        <translation>Limiter</translation>
+    </message>
+    <message>
+        <source>Noise Gate</source>
+        <translation></translation>
+    </message>
+    <message>
+        <source>Dirac</source>
+        <translation></translation>
+    </message>
+    <message>
+        <source>Time and Pitch Adjust</source>
+        <translation>Ajuste de Time e Pitch</translation>
+    </message>
+    <message>
+        <source>Automatic Noise Reduction</source>
+        <translation>Redução de Ruído Automática</translation>
+    </message>
+    <message>
+        <source>Apply Quantization</source>
+        <translation>Aplicar Quantização</translation>
+    </message>
+    <message>
+        <source>Convert Region to Markers</source>
+        <translation>Converter Região em Marcadores</translation>
+    </message>
+    <message>
+        <source>Convert Loop to Markers</source>
+        <translation>Converter Loop em Marcadores</translation>
+    </message>
+    <message>
+        <source>Effect: %1</source>
+        <translation>Efeito: %1</translation>
+    </message>
+    <message>
+        <source>Effect: Open %1 Effect</source>
+        <translation>Efeito: Abrir Efeito %1</translation>
+    </message>
+    <message>
+        <source>Graphic Equalizer (11 bands)</source>
+        <translation>Equalizador Gráfico (11 Bandas)</translation>
+    </message>
+    <message>
+        <source>Graphic Equalizer (31 bands)</source>
+        <translation>Equalizador Gráfico (31 Bandas)</translation>
     </message>
 </context>
 <context>
@@ -5087,24 +5247,36 @@ ou sua rede de trabalho que você deseje abrir:</translation>
         <translation>Desfazer Ação nos Arquivos Selecionados</translation>
     </message>
     <message>
-        <source>Repeat %1 %2</source>
-        <translation>Repetir %1 %2</translation>
-    </message>
-    <message>
-        <source>in Selected File</source>
-        <translation>no Arquivo Selecionado</translation>
-    </message>
-    <message>
-        <source>in Selected Files</source>
-        <translation>no Arquivos Selecionados</translation>
-    </message>
-    <message>
-        <source>Undo %1 %2</source>
-        <translation>Defazer %1 %2</translation>
-    </message>
-    <message>
         <source>Change Artwork</source>
         <translation>Alterar Ilustração</translation>
+    </message>
+    <message>
+        <source>Audio Properties...</source>
+        <translation>Propriedades do Áudio...</translation>
+    </message>
+    <message>
+        <source>Paste Metadata</source>
+        <translation>Colar Metadados</translation>
+    </message>
+    <message>
+        <source>Repeat %1 on %2</source>
+        <translation>Repetir %1 em %2</translation>
+    </message>
+    <message>
+        <source>Selected File</source>
+        <translation>Arquivo Selecionado</translation>
+    </message>
+    <message>
+        <source>Selected Files</source>
+        <translation>Arquivos Selecionados</translation>
+    </message>
+    <message>
+        <source>Undo %1 on %2</source>
+        <translation>Desfazer %1 em %2</translation>
+    </message>
+    <message>
+        <source>Paste Metadata into %1</source>
+        <translation>Colar Metadados em %1</translation>
     </message>
 </context>
 <context>
