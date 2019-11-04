@@ -867,6 +867,10 @@
         <source>Markers</source>
         <translation>Marcadores</translation>
     </message>
+    <message>
+        <source>Bark</source>
+        <translation></translation>
+    </message>
 </context>
 <context>
     <name>NavigatorDialog</name>
@@ -3019,10 +3023,6 @@ Saída
         <translation>Mostrar/Ocultar Sobreposição em Seleção</translation>
     </message>
     <message>
-        <source>Show/Hide Overlay Tools</source>
-        <translation>Mostrar/Ocultar Ferramentas de Sobreposição</translation>
-    </message>
-    <message>
         <source>Note</source>
         <translation>Nota</translation>
     </message>
@@ -3041,14 +3041,6 @@ Saída
     <message>
         <source>Show Selection Overlays</source>
         <translation>Mostrar Sobreposição em Seleção</translation>
-    </message>
-    <message>
-        <source>Hide Overlay Tools</source>
-        <translation>Ocultar Ferramentas de Sobreposição</translation>
-    </message>
-    <message>
-        <source>Show Overlay Tools</source>
-        <translation>Mostrar Ferramentas de Sobreposição</translation>
     </message>
     <message>
         <source>Temporary Space Warning</source>
@@ -3297,6 +3289,10 @@ Saída
     <message>
         <source>Graphic Equalizer (31 bands)</source>
         <translation>Equalizador Gráfico (31 Bandas)</translation>
+    </message>
+    <message>
+        <source>Spectral Scale in Bark</source>
+        <translation>Escala Espectral em Bark</translation>
     </message>
 </context>
 <context>
@@ -3717,6 +3713,18 @@ Saída
     <message>
         <source>Close</source>
         <translation>Fechar</translation>
+    </message>
+    <message>
+        <source>Signal Properties</source>
+        <translation>Propriedades do Sinal</translation>
+    </message>
+    <message>
+        <source>File Properties</source>
+        <translation>Propriedades do Arquivo</translation>
+    </message>
+    <message>
+        <source>Creation Date</source>
+        <translation>Data de Criação</translation>
     </message>
 </context>
 <context>

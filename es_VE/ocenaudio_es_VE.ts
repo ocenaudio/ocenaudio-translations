@@ -866,6 +866,10 @@
         <source>Markers</source>
         <translation type="unfinished"></translation>
     </message>
+    <message>
+        <source>Bark</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>NavigatorDialog</name>
@@ -3022,10 +3026,6 @@ Canal
         <translation>Mostrar/Ocultar Superposiciones de Selección</translation>
     </message>
     <message>
-        <source>Show/Hide Overlay Tools</source>
-        <translation>Mostrar/Ocultar Herramientas de Superposición</translation>
-    </message>
-    <message>
         <source>Note</source>
         <translation>Nota</translation>
     </message>
@@ -3044,14 +3044,6 @@ Canal
     <message>
         <source>Show Selection Overlays</source>
         <translation>Mostrar Superposiciones de Selección</translation>
-    </message>
-    <message>
-        <source>Hide Overlay Tools</source>
-        <translation>Ocultar Herramientas de Superposición</translation>
-    </message>
-    <message>
-        <source>Show Overlay Tools</source>
-        <translation>Mostrar Herramientas de Superposición</translation>
     </message>
     <message>
         <source>Temporary Space Warning</source>
@@ -3299,6 +3291,10 @@ Canal
     </message>
     <message>
         <source>Graphic Equalizer (31 bands)</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Spectral Scale in Bark</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -3720,6 +3716,18 @@ Canal
     <message>
         <source>Close</source>
         <translation>Cerrar</translation>
+    </message>
+    <message>
+        <source>Signal Properties</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>File Properties</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Creation Date</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>

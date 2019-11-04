@@ -866,6 +866,10 @@
         <source>Markers</source>
         <translation type="unfinished">표시</translation>
     </message>
+    <message>
+        <source>Bark</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>NavigatorDialog</name>
@@ -3014,10 +3018,6 @@ Channel
         <translation>선택 오버레이 보기/숨기기</translation>
     </message>
     <message>
-        <source>Show/Hide Overlay Tools</source>
-        <translation>오버레이 툴 보기/숨기기</translation>
-    </message>
-    <message>
         <source>Note</source>
         <translation>알림</translation>
     </message>
@@ -3036,14 +3036,6 @@ Channel
     <message>
         <source>Show Selection Overlays</source>
         <translation>선택 오버레이 표시하기</translation>
-    </message>
-    <message>
-        <source>Hide Overlay Tools</source>
-        <translation>오버레이 툴 가리기</translation>
-    </message>
-    <message>
-        <source>Show Overlay Tools</source>
-        <translation>오버레이 툴 표시하기</translation>
     </message>
     <message>
         <source>Temporary Space Warning</source>
@@ -3291,6 +3283,10 @@ Channel
     </message>
     <message>
         <source>Convert Loop to Markers</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Spectral Scale in Bark</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -3712,6 +3708,18 @@ Channel
     <message>
         <source>Close</source>
         <translation>닫기</translation>
+    </message>
+    <message>
+        <source>Signal Properties</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>File Properties</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Creation Date</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>

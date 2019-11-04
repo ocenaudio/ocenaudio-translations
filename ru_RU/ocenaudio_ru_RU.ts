@@ -866,6 +866,10 @@
         <source>Markers</source>
         <translation type="unfinished">Маркеры</translation>
     </message>
+    <message>
+        <source>Bark</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>NavigatorDialog</name>
@@ -3016,10 +3020,6 @@ Channel
         <translation>Показать/скрыть оверлеи выбора</translation>
     </message>
     <message>
-        <source>Show/Hide Overlay Tools</source>
-        <translation>Показать/скрыть инструменты оверлея</translation>
-    </message>
-    <message>
         <source>Note</source>
         <translation>Примечание</translation>
     </message>
@@ -3038,14 +3038,6 @@ Channel
     <message>
         <source>Show Selection Overlays</source>
         <translation>Показать оверлеи выбора</translation>
-    </message>
-    <message>
-        <source>Hide Overlay Tools</source>
-        <translation>Скрыть инструменты оверлея</translation>
-    </message>
-    <message>
-        <source>Show Overlay Tools</source>
-        <translation>Показать инструменты оверлея</translation>
     </message>
     <message>
         <source>Temporary Space Warning</source>
@@ -3293,6 +3285,10 @@ Channel
     </message>
     <message>
         <source>Graphic Equalizer (31 bands)</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Spectral Scale in Bark</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -3714,6 +3710,18 @@ Channel
     <message>
         <source>Close</source>
         <translation>Закрыть</translation>
+    </message>
+    <message>
+        <source>Signal Properties</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>File Properties</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Creation Date</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>

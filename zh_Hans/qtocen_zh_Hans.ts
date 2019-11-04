@@ -1526,10 +1526,6 @@ You should check your audio settings in the ocenaudio preferences pane.</source>
         <translation>保存声音文件“%1”时遇到了错误!</translation>
     </message>
     <message>
-        <source>It was not possible to complete the save of file “%1” because the chosen container does not support metadata.</source>
-        <translation>不能保存文件&quot;%1&quot;，所选的容器不支持元数据。</translation>
-    </message>
-    <message>
         <source>Your sound “%1” contains informations that can not be saved in the selected format. You want to continue and export to this format?</source>
         <translation>声音文件&quot;%1&quot;包含的有些信息无法以此格式保存，确认继续此格式导出吗?</translation>
     </message>
@@ -1619,7 +1615,31 @@ Storage: %1 mount on %2</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>It was not possible to complete the save of file “%1” because the chosen container does not support markers/regions.</source>
+        <source>Metadata not Exported</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>It was not possible to export the metadata to file “%1” because the chosen container does not support metadata.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Markers/Regions not Exported</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>It was not possible to complete the markers/regions to file “%1” because the chosen container does not support markers/regions.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>It was not possible to complete the save of file “%1” because the chosen container does not support metadata.
+
+To save without the metadata, use the export operation.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>It was not possible to complete the save of file “%1” because the chosen container does not support markers/regions.
+
+To save without the markers/regions, use the export operation.</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -2003,6 +2023,10 @@ Storage: %1 mount on %2</source>
     </message>
     <message>
         <source>Disable mixer when screen sleeps</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Scroll view to follow play head</source>
         <translation type="unfinished"></translation>
     </message>
 </context>

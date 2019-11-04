@@ -870,6 +870,10 @@
         <source>Markers</source>
         <translation type="unfinished"></translation>
     </message>
+    <message>
+        <source>Bark</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>NavigatorDialog</name>
@@ -3017,10 +3021,6 @@ Channel
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Show/Hide Overlay Tools</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>Note</source>
         <translation type="unfinished"></translation>
     </message>
@@ -3038,14 +3038,6 @@ Channel
     </message>
     <message>
         <source>Show Selection Overlays</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Hide Overlay Tools</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Show Overlay Tools</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -3294,6 +3286,10 @@ Channel
     </message>
     <message>
         <source>Graphic Equalizer (31 bands)</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Spectral Scale in Bark</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -3715,6 +3711,18 @@ Channel
     <message>
         <source>Close</source>
         <translation type="unfinished">Затвори</translation>
+    </message>
+    <message>
+        <source>Signal Properties</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>File Properties</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Creation Date</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>

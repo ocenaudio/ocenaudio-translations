@@ -1150,7 +1150,7 @@ You should check your audio settings in the ocenaudio preferences pane.</source>
     </message>
     <message>
         <source>Revert</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">변경</translation>
     </message>
     <message>
         <source>Cue File Found</source>
@@ -1526,10 +1526,6 @@ You should check your audio settings in the ocenaudio preferences pane.</source>
         <translation>%1 파일을 저장하는 동안에 에러가 발생 했습니다.</translation>
     </message>
     <message>
-        <source>It was not possible to complete the save of file “%1” because the chosen container does not support metadata.</source>
-        <translation>선택되어진 컨테이너는 지원하지 않는 메타데이터기 때문에 “%1” 파일을 저장할 수 없었습니다.</translation>
-    </message>
-    <message>
         <source>Your sound “%1” contains informations that can not be saved in the selected format. You want to continue and export to this format?</source>
         <translation>선택되어진 형식안에 이 소리가 저장될 수 없는 정보를 담고 있습니다. 이 형식을 계속 내보내시겠습니까? </translation>
     </message>
@@ -1619,7 +1615,31 @@ Storage: %1 mount on %2</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>It was not possible to complete the save of file “%1” because the chosen container does not support markers/regions.</source>
+        <source>Metadata not Exported</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>It was not possible to export the metadata to file “%1” because the chosen container does not support metadata.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Markers/Regions not Exported</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>It was not possible to complete the markers/regions to file “%1” because the chosen container does not support markers/regions.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>It was not possible to complete the save of file “%1” because the chosen container does not support metadata.
+
+To save without the metadata, use the export operation.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>It was not possible to complete the save of file “%1” because the chosen container does not support markers/regions.
+
+To save without the markers/regions, use the export operation.</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -2003,6 +2023,10 @@ Storage: %1 mount on %2</source>
     </message>
     <message>
         <source>Disable mixer when screen sleeps</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Scroll view to follow play head</source>
         <translation type="unfinished"></translation>
     </message>
 </context>

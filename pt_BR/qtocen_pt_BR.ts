@@ -1527,10 +1527,6 @@ Você deve checar suas configurações de áudio no painel de preferências.</tr
         <translation>Ocorreu um erro durante a operação de salvamento do arquivo &quot;%1&quot;!</translation>
     </message>
     <message>
-        <source>It was not possible to complete the save of file “%1” because the chosen container does not support metadata.</source>
-        <translation>Não foi possível completar o salvamento do arquivo “%1” pois o formato escolhido não suporta metadados.</translation>
-    </message>
-    <message>
         <source>Your sound “%1” contains informations that can not be saved in the selected format. You want to continue and export to this format?</source>
         <translation>Seu arquivo “%1” contém informações que não podem ser salvas no formato escolhido. Você deseja prosseguir exportando para este formato?</translation>
     </message>
@@ -1620,8 +1616,36 @@ Storage: %1 mount on %2</source>
         <translation>A conversão de regiões para marcadores irá descartar comentários. Deseja prosseguir?</translation>
     </message>
     <message>
-        <source>It was not possible to complete the save of file “%1” because the chosen container does not support markers/regions.</source>
-        <translation>Não foi possível completar o salvamento do arquivo &quot;%1&quot; pois o contêiner escolhido não suporta marcadores/regiões.</translation>
+        <source>Metadata not Exported</source>
+        <translation>Metadados não Exportados</translation>
+    </message>
+    <message>
+        <source>It was not possible to export the metadata to file “%1” because the chosen container does not support metadata.</source>
+        <translation>Não foi possível exportar os metadados para o arquivo &quot;%1&quot; pois o contêiner escolhido não suporta metadados.</translation>
+    </message>
+    <message>
+        <source>Markers/Regions not Exported</source>
+        <translation>Marcadores/Regiões não exportados</translation>
+    </message>
+    <message>
+        <source>It was not possible to complete the markers/regions to file “%1” because the chosen container does not support markers/regions.</source>
+        <translation>Não foi possível exportar os marcadores/regiões para o arquivo &quot;%1&quot; pois o contêiner escolhido não suporta marcadores/regiões.</translation>
+    </message>
+    <message>
+        <source>It was not possible to complete the save of file “%1” because the chosen container does not support metadata.
+
+To save without the metadata, use the export operation.</source>
+        <translation>Não foi possível completar o salvamento do arquivo &quot;%1&quot; pois o contêiner escolhido não suporta metadados.
+
+Para salvar sem os metadados, use a operação exportar.</translation>
+    </message>
+    <message>
+        <source>It was not possible to complete the save of file “%1” because the chosen container does not support markers/regions.
+
+To save without the markers/regions, use the export operation.</source>
+        <translation>Não foi possível completar o salvamento do arquivo &quot;%1&quot; pois o contêiner escolhido não suporta marcadores/regiões.
+
+Para salvar sem os marcadores/regiões, use a operação exportar.</translation>
     </message>
 </context>
 <context>
@@ -2005,6 +2029,10 @@ Storage: %1 mount on %2</source>
     <message>
         <source>Disable mixer when screen sleeps</source>
         <translation>Desabilitar o mixer quando a tela entrar em suspensão</translation>
+    </message>
+    <message>
+        <source>Scroll view to follow play head</source>
+        <translation>Role a exibição para seguir o início da reprodução</translation>
     </message>
 </context>
 <context>
