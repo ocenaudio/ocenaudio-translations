@@ -815,60 +815,62 @@
         <translation>Colar Metadados</translation>
     </message>
     <message>
-        <source>Settings</source>
-        <translation>Configurações</translation>
+        <source>Quick Export!</source>
+        <translation>Exportar Rápido!</translation>
     </message>
     <message>
-        <source>Show Settings Dialog</source>
-        <translation>Mostrar Diálogo de Configurações</translation>
+        <source>Destination</source>
+        <translation>Destino</translation>
     </message>
     <message>
-        <source>About</source>
-        <translation>Sobre</translation>
+        <source>Alt+Click to choose a different destination.</source>
+        <translation>Alt+Clique para escolher destino diferente.</translation>
     </message>
     <message>
-        <source>Show About Window</source>
-        <translation>Mostrar Janela de Sobre</translation>
+        <source>Combined multichannel audio</source>
+        <translation>Combinar para áudio multicanal</translation>
     </message>
     <message>
-        <source>Quit</source>
-        <translation>Sair</translation>
+        <source>Adjusting Selections to silences</source>
+        <translation>Ajustando Seleções para os Silêncios</translation>
     </message>
     <message>
-        <source>Quit ocenaudio</source>
-        <translation>Sair do Ocenaudio</translation>
+        <source>Searching for silences</source>
+        <translation>Buscando Silêncios</translation>
     </message>
     <message>
-        <source>Preferences</source>
-        <translation>Preferências</translation>
+        <source>Starting Recording from
+%1</source>
+        <translation>Começando Gravação de
+%1</translation>
     </message>
     <message>
-        <source>Show Preferences Dialog</source>
-        <translation>Mostrar Diálogo de Preferências</translation>
+        <source>Move cursor to playhead position</source>
+        <translation>Mover o cursor para a posição de reprodução</translation>
     </message>
     <message>
-        <source>Donate</source>
-        <translation>Doação</translation>
+        <source>Selection Left Border</source>
+        <translation>Borda Esquerda da Seleção</translation>
     </message>
     <message>
-        <source>Donate to ocenaudio Team!</source>
-        <translation>Doação para o Time Ocenaudio!</translation>
+        <source>Selection Right Border</source>
+        <translation>Borda Direita da Seleção</translation>
     </message>
     <message>
-        <source>Play</source>
-        <translation>Reproduzir</translation>
+        <source>Select Audio from Region Under Cursor</source>
+        <translation>Selecionar Áudio da Região sob o cursor</translation>
     </message>
     <message>
-        <source>Stop</source>
-        <translation>Parar</translation>
+        <source>Select Silences</source>
+        <translation>Selecionar Silêncios</translation>
     </message>
     <message>
-        <source>Sleep</source>
-        <translation>Suspender</translation>
+        <source>Zoom Back from Selection</source>
+        <translation>Voltar ao Zoom da Seleção</translation>
     </message>
     <message>
-        <source>Wake</source>
-        <translation>Acordar</translation>
+        <source>Undetermined</source>
+        <translation>Indeterminado</translation>
     </message>
 </context>
 <context>
@@ -890,22 +892,16 @@
         <translation>Um erro ocorreu durante a alocação de memória. Isto pode ocorrer devido à falta de memória</translation>
     </message>
     <message>
-        <source>Update Device List Failed</source>
-        <translation>Falha na Atualização da Lista de Dispositivos</translation>
-    </message>
-    <message>
-        <source>An error occurred while updating the list of audio devices using the %1 backend. In this condition the capture and playback capabilities may not be available.
-You should check your audio settings in the ocenaudio preferences pane.</source>
-        <translation>Um erro ocorreu ao atualizar a lista de dispositivos de áudio usando o backend %1. Nesta condição as capacidades de captura e a reprodução podem não estar disponíveis.
-Você deve checar suas configurações de áudio no painel de preferências.</translation>
-    </message>
-    <message>
         <source>Failed to execute last action!</source>
         <translation>Falha ao executar a última ação!</translation>
     </message>
     <message>
         <source>Last action was canceled!</source>
         <translation>Última ação foi cancelada!</translation>
+    </message>
+    <message>
+        <source>Last action produced an empty signal!</source>
+        <translation>A última ação produziu um sinal vazio!</translation>
     </message>
 </context>
 <context>
@@ -1276,6 +1272,10 @@ Você deve checar suas configurações de áudio no painel de preferências.</tr
         <source>Dark Theme</source>
         <translation>Tema Escuro</translation>
     </message>
+    <message>
+        <source>Keep links to closed files</source>
+        <translation>Manter links para arquivos fechados</translation>
+    </message>
 </context>
 <context>
     <name>QOcenGetTextDialog</name>
@@ -1628,10 +1628,6 @@ Storage: %1 mount on %2</source>
         <translation>Marcadores/Regiões não exportados</translation>
     </message>
     <message>
-        <source>It was not possible to complete the markers/regions to file “%1” because the chosen container does not support markers/regions.</source>
-        <translation>Não foi possível exportar os marcadores/regiões para o arquivo &quot;%1&quot; pois o contêiner escolhido não suporta marcadores/regiões.</translation>
-    </message>
-    <message>
         <source>It was not possible to complete the save of file “%1” because the chosen container does not support metadata.
 
 To save without the metadata, use the export operation.</source>
@@ -1646,6 +1642,26 @@ To save without the markers/regions, use the export operation.</source>
         <translation>Não foi possível completar o salvamento do arquivo &quot;%1&quot; pois o contêiner escolhido não suporta marcadores/regiões.
 
 Para salvar sem os marcadores/regiões, use a operação exportar.</translation>
+    </message>
+    <message>
+        <source>You are about to combine audios with different sample rates to a multichannel audio. Do you want to proceed</source>
+        <translation>Você solicitou combinar dois áudios com diferentes taxas de amostragem para um áudio multicanal. Deseja prosseguir?</translation>
+    </message>
+    <message>
+        <source>If you agree to continue the highest sample rate will be used.</source>
+        <translation>Se você continuar será utilizada a maior taxa de amostragem.</translation>
+    </message>
+    <message>
+        <source>Proceed</source>
+        <translation>Prosseguir</translation>
+    </message>
+    <message>
+        <source>Canel</source>
+        <translation>Cancelar</translation>
+    </message>
+    <message>
+        <source>It was not possible to export the markers/regions to file “%1” because the chosen container does not support markers/regions.</source>
+        <translation>Não foi possível exportar as regiões/marcas para o arquivo “%1” pois o formato escolhido não suporta.</translation>
     </message>
 </context>
 <context>
@@ -1790,8 +1806,8 @@ Para salvar sem os marcadores/regiões, use a operação exportar.</translation>
 <context>
     <name>QOcenQuickOpenWidget</name>
     <message>
-        <source>File or http address</source>
-        <translation>Arquivo ou endereço http</translation>
+        <source>Search effects, files and urls</source>
+        <translation>Buscar efeitos, arquivos e URLs</translation>
     </message>
 </context>
 <context>
@@ -1889,10 +1905,6 @@ Para salvar sem os marcadores/regiões, use a operação exportar.</translation>
     <message>
         <source>System Default</source>
         <translation>Padrão do Sistema</translation>
-    </message>
-    <message>
-        <source>Play head follows cursor position</source>
-        <translation>Reprodução segue o cursor de posição</translation>
     </message>
     <message>
         <source>Preroll</source>
@@ -2033,6 +2045,10 @@ Para salvar sem os marcadores/regiões, use a operação exportar.</translation>
     <message>
         <source>Scroll view to follow play head</source>
         <translation>Role a exibição para seguir o início da reprodução</translation>
+    </message>
+    <message>
+        <source>Play head follows cursor and selections</source>
+        <translation>Reprodução segue o cursor e/ou as seleções</translation>
     </message>
 </context>
 <context>

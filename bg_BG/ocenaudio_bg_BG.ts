@@ -487,10 +487,6 @@
         <translation>Експортирай текста на регионите...</translation>
     </message>
     <message>
-        <source>Select Audio From Regions</source>
-        <translation>Избери аудио от регионите</translation>
-    </message>
-    <message>
         <source>Export Audio From Regions...</source>
         <translation>Експортирай аудио от регионите...</translation>
     </message>
@@ -872,6 +868,42 @@
     </message>
     <message>
         <source>Bark</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Select</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Silences</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Audio From Regions</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Convert To Mono</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Convert To Stereo</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Normalized Vertical Zoom</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Ctrl+Alt+N</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>To Silences</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Regions from</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -2032,6 +2064,122 @@
         <source>Paste Metadata</source>
         <translation type="unfinished"></translation>
     </message>
+    <message>
+        <source>Settings</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Show Settings Dialog</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>About</source>
+        <translation type="unfinished">Относно</translation>
+    </message>
+    <message>
+        <source>Show About Window</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Quit</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Quit ocenaudio</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>General Preferences</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Show General Preferences</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Sound Preferences</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Show Sound Preferences</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Key Bindings Preferences</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Show Key Bindings Preferences</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Spectrogram Preferences</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Show Spectrogram Preferences</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Network Preferences</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Show Network Preferences</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Show Vst Plugins Preferences</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Donate</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Donate to ocenaudio Team!</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Play</source>
+        <translation type="unfinished">Свири</translation>
+    </message>
+    <message>
+        <source>Stop</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Sleep</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Wake</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Swap Channels in Selection</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Adjusting Silences</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Failed</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>New</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Disabled</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Loaded</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>QOcenAboutDialog</name>
@@ -2151,6 +2299,83 @@ Click here to download it.</source>
     </message>
     <message>
         <source>Removing capture backuped files</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Mixer Stopped</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>The mixer was stopped due to a change in the list of available devices.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Click here to check your sound configuration!</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>New VST Plugins Found!</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Ocenaudio has found 1 new VST plugin in your system!</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Ocenaudio has found %1 new VSTs plugins in your system!</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Click here to load them now!</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Waiting for Vst Manager Thread</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>No microphone permission</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>You are not allowed to use the microphone. In this condition you will capture only silence. To activate the use of the microphone, you must authorize ocenaudio.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Mixer Disabled</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>In this condition it will not be possible to reproduce and/or record audios.
+Do you want to enable your mixer?</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Enable Mixer!</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>ocenaudio crashed previously</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Do you want to write a report and send details on the crash to ocenaudio&apos;s development team?</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Write a Report!</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Enjoying ocenaudio?</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Show your appreciation by making a donation!</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Donating will allow ocenaudio to improve and continue to exist for FREE.</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -2311,10 +2536,6 @@ Channel
     <message>
         <source>About</source>
         <translation>Относно</translation>
-    </message>
-    <message>
-        <source>Scanning VST Plugins</source>
-        <translation>Сканира VST Плъгини</translation>
     </message>
     <message>
         <source>VST</source>
@@ -2957,10 +3178,6 @@ Channel
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Swap Channels from Selections</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>Applying Automatic Noise Reduction</source>
         <translation type="unfinished"></translation>
     </message>
@@ -3292,6 +3509,66 @@ Channel
         <source>Spectral Scale in Bark</source>
         <translation type="unfinished"></translation>
     </message>
+    <message>
+        <source>Scanning VST plugins</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Paste to New Audio</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Paste to Fit in Selection</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Adjust Selection to Silences</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Donate Now</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>DTMF Generator</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Generate DTMF sequences</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Noise Generator</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Generate Black, White, Pink and Brown Noise</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Tone Generator</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Generate Tones</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Silence Generator</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Generate Silence</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Convert Sample Type</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Change sample rate (resample) and/or number of channels</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>QOcenAudioNoiseReductionWidget</name>
@@ -3480,6 +3757,18 @@ Channel
     <message>
         <source>Current open files in ocenaudio</source>
         <translation type="unfinished">Отворени в момента файлове в ocenaudio</translation>
+    </message>
+    <message>
+        <source>Sort List</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Show Artwork</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Keep links to closed files</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -3816,6 +4105,18 @@ Channel
     </message>
     <message>
         <source>Select File to Attach</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Report to ocenaudio Team</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Report a problem</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Write us a brief description of the problem you are having with ocenaudio.</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -4479,10 +4780,6 @@ Channel
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Playback Loop</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>Default Settings</source>
         <translation type="unfinished"></translation>
     </message>
@@ -4548,6 +4845,14 @@ Channel
     </message>
     <message>
         <source>Stop Effect Preview</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Turn On Playback Loop</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Turn Off Playback Loop</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -4782,15 +5087,7 @@ Channel
         <translation type="unfinished">Форма</translation>
     </message>
     <message>
-        <source>Audio Units Preferences</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>Supports Audio Units (requires restart)</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>VST Plugins Preferences</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -4834,15 +5131,75 @@ Channel
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Show Plugins List...</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>Remove Path from Search</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Path not Found</source>
+        <source>Filter</source>
+        <translation type="unfinished">Филтър</translation>
+    </message>
+    <message>
+        <source>Add Path</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Remove Path</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Rescan Plugins</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>No plugins found!</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Failed</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Loading...</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Unloading...</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Disable Path from Search</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Disable Paths from Search</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Enable Path from Search</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Enable Paths from Search</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Remove Paths from Search</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Disable Plugin</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Disable Plugins</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Enable Plugin</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Enable Plugins</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -4955,6 +5312,84 @@ Channel
         <source>Output #%1 </source>
         <translation type="unfinished"></translation>
     </message>
+    <message>
+        <source>System Default</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Disabled</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>QOcenToolbar</name>
+    <message>
+        <source>Show/Hide Sidebar</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Loop On/Off</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Pre Roll On/Off</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Show Audio Properties</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Recent Files</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Goto Previous audio</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Goto Next audio</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Show Sound Preferences</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>QOcenTransport</name>
+    <message>
+        <source>Start/Stop Recording</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Start Playback</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Stop Playback</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Rewind Cursor</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Forward Cursor</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Pause/Resume</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Record Monitor On/Off</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Backward Cursor</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>QOcenUrlDialog</name>
@@ -4998,53 +5433,6 @@ or your network that you want to open:</source>
     <message>
         <source>Manufacturer:</source>
         <translation>Производител:</translation>
-    </message>
-</context>
-<context>
-    <name>QOcenVstList</name>
-    <message>
-        <source>Dialog</source>
-        <translation>Диалог</translation>
-    </message>
-    <message>
-        <source>List of VST Plugins</source>
-        <translation>Списък VST плъгини</translation>
-    </message>
-    <message>
-        <source>/Library/Audio/plugins/VST/delay.vst</source>
-        <translation></translation>
-    </message>
-    <message>
-        <source>/Library/Audio/plugins/VST/sampler.vst (crashed)</source>
-        <translation></translation>
-    </message>
-    <message>
-        <source>Enable All</source>
-        <translation>Разреши всички</translation>
-    </message>
-    <message>
-        <source>Disable All</source>
-        <translation>Забрани всички</translation>
-    </message>
-    <message>
-        <source>Effects in Folder %1</source>
-        <translation>Ефекти в папката %1</translation>
-    </message>
-    <message>
-        <source>Crashed</source>
-        <translation>Провалени</translation>
-    </message>
-    <message>
-        <source>Duplicated / Older Version</source>
-        <translation>Дублирани / Стари версии</translation>
-    </message>
-    <message>
-        <source>Unsupported</source>
-        <translation>Неподдържани</translation>
-    </message>
-    <message>
-        <source>Not Loaded</source>
-        <translation>Не-заредени</translation>
     </message>
 </context>
 <context>
@@ -5279,6 +5667,10 @@ or your network that you want to open:</source>
     </message>
     <message>
         <source>Paste Metadata into %1</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Combine to Multichannel</source>
         <translation type="unfinished"></translation>
     </message>
 </context>

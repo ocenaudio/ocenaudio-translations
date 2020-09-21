@@ -216,10 +216,6 @@
         <translation>Exportar Texto de Regiões...</translation>
     </message>
     <message>
-        <source>Select Audio From Regions</source>
-        <translation>Selecionar Áudio de Regiões</translation>
-    </message>
-    <message>
         <source>Export Audio From Regions...</source>
         <translation>Exportar Áudio de Regiões...</translation>
     </message>
@@ -849,7 +845,7 @@
     </message>
     <message>
         <source>Audio &amp;Properties...</source>
-        <translation>&amp;Propriedades do Áudio</translation>
+        <translation>&amp;Propriedades do Áudio...</translation>
     </message>
     <message>
         <source>Fit in Selection</source>
@@ -870,6 +866,42 @@
     <message>
         <source>Bark</source>
         <translation></translation>
+    </message>
+    <message>
+        <source>Select</source>
+        <translation>Selecionar</translation>
+    </message>
+    <message>
+        <source>Silences</source>
+        <translation>Silêncios</translation>
+    </message>
+    <message>
+        <source>Audio From Regions</source>
+        <translation>Áudio das Regiões</translation>
+    </message>
+    <message>
+        <source>Convert To Mono</source>
+        <translation>Converter para Mono</translation>
+    </message>
+    <message>
+        <source>Convert To Stereo</source>
+        <translation>Converter para Estéreo</translation>
+    </message>
+    <message>
+        <source>Normalized Vertical Zoom</source>
+        <translation>Zoom Vertical Normalizado</translation>
+    </message>
+    <message>
+        <source>Ctrl+Alt+N</source>
+        <translation></translation>
+    </message>
+    <message>
+        <source>To Silences</source>
+        <translation>Para Silêncios</translation>
+    </message>
+    <message>
+        <source>Regions from</source>
+        <translation>Regiões de</translation>
     </message>
 </context>
 <context>
@@ -2029,6 +2061,122 @@
         <source>Paste Metadata</source>
         <translation>Colar Metadados</translation>
     </message>
+    <message>
+        <source>Settings</source>
+        <translation>Configurações</translation>
+    </message>
+    <message>
+        <source>Show Settings Dialog</source>
+        <translation>Mostar Diálogo de Configurações</translation>
+    </message>
+    <message>
+        <source>About</source>
+        <translation>Sobre</translation>
+    </message>
+    <message>
+        <source>Show About Window</source>
+        <translation>Mostar Janela de Sobre</translation>
+    </message>
+    <message>
+        <source>Quit</source>
+        <translation>Sair</translation>
+    </message>
+    <message>
+        <source>Quit ocenaudio</source>
+        <translation>Sair do Ocenaudio</translation>
+    </message>
+    <message>
+        <source>General Preferences</source>
+        <translation>Preferências Gerais</translation>
+    </message>
+    <message>
+        <source>Show General Preferences</source>
+        <translation>Mostrar Preferências Gerais</translation>
+    </message>
+    <message>
+        <source>Sound Preferences</source>
+        <translation>Preferências de Som</translation>
+    </message>
+    <message>
+        <source>Show Sound Preferences</source>
+        <translation>Mostrar Preferências de Som</translation>
+    </message>
+    <message>
+        <source>Key Bindings Preferences</source>
+        <translation>Preferências dos Atalhos de Teclado</translation>
+    </message>
+    <message>
+        <source>Show Key Bindings Preferences</source>
+        <translation>Mostrar Preferências dos Atalhos de Teclado</translation>
+    </message>
+    <message>
+        <source>Spectrogram Preferences</source>
+        <translation>Preferências de Espectrograma</translation>
+    </message>
+    <message>
+        <source>Show Spectrogram Preferences</source>
+        <translation>Mostrar Preferências de Espectrograma</translation>
+    </message>
+    <message>
+        <source>Network Preferences</source>
+        <translation>Preferências de Rede</translation>
+    </message>
+    <message>
+        <source>Show Network Preferences</source>
+        <translation>Mostrar Preferências de Rede</translation>
+    </message>
+    <message>
+        <source>Show Vst Plugins Preferences</source>
+        <translation>Mostrar Preferências de Plugins VST</translation>
+    </message>
+    <message>
+        <source>Donate</source>
+        <translation>Doar</translation>
+    </message>
+    <message>
+        <source>Donate to ocenaudio Team!</source>
+        <translation>Doe para o Time do Ocenaudio!</translation>
+    </message>
+    <message>
+        <source>Play</source>
+        <translation>Reproduzir</translation>
+    </message>
+    <message>
+        <source>Stop</source>
+        <translation>Parar</translation>
+    </message>
+    <message>
+        <source>Sleep</source>
+        <translation>Dormir</translation>
+    </message>
+    <message>
+        <source>Wake</source>
+        <translation>Acordar</translation>
+    </message>
+    <message>
+        <source>Swap Channels in Selection</source>
+        <translation>Mudar Canais na Seleção</translation>
+    </message>
+    <message>
+        <source>Adjusting Silences</source>
+        <translation>Ajustando Silêncios</translation>
+    </message>
+    <message>
+        <source>Failed</source>
+        <translation>Falhou</translation>
+    </message>
+    <message>
+        <source>New</source>
+        <translation>Novo</translation>
+    </message>
+    <message>
+        <source>Disabled</source>
+        <translation>Desabilitado</translation>
+    </message>
+    <message>
+        <source>Loaded</source>
+        <translation>Carregado</translation>
+    </message>
 </context>
 <context>
     <name>QOcenAboutDialog</name>
@@ -2152,6 +2300,84 @@ Clique aqui para baixá-la.</translation>
     <message>
         <source>Removing capture backuped files</source>
         <translation>Removendo arquivos de backup de captura</translation>
+    </message>
+    <message>
+        <source>Mixer Stopped</source>
+        <translation>Mixer Parou</translation>
+    </message>
+    <message>
+        <source>The mixer was stopped due to a change in the list of available devices.</source>
+        <translation>O mixer parou por mudança na lista de dispositivos disponíveis.</translation>
+    </message>
+    <message>
+        <source>Click here to check your sound configuration!</source>
+        <translation>Clique aqui para verificar a configuração de som!</translation>
+    </message>
+    <message>
+        <source>New VST Plugins Found!</source>
+        <translation>Novos Plugins VST Encontrados!</translation>
+    </message>
+    <message>
+        <source>Ocenaudio has found 1 new VST plugin in your system!</source>
+        <translation>O Ocenaudio encontrou 1 novo plugin VST no seu sistema!</translation>
+    </message>
+    <message>
+        <source>Ocenaudio has found %1 new VSTs plugins in your system!</source>
+        <translation>O Ocenaudio encontrou %1 novos plugins VST no seu sistema!</translation>
+    </message>
+    <message>
+        <source>Click here to load them now!</source>
+        <translation>Clique aqui para carregá-los!</translation>
+    </message>
+    <message>
+        <source>Waiting for Vst Manager Thread</source>
+        <translation>Esperando pelo Gerenciador de plugins VST</translation>
+    </message>
+    <message>
+        <source>No microphone permission</source>
+        <translation>Sem permissão para o microfone</translation>
+    </message>
+    <message>
+        <source>You are not allowed to use the microphone. In this condition you will capture only silence. To activate the use of the microphone, you must authorize ocenaudio.</source>
+        <translation>Você não tem permissão para usar o microfone. Nesta condição somente silêncio será capturado. Para ativar o microfone, você deve autorizar o Ocenaudio.</translation>
+    </message>
+    <message>
+        <source>Mixer Disabled</source>
+        <translation>Mixer Desabilitado</translation>
+    </message>
+    <message>
+        <source>In this condition it will not be possible to reproduce and/or record audios.
+Do you want to enable your mixer?</source>
+        <translation>Nessa condição não será possível reproduzir e/ou gravar áudios.
+Deseja habilitar o mixer?</translation>
+    </message>
+    <message>
+        <source>Enable Mixer!</source>
+        <translation>Mixer Habilitado!</translation>
+    </message>
+    <message>
+        <source>ocenaudio crashed previously</source>
+        <translation>Ocorreu um erro com o ocenaudio anteriormente</translation>
+    </message>
+    <message>
+        <source>Do you want to write a report and send details on the crash to ocenaudio&apos;s development team?</source>
+        <translation>Gostaria de escrever um relatório e enviar detalhes para o time de desenvolvimento do Ocenaudio?</translation>
+    </message>
+    <message>
+        <source>Write a Report!</source>
+        <translation>Escreva um relatório!</translation>
+    </message>
+    <message>
+        <source>Enjoying ocenaudio?</source>
+        <translation>Curtiu o Ocenaudio?</translation>
+    </message>
+    <message>
+        <source>Show your appreciation by making a donation!</source>
+        <translation>Mostre sua apreciação e faça uma doação!</translation>
+    </message>
+    <message>
+        <source>Donating will allow ocenaudio to improve and continue to exist for FREE.</source>
+        <translation>Doações permitem que o Ocenaudio seja melhorado e continue SEM CUSTO.</translation>
     </message>
 </context>
 <context>
@@ -2313,10 +2539,6 @@ Saída
     <message>
         <source>About</source>
         <translation>Sobre</translation>
-    </message>
-    <message>
-        <source>Scanning VST Plugins</source>
-        <translation>Buscando Plugins VST</translation>
     </message>
     <message>
         <source>VST</source>
@@ -2959,10 +3181,6 @@ Saída
         <translation></translation>
     </message>
     <message>
-        <source>Swap Channels from Selections</source>
-        <translation>Trocar Canais de Seleções</translation>
-    </message>
-    <message>
         <source>Applying Automatic Noise Reduction</source>
         <translation>Aplicar Redução de Ruído Automática</translation>
     </message>
@@ -3294,6 +3512,66 @@ Saída
         <source>Spectral Scale in Bark</source>
         <translation>Escala Espectral em Bark</translation>
     </message>
+    <message>
+        <source>Scanning VST plugins</source>
+        <translation>Buscando VST Plugins</translation>
+    </message>
+    <message>
+        <source>Paste to New Audio</source>
+        <translation>Colar para Novo Áudio</translation>
+    </message>
+    <message>
+        <source>Paste to Fit in Selection</source>
+        <translation>Colar para Caber na Seleção</translation>
+    </message>
+    <message>
+        <source>Adjust Selection to Silences</source>
+        <translation>Ajustar Seleção para os Silêncios</translation>
+    </message>
+    <message>
+        <source>Donate Now</source>
+        <translation>Doar Agora</translation>
+    </message>
+    <message>
+        <source>DTMF Generator</source>
+        <translation>Gerador de DTMF</translation>
+    </message>
+    <message>
+        <source>Generate DTMF sequences</source>
+        <translation>Gerar Sequências de DTMF</translation>
+    </message>
+    <message>
+        <source>Noise Generator</source>
+        <translation>Gerador de Ruídos</translation>
+    </message>
+    <message>
+        <source>Generate Black, White, Pink and Brown Noise</source>
+        <translation>Gerar Ruído Preto, Branco, Rosa e Marrom</translation>
+    </message>
+    <message>
+        <source>Tone Generator</source>
+        <translation>Gerador de Tons</translation>
+    </message>
+    <message>
+        <source>Generate Tones</source>
+        <translation>Gerar Tons</translation>
+    </message>
+    <message>
+        <source>Silence Generator</source>
+        <translation>Gerador de Silêncio</translation>
+    </message>
+    <message>
+        <source>Generate Silence</source>
+        <translation>Gerar Silêncio</translation>
+    </message>
+    <message>
+        <source>Convert Sample Type</source>
+        <translation>Alterar Formato do Áudio</translation>
+    </message>
+    <message>
+        <source>Change sample rate (resample) and/or number of channels</source>
+        <translation>Mude a taxa de amostragem (reamostragem) e/ou o número de canais</translation>
+    </message>
 </context>
 <context>
     <name>QOcenAudioNoiseReductionWidget</name>
@@ -3482,6 +3760,18 @@ Saída
     <message>
         <source>Current open files in ocenaudio</source>
         <translation>Arquivos abertos no ocenaudio</translation>
+    </message>
+    <message>
+        <source>Sort List</source>
+        <translation>Lista Ordenada</translation>
+    </message>
+    <message>
+        <source>Show Artwork</source>
+        <translation>Mostrar Ilustração</translation>
+    </message>
+    <message>
+        <source>Keep links to closed files</source>
+        <translation>Manter links para arquivos fechados</translation>
     </message>
 </context>
 <context>
@@ -3819,6 +4109,18 @@ Saída
     <message>
         <source>Select File to Attach</source>
         <translation>Selecione Arquivo para Anexar</translation>
+    </message>
+    <message>
+        <source>Report to ocenaudio Team</source>
+        <translation>Reportar ao Time do Ocenaudio</translation>
+    </message>
+    <message>
+        <source>Report a problem</source>
+        <translation>Reportar um problema</translation>
+    </message>
+    <message>
+        <source>Write us a brief description of the problem you are having with ocenaudio.</source>
+        <translation>Escreva-nos uma breve descrição do problema que você está tendo com o Ocenaudio.</translation>
     </message>
 </context>
 <context>
@@ -4482,10 +4784,6 @@ Saída
         <translation>Gerenciar Presets</translation>
     </message>
     <message>
-        <source>Playback Loop</source>
-        <translation>Loop da Reprodução</translation>
-    </message>
-    <message>
         <source>Default Settings</source>
         <translation>Configurações Padrão</translation>
     </message>
@@ -4552,6 +4850,14 @@ Saída
     <message>
         <source>Stop Effect Preview</source>
         <translation>Parar Pré-Visualização do Efeito</translation>
+    </message>
+    <message>
+        <source>Turn On Playback Loop</source>
+        <translation>Ligar Reprodução em Loop</translation>
+    </message>
+    <message>
+        <source>Turn Off Playback Loop</source>
+        <translation>Desligar Reprodução em Loop</translation>
     </message>
 </context>
 <context>
@@ -4786,16 +5092,8 @@ Saída
         <translation>Formulário</translation>
     </message>
     <message>
-        <source>Audio Units Preferences</source>
-        <translation>Preferências de Audio Unit</translation>
-    </message>
-    <message>
         <source>Supports Audio Units (requires restart)</source>
         <translation>Suporta Audio Units (requer reinicialização)</translation>
-    </message>
-    <message>
-        <source>VST Plugins Preferences</source>
-        <translation>Preferências de Plugins VST</translation>
     </message>
     <message>
         <source>Supports VST Plugins (requires restart)</source>
@@ -4838,16 +5136,76 @@ Saída
         <translation>Mostrar no Finder</translation>
     </message>
     <message>
-        <source>Show Plugins List...</source>
-        <translation>Mostrar Lista de Plugins...</translation>
-    </message>
-    <message>
         <source>Remove Path from Search</source>
         <translation>Remover Caminho de Procura</translation>
     </message>
     <message>
-        <source>Path not Found</source>
-        <translation>Caminho não Encontrado</translation>
+        <source>Filter</source>
+        <translation>Filtro</translation>
+    </message>
+    <message>
+        <source>Add Path</source>
+        <translation>Adicionar Caminho</translation>
+    </message>
+    <message>
+        <source>Remove Path</source>
+        <translation>Remover Caminho</translation>
+    </message>
+    <message>
+        <source>Rescan Plugins</source>
+        <translation>Buscar Plugins Novamente</translation>
+    </message>
+    <message>
+        <source>No plugins found!</source>
+        <translation>Nenhum plugin encontrado!</translation>
+    </message>
+    <message>
+        <source>Failed</source>
+        <translation>Falha</translation>
+    </message>
+    <message>
+        <source>Loading...</source>
+        <translation>Carregando...</translation>
+    </message>
+    <message>
+        <source>Unloading...</source>
+        <translation>Descarregando...</translation>
+    </message>
+    <message>
+        <source>Disable Path from Search</source>
+        <translation>Desabilitar Caminho da Busca</translation>
+    </message>
+    <message>
+        <source>Disable Paths from Search</source>
+        <translation>Desabilitar Caminhos da Busca</translation>
+    </message>
+    <message>
+        <source>Enable Path from Search</source>
+        <translation>Habilitar Caminho da Busca</translation>
+    </message>
+    <message>
+        <source>Enable Paths from Search</source>
+        <translation>Habilitar Caminhos da Busca</translation>
+    </message>
+    <message>
+        <source>Remove Paths from Search</source>
+        <translation>Remover Caminhos de Busca</translation>
+    </message>
+    <message>
+        <source>Disable Plugin</source>
+        <translation>Desabilitar Plugin</translation>
+    </message>
+    <message>
+        <source>Disable Plugins</source>
+        <translation>Desabilitar Plugins</translation>
+    </message>
+    <message>
+        <source>Enable Plugin</source>
+        <translation>Habilitar Plugin</translation>
+    </message>
+    <message>
+        <source>Enable Plugins</source>
+        <translation>Habilitar Plugins</translation>
     </message>
 </context>
 <context>
@@ -4936,7 +5294,7 @@ Saída
     </message>
     <message>
         <source>Input #%1 </source>
-        <translation>Entrada #%1</translation>
+        <translation>Entrada #%1 </translation>
     </message>
     <message>
         <source>Channel
@@ -4959,6 +5317,84 @@ Saída
     <message>
         <source>Output #%1 </source>
         <translation>Saída #%1 </translation>
+    </message>
+    <message>
+        <source>System Default</source>
+        <translation>Padrão do Sistema</translation>
+    </message>
+    <message>
+        <source>Disabled</source>
+        <translation>Desabilitado</translation>
+    </message>
+</context>
+<context>
+    <name>QOcenToolbar</name>
+    <message>
+        <source>Show/Hide Sidebar</source>
+        <translation>Mostrar/Ocultar Barra Lateral</translation>
+    </message>
+    <message>
+        <source>Loop On/Off</source>
+        <translation>Ligar/Desligar Loop</translation>
+    </message>
+    <message>
+        <source>Pre Roll On/Off</source>
+        <translation>Ligar/Desligar Preroll</translation>
+    </message>
+    <message>
+        <source>Show Audio Properties</source>
+        <translation>Mostar Propriedades do Áudio</translation>
+    </message>
+    <message>
+        <source>Recent Files</source>
+        <translation>Arquivos Recentes</translation>
+    </message>
+    <message>
+        <source>Goto Previous audio</source>
+        <translation>Ir para o Áudio Anterior</translation>
+    </message>
+    <message>
+        <source>Goto Next audio</source>
+        <translation>Ir para o Próximo Áudio</translation>
+    </message>
+    <message>
+        <source>Show Sound Preferences</source>
+        <translation>Mostrar Preferências de Som</translation>
+    </message>
+</context>
+<context>
+    <name>QOcenTransport</name>
+    <message>
+        <source>Start/Stop Recording</source>
+        <translation>Iniciar/Parar Gravação</translation>
+    </message>
+    <message>
+        <source>Start Playback</source>
+        <translation>Iniciar Reprodução</translation>
+    </message>
+    <message>
+        <source>Stop Playback</source>
+        <translation>Parar Reprodução</translation>
+    </message>
+    <message>
+        <source>Rewind Cursor</source>
+        <translation>Retrodecer Cursor</translation>
+    </message>
+    <message>
+        <source>Forward Cursor</source>
+        <translation>Avançar Cursor</translation>
+    </message>
+    <message>
+        <source>Pause/Resume</source>
+        <translation>Pausar/Continuar</translation>
+    </message>
+    <message>
+        <source>Record Monitor On/Off</source>
+        <translation>Monitor de Gravação Ligado/Desligado</translation>
+    </message>
+    <message>
+        <source>Backward Cursor</source>
+        <translation>Retornar Cursor ao Início</translation>
     </message>
 </context>
 <context>
@@ -5003,53 +5439,6 @@ ou sua rede de trabalho que você deseje abrir:</translation>
     <message>
         <source>Manufacturer:</source>
         <translation>Desenvolvedor:</translation>
-    </message>
-</context>
-<context>
-    <name>QOcenVstList</name>
-    <message>
-        <source>Dialog</source>
-        <translation>Diálogo</translation>
-    </message>
-    <message>
-        <source>List of VST Plugins</source>
-        <translation>Lista de Plugins VST</translation>
-    </message>
-    <message>
-        <source>/Library/Audio/plugins/VST/delay.vst</source>
-        <translation></translation>
-    </message>
-    <message>
-        <source>/Library/Audio/plugins/VST/sampler.vst (crashed)</source>
-        <translation></translation>
-    </message>
-    <message>
-        <source>Enable All</source>
-        <translation>Habilitar todos</translation>
-    </message>
-    <message>
-        <source>Disable All</source>
-        <translation>Desabilitar todos</translation>
-    </message>
-    <message>
-        <source>Effects in Folder %1</source>
-        <translation>Efeitos na Pasta %1</translation>
-    </message>
-    <message>
-        <source>Crashed</source>
-        <translation>Travou</translation>
-    </message>
-    <message>
-        <source>Duplicated / Older Version</source>
-        <translation>Duplicado / Desatualizado</translation>
-    </message>
-    <message>
-        <source>Unsupported</source>
-        <translation>Não suportado</translation>
-    </message>
-    <message>
-        <source>Not Loaded</source>
-        <translation>Não Carregado</translation>
     </message>
 </context>
 <context>
@@ -5285,6 +5674,10 @@ ou sua rede de trabalho que você deseje abrir:</translation>
     <message>
         <source>Paste Metadata into %1</source>
         <translation>Colar Metadados em %1</translation>
+    </message>
+    <message>
+        <source>Combine to Multichannel</source>
+        <translation>Combinar para Multicanal</translation>
     </message>
 </context>
 <context>
@@ -5906,7 +6299,7 @@ ou sua rede de trabalho que você deseje abrir:</translation>
     </message>
     <message>
         <source> pixels</source>
-        <translation>pixels</translation>
+        <translation> pixels</translation>
     </message>
     <message>
         <source>Height:</source>

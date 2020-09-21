@@ -815,59 +815,60 @@
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Settings</source>
-        <translation type="unfinished">Réglages</translation>
-    </message>
-    <message>
-        <source>Show Settings Dialog</source>
+        <source>Quick Export!</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>About</source>
+        <source>Destination</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Show About Window</source>
+        <source>Alt+Click to choose a different destination.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Quit</source>
+        <source>Combined multichannel audio</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Quit ocenaudio</source>
+        <source>Adjusting Selections to silences</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Preferences</source>
+        <source>Searching for silences</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Show Preferences Dialog</source>
+        <source>Starting Recording from
+%1</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Donate</source>
+        <source>Move cursor to playhead position</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Donate to ocenaudio Team!</source>
+        <source>Selection Left Border</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Play</source>
+        <source>Selection Right Border</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Stop</source>
+        <source>Select Audio from Region Under Cursor</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Sleep</source>
+        <source>Select Silences</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Wake</source>
+        <source>Zoom Back from Selection</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Undetermined</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -890,20 +891,15 @@
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Update Device List Failed</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>An error occurred while updating the list of audio devices using the %1 backend. In this condition the capture and playback capabilities may not be available.
-You should check your audio settings in the ocenaudio preferences pane.</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>Failed to execute last action!</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Last action was canceled!</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Last action produced an empty signal!</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -1275,6 +1271,10 @@ You should check your audio settings in the ocenaudio preferences pane.</source>
         <source>Dark Theme</source>
         <translation type="unfinished"></translation>
     </message>
+    <message>
+        <source>Keep links to closed files</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>QOcenGetTextDialog</name>
@@ -1627,10 +1627,6 @@ Storage: %1 mount on %2</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>It was not possible to complete the markers/regions to file “%1” because the chosen container does not support markers/regions.</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>It was not possible to complete the save of file “%1” because the chosen container does not support metadata.
 
 To save without the metadata, use the export operation.</source>
@@ -1640,6 +1636,26 @@ To save without the metadata, use the export operation.</source>
         <source>It was not possible to complete the save of file “%1” because the chosen container does not support markers/regions.
 
 To save without the markers/regions, use the export operation.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>You are about to combine audios with different sample rates to a multichannel audio. Do you want to proceed</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>If you agree to continue the highest sample rate will be used.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Proceed</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Canel</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>It was not possible to export the markers/regions to file “%1” because the chosen container does not support markers/regions.</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -1785,8 +1801,8 @@ To save without the markers/regions, use the export operation.</source>
 <context>
     <name>QOcenQuickOpenWidget</name>
     <message>
-        <source>File or http address</source>
-        <translation>Fichier ou http adresse</translation>
+        <source>Search effects, files and urls</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -1884,10 +1900,6 @@ To save without the markers/regions, use the export operation.</source>
     <message>
         <source>System Default</source>
         <translation>Défaut du Système</translation>
-    </message>
-    <message>
-        <source>Play head follows cursor position</source>
-        <translation>Playhead suit la position du curseur</translation>
     </message>
     <message>
         <source>Preroll</source>
@@ -2027,6 +2039,10 @@ To save without the markers/regions, use the export operation.</source>
     </message>
     <message>
         <source>Scroll view to follow play head</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Play head follows cursor and selections</source>
         <translation type="unfinished"></translation>
     </message>
 </context>

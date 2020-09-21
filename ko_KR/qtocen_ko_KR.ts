@@ -807,67 +807,68 @@
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Settings</source>
-        <translation type="unfinished">설정</translation>
-    </message>
-    <message>
-        <source>Show Settings Dialog</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>About</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Show About Window</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Quit</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Quit ocenaudio</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Preferences</source>
-        <translation type="unfinished">참조</translation>
-    </message>
-    <message>
-        <source>Show Preferences Dialog</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Donate</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Donate to ocenaudio Team!</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Play</source>
-        <translation type="unfinished">재생</translation>
-    </message>
-    <message>
-        <source>Stop</source>
-        <translation type="unfinished">닫기</translation>
-    </message>
-    <message>
-        <source>Sleep</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Wake</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>Press %1 to create!</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Apply</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Quick Export!</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Destination</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Alt+Click to choose a different destination.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Combined multichannel audio</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Adjusting Selections to silences</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Searching for silences</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Starting Recording from
+%1</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Move cursor to playhead position</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Selection Left Border</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Selection Right Border</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Select Audio from Region Under Cursor</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Select Silences</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Zoom Back from Selection</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Undetermined</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -890,20 +891,15 @@
         <translation>메모리를 할당 받는 동안 에러가 발생했습니다. 이 이슈는 메모리가 부족할 때 일어납니다.</translation>
     </message>
     <message>
-        <source>Update Device List Failed</source>
-        <translation>장치 목록 갱신 실패</translation>
-    </message>
-    <message>
-        <source>An error occurred while updating the list of audio devices using the %1 backend. In this condition the capture and playback capabilities may not be available.
-You should check your audio settings in the ocenaudio preferences pane.</source>
-        <translation>%1 백앤드를 사용하는 오디오 장치 목록을 갱신 받는 동안 에러가 발생했습니다. 이 상태에서 재생과 캡쳐가 되지 않습니다. ocenaudio의 환경설정에서 오디오 설정을 확인해주세요.</translation>
-    </message>
-    <message>
         <source>Failed to execute last action!</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Last action was canceled!</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Last action produced an empty signal!</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -1275,6 +1271,10 @@ You should check your audio settings in the ocenaudio preferences pane.</source>
         <source>Dark Theme</source>
         <translation type="unfinished"></translation>
     </message>
+    <message>
+        <source>Keep links to closed files</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>QOcenGetTextDialog</name>
@@ -1627,10 +1627,6 @@ Storage: %1 mount on %2</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>It was not possible to complete the markers/regions to file “%1” because the chosen container does not support markers/regions.</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>It was not possible to complete the save of file “%1” because the chosen container does not support metadata.
 
 To save without the metadata, use the export operation.</source>
@@ -1640,6 +1636,26 @@ To save without the metadata, use the export operation.</source>
         <source>It was not possible to complete the save of file “%1” because the chosen container does not support markers/regions.
 
 To save without the markers/regions, use the export operation.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>You are about to combine audios with different sample rates to a multichannel audio. Do you want to proceed</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>If you agree to continue the highest sample rate will be used.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Proceed</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Canel</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>It was not possible to export the markers/regions to file “%1” because the chosen container does not support markers/regions.</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -1785,8 +1801,8 @@ To save without the markers/regions, use the export operation.</source>
 <context>
     <name>QOcenQuickOpenWidget</name>
     <message>
-        <source>File or http address</source>
-        <translation>파일 또는 http 주소</translation>
+        <source>Search effects, files and urls</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -1884,10 +1900,6 @@ To save without the markers/regions, use the export operation.</source>
     <message>
         <source>System Default</source>
         <translation>시스템 기본값</translation>
-    </message>
-    <message>
-        <source>Play head follows cursor position</source>
-        <translation>재생 헤드가 커서 위치를 따름</translation>
     </message>
     <message>
         <source>Preroll</source>
@@ -2027,6 +2039,10 @@ To save without the markers/regions, use the export operation.</source>
     </message>
     <message>
         <source>Scroll view to follow play head</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Play head follows cursor and selections</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
