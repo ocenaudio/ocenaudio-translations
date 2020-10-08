@@ -53,6 +53,141 @@
     </message>
 </context>
 <context>
+    <name>MAC_TOOLBAR</name>
+    <message>
+        <source>Sidebar</source>
+        <translation>Barra Lateral</translation>
+    </message>
+    <message>
+        <source>Transport</source>
+        <translation>Transporte</translation>
+    </message>
+    <message>
+        <source>Record</source>
+        <translation>Gravação</translation>
+    </message>
+    <message>
+        <source>Loop</source>
+        <translation>Loop</translation>
+    </message>
+    <message>
+        <source>Pre Roll</source>
+        <translation></translation>
+    </message>
+    <message>
+        <source>Navigator</source>
+        <translation>Navegador</translation>
+    </message>
+    <message>
+        <source>Recent Files</source>
+        <translation>Arquivos Recentes</translation>
+    </message>
+    <message>
+        <source>Sound Preferences</source>
+        <translation>Preferências de Som</translation>
+    </message>
+    <message>
+        <source>Mixer Options</source>
+        <translation>Opções do Mixer</translation>
+    </message>
+    <message>
+        <source>Audio Properties</source>
+        <translation>Propriedades do Áudio</translation>
+    </message>
+    <message>
+        <source>Volume</source>
+        <translation>Volume</translation>
+    </message>
+    <message>
+        <source>Display</source>
+        <translation>Mostrador</translation>
+    </message>
+    <message>
+        <source>Show Sidebar</source>
+        <translation>Mostrar Barra Lateral</translation>
+    </message>
+    <message>
+        <source>Hide Sidebar</source>
+        <translation>Ocultar Barra Lateral</translation>
+    </message>
+    <message>
+        <source>Stop Capture</source>
+        <translation>Parar Captura</translation>
+    </message>
+    <message>
+        <source>Start Capture</source>
+        <translation>Iniciar Captura</translation>
+    </message>
+    <message>
+        <source>Play</source>
+        <translation>Reproduzir</translation>
+    </message>
+    <message>
+        <source>Pause</source>
+        <translation>Pausa</translation>
+    </message>
+    <message>
+        <source>Monitor On</source>
+        <translation>Monitor Lidado</translation>
+    </message>
+    <message>
+        <source>Monitor Off</source>
+        <translation>Monitor Desligado</translation>
+    </message>
+    <message>
+        <source>Resume</source>
+        <translation>Continuar</translation>
+    </message>
+    <message>
+        <source>Stop</source>
+        <translation>Parar</translation>
+    </message>
+    <message>
+        <source>Fast Backward</source>
+        <translation>Retrocesso Rápido</translation>
+    </message>
+    <message>
+        <source>Fast Forward</source>
+        <translation>Avanço Rápido</translation>
+    </message>
+    <message>
+        <source>Rewind</source>
+        <translation>Retroceder</translation>
+    </message>
+    <message>
+        <source>Open Sound Preferences</source>
+        <translation>Abrir Preferências de Som</translation>
+    </message>
+    <message>
+        <source>Show Audio Properties</source>
+        <translation>Mostar Propriedades do Áudio</translation>
+    </message>
+    <message>
+        <source>Goto Previous Audio</source>
+        <translation>Ir para o Áudio Anterior</translation>
+    </message>
+    <message>
+        <source>Goto Next Audio</source>
+        <translation>Ir para o Próximo Áudio</translation>
+    </message>
+    <message>
+        <source>Pre Roll On</source>
+        <translation>Pre Roll Ligado</translation>
+    </message>
+    <message>
+        <source>Pre Roll Off</source>
+        <translation>Pre Roll Desligado</translation>
+    </message>
+    <message>
+        <source>Play Loop On</source>
+        <translation>Loop de Reprodução Ligado</translation>
+    </message>
+    <message>
+        <source>Play Loop Off</source>
+        <translation>Loop de Reprodução Desligado</translation>
+    </message>
+</context>
+<context>
     <name>MainWindow</name>
     <message>
         <source>&amp;File</source>
@@ -3572,6 +3707,18 @@ Saída
         <source>Change sample rate (resample) and/or number of channels</source>
         <translation>Mude a taxa de amostragem (reamostragem) e/ou o número de canais</translation>
     </message>
+    <message>
+        <source>Cancel VST Scanning</source>
+        <translation>Cancelar Busca de VST</translation>
+    </message>
+    <message>
+        <source>Plugin Preferences...</source>
+        <translation>Preferências dos Plugins...</translation>
+    </message>
+    <message>
+        <source>Search new plugins</source>
+        <translation>Busca Novos Plugins</translation>
+    </message>
 </context>
 <context>
     <name>QOcenAudioNoiseReductionWidget</name>
@@ -3797,31 +3944,15 @@ Saída
         <translation>Nome do Arquivo</translation>
     </message>
     <message>
-        <source>filename.mp4</source>
-        <translation></translation>
-    </message>
-    <message>
         <source>File Container</source>
         <translation>Container do Arquivo</translation>
-    </message>
-    <message>
-        <source>MP4</source>
-        <translation>MP4</translation>
     </message>
     <message>
         <source>Audio Codec</source>
         <translation>Codec de Áudio</translation>
     </message>
     <message>
-        <source>AAC Low Complexity</source>
-        <translation></translation>
-    </message>
-    <message>
         <source>Encoded With</source>
-        <translation></translation>
-    </message>
-    <message>
-        <source>LAME3.99</source>
         <translation></translation>
     </message>
     <message>
@@ -3829,80 +3960,40 @@ Saída
         <translation>Taxa de Bits</translation>
     </message>
     <message>
-        <source>192 kbps</source>
-        <translation></translation>
-    </message>
-    <message>
         <source>Sample Rate</source>
         <translation>Taxa de Amostragem</translation>
-    </message>
-    <message>
-        <source>44100 Hz</source>
-        <translation></translation>
     </message>
     <message>
         <source>Channels</source>
         <translation>Canais</translation>
     </message>
     <message>
-        <source>stereo</source>
-        <translation>estéreo</translation>
-    </message>
-    <message>
         <source>Resolution</source>
         <translation>Resolução</translation>
-    </message>
-    <message>
-        <source>16 bits</source>
-        <translation></translation>
     </message>
     <message>
         <source>Duration</source>
         <translation>Duração</translation>
     </message>
     <message>
-        <source>26 seconds</source>
-        <translation></translation>
-    </message>
-    <message>
         <source>Number of Samples</source>
         <translation>Número de Amostras</translation>
-    </message>
-    <message>
-        <source>192900</source>
-        <translation>192900</translation>
     </message>
     <message>
         <source>Size on Memory</source>
         <translation>Tamanho na Memória</translation>
     </message>
     <message>
-        <source>100 Kb</source>
-        <translation></translation>
-    </message>
-    <message>
         <source>Size on Disk</source>
         <translation>Tamanho no Disco</translation>
-    </message>
-    <message>
-        <source>192 Kb</source>
-        <translation></translation>
     </message>
     <message>
         <source>Modification Date</source>
         <translation>Data da Modificação</translation>
     </message>
     <message>
-        <source>12/09/2014 23:00</source>
-        <translation>12/09/2014 23:00</translation>
-    </message>
-    <message>
         <source>Location</source>
         <translation>Caminho</translation>
-    </message>
-    <message>
-        <source>/Users/ruijunior/Music/iTunes/iTunes Media/Music/Enanitos Verdes/Unknown Album/Lamento Boliviano.aif</source>
-        <translation></translation>
     </message>
     <message>
         <source>Details</source>
@@ -4065,6 +4156,41 @@ Saída
     </message>
 </context>
 <context>
+    <name>QOcenAudioToolbar</name>
+    <message>
+        <source>Show/Hide Sidebar</source>
+        <translation>Mostrar/Ocultar Barra Lateral</translation>
+    </message>
+    <message>
+        <source>Loop On/Off</source>
+        <translation>Ligar/Desligar Loop</translation>
+    </message>
+    <message>
+        <source>Pre Roll On/Off</source>
+        <translation>Ligar/Desligar Preroll</translation>
+    </message>
+    <message>
+        <source>Show Audio Properties</source>
+        <translation>Mostar Propriedades do Áudio</translation>
+    </message>
+    <message>
+        <source>Recent Files</source>
+        <translation>Arquivos Recentes</translation>
+    </message>
+    <message>
+        <source>Goto Previous audio</source>
+        <translation>Ir para o Áudio Anterior</translation>
+    </message>
+    <message>
+        <source>Goto Next audio</source>
+        <translation>Ir para o Próximo Áudio</translation>
+    </message>
+    <message>
+        <source>Show Sound Preferences</source>
+        <translation>Mostrar Preferências de Som</translation>
+    </message>
+</context>
+<context>
     <name>QOcenCrashReportDialog</name>
     <message>
         <source>ocenaudio Crashed Previously</source>
@@ -4213,112 +4339,12 @@ Saída
         <translation></translation>
     </message>
     <message>
-        <source>Lowest</source>
-        <translation></translation>
-    </message>
-    <message>
-        <source>Low</source>
-        <translation>Baixo</translation>
-    </message>
-    <message>
-        <source>Medium Low</source>
-        <translation></translation>
-    </message>
-    <message>
-        <source>Medium</source>
-        <translation></translation>
-    </message>
-    <message>
-        <source>Medium High</source>
-        <translation></translation>
-    </message>
-    <message>
-        <source>High</source>
-        <translation>Alto</translation>
-    </message>
-    <message>
-        <source>Highest</source>
-        <translation></translation>
-    </message>
-    <message>
         <source>Minimum Bit Rate:</source>
-        <translation></translation>
-    </message>
-    <message>
-        <source>16 kbps</source>
-        <translation></translation>
-    </message>
-    <message>
-        <source>24 kbps</source>
-        <translation></translation>
-    </message>
-    <message>
-        <source>32 kbps</source>
-        <translation></translation>
-    </message>
-    <message>
-        <source>40 kbps</source>
-        <translation></translation>
-    </message>
-    <message>
-        <source>48 kbps</source>
-        <translation></translation>
-    </message>
-    <message>
-        <source>56 kbps</source>
-        <translation></translation>
-    </message>
-    <message>
-        <source>64 kbps</source>
-        <translation></translation>
-    </message>
-    <message>
-        <source>80 kbps</source>
-        <translation></translation>
-    </message>
-    <message>
-        <source>96 kbps</source>
-        <translation></translation>
-    </message>
-    <message>
-        <source>112 kbps</source>
-        <translation></translation>
-    </message>
-    <message>
-        <source>128 kbps</source>
-        <translation></translation>
-    </message>
-    <message>
-        <source>160 kbps</source>
-        <translation></translation>
-    </message>
-    <message>
-        <source>192 kbps</source>
-        <translation></translation>
-    </message>
-    <message>
-        <source>224 kbps</source>
-        <translation></translation>
-    </message>
-    <message>
-        <source>256 kbps</source>
-        <translation></translation>
-    </message>
-    <message>
-        <source>320 kbps</source>
         <translation></translation>
     </message>
     <message>
         <source>Stereo Mode:</source>
         <translation>Modo Stereo:</translation>
-    </message>
-    <message>
-        <source>Normal</source>
-        <translation></translation>
-    </message>
-    <message>
-        <source>Joint Stereo</source>
-        <translation></translation>
     </message>
     <message>
         <source>MP4</source>
@@ -4327,14 +4353,6 @@ Saída
     <message>
         <source>Audio Compressor:</source>
         <translation>Compressor de Áudio:</translation>
-    </message>
-    <message>
-        <source>AAC - Advanced Audio Coding</source>
-        <translation></translation>
-    </message>
-    <message>
-        <source>ALAC - Apple Lossless Audio Codec</source>
-        <translation></translation>
     </message>
     <message>
         <source>Bit Rate:</source>
@@ -4349,18 +4367,6 @@ Saída
         <translation>Modo:</translation>
     </message>
     <message>
-        <source>Variable Bit Rate (VBR)</source>
-        <translation></translation>
-    </message>
-    <message>
-        <source>Constant Bit Rate (CBR)</source>
-        <translation></translation>
-    </message>
-    <message>
-        <source>Limited Variable Bit Rate (ABR)</source>
-        <translation></translation>
-    </message>
-    <message>
         <source>Maximum Bit Rate:</source>
         <translation></translation>
     </message>
@@ -4371,10 +4377,6 @@ Saída
     <message>
         <source>File Format:</source>
         <translation>Formato do arquivo:</translation>
-    </message>
-    <message>
-        <source>FLAC</source>
-        <translation></translation>
     </message>
     <message>
         <source>Filename</source>
@@ -4438,14 +4440,6 @@ Saída
         <translation></translation>
     </message>
     <message>
-        <source>Vorbis</source>
-        <translation></translation>
-    </message>
-    <message>
-        <source>Opus</source>
-        <translation></translation>
-    </message>
-    <message>
         <source>%1</source>
         <translation></translation>
     </message>
@@ -4480,14 +4474,6 @@ Saída
     <message>
         <source>Type:</source>
         <translation>Tipo:</translation>
-    </message>
-    <message>
-        <source>MPEG Audio Layer III (MP3)</source>
-        <translation></translation>
-    </message>
-    <message>
-        <source>MPEG Audio Layer II (MP2)</source>
-        <translation></translation>
     </message>
 </context>
 <context>
@@ -5325,41 +5311,6 @@ Saída
     <message>
         <source>Disabled</source>
         <translation>Desabilitado</translation>
-    </message>
-</context>
-<context>
-    <name>QOcenToolbar</name>
-    <message>
-        <source>Show/Hide Sidebar</source>
-        <translation>Mostrar/Ocultar Barra Lateral</translation>
-    </message>
-    <message>
-        <source>Loop On/Off</source>
-        <translation>Ligar/Desligar Loop</translation>
-    </message>
-    <message>
-        <source>Pre Roll On/Off</source>
-        <translation>Ligar/Desligar Preroll</translation>
-    </message>
-    <message>
-        <source>Show Audio Properties</source>
-        <translation>Mostar Propriedades do Áudio</translation>
-    </message>
-    <message>
-        <source>Recent Files</source>
-        <translation>Arquivos Recentes</translation>
-    </message>
-    <message>
-        <source>Goto Previous audio</source>
-        <translation>Ir para o Áudio Anterior</translation>
-    </message>
-    <message>
-        <source>Goto Next audio</source>
-        <translation>Ir para o Próximo Áudio</translation>
-    </message>
-    <message>
-        <source>Show Sound Preferences</source>
-        <translation>Mostrar Preferências de Som</translation>
     </message>
 </context>
 <context>

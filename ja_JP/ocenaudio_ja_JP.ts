@@ -53,6 +53,141 @@
     </message>
 </context>
 <context>
+    <name>MAC_TOOLBAR</name>
+    <message>
+        <source>Sidebar</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Transport</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Record</source>
+        <translation type="unfinished">録音</translation>
+    </message>
+    <message>
+        <source>Loop</source>
+        <translation type="unfinished">ループ</translation>
+    </message>
+    <message>
+        <source>Pre Roll</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Navigator</source>
+        <translation type="unfinished">ナビゲータダイヤログ</translation>
+    </message>
+    <message>
+        <source>Recent Files</source>
+        <translation type="unfinished">最近のファイル</translation>
+    </message>
+    <message>
+        <source>Sound Preferences</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Mixer Options</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Audio Properties</source>
+        <translation type="unfinished">サウンドプロパティ</translation>
+    </message>
+    <message>
+        <source>Volume</source>
+        <translation type="unfinished">音量</translation>
+    </message>
+    <message>
+        <source>Display</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Show Sidebar</source>
+        <translation type="unfinished">サイドバーを表示</translation>
+    </message>
+    <message>
+        <source>Hide Sidebar</source>
+        <translation type="unfinished">サイドバーを非表示</translation>
+    </message>
+    <message>
+        <source>Stop Capture</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Start Capture</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Play</source>
+        <translation type="unfinished">再生</translation>
+    </message>
+    <message>
+        <source>Pause</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Monitor On</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Monitor Off</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Resume</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Stop</source>
+        <translation type="unfinished">停止</translation>
+    </message>
+    <message>
+        <source>Fast Backward</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Fast Forward</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Rewind</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Open Sound Preferences</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Show Audio Properties</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Goto Previous Audio</source>
+        <translation type="unfinished">前のオーディオに移動</translation>
+    </message>
+    <message>
+        <source>Goto Next Audio</source>
+        <translation type="unfinished">次のオーディオに移動</translation>
+    </message>
+    <message>
+        <source>Pre Roll On</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Pre Roll Off</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Play Loop On</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Play Loop Off</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
     <name>MainWindow</name>
     <message>
         <source>&amp;File</source>
@@ -3569,6 +3704,18 @@ Channel
         <source>Change sample rate (resample) and/or number of channels</source>
         <translation type="unfinished"></translation>
     </message>
+    <message>
+        <source>Cancel VST Scanning</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Plugin Preferences...</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Search new plugins</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>QOcenAudioNoiseReductionWidget</name>
@@ -3790,112 +3937,56 @@ Channel
         <translation>ファイルの名前</translation>
     </message>
     <message>
-        <source>filename.mp4</source>
-        <translation>ファイル名.mp4</translation>
-    </message>
-    <message>
         <source>File Container</source>
         <translation>ファイルコンテナ</translation>
-    </message>
-    <message>
-        <source>MP4</source>
-        <translation>MP4</translation>
     </message>
     <message>
         <source>Audio Codec</source>
         <translation>オーディオコーデック</translation>
     </message>
     <message>
-        <source>AAC Low Complexity</source>
-        <translation>AAC-LC（基本機能のみ）</translation>
-    </message>
-    <message>
         <source>Encoded With</source>
         <translation>でエンコードされた</translation>
-    </message>
-    <message>
-        <source>LAME3.99</source>
-        <translation></translation>
     </message>
     <message>
         <source>Bit Rate</source>
         <translation>ビットレート</translation>
     </message>
     <message>
-        <source>192 kbps</source>
-        <translation>192 kbps</translation>
-    </message>
-    <message>
         <source>Sample Rate</source>
         <translation>サンプルレート</translation>
-    </message>
-    <message>
-        <source>44100 Hz</source>
-        <translation>44100 Hz</translation>
     </message>
     <message>
         <source>Channels</source>
         <translation>チャンネル</translation>
     </message>
     <message>
-        <source>stereo</source>
-        <translation>ステレオ</translation>
-    </message>
-    <message>
         <source>Resolution</source>
         <translation>解像度</translation>
-    </message>
-    <message>
-        <source>16 bits</source>
-        <translation>16 ビット</translation>
     </message>
     <message>
         <source>Duration</source>
         <translation>長さ</translation>
     </message>
     <message>
-        <source>26 seconds</source>
-        <translation>26秒</translation>
-    </message>
-    <message>
         <source>Number of Samples</source>
         <translation>サンプルの数</translation>
-    </message>
-    <message>
-        <source>192900</source>
-        <translation>192900</translation>
     </message>
     <message>
         <source>Size on Memory</source>
         <translation>メモリーにてのサイズ</translation>
     </message>
     <message>
-        <source>100 Kb</source>
-        <translation>100 Kb</translation>
-    </message>
-    <message>
         <source>Size on Disk</source>
         <translation>ディスクにてのサイズ</translation>
-    </message>
-    <message>
-        <source>192 Kb</source>
-        <translation>192 Kb</translation>
     </message>
     <message>
         <source>Modification Date</source>
         <translation>更新日時</translation>
     </message>
     <message>
-        <source>12/09/2014 23:00</source>
-        <translation>12/09/2014 23:00</translation>
-    </message>
-    <message>
         <source>Location</source>
         <translation>所</translation>
-    </message>
-    <message>
-        <source>/Users/ruijunior/Music/iTunes/iTunes Media/Music/Enanitos Verdes/Unknown Album/Lamento Boliviano.aif</source>
-        <translation>/Users/ruijunior/Music/iTunes/iTunes Media/Music/Enanitos Verdes/Unknown Album/Lamento Boliviano.aif</translation>
     </message>
     <message>
         <source>Details</source>
@@ -4062,6 +4153,41 @@ Channel
     </message>
 </context>
 <context>
+    <name>QOcenAudioToolbar</name>
+    <message>
+        <source>Show/Hide Sidebar</source>
+        <translation type="unfinished">サイドバーを表示・非表示</translation>
+    </message>
+    <message>
+        <source>Loop On/Off</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Pre Roll On/Off</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Show Audio Properties</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Recent Files</source>
+        <translation type="unfinished">最近のファイル</translation>
+    </message>
+    <message>
+        <source>Goto Previous audio</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Goto Next audio</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Show Sound Preferences</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
     <name>QOcenCrashReportDialog</name>
     <message>
         <source>ocenaudio Crashed Previously</source>
@@ -4210,112 +4336,12 @@ Channel
         <translation>CAF</translation>
     </message>
     <message>
-        <source>Lowest</source>
-        <translation>最低</translation>
-    </message>
-    <message>
-        <source>Low</source>
-        <translation>低</translation>
-    </message>
-    <message>
-        <source>Medium Low</source>
-        <translation>中-低</translation>
-    </message>
-    <message>
-        <source>Medium</source>
-        <translation>中</translation>
-    </message>
-    <message>
-        <source>Medium High</source>
-        <translation>中-高</translation>
-    </message>
-    <message>
-        <source>High</source>
-        <translation>高</translation>
-    </message>
-    <message>
-        <source>Highest</source>
-        <translation>最高</translation>
-    </message>
-    <message>
         <source>Minimum Bit Rate:</source>
         <translation>最少ビットレート：</translation>
     </message>
     <message>
-        <source>16 kbps</source>
-        <translation>16 kbps</translation>
-    </message>
-    <message>
-        <source>24 kbps</source>
-        <translation>24 kbps</translation>
-    </message>
-    <message>
-        <source>32 kbps</source>
-        <translation>32 kbps</translation>
-    </message>
-    <message>
-        <source>40 kbps</source>
-        <translation>40 kbps</translation>
-    </message>
-    <message>
-        <source>48 kbps</source>
-        <translation>48 kbps</translation>
-    </message>
-    <message>
-        <source>56 kbps</source>
-        <translation>56 kbps</translation>
-    </message>
-    <message>
-        <source>64 kbps</source>
-        <translation>64 kbps</translation>
-    </message>
-    <message>
-        <source>80 kbps</source>
-        <translation>80 kbps</translation>
-    </message>
-    <message>
-        <source>96 kbps</source>
-        <translation>96 kbps</translation>
-    </message>
-    <message>
-        <source>112 kbps</source>
-        <translation>112 kbps</translation>
-    </message>
-    <message>
-        <source>128 kbps</source>
-        <translation>128 kbps</translation>
-    </message>
-    <message>
-        <source>160 kbps</source>
-        <translation>160 kbps</translation>
-    </message>
-    <message>
-        <source>192 kbps</source>
-        <translation>192 kbps</translation>
-    </message>
-    <message>
-        <source>224 kbps</source>
-        <translation>224 kbps</translation>
-    </message>
-    <message>
-        <source>256 kbps</source>
-        <translation>256 kbps</translation>
-    </message>
-    <message>
-        <source>320 kbps</source>
-        <translation>320 kbps</translation>
-    </message>
-    <message>
         <source>Stereo Mode:</source>
         <translation>ステレオモード:</translation>
-    </message>
-    <message>
-        <source>Normal</source>
-        <translation>通常</translation>
-    </message>
-    <message>
-        <source>Joint Stereo</source>
-        <translation>ジョイントステレオ</translation>
     </message>
     <message>
         <source>MP4</source>
@@ -4324,14 +4350,6 @@ Channel
     <message>
         <source>Audio Compressor:</source>
         <translation>オーディオ圧縮機：</translation>
-    </message>
-    <message>
-        <source>AAC - Advanced Audio Coding</source>
-        <translation>AAC - アドバンスオーディオコーディング</translation>
-    </message>
-    <message>
-        <source>ALAC - Apple Lossless Audio Codec</source>
-        <translation>ALAC - Appleの可逆圧縮方式のオーディオコーデック</translation>
     </message>
     <message>
         <source>Bit Rate:</source>
@@ -4346,18 +4364,6 @@ Channel
         <translation>モード:</translation>
     </message>
     <message>
-        <source>Variable Bit Rate (VBR)</source>
-        <translation>可変ビットレート（VBR）</translation>
-    </message>
-    <message>
-        <source>Constant Bit Rate (CBR)</source>
-        <translation>不変ビットレート（CBR）</translation>
-    </message>
-    <message>
-        <source>Limited Variable Bit Rate (ABR)</source>
-        <translation>制限されてる可変ビットレート(ABR)</translation>
-    </message>
-    <message>
         <source>Maximum Bit Rate:</source>
         <translation>最大ビットレート：</translation>
     </message>
@@ -4368,10 +4374,6 @@ Channel
     <message>
         <source>File Format:</source>
         <translation>ファイルフォーマット:</translation>
-    </message>
-    <message>
-        <source>FLAC</source>
-        <translation></translation>
     </message>
     <message>
         <source>Filename</source>
@@ -4435,14 +4437,6 @@ Channel
         <translation>ディザリング:</translation>
     </message>
     <message>
-        <source>Vorbis</source>
-        <translation>Vorbis</translation>
-    </message>
-    <message>
-        <source>Opus</source>
-        <translation>Opus</translation>
-    </message>
-    <message>
         <source>%1</source>
         <translation>%1</translation>
     </message>
@@ -4476,14 +4470,6 @@ Channel
     </message>
     <message>
         <source>Type:</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>MPEG Audio Layer III (MP3)</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>MPEG Audio Layer II (MP2)</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -5320,41 +5306,6 @@ Channel
     <message>
         <source>Disabled</source>
         <translation type="unfinished">無効</translation>
-    </message>
-</context>
-<context>
-    <name>QOcenToolbar</name>
-    <message>
-        <source>Show/Hide Sidebar</source>
-        <translation type="unfinished">サイドバーを表示・非表示</translation>
-    </message>
-    <message>
-        <source>Loop On/Off</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Pre Roll On/Off</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Show Audio Properties</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Recent Files</source>
-        <translation type="unfinished">最近のファイル</translation>
-    </message>
-    <message>
-        <source>Goto Previous audio</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Goto Next audio</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Show Sound Preferences</source>
-        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>

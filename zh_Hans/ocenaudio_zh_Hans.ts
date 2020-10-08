@@ -53,6 +53,141 @@
     </message>
 </context>
 <context>
+    <name>MAC_TOOLBAR</name>
+    <message>
+        <source>Sidebar</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Transport</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Record</source>
+        <translation type="unfinished">录音</translation>
+    </message>
+    <message>
+        <source>Loop</source>
+        <translation type="unfinished">循环</translation>
+    </message>
+    <message>
+        <source>Pre Roll</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Navigator</source>
+        <translation type="unfinished">导航</translation>
+    </message>
+    <message>
+        <source>Recent Files</source>
+        <translation type="unfinished">最近文件</translation>
+    </message>
+    <message>
+        <source>Sound Preferences</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Mixer Options</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Audio Properties</source>
+        <translation type="unfinished">音频属性</translation>
+    </message>
+    <message>
+        <source>Volume</source>
+        <translation type="unfinished">音量</translation>
+    </message>
+    <message>
+        <source>Display</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Show Sidebar</source>
+        <translation type="unfinished">显示侧边栏</translation>
+    </message>
+    <message>
+        <source>Hide Sidebar</source>
+        <translation type="unfinished">隐藏侧边栏</translation>
+    </message>
+    <message>
+        <source>Stop Capture</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Start Capture</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Play</source>
+        <translation type="unfinished">播放</translation>
+    </message>
+    <message>
+        <source>Pause</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Monitor On</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Monitor Off</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Resume</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Stop</source>
+        <translation type="unfinished">停止</translation>
+    </message>
+    <message>
+        <source>Fast Backward</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Fast Forward</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Rewind</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Open Sound Preferences</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Show Audio Properties</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Goto Previous Audio</source>
+        <translation type="unfinished">跳至上一音频</translation>
+    </message>
+    <message>
+        <source>Goto Next Audio</source>
+        <translation type="unfinished">跳至下一音频</translation>
+    </message>
+    <message>
+        <source>Pre Roll On</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Pre Roll Off</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Play Loop On</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Play Loop Off</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
     <name>MainWindow</name>
     <message>
         <source>ocenaudio</source>
@@ -3567,6 +3702,18 @@ Channel
         <source>Change sample rate (resample) and/or number of channels</source>
         <translation type="unfinished"></translation>
     </message>
+    <message>
+        <source>Cancel VST Scanning</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Plugin Preferences...</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Search new plugins</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>QOcenAudioNoiseReductionWidget</name>
@@ -3792,112 +3939,56 @@ Channel
         <translation>文件名称</translation>
     </message>
     <message>
-        <source>filename.mp4</source>
-        <translation></translation>
-    </message>
-    <message>
         <source>File Container</source>
         <translation>文件容器</translation>
-    </message>
-    <message>
-        <source>MP4</source>
-        <translation></translation>
     </message>
     <message>
         <source>Audio Codec</source>
         <translation>音频解码器</translation>
     </message>
     <message>
-        <source>AAC Low Complexity</source>
-        <translation></translation>
-    </message>
-    <message>
         <source>Encoded With</source>
         <translation>编码器</translation>
-    </message>
-    <message>
-        <source>LAME3.99</source>
-        <translation></translation>
     </message>
     <message>
         <source>Bit Rate</source>
         <translation>比特率</translation>
     </message>
     <message>
-        <source>192 kbps</source>
-        <translation></translation>
-    </message>
-    <message>
         <source>Sample Rate</source>
         <translation>采样率</translation>
-    </message>
-    <message>
-        <source>44100 Hz</source>
-        <translation></translation>
     </message>
     <message>
         <source>Channels</source>
         <translation>声道</translation>
     </message>
     <message>
-        <source>stereo</source>
-        <translation>立体声</translation>
-    </message>
-    <message>
         <source>Resolution</source>
         <translation>分辨率</translation>
-    </message>
-    <message>
-        <source>16 bits</source>
-        <translation>16位</translation>
     </message>
     <message>
         <source>Duration</source>
         <translation>时长</translation>
     </message>
     <message>
-        <source>26 seconds</source>
-        <translation>26秒</translation>
-    </message>
-    <message>
         <source>Number of Samples</source>
         <translation>采样数</translation>
-    </message>
-    <message>
-        <source>192900</source>
-        <translation></translation>
     </message>
     <message>
         <source>Size on Memory</source>
         <translation>内存中大小</translation>
     </message>
     <message>
-        <source>100 Kb</source>
-        <translation></translation>
-    </message>
-    <message>
         <source>Size on Disk</source>
         <translation>磁盘中大小</translation>
-    </message>
-    <message>
-        <source>192 Kb</source>
-        <translation></translation>
     </message>
     <message>
         <source>Modification Date</source>
         <translation>修改日期</translation>
     </message>
     <message>
-        <source>12/09/2014 23:00</source>
-        <translation></translation>
-    </message>
-    <message>
         <source>Location</source>
         <translation>位置</translation>
-    </message>
-    <message>
-        <source>/Users/ruijunior/Music/iTunes/iTunes Media/Music/Enanitos Verdes/Unknown Album/Lamento Boliviano.aif</source>
-        <translation></translation>
     </message>
     <message>
         <source>Details</source>
@@ -4060,6 +4151,41 @@ Channel
     </message>
 </context>
 <context>
+    <name>QOcenAudioToolbar</name>
+    <message>
+        <source>Show/Hide Sidebar</source>
+        <translation type="unfinished">显示/隐藏侧边栏</translation>
+    </message>
+    <message>
+        <source>Loop On/Off</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Pre Roll On/Off</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Show Audio Properties</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Recent Files</source>
+        <translation type="unfinished">最近文件</translation>
+    </message>
+    <message>
+        <source>Goto Previous audio</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Goto Next audio</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Show Sound Preferences</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
     <name>QOcenCrashReportDialog</name>
     <message>
         <source>ocenaudio Crashed Previously</source>
@@ -4208,112 +4334,12 @@ Channel
         <translation>质量:</translation>
     </message>
     <message>
-        <source>Lowest</source>
-        <translation>最低</translation>
-    </message>
-    <message>
-        <source>Low</source>
-        <translation>低</translation>
-    </message>
-    <message>
-        <source>Medium Low</source>
-        <translation>中低</translation>
-    </message>
-    <message>
-        <source>Medium</source>
-        <translation>中</translation>
-    </message>
-    <message>
-        <source>Medium High</source>
-        <translation>中高</translation>
-    </message>
-    <message>
-        <source>High</source>
-        <translation>高</translation>
-    </message>
-    <message>
-        <source>Highest</source>
-        <translation>最高</translation>
-    </message>
-    <message>
         <source>Minimum Bit Rate:</source>
         <translation>最小比特率:</translation>
     </message>
     <message>
-        <source>16 kbps</source>
-        <translation></translation>
-    </message>
-    <message>
-        <source>24 kbps</source>
-        <translation></translation>
-    </message>
-    <message>
-        <source>32 kbps</source>
-        <translation></translation>
-    </message>
-    <message>
-        <source>40 kbps</source>
-        <translation></translation>
-    </message>
-    <message>
-        <source>48 kbps</source>
-        <translation></translation>
-    </message>
-    <message>
-        <source>56 kbps</source>
-        <translation></translation>
-    </message>
-    <message>
-        <source>64 kbps</source>
-        <translation></translation>
-    </message>
-    <message>
-        <source>80 kbps</source>
-        <translation></translation>
-    </message>
-    <message>
-        <source>96 kbps</source>
-        <translation></translation>
-    </message>
-    <message>
-        <source>112 kbps</source>
-        <translation></translation>
-    </message>
-    <message>
-        <source>128 kbps</source>
-        <translation></translation>
-    </message>
-    <message>
-        <source>160 kbps</source>
-        <translation></translation>
-    </message>
-    <message>
-        <source>192 kbps</source>
-        <translation></translation>
-    </message>
-    <message>
-        <source>224 kbps</source>
-        <translation></translation>
-    </message>
-    <message>
-        <source>256 kbps</source>
-        <translation></translation>
-    </message>
-    <message>
-        <source>320 kbps</source>
-        <translation></translation>
-    </message>
-    <message>
         <source>Stereo Mode:</source>
         <translation>立体声模式:</translation>
-    </message>
-    <message>
-        <source>Normal</source>
-        <translation>普通</translation>
-    </message>
-    <message>
-        <source>Joint Stereo</source>
-        <translation>联合立体声</translation>
     </message>
     <message>
         <source>MP4</source>
@@ -4322,14 +4348,6 @@ Channel
     <message>
         <source>Audio Compressor:</source>
         <translation>音频压缩器:</translation>
-    </message>
-    <message>
-        <source>AAC - Advanced Audio Coding</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>ALAC - Apple Lossless Audio Codec</source>
-        <translation>ALAC - Apple无损音频编码</translation>
     </message>
     <message>
         <source>Bit Rate:</source>
@@ -4344,18 +4362,6 @@ Channel
         <translation>模式:</translation>
     </message>
     <message>
-        <source>Variable Bit Rate (VBR)</source>
-        <translation>可变比特 率(VBR)</translation>
-    </message>
-    <message>
-        <source>Constant Bit Rate (CBR)</source>
-        <translation>固定比特率(CBR)</translation>
-    </message>
-    <message>
-        <source>Limited Variable Bit Rate (ABR)</source>
-        <translation>有限可变比特率(ABR)</translation>
-    </message>
-    <message>
         <source>Maximum Bit Rate:</source>
         <translation>最大比特率:</translation>
     </message>
@@ -4366,10 +4372,6 @@ Channel
     <message>
         <source>File Format:</source>
         <translation>文件格式:</translation>
-    </message>
-    <message>
-        <source>FLAC</source>
-        <translation></translation>
     </message>
     <message>
         <source>Filename</source>
@@ -4432,14 +4434,6 @@ Channel
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Vorbis</source>
-        <translation></translation>
-    </message>
-    <message>
-        <source>Opus</source>
-        <translation></translation>
-    </message>
-    <message>
         <source>%1</source>
         <translation></translation>
     </message>
@@ -4473,14 +4467,6 @@ Channel
     </message>
     <message>
         <source>Type:</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>MPEG Audio Layer III (MP3)</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>MPEG Audio Layer II (MP2)</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -5317,41 +5303,6 @@ Channel
     <message>
         <source>Disabled</source>
         <translation type="unfinished">已禁用</translation>
-    </message>
-</context>
-<context>
-    <name>QOcenToolbar</name>
-    <message>
-        <source>Show/Hide Sidebar</source>
-        <translation type="unfinished">显示/隐藏侧边栏</translation>
-    </message>
-    <message>
-        <source>Loop On/Off</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Pre Roll On/Off</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Show Audio Properties</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Recent Files</source>
-        <translation type="unfinished">最近文件</translation>
-    </message>
-    <message>
-        <source>Goto Previous audio</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Goto Next audio</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Show Sound Preferences</source>
-        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>

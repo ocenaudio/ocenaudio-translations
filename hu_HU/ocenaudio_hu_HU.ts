@@ -53,6 +53,141 @@
     </message>
 </context>
 <context>
+    <name>MAC_TOOLBAR</name>
+    <message>
+        <source>Sidebar</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Transport</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Record</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Loop</source>
+        <translation type="unfinished">Hurok</translation>
+    </message>
+    <message>
+        <source>Pre Roll</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Navigator</source>
+        <translation type="unfinished">Navigátor</translation>
+    </message>
+    <message>
+        <source>Recent Files</source>
+        <translation type="unfinished">Legutóbbi fájlok</translation>
+    </message>
+    <message>
+        <source>Sound Preferences</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Mixer Options</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Audio Properties</source>
+        <translation type="unfinished">Audió-tulajdonságok</translation>
+    </message>
+    <message>
+        <source>Volume</source>
+        <translation type="unfinished">Hangerő</translation>
+    </message>
+    <message>
+        <source>Display</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Show Sidebar</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Hide Sidebar</source>
+        <translation type="unfinished">Oldalsáv elrejtése</translation>
+    </message>
+    <message>
+        <source>Stop Capture</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Start Capture</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Play</source>
+        <translation type="unfinished">Lejátszás</translation>
+    </message>
+    <message>
+        <source>Pause</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Monitor On</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Monitor Off</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Resume</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Stop</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Fast Backward</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Fast Forward</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Rewind</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Open Sound Preferences</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Show Audio Properties</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Goto Previous Audio</source>
+        <translation type="unfinished">Ugrás az előző audióhoz</translation>
+    </message>
+    <message>
+        <source>Goto Next Audio</source>
+        <translation type="unfinished">Ugrás a következő audióhoz</translation>
+    </message>
+    <message>
+        <source>Pre Roll On</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Pre Roll Off</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Play Loop On</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Play Loop Off</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
     <name>MainWindow</name>
     <message>
         <source>ocenaudio</source>
@@ -3566,6 +3701,18 @@ Channel
         <source>Change sample rate (resample) and/or number of channels</source>
         <translation type="unfinished"></translation>
     </message>
+    <message>
+        <source>Cancel VST Scanning</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Plugin Preferences...</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Search new plugins</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>QOcenAudioNoiseReductionWidget</name>
@@ -3791,112 +3938,56 @@ Channel
         <translation>Fájlnév</translation>
     </message>
     <message>
-        <source>filename.mp4</source>
-        <translation>.mp4 fájlnév</translation>
-    </message>
-    <message>
         <source>File Container</source>
         <translation>Fájltároló</translation>
-    </message>
-    <message>
-        <source>MP4</source>
-        <translation>MP4</translation>
     </message>
     <message>
         <source>Audio Codec</source>
         <translation>Audió-kódek</translation>
     </message>
     <message>
-        <source>AAC Low Complexity</source>
-        <translation>AAC csekély komplexitás</translation>
-    </message>
-    <message>
         <source>Encoded With</source>
         <translation>Ezzel kódolva</translation>
-    </message>
-    <message>
-        <source>LAME3.99</source>
-        <translation>LAME3.99</translation>
     </message>
     <message>
         <source>Bit Rate</source>
         <translation>Bitráta</translation>
     </message>
     <message>
-        <source>192 kbps</source>
-        <translation>192 kbps</translation>
-    </message>
-    <message>
         <source>Sample Rate</source>
         <translation>Mintavételi ráta</translation>
-    </message>
-    <message>
-        <source>44100 Hz</source>
-        <translation>44100 Hz</translation>
     </message>
     <message>
         <source>Channels</source>
         <translation>csatorna</translation>
     </message>
     <message>
-        <source>stereo</source>
-        <translation>Sztereó</translation>
-    </message>
-    <message>
         <source>Resolution</source>
         <translation>Felbontás</translation>
-    </message>
-    <message>
-        <source>16 bits</source>
-        <translation>16 bit</translation>
     </message>
     <message>
         <source>Duration</source>
         <translation>Hossz</translation>
     </message>
     <message>
-        <source>26 seconds</source>
-        <translation>26 másodperc</translation>
-    </message>
-    <message>
         <source>Number of Samples</source>
         <translation>Mintevételek száma</translation>
-    </message>
-    <message>
-        <source>192900</source>
-        <translation>192900</translation>
     </message>
     <message>
         <source>Size on Memory</source>
         <translation>Méret a tárban</translation>
     </message>
     <message>
-        <source>100 Kb</source>
-        <translation>100 Kb</translation>
-    </message>
-    <message>
         <source>Size on Disk</source>
         <translation>Méret a merevlemezen</translation>
-    </message>
-    <message>
-        <source>192 Kb</source>
-        <translation>192 Kb</translation>
     </message>
     <message>
         <source>Modification Date</source>
         <translation>Változtatás dátuma</translation>
     </message>
     <message>
-        <source>12/09/2014 23:00</source>
-        <translation>09.12.2014 23:00</translation>
-    </message>
-    <message>
         <source>Location</source>
         <translation>Hely</translation>
-    </message>
-    <message>
-        <source>/Users/ruijunior/Music/iTunes/iTunes Media/Music/Enanitos Verdes/Unknown Album/Lamento Boliviano.aif</source>
-        <translation>/Users/ruijunior/Music/iTunes/iTunes Media/Music/Enanitos Verdes/Unknown Album/Lamento Boliviano.aif</translation>
     </message>
     <message>
         <source>Details</source>
@@ -4059,6 +4150,41 @@ Channel
     </message>
 </context>
 <context>
+    <name>QOcenAudioToolbar</name>
+    <message>
+        <source>Show/Hide Sidebar</source>
+        <translation type="unfinished">Oldalsáv megjelenítése/elrejtése</translation>
+    </message>
+    <message>
+        <source>Loop On/Off</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Pre Roll On/Off</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Show Audio Properties</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Recent Files</source>
+        <translation type="unfinished">Legutóbbi fájlok</translation>
+    </message>
+    <message>
+        <source>Goto Previous audio</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Goto Next audio</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Show Sound Preferences</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
     <name>QOcenCrashReportDialog</name>
     <message>
         <source>ocenaudio Crashed Previously</source>
@@ -4207,112 +4333,12 @@ Channel
         <translation>Minőség:</translation>
     </message>
     <message>
-        <source>Lowest</source>
-        <translation>Legrosszabb</translation>
-    </message>
-    <message>
-        <source>Low</source>
-        <translation>Rossz</translation>
-    </message>
-    <message>
-        <source>Medium Low</source>
-        <translation>Közepesen rossz</translation>
-    </message>
-    <message>
-        <source>Medium</source>
-        <translation>Közepes</translation>
-    </message>
-    <message>
-        <source>Medium High</source>
-        <translation>Közepesen jó</translation>
-    </message>
-    <message>
-        <source>High</source>
-        <translation>Jó</translation>
-    </message>
-    <message>
-        <source>Highest</source>
-        <translation>Legjobb</translation>
-    </message>
-    <message>
         <source>Minimum Bit Rate:</source>
         <translation>Minimális bitráta:</translation>
     </message>
     <message>
-        <source>16 kbps</source>
-        <translation>16 kbps</translation>
-    </message>
-    <message>
-        <source>24 kbps</source>
-        <translation>24 kbps</translation>
-    </message>
-    <message>
-        <source>32 kbps</source>
-        <translation>32 kbps</translation>
-    </message>
-    <message>
-        <source>40 kbps</source>
-        <translation>40 kbps</translation>
-    </message>
-    <message>
-        <source>48 kbps</source>
-        <translation>48 kbps</translation>
-    </message>
-    <message>
-        <source>56 kbps</source>
-        <translation>56 kbps</translation>
-    </message>
-    <message>
-        <source>64 kbps</source>
-        <translation>64 kbps</translation>
-    </message>
-    <message>
-        <source>80 kbps</source>
-        <translation>80 kbps</translation>
-    </message>
-    <message>
-        <source>96 kbps</source>
-        <translation>96 kbps</translation>
-    </message>
-    <message>
-        <source>112 kbps</source>
-        <translation>112 kbps</translation>
-    </message>
-    <message>
-        <source>128 kbps</source>
-        <translation>128 kbps</translation>
-    </message>
-    <message>
-        <source>160 kbps</source>
-        <translation>160 kbps</translation>
-    </message>
-    <message>
-        <source>192 kbps</source>
-        <translation>192 kbps</translation>
-    </message>
-    <message>
-        <source>224 kbps</source>
-        <translation>224 kbps</translation>
-    </message>
-    <message>
-        <source>256 kbps</source>
-        <translation>256 kbps</translation>
-    </message>
-    <message>
-        <source>320 kbps</source>
-        <translation>320 kbps</translation>
-    </message>
-    <message>
         <source>Stereo Mode:</source>
         <translation>Sztereó-mód:</translation>
-    </message>
-    <message>
-        <source>Normal</source>
-        <translation>Normál</translation>
-    </message>
-    <message>
-        <source>Joint Stereo</source>
-        <translation>Joint sztereó</translation>
     </message>
     <message>
         <source>MP4</source>
@@ -4321,14 +4347,6 @@ Channel
     <message>
         <source>Audio Compressor:</source>
         <translation>Audiótömörítés:</translation>
-    </message>
-    <message>
-        <source>AAC - Advanced Audio Coding</source>
-        <translation>AAC - Advanced Audio Coding</translation>
-    </message>
-    <message>
-        <source>ALAC - Apple Lossless Audio Codec</source>
-        <translation>ALAC - Apple Lossless Audio Codec</translation>
     </message>
     <message>
         <source>Bit Rate:</source>
@@ -4343,18 +4361,6 @@ Channel
         <translation>Mód:</translation>
     </message>
     <message>
-        <source>Variable Bit Rate (VBR)</source>
-        <translation>Változó bitráta (VBR)</translation>
-    </message>
-    <message>
-        <source>Constant Bit Rate (CBR)</source>
-        <translation>Állandó bitráta (CBR)</translation>
-    </message>
-    <message>
-        <source>Limited Variable Bit Rate (ABR)</source>
-        <translation>Korlátoltan változó bitráta (ABR)</translation>
-    </message>
-    <message>
         <source>Maximum Bit Rate:</source>
         <translation>Maximális bitráta:</translation>
     </message>
@@ -4365,10 +4371,6 @@ Channel
     <message>
         <source>File Format:</source>
         <translation>Fájlformátum:</translation>
-    </message>
-    <message>
-        <source>FLAC</source>
-        <translation>FLAC</translation>
     </message>
     <message>
         <source>Filename</source>
@@ -4431,14 +4433,6 @@ Channel
         <translation>Szürkeárnyalatú:</translation>
     </message>
     <message>
-        <source>Vorbis</source>
-        <translation>Vorbis</translation>
-    </message>
-    <message>
-        <source>Opus</source>
-        <translation>Opus</translation>
-    </message>
-    <message>
         <source>%1</source>
         <translation>%1</translation>
     </message>
@@ -4472,14 +4466,6 @@ Channel
     </message>
     <message>
         <source>Type:</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>MPEG Audio Layer III (MP3)</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>MPEG Audio Layer II (MP2)</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -5317,41 +5303,6 @@ Csatorna</translation>
     <message>
         <source>Disabled</source>
         <translation type="unfinished">Letiltott</translation>
-    </message>
-</context>
-<context>
-    <name>QOcenToolbar</name>
-    <message>
-        <source>Show/Hide Sidebar</source>
-        <translation type="unfinished">Oldalsáv megjelenítése/elrejtése</translation>
-    </message>
-    <message>
-        <source>Loop On/Off</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Pre Roll On/Off</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Show Audio Properties</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Recent Files</source>
-        <translation type="unfinished">Legutóbbi fájlok</translation>
-    </message>
-    <message>
-        <source>Goto Previous audio</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Goto Next audio</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Show Sound Preferences</source>
-        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>

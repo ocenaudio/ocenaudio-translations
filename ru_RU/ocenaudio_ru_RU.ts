@@ -53,6 +53,141 @@
     </message>
 </context>
 <context>
+    <name>MAC_TOOLBAR</name>
+    <message>
+        <source>Sidebar</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Transport</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Record</source>
+        <translation type="unfinished">Запись</translation>
+    </message>
+    <message>
+        <source>Loop</source>
+        <translation type="unfinished">Цикл</translation>
+    </message>
+    <message>
+        <source>Pre Roll</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Navigator</source>
+        <translation type="unfinished">Навигатор</translation>
+    </message>
+    <message>
+        <source>Recent Files</source>
+        <translation type="unfinished">Последние файлы</translation>
+    </message>
+    <message>
+        <source>Sound Preferences</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Mixer Options</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Audio Properties</source>
+        <translation type="unfinished">Свойства аудио</translation>
+    </message>
+    <message>
+        <source>Volume</source>
+        <translation type="unfinished">Громкость</translation>
+    </message>
+    <message>
+        <source>Display</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Show Sidebar</source>
+        <translation type="unfinished">Показать боковую панель</translation>
+    </message>
+    <message>
+        <source>Hide Sidebar</source>
+        <translation type="unfinished">Скрыть боковую панель</translation>
+    </message>
+    <message>
+        <source>Stop Capture</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Start Capture</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Play</source>
+        <translation type="unfinished">Воспроизвести</translation>
+    </message>
+    <message>
+        <source>Pause</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Monitor On</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Monitor Off</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Resume</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Stop</source>
+        <translation type="unfinished">Стоп</translation>
+    </message>
+    <message>
+        <source>Fast Backward</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Fast Forward</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Rewind</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Open Sound Preferences</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Show Audio Properties</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Goto Previous Audio</source>
+        <translation type="unfinished">Перейти к предыдущему аудио</translation>
+    </message>
+    <message>
+        <source>Goto Next Audio</source>
+        <translation type="unfinished">Перейти к следующему аудио</translation>
+    </message>
+    <message>
+        <source>Pre Roll On</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Pre Roll Off</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Play Loop On</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Play Loop Off</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
     <name>MainWindow</name>
     <message>
         <source>ocenaudio</source>
@@ -3568,6 +3703,18 @@ Channel
         <source>Change sample rate (resample) and/or number of channels</source>
         <translation type="unfinished"></translation>
     </message>
+    <message>
+        <source>Cancel VST Scanning</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Plugin Preferences...</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Search new plugins</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>QOcenAudioNoiseReductionWidget</name>
@@ -3793,112 +3940,56 @@ Channel
         <translation>Имя файла</translation>
     </message>
     <message>
-        <source>filename.mp4</source>
-        <translation></translation>
-    </message>
-    <message>
         <source>File Container</source>
         <translation>Файл-контейнер</translation>
-    </message>
-    <message>
-        <source>MP4</source>
-        <translation></translation>
     </message>
     <message>
         <source>Audio Codec</source>
         <translation>Аудиокодек</translation>
     </message>
     <message>
-        <source>AAC Low Complexity</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>Encoded With</source>
         <translation>Закодировано</translation>
-    </message>
-    <message>
-        <source>LAME3.99</source>
-        <translation></translation>
     </message>
     <message>
         <source>Bit Rate</source>
         <translation>Битрейт</translation>
     </message>
     <message>
-        <source>192 kbps</source>
-        <translation>192 кбит/с</translation>
-    </message>
-    <message>
         <source>Sample Rate</source>
         <translation>Частота дискретизации</translation>
-    </message>
-    <message>
-        <source>44100 Hz</source>
-        <translation>44100 Гц</translation>
     </message>
     <message>
         <source>Channels</source>
         <translation>Каналы</translation>
     </message>
     <message>
-        <source>stereo</source>
-        <translation>стерео</translation>
-    </message>
-    <message>
         <source>Resolution</source>
         <translation>Разрешение</translation>
-    </message>
-    <message>
-        <source>16 bits</source>
-        <translation>16 бит</translation>
     </message>
     <message>
         <source>Duration</source>
         <translation>Длительность</translation>
     </message>
     <message>
-        <source>26 seconds</source>
-        <translation>26 секунд</translation>
-    </message>
-    <message>
         <source>Number of Samples</source>
         <translation>Количество сэмплов</translation>
-    </message>
-    <message>
-        <source>192900</source>
-        <translation></translation>
     </message>
     <message>
         <source>Size on Memory</source>
         <translation>Размер в памяти</translation>
     </message>
     <message>
-        <source>100 Kb</source>
-        <translation>100 кб</translation>
-    </message>
-    <message>
         <source>Size on Disk</source>
         <translation>Размер на диске</translation>
-    </message>
-    <message>
-        <source>192 Kb</source>
-        <translation>192 кб</translation>
     </message>
     <message>
         <source>Modification Date</source>
         <translation>Изменен</translation>
     </message>
     <message>
-        <source>12/09/2014 23:00</source>
-        <translation></translation>
-    </message>
-    <message>
         <source>Location</source>
         <translation>Расположение</translation>
-    </message>
-    <message>
-        <source>/Users/ruijunior/Music/iTunes/iTunes Media/Music/Enanitos Verdes/Unknown Album/Lamento Boliviano.aif</source>
-        <translation></translation>
     </message>
     <message>
         <source>Details</source>
@@ -4061,6 +4152,41 @@ Channel
     </message>
 </context>
 <context>
+    <name>QOcenAudioToolbar</name>
+    <message>
+        <source>Show/Hide Sidebar</source>
+        <translation type="unfinished">Показать/скрыть боковую панель</translation>
+    </message>
+    <message>
+        <source>Loop On/Off</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Pre Roll On/Off</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Show Audio Properties</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Recent Files</source>
+        <translation type="unfinished">Последние файлы</translation>
+    </message>
+    <message>
+        <source>Goto Previous audio</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Goto Next audio</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Show Sound Preferences</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
     <name>QOcenCrashReportDialog</name>
     <message>
         <source>ocenaudio Crashed Previously</source>
@@ -4209,112 +4335,12 @@ Channel
         <translation>Качество:</translation>
     </message>
     <message>
-        <source>Lowest</source>
-        <translation>Наихудшее</translation>
-    </message>
-    <message>
-        <source>Low</source>
-        <translation>Плохое</translation>
-    </message>
-    <message>
-        <source>Medium Low</source>
-        <translation>Хуже среднего</translation>
-    </message>
-    <message>
-        <source>Medium</source>
-        <translation>Среднее</translation>
-    </message>
-    <message>
-        <source>Medium High</source>
-        <translation>Лучше среднего</translation>
-    </message>
-    <message>
-        <source>High</source>
-        <translation>Хорошее</translation>
-    </message>
-    <message>
-        <source>Highest</source>
-        <translation>Наилучшее</translation>
-    </message>
-    <message>
         <source>Minimum Bit Rate:</source>
         <translation>Минимальный битрейт:</translation>
     </message>
     <message>
-        <source>16 kbps</source>
-        <translation>16 кбит/с</translation>
-    </message>
-    <message>
-        <source>24 kbps</source>
-        <translation>24 кбит/с</translation>
-    </message>
-    <message>
-        <source>32 kbps</source>
-        <translation>32 кбит/с</translation>
-    </message>
-    <message>
-        <source>40 kbps</source>
-        <translation>40 кбит/с</translation>
-    </message>
-    <message>
-        <source>48 kbps</source>
-        <translation>48 кбит/с</translation>
-    </message>
-    <message>
-        <source>56 kbps</source>
-        <translation>56 кбит/с</translation>
-    </message>
-    <message>
-        <source>64 kbps</source>
-        <translation>64 кбит/с</translation>
-    </message>
-    <message>
-        <source>80 kbps</source>
-        <translation>80 кбит/с</translation>
-    </message>
-    <message>
-        <source>96 kbps</source>
-        <translation>96 кбит/с</translation>
-    </message>
-    <message>
-        <source>112 kbps</source>
-        <translation>112 кбит/с</translation>
-    </message>
-    <message>
-        <source>128 kbps</source>
-        <translation>128 кбит/с</translation>
-    </message>
-    <message>
-        <source>160 kbps</source>
-        <translation>160 кбит/с</translation>
-    </message>
-    <message>
-        <source>192 kbps</source>
-        <translation>192 кбит/с</translation>
-    </message>
-    <message>
-        <source>224 kbps</source>
-        <translation>224 кбит/с</translation>
-    </message>
-    <message>
-        <source>256 kbps</source>
-        <translation>256 кбит/с</translation>
-    </message>
-    <message>
-        <source>320 kbps</source>
-        <translation>320 кбит/с</translation>
-    </message>
-    <message>
         <source>Stereo Mode:</source>
         <translation>Режим стерео:</translation>
-    </message>
-    <message>
-        <source>Normal</source>
-        <translation>Обычный</translation>
-    </message>
-    <message>
-        <source>Joint Stereo</source>
-        <translation>Joint Stereo</translation>
     </message>
     <message>
         <source>MP4</source>
@@ -4323,14 +4349,6 @@ Channel
     <message>
         <source>Audio Compressor:</source>
         <translation>Звуковой компрессор:</translation>
-    </message>
-    <message>
-        <source>AAC - Advanced Audio Coding</source>
-        <translation>AAC - Advanced Audio Coding</translation>
-    </message>
-    <message>
-        <source>ALAC - Apple Lossless Audio Codec</source>
-        <translation>ALAC - Apple Lossless Audio Codec</translation>
     </message>
     <message>
         <source>Bit Rate:</source>
@@ -4345,18 +4363,6 @@ Channel
         <translation>Режим:</translation>
     </message>
     <message>
-        <source>Variable Bit Rate (VBR)</source>
-        <translation>Переменный битрейт (VBR)</translation>
-    </message>
-    <message>
-        <source>Constant Bit Rate (CBR)</source>
-        <translation>Постоянный битрейт (CBR)</translation>
-    </message>
-    <message>
-        <source>Limited Variable Bit Rate (ABR)</source>
-        <translation>Усредненный битрейт (ABR)</translation>
-    </message>
-    <message>
         <source>Maximum Bit Rate:</source>
         <translation>Максимальный битрейт:</translation>
     </message>
@@ -4367,10 +4373,6 @@ Channel
     <message>
         <source>File Format:</source>
         <translation>Формат файла:</translation>
-    </message>
-    <message>
-        <source>FLAC</source>
-        <translation>FLAC</translation>
     </message>
     <message>
         <source>Filename</source>
@@ -4433,14 +4435,6 @@ Channel
         <translation>Смешение:</translation>
     </message>
     <message>
-        <source>Vorbis</source>
-        <translation>Vorbis</translation>
-    </message>
-    <message>
-        <source>Opus</source>
-        <translation>Opus</translation>
-    </message>
-    <message>
         <source>%1</source>
         <translation>%1</translation>
     </message>
@@ -4474,14 +4468,6 @@ Channel
     </message>
     <message>
         <source>Type:</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>MPEG Audio Layer III (MP3)</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>MPEG Audio Layer II (MP2)</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -5318,41 +5304,6 @@ Channel
     <message>
         <source>Disabled</source>
         <translation type="unfinished">Отключен</translation>
-    </message>
-</context>
-<context>
-    <name>QOcenToolbar</name>
-    <message>
-        <source>Show/Hide Sidebar</source>
-        <translation type="unfinished">Показать/скрыть боковую панель</translation>
-    </message>
-    <message>
-        <source>Loop On/Off</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Pre Roll On/Off</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Show Audio Properties</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Recent Files</source>
-        <translation type="unfinished">Последние файлы</translation>
-    </message>
-    <message>
-        <source>Goto Previous audio</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Goto Next audio</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Show Sound Preferences</source>
-        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>

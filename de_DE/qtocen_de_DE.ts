@@ -1645,10 +1645,6 @@ To save without the markers/regions, use the export operation.</source>
 Um ohne die Markierungen/Regionen zu speichern, verwenden Sie den Exportvorgang.</translation>
     </message>
     <message>
-        <source>You are about to combine audios with different sample rates to a multichannel audio. Do you want to proceed</source>
-        <translation>Sie sind dabei, Audios mit verschiedenen Abtastraten zu einem Mehrkanal-Audio zu kombinieren. Wollen Sie fortfahren</translation>
-    </message>
-    <message>
         <source>If you agree to continue the highest sample rate will be used.</source>
         <translation>Wenn Sie damit einverstanden sind, wird die höchste Abtastrate verwendet.</translation>
     </message>
@@ -1663,6 +1659,10 @@ Um ohne die Markierungen/Regionen zu speichern, verwenden Sie den Exportvorgang.
     <message>
         <source>It was not possible to export the markers/regions to file “%1” because the chosen container does not support markers/regions.</source>
         <translation>Es war nicht möglich, die Markierungen/Regionen in die Datei &quot;%1&quot; zu exportieren, da der gewählte Container keine Markierungen/Regionen unterstützt.</translation>
+    </message>
+    <message>
+        <source>You are about to combine audios with different sample rates to a multichannel audio. Do you want to proceed?</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
