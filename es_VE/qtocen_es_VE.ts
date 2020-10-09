@@ -696,152 +696,153 @@
     </message>
     <message>
         <source>Converting to Stereo</source>
-        <translation type="unfinished"></translation>
+        <translation>Conversión a Estéreo</translation>
     </message>
     <message>
         <source>Convert to Stereo</source>
-        <translation type="unfinished"></translation>
+        <translation>Convertir a Estéreo</translation>
     </message>
     <message>
         <source>Converting to Mono</source>
-        <translation type="unfinished"></translation>
+        <translation>Conversión a Mono</translation>
     </message>
     <message>
         <source>Convert to Mono</source>
-        <translation type="unfinished"></translation>
+        <translation>Convertir a Mono</translation>
     </message>
     <message>
         <source>Changing Audio Sample Rate</source>
-        <translation type="unfinished"></translation>
+        <translation>Cambio de la Frecuencia de Muestreo de Audio</translation>
     </message>
     <message>
         <source>Change Audio Sample Rate</source>
-        <translation type="unfinished"></translation>
+        <translation>Cambiar la Frecuencia de Muestreo de Audio</translation>
     </message>
     <message>
         <source>Moving Audio</source>
-        <translation type="unfinished"></translation>
+        <translation>Moviendo audio</translation>
     </message>
     <message>
         <source>Move Audio</source>
-        <translation type="unfinished"></translation>
+        <translation>Mover Audio</translation>
     </message>
     <message>
         <source>Copy Audio</source>
-        <translation type="unfinished"></translation>
+        <translation>Copiar Audio</translation>
     </message>
     <message>
         <source>Undo</source>
-        <translation type="unfinished">Deshacer</translation>
+        <translation>Deshacer</translation>
     </message>
     <message>
         <source>Redo</source>
-        <translation type="unfinished"></translation>
+        <translation>Rehacer</translation>
     </message>
     <message>
         <source>Applying Fade</source>
-        <translation type="unfinished"></translation>
+        <translation>Aplicando Fade</translation>
     </message>
     <message>
         <source>Fade In</source>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
     <message>
         <source>Fade Out</source>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
     <message>
         <source>Change Gain by +%1 dB</source>
-        <translation type="unfinished"></translation>
+        <translation>Cambiar la Ganancia en +%1 dB</translation>
     </message>
     <message>
         <source>Change Gain by %1 dB</source>
-        <translation type="unfinished"></translation>
+        <translation>Cambiar la Ganancia en %1 dB</translation>
     </message>
     <message>
         <source>%1 %2</source>
-        <translation type="unfinished">%1 %2</translation>
+        <translation></translation>
     </message>
     <message>
         <source>Delete Selection</source>
-        <translation type="unfinished"></translation>
+        <translation>Eliminar selección</translation>
     </message>
     <message>
         <source>Show/Hide Gain Tool</source>
-        <translation type="unfinished"></translation>
+        <translation>Mostrar/Ocultar Herramienta de Ganancia</translation>
     </message>
     <message>
         <source>Change Gain</source>
-        <translation type="unfinished"></translation>
+        <translation>Cambio de ganancia</translation>
     </message>
     <message>
         <source>Zoom In</source>
-        <translation type="unfinished"></translation>
+        <translation>Acercar</translation>
     </message>
     <message>
         <source>Zoom Out</source>
-        <translation type="unfinished"></translation>
+        <translation>Alejar</translation>
     </message>
     <message>
         <source>Zoom Out Full</source>
-        <translation type="unfinished"></translation>
+        <translation>Alejar por Completo</translation>
     </message>
     <message>
         <source>Zoom In Vertical</source>
-        <translation type="unfinished"></translation>
+        <translation>Acercar verticalmente</translation>
     </message>
     <message>
         <source>Zoom Out Vertical</source>
-        <translation type="unfinished"></translation>
+        <translation>Alejar Vertical</translation>
     </message>
     <message>
         <source>Press %1 to create!</source>
-        <translation type="unfinished"></translation>
+        <translation>¡Presione %1 para crear!</translation>
     </message>
     <message>
         <source>Apply</source>
-        <translation type="unfinished"></translation>
+        <translation>Aplicar</translation>
     </message>
     <message>
         <source>Duplicated from %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Duplicado de %1</translation>
     </message>
     <message>
         <source>Show/Hide Speed Tool</source>
-        <translation type="unfinished"></translation>
+        <translation>Mostrar/Ocultar Herramienta de Velocidad</translation>
     </message>
     <message>
         <source>Paste Metadata</source>
-        <translation type="unfinished"></translation>
+        <translation>Pegar Metadatos</translation>
     </message>
     <message>
         <source>Quick Export!</source>
-        <translation type="unfinished"></translation>
+        <translation>Exportación Rápida!</translation>
     </message>
     <message>
         <source>Destination</source>
-        <translation type="unfinished"></translation>
+        <translation>Destino</translation>
     </message>
     <message>
         <source>Alt+Click to choose a different destination.</source>
-        <translation type="unfinished"></translation>
+        <translation>Alt+Clic para Elegir un Destino Diferente.</translation>
     </message>
     <message>
         <source>Combined multichannel audio</source>
-        <translation type="unfinished"></translation>
+        <translation>Audio multicanal combinado</translation>
     </message>
     <message>
         <source>Adjusting Selections to silences</source>
-        <translation type="unfinished"></translation>
+        <translation>Ajustar las Selecciones a los Silencios</translation>
     </message>
     <message>
         <source>Searching for silences</source>
-        <translation type="unfinished"></translation>
+        <translation>Buscando Silencios</translation>
     </message>
     <message>
         <source>Starting Recording from
 %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Comenzando a grabar desde
+%1</translation>
     </message>
     <message>
         <source>Move cursor to playhead position</source>
@@ -849,19 +850,19 @@
     </message>
     <message>
         <source>Selection Left Border</source>
-        <translation type="unfinished"></translation>
+        <translation>Borde Izquierdo de Selección</translation>
     </message>
     <message>
         <source>Selection Right Border</source>
-        <translation type="unfinished"></translation>
+        <translation>Borde Derecho de Selección</translation>
     </message>
     <message>
         <source>Select Audio from Region Under Cursor</source>
-        <translation type="unfinished"></translation>
+        <translation>Seleccionar Audio de la Región Bajo el Cursor</translation>
     </message>
     <message>
         <source>Select Silences</source>
-        <translation type="unfinished"></translation>
+        <translation>Seleccione Silencios</translation>
     </message>
     <message>
         <source>Zoom Back from Selection</source>
@@ -869,7 +870,7 @@
     </message>
     <message>
         <source>Undetermined</source>
-        <translation type="unfinished"></translation>
+        <translation>Indeterminado</translation>
     </message>
 </context>
 <context>
@@ -892,15 +893,15 @@
     </message>
     <message>
         <source>Failed to execute last action!</source>
-        <translation type="unfinished"></translation>
+        <translation>¡No se pudo ejecutar la última acción!</translation>
     </message>
     <message>
         <source>Last action was canceled!</source>
-        <translation type="unfinished"></translation>
+        <translation>¡La última acción fue cancelada!</translation>
     </message>
     <message>
         <source>Last action produced an empty signal!</source>
-        <translation type="unfinished"></translation>
+        <translation>¡La última acción produjo una señal vacía!</translation>
     </message>
 </context>
 <context>
@@ -1106,103 +1107,103 @@
     <name>QOcenFilesProcessor</name>
     <message>
         <source>Probing</source>
-        <translation type="unfinished">Explorando</translation>
+        <translation>Explorando</translation>
     </message>
     <message>
         <source>Analyzing files in %1 %2</source>
-        <translation type="unfinished">Analisando archivos en %1 %2</translation>
+        <translation>Analisando archivos en %1 %2</translation>
     </message>
     <message>
         <source>Analyzing files in %1</source>
-        <translation type="unfinished">Analisando archivos en %1</translation>
+        <translation>Analisando archivos en %1</translation>
     </message>
     <message>
         <source>No supported audio files found!</source>
-        <translation type="unfinished">¡No se encontraron archivos de audio compatibles!</translation>
+        <translation>¡No se encontraron archivos de audio compatibles!</translation>
     </message>
     <message>
         <source>The package “%1” does not contains any supported audio file.</source>
-        <translation type="unfinished">El paquete “%1” no contiene ningún archivo de audio compatible.</translation>
+        <translation>El paquete “%1” no contiene ningún archivo de audio compatible.</translation>
     </message>
     <message>
         <source>Opening &quot;%1&quot;</source>
-        <translation type="unfinished">Abriendo &quot;%1&quot;</translation>
+        <translation>Abriendo &quot;%1&quot;</translation>
     </message>
     <message>
         <source>Question</source>
-        <translation type="unfinished">Pregunta</translation>
+        <translation>Pregunta</translation>
     </message>
     <message>
         <source>Warning</source>
-        <translation type="unfinished">Advertencia</translation>
+        <translation>Advertencia</translation>
     </message>
     <message>
         <source>The file for the sound at “%1” is already opened. There are also unsaved changes in ocenaudio.  Do you want to keep the ocenaudio version or revert to the version on disk?</source>
-        <translation type="unfinished">El archivo de sonido en “%1” ya está abierto. También hay cambios sin guardar en ocenaudio.  ¿Desea mantener la versión de ocenaudio o volver a la versión en el disco?</translation>
+        <translation>El archivo de sonido en “%1” ya está abierto. También hay cambios sin guardar en ocenaudio. ¿Desea mantener la versión de ocenaudio o volver a la versión en el disco?</translation>
     </message>
     <message>
         <source>Keep ocenaudio Version</source>
-        <translation type="unfinished">Mantener versión de ocenaudio</translation>
+        <translation>Mantener versión de ocenaudio</translation>
     </message>
     <message>
         <source>Revert</source>
-        <translation type="unfinished">Revertir</translation>
+        <translation>Revertir</translation>
     </message>
     <message>
         <source>Cue File Found</source>
-        <translation type="unfinished">Archivo Cue encontrado</translation>
+        <translation>Archivo Cue Encontrado</translation>
     </message>
     <message>
         <source>A cue file containing %2 tracks associated with the “%1” file was found. You want to open these tracks separately?</source>
-        <translation type="unfinished">Se encontró un archivo cue que contiene %2 pistas asociados con el archivo “%1”. ¿Desea abrir estas pistas por separado?</translation>
+        <translation>Se encontró un archivo cue que contiene %2 pistas asociados con el archivo “%1”. ¿Desea abrir estas pistas por separado?</translation>
     </message>
     <message>
         <source>Open Tracks</source>
-        <translation type="unfinished">Abrir pistas</translation>
+        <translation>Abrir pistas</translation>
     </message>
     <message>
         <source>Open Original</source>
-        <translation type="unfinished">Abrir original</translation>
+        <translation>Abrir original</translation>
     </message>
     <message>
         <source>File not found.</source>
-        <translation type="unfinished">Archivo no encontrado.</translation>
+        <translation>Archivo no encontrado.</translation>
     </message>
     <message>
         <source>The file that was at %1 no longer exists.</source>
-        <translation type="unfinished">El archivo que estaba en %1 ya no existe.</translation>
+        <translation>El archivo que estaba en %1 ya no existe.</translation>
     </message>
     <message>
         <source>Ok</source>
-        <translation type="unfinished">Aceptar</translation>
+        <translation>Aceptar</translation>
     </message>
     <message>
         <source>Open File Error</source>
-        <translation type="unfinished">Error al abrir archivo</translation>
+        <translation>Error al abrir archivo</translation>
     </message>
     <message>
         <source>An error occurred while trying to open the file “%1”.</source>
-        <translation type="unfinished">Se produjo un error al intentar abrir el archivo “%1”.</translation>
+        <translation>Se produjo un error al intentar abrir el archivo “%1”.</translation>
     </message>
     <message>
         <source>Apparently your file is empty.</source>
-        <translation type="unfinished">Al parecer, el archivo está vacío.</translation>
+        <translation>Al parecer, el archivo está vacío.</translation>
     </message>
     <message>
         <source>The number of audio channels in this file has exceeded the maximum number of audio channels supported.</source>
-        <translation type="unfinished">El número de canales de audio en este archivo ha superado el número máximo de canales de audio soportado.</translation>
+        <translation>El número de canales de audio en este archivo ha superado el número máximo de canales de audio soportado.</translation>
     </message>
     <message>
         <source>File not found!</source>
-        <translation type="unfinished">¡Archivo no encontrado!</translation>
+        <translation>¡Archivo no encontrado!</translation>
     </message>
     <message>
         <source>Check if your file have an incorrect or unsuported format.</source>
-        <translation type="unfinished">Compruebe si el archivo tiene un formato incorrecto o no soportado.</translation>
+        <translation>Compruebe si el archivo tiene un formato incorrecto o no soportado.</translation>
     </message>
     <message>
         <source>The file “%1” was not found. Check if your filename is valid and you have permission to open it.</source>
-        <translation type="unfinished">El archivo “%1” no se ha encontrado. Compruebe si su nombre de archivo es válido y usted tiene el permiso para abrirlo.</translation>
+        <translation>El archivo “%1” no se ha encontrado. Compruebe si su nombre de archivo es válido y usted tiene el permiso para abrirlo.</translation>
     </message>
 </context>
 <context>
@@ -1265,15 +1266,15 @@
     </message>
     <message>
         <source>Use this scheme when %1 %2 appearance is selected</source>
-        <translation type="unfinished"></translation>
+        <translation>Utilice este esquema cuando se selecciona apariencia %2 de %1</translation>
     </message>
     <message>
         <source>Dark Theme</source>
-        <translation type="unfinished"></translation>
+        <translation>Tema Oscuro</translation>
     </message>
     <message>
         <source>Keep links to closed files</source>
-        <translation type="unfinished"></translation>
+        <translation>Mantener enlaces a archivos cerrados</translation>
     </message>
 </context>
 <context>
@@ -1291,11 +1292,11 @@
     <name>QOcenJobs::Append</name>
     <message>
         <source>Appending</source>
-        <translation type="unfinished">Anexando</translation>
+        <translation>Anexando</translation>
     </message>
     <message>
         <source>Append</source>
-        <translation type="unfinished">Anexar</translation>
+        <translation>Anexar</translation>
     </message>
 </context>
 <context>
@@ -1612,51 +1613,55 @@ Storage: %1 mount on %2</source>
     </message>
     <message>
         <source>The conversion from region to markers will discard comments. You want to proceed?</source>
-        <translation type="unfinished"></translation>
+        <translation>La conversión de región a marcadores descartará comentarios. ¿Quieres continuar?</translation>
     </message>
     <message>
         <source>Metadata not Exported</source>
-        <translation type="unfinished"></translation>
+        <translation>Metadatos no Exportados</translation>
     </message>
     <message>
         <source>It was not possible to export the metadata to file “%1” because the chosen container does not support metadata.</source>
-        <translation type="unfinished"></translation>
+        <translation>No fue posible exportar los metadatos al archivo %1 porque el contenedor elegido no admite metadatos.</translation>
     </message>
     <message>
         <source>Markers/Regions not Exported</source>
-        <translation type="unfinished"></translation>
+        <translation>Marcadores/Regiones no Exportados</translation>
     </message>
     <message>
         <source>It was not possible to complete the save of file “%1” because the chosen container does not support metadata.
 
 To save without the metadata, use the export operation.</source>
-        <translation type="unfinished"></translation>
+        <translation>No fue posible completar el guardado del archivo “%1” porque el contenedor elegido no admite metadatos.
+
+Para guardar sin los metadatos, utilice la operación de exportación.</translation>
     </message>
     <message>
         <source>It was not possible to complete the save of file “%1” because the chosen container does not support markers/regions.
 
 To save without the markers/regions, use the export operation.</source>
-        <translation type="unfinished"></translation>
+        <translation>No fue posible completar el guardado del archivo “%1” porque el contenedor elegido no admite marcadores/regiones.
+
+Para guardar sin los marcadores/regiones, use la operación de exportación.</translation>
     </message>
     <message>
         <source>If you agree to continue the highest sample rate will be used.</source>
-        <translation type="unfinished"></translation>
+        <translation>Si acepta continuar, se utilizará la frecuencia de muestreo más alta.</translation>
     </message>
     <message>
         <source>Proceed</source>
-        <translation type="unfinished"></translation>
+        <translation>Continuar</translation>
     </message>
     <message>
         <source>Canel</source>
-        <translation type="unfinished"></translation>
+        <translation>Cancelar</translation>
     </message>
     <message>
         <source>It was not possible to export the markers/regions to file “%1” because the chosen container does not support markers/regions.</source>
-        <translation type="unfinished"></translation>
+        <translation>No fue posible exportar los marcadores/regiones al archivo “%1” porque el contenedor elegido no admite marcadores/regiones.</translation>
     </message>
     <message>
         <source>You are about to combine audios with different sample rates to a multichannel audio. Do you want to proceed?</source>
-        <translation type="unfinished"></translation>
+        <translation>Está a punto de combinar audios con diferentes frecuencias de muestreo en un audio multicanal. Quieres proceder?</translation>
     </message>
 </context>
 <context>
@@ -1802,7 +1807,7 @@ To save without the markers/regions, use the export operation.</source>
     <name>QOcenQuickOpenWidget</name>
     <message>
         <source>Search effects, files and urls</source>
-        <translation type="unfinished"></translation>
+        <translation>Buscar efectos, archivos y URLs</translation>
     </message>
 </context>
 <context>
@@ -2031,11 +2036,11 @@ To save without the markers/regions, use the export operation.</source>
     </message>
     <message>
         <source>Keep a backup for each recording </source>
-        <translation type="unfinished"></translation>
+        <translation>Mantenga una copia de seguridad para cada grabación </translation>
     </message>
     <message>
         <source>Disable mixer when screen sleeps</source>
-        <translation type="unfinished"></translation>
+        <translation>Desactivar el mezclador cuando la pantalla duerme</translation>
     </message>
     <message>
         <source>Scroll view to follow play head</source>

@@ -56,135 +56,135 @@
     <name>MAC_TOOLBAR</name>
     <message>
         <source>Sidebar</source>
-        <translation type="unfinished"></translation>
+        <translation>Barra Lateral</translation>
     </message>
     <message>
         <source>Transport</source>
-        <translation type="unfinished"></translation>
+        <translation>Transporte</translation>
     </message>
     <message>
         <source>Record</source>
-        <translation type="unfinished">Grabar</translation>
+        <translation>Grabar</translation>
     </message>
     <message>
         <source>Loop</source>
-        <translation type="unfinished">Bucle</translation>
+        <translation>Bucle</translation>
     </message>
     <message>
         <source>Pre Roll</source>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
     <message>
         <source>Navigator</source>
-        <translation type="unfinished">Navegador</translation>
+        <translation>Navegador</translation>
     </message>
     <message>
         <source>Recent Files</source>
-        <translation type="unfinished">Archivo recientes</translation>
+        <translation>Archivo recientes</translation>
     </message>
     <message>
         <source>Sound Preferences</source>
-        <translation type="unfinished"></translation>
+        <translation>Preferencias de Sonido</translation>
     </message>
     <message>
         <source>Mixer Options</source>
-        <translation type="unfinished"></translation>
+        <translation>Opciones de Mezclador</translation>
     </message>
     <message>
         <source>Audio Properties</source>
-        <translation type="unfinished">Propiedades de Sonido</translation>
+        <translation>Propiedades de Sonido</translation>
     </message>
     <message>
         <source>Volume</source>
-        <translation type="unfinished">Volumen</translation>
+        <translation>Volumen</translation>
     </message>
     <message>
         <source>Display</source>
-        <translation type="unfinished"></translation>
+        <translation>Monitor</translation>
     </message>
     <message>
         <source>Show Sidebar</source>
-        <translation type="unfinished">Mostrar barra lateral</translation>
+        <translation>Mostrar Barra Lateral</translation>
     </message>
     <message>
         <source>Hide Sidebar</source>
-        <translation type="unfinished">Ocultar barra lateral</translation>
+        <translation>Ocultar Barra Lateral</translation>
     </message>
     <message>
         <source>Stop Capture</source>
-        <translation type="unfinished"></translation>
+        <translation>Detener Captura</translation>
     </message>
     <message>
         <source>Start Capture</source>
-        <translation type="unfinished"></translation>
+        <translation>Iniciar Captura</translation>
     </message>
     <message>
         <source>Play</source>
-        <translation type="unfinished">Reproducir</translation>
+        <translation>Reproducir</translation>
     </message>
     <message>
         <source>Pause</source>
-        <translation type="unfinished"></translation>
+        <translation>Pausa</translation>
     </message>
     <message>
         <source>Monitor On</source>
-        <translation type="unfinished"></translation>
+        <translation>Monitor Encendido</translation>
     </message>
     <message>
         <source>Monitor Off</source>
-        <translation type="unfinished"></translation>
+        <translation>Monitor Apagado</translation>
     </message>
     <message>
         <source>Resume</source>
-        <translation type="unfinished"></translation>
+        <translation>Reanudar</translation>
     </message>
     <message>
         <source>Stop</source>
-        <translation type="unfinished">Detener</translation>
+        <translation>Detener</translation>
     </message>
     <message>
         <source>Fast Backward</source>
-        <translation type="unfinished"></translation>
+        <translation>Retroceso rápido</translation>
     </message>
     <message>
         <source>Fast Forward</source>
-        <translation type="unfinished"></translation>
+        <translation>Avance rápido</translation>
     </message>
     <message>
         <source>Rewind</source>
-        <translation type="unfinished"></translation>
+        <translation>Rebobinar</translation>
     </message>
     <message>
         <source>Open Sound Preferences</source>
-        <translation type="unfinished"></translation>
+        <translation>Abrir Preferencias de Sonido</translation>
     </message>
     <message>
         <source>Show Audio Properties</source>
-        <translation type="unfinished"></translation>
+        <translation>Mostrar Propiedades de Audio</translation>
     </message>
     <message>
         <source>Goto Previous Audio</source>
-        <translation type="unfinished">Ir a audio anterior</translation>
+        <translation>Ir a audio anterior</translation>
     </message>
     <message>
         <source>Goto Next Audio</source>
-        <translation type="unfinished">Ir a audio siguiente</translation>
+        <translation>Ir a audio siguiente</translation>
     </message>
     <message>
         <source>Pre Roll On</source>
-        <translation type="unfinished"></translation>
+        <translation>Pre Roll Encendido</translation>
     </message>
     <message>
         <source>Pre Roll Off</source>
-        <translation type="unfinished"></translation>
+        <translation>Pre Roll Apagado</translation>
     </message>
     <message>
         <source>Play Loop On</source>
-        <translation type="unfinished"></translation>
+        <translation>Bucle de Reproducción Encendido</translation>
     </message>
     <message>
         <source>Play Loop Off</source>
-        <translation type="unfinished"></translation>
+        <translation>Bucle de Reproducción Apagado</translation>
     </message>
 </context>
 <context>
@@ -923,119 +923,119 @@
     </message>
     <message>
         <source>Extend to Begin</source>
-        <translation type="unfinished"></translation>
+        <translation>Extiende hasta el Principio</translation>
     </message>
     <message>
         <source>Extend to End</source>
-        <translation type="unfinished"></translation>
+        <translation>Extiende hasta el Final</translation>
     </message>
     <message>
         <source>Extend to Next Marker</source>
-        <translation type="unfinished"></translation>
+        <translation>Extender al Siguiente Marcador</translation>
     </message>
     <message>
         <source>Extend to Previous Marker</source>
-        <translation type="unfinished"></translation>
+        <translation>Extender al Marcador Anterior</translation>
     </message>
     <message>
         <source>Reduce to Next Marker</source>
-        <translation type="unfinished"></translation>
+        <translation>Reducir al Siguiente Marcador</translation>
     </message>
     <message>
         <source>Reduce to Next Marker (from begin)</source>
-        <translation type="unfinished"></translation>
+        <translation>Reducir al Siguiente Marcador (desde el Principio)</translation>
     </message>
     <message>
         <source>Reduce to Previous Marker</source>
-        <translation type="unfinished"></translation>
+        <translation>Reducir al Marcador Anterior</translation>
     </message>
     <message>
         <source>Reduce to Previous Marker (from end)</source>
-        <translation type="unfinished"></translation>
+        <translation>Reducir al Marcador Anterior (desde el Final)</translation>
     </message>
     <message>
         <source>Hide Navigator</source>
-        <translation type="unfinished">Ocultar navegador</translation>
+        <translation>Ocultar Navegador</translation>
     </message>
     <message>
         <source>Donate Now!</source>
-        <translation type="unfinished"></translation>
+        <translation>¡Done ahora!</translation>
     </message>
     <message>
         <source>Show Audio Tools</source>
-        <translation type="unfinished"></translation>
+        <translation>Mostrar Herramientas de Audio</translation>
     </message>
     <message>
         <source>Paste to</source>
-        <translation type="unfinished"></translation>
+        <translation>Pegar en</translation>
     </message>
     <message>
         <source>Paste only</source>
-        <translation type="unfinished"></translation>
+        <translation>Pegar solo</translation>
     </message>
     <message>
         <source>New Audio</source>
-        <translation type="unfinished"></translation>
+        <translation>Nuevo Audio</translation>
     </message>
     <message>
         <source>Audio &amp;Properties...</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Propiedades de Sonido...</translation>
     </message>
     <message>
         <source>Fit in Selection</source>
-        <translation type="unfinished"></translation>
+        <translation>Encajar en la Selección</translation>
     </message>
     <message>
         <source>Signal</source>
-        <translation type="unfinished"></translation>
+        <translation>Señal</translation>
     </message>
     <message>
         <source>Metadata</source>
-        <translation type="unfinished"></translation>
+        <translation>Metadatos</translation>
     </message>
     <message>
         <source>Markers</source>
-        <translation type="unfinished"></translation>
+        <translation>Marcadores</translation>
     </message>
     <message>
         <source>Bark</source>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
     <message>
         <source>Select</source>
-        <translation type="unfinished"></translation>
+        <translation>Seleccione</translation>
     </message>
     <message>
         <source>Silences</source>
-        <translation type="unfinished"></translation>
+        <translation>Silencios</translation>
     </message>
     <message>
         <source>Audio From Regions</source>
-        <translation type="unfinished"></translation>
+        <translation>Audio de Regiones</translation>
     </message>
     <message>
         <source>Convert To Mono</source>
-        <translation type="unfinished"></translation>
+        <translation>Convertir a Mono</translation>
     </message>
     <message>
         <source>Convert To Stereo</source>
-        <translation type="unfinished"></translation>
+        <translation>Convertir a Estéreo</translation>
     </message>
     <message>
         <source>Normalized Vertical Zoom</source>
-        <translation type="unfinished"></translation>
+        <translation>Zoom Vertical Normalizado</translation>
     </message>
     <message>
         <source>Ctrl+Alt+N</source>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
     <message>
         <source>To Silences</source>
-        <translation type="unfinished"></translation>
+        <translation>A los Silencios</translation>
     </message>
     <message>
         <source>Regions from</source>
-        <translation type="unfinished"></translation>
+        <translation>Regiones de</translation>
     </message>
 </context>
 <context>
@@ -2159,163 +2159,163 @@
     </message>
     <message>
         <source>Mono</source>
-        <translation type="unfinished">Mono</translation>
+        <translation>Mono</translation>
     </message>
     <message>
         <source>Stereo</source>
-        <translation type="unfinished">Estéreo</translation>
+        <translation>Estéreo</translation>
     </message>
     <message>
         <source>Dual Channel</source>
-        <translation type="unfinished"></translation>
+        <translation>Doble canal</translation>
     </message>
     <message>
         <source>Swap Channels</source>
-        <translation type="unfinished">Cambiar canales</translation>
+        <translation>Cambiar Canales</translation>
     </message>
     <message>
         <source>Converting to Mono</source>
-        <translation type="unfinished"></translation>
+        <translation>Conversión a Mono</translation>
     </message>
     <message>
         <source>Convert to Mono</source>
-        <translation type="unfinished">Convertir a Mono</translation>
+        <translation>Convertir a Mono</translation>
     </message>
     <message>
         <source>Converting to Stereo</source>
-        <translation type="unfinished"></translation>
+        <translation>Conversión a Estéreo</translation>
     </message>
     <message>
         <source>Convert to Stereo</source>
-        <translation type="unfinished"></translation>
+        <translation>Convertir a estéreo</translation>
     </message>
     <message>
         <source>Undo</source>
-        <translation type="unfinished"></translation>
+        <translation>Deshacer</translation>
     </message>
     <message>
         <source>From &lt;b&gt;%1&lt;/b&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation>Desde &lt;b&gt;%1&lt;/b&gt;</translation>
     </message>
     <message>
         <source>Paste Metadata</source>
-        <translation type="unfinished"></translation>
+        <translation>Pegar Metadatos</translation>
     </message>
     <message>
         <source>Settings</source>
-        <translation type="unfinished"></translation>
+        <translation>Ajuste</translation>
     </message>
     <message>
         <source>Show Settings Dialog</source>
-        <translation type="unfinished"></translation>
+        <translation>Mostrar Diálogo de Ajustes</translation>
     </message>
     <message>
         <source>About</source>
-        <translation type="unfinished">Acerca de</translation>
+        <translation>Acerca de</translation>
     </message>
     <message>
         <source>Show About Window</source>
-        <translation type="unfinished"></translation>
+        <translation>Mostrar Ventana Acerca de</translation>
     </message>
     <message>
         <source>Quit</source>
-        <translation type="unfinished"></translation>
+        <translation>Salir</translation>
     </message>
     <message>
         <source>Quit ocenaudio</source>
-        <translation type="unfinished"></translation>
+        <translation>Salir de ocenaudio</translation>
     </message>
     <message>
         <source>General Preferences</source>
-        <translation type="unfinished"></translation>
+        <translation>Preferencias Generales</translation>
     </message>
     <message>
         <source>Show General Preferences</source>
-        <translation type="unfinished"></translation>
+        <translation>Mostrar Preferencias Generales</translation>
     </message>
     <message>
         <source>Sound Preferences</source>
-        <translation type="unfinished"></translation>
+        <translation>Preferencias de Sonido</translation>
     </message>
     <message>
         <source>Show Sound Preferences</source>
-        <translation type="unfinished"></translation>
+        <translation>Mostrar Preferencias de Sonido</translation>
     </message>
     <message>
         <source>Key Bindings Preferences</source>
-        <translation type="unfinished"></translation>
+        <translation>Preferencias de Combinaciones de Teclas</translation>
     </message>
     <message>
         <source>Show Key Bindings Preferences</source>
-        <translation type="unfinished"></translation>
+        <translation>Mostrar Preferencias de Combinación de Teclas</translation>
     </message>
     <message>
         <source>Spectrogram Preferences</source>
-        <translation type="unfinished"></translation>
+        <translation>Preferencias de Espectrograma</translation>
     </message>
     <message>
         <source>Show Spectrogram Preferences</source>
-        <translation type="unfinished"></translation>
+        <translation>Mostrar Preferencias de Espectrograma</translation>
     </message>
     <message>
         <source>Network Preferences</source>
-        <translation type="unfinished"></translation>
+        <translation>Preferencias de Red</translation>
     </message>
     <message>
         <source>Show Network Preferences</source>
-        <translation type="unfinished"></translation>
+        <translation>Mostrar Preferencias de Red</translation>
     </message>
     <message>
         <source>Show Vst Plugins Preferences</source>
-        <translation type="unfinished"></translation>
+        <translation>Mostrar Preferencias de Complementos de Vst</translation>
     </message>
     <message>
         <source>Donate</source>
-        <translation type="unfinished"></translation>
+        <translation>Donar</translation>
     </message>
     <message>
         <source>Donate to ocenaudio Team!</source>
-        <translation type="unfinished"></translation>
+        <translation>¡Dona al equipo de ocenaudio!</translation>
     </message>
     <message>
         <source>Play</source>
-        <translation type="unfinished">Reproducir</translation>
+        <translation>Reproducir</translation>
     </message>
     <message>
         <source>Stop</source>
-        <translation type="unfinished">Detener</translation>
+        <translation>Detener</translation>
     </message>
     <message>
         <source>Sleep</source>
-        <translation type="unfinished"></translation>
+        <translation>Dormir</translation>
     </message>
     <message>
         <source>Wake</source>
-        <translation type="unfinished"></translation>
+        <translation>Despertar</translation>
     </message>
     <message>
         <source>Swap Channels in Selection</source>
-        <translation type="unfinished"></translation>
+        <translation>Intercambiar Canales en la Selección</translation>
     </message>
     <message>
         <source>Adjusting Silences</source>
-        <translation type="unfinished"></translation>
+        <translation>Ajustar los Silencios</translation>
     </message>
     <message>
         <source>Failed</source>
-        <translation type="unfinished"></translation>
+        <translation>Fracaso</translation>
     </message>
     <message>
         <source>New</source>
-        <translation type="unfinished"></translation>
+        <translation>Nuevo</translation>
     </message>
     <message>
         <source>Disabled</source>
-        <translation type="unfinished">Desactivado</translation>
+        <translation>Desactivado</translation>
     </message>
     <message>
         <source>Loaded</source>
-        <translation type="unfinished"></translation>
+        <translation>Cargado</translation>
     </message>
 </context>
 <context>
@@ -2401,120 +2401,121 @@ Haga clic aquí para descargarla.</translation>
     </message>
     <message>
         <source>Sending log reports</source>
-        <translation type="unfinished"></translation>
+        <translation>Envío de Informes de Registro</translation>
     </message>
     <message>
         <source>Clearing thread pool</source>
-        <translation type="unfinished"></translation>
+        <translation>Borrar grupo de subprocesos</translation>
     </message>
     <message>
         <source>Help us improve ocenaudio</source>
-        <translation type="unfinished"></translation>
+        <translation>Ayúdanos a mejorar Ocenaudio</translation>
     </message>
     <message>
         <source>By contributing, you are enabling ocenaudio to grow and mature.</source>
-        <translation type="unfinished"></translation>
+        <translation>Al contribuir, estás permitiendo que Ocenaudio crezca y madure.</translation>
     </message>
     <message>
         <source>Donate now!</source>
-        <translation type="unfinished"></translation>
+        <translation>¡Done ahora!</translation>
     </message>
     <message>
         <source>Recordings backup found</source>
-        <translation type="unfinished"></translation>
+        <translation>Se encontraron copias de seguridad de grabaciones</translation>
     </message>
     <message>
         <source>One or more capture backuped files were left from previous uses of ocenaudio!</source>
-        <translation type="unfinished"></translation>
+        <translation>¡Quedaron uno o más archivos de copia de seguridad de capturas de usos anteriores de ocenaudio!</translation>
     </message>
     <message>
         <source>This message will be shown until you move or delete these files.</source>
-        <translation type="unfinished"></translation>
+        <translation>Este mensaje se mostrará hasta que mueva o elimine estos archivos.</translation>
     </message>
     <message>
         <source>Click here to open backup folder.</source>
-        <translation type="unfinished"></translation>
+        <translation>Haga clic aquí para abrir la carpeta de respaldo.</translation>
     </message>
     <message>
         <source>Removing capture backuped files</source>
-        <translation type="unfinished"></translation>
+        <translation>Eliminar archivos de copia de seguridad de captura</translation>
     </message>
     <message>
         <source>Mixer Stopped</source>
-        <translation type="unfinished"></translation>
+        <translation>Mezclador detenido</translation>
     </message>
     <message>
         <source>The mixer was stopped due to a change in the list of available devices.</source>
-        <translation type="unfinished"></translation>
+        <translation>El mezclador se detuvo debido a un cambio en la lista de dispositivos disponibles.</translation>
     </message>
     <message>
         <source>Click here to check your sound configuration!</source>
-        <translation type="unfinished"></translation>
+        <translation>¡Haga clic aquí para comprobar su configuración de sonido!</translation>
     </message>
     <message>
         <source>New VST Plugins Found!</source>
-        <translation type="unfinished"></translation>
+        <translation>¡Nuevos complementos VST encontrados!</translation>
     </message>
     <message>
         <source>Ocenaudio has found 1 new VST plugin in your system!</source>
-        <translation type="unfinished"></translation>
+        <translation>¡Ocenaudio ha encontrado 1 nuevo complemento VST en su sistema!</translation>
     </message>
     <message>
         <source>Ocenaudio has found %1 new VSTs plugins in your system!</source>
-        <translation type="unfinished"></translation>
+        <translation>¡Ocenaudio ha encontrado %1 nuevos complementos VST en su sistema!</translation>
     </message>
     <message>
         <source>Click here to load them now!</source>
-        <translation type="unfinished"></translation>
+        <translation>¡Haga clic aquí para cargarlos ahora!</translation>
     </message>
     <message>
         <source>Waiting for Vst Manager Thread</source>
-        <translation type="unfinished"></translation>
+        <translation>Esperando al VST Manager</translation>
     </message>
     <message>
         <source>No microphone permission</source>
-        <translation type="unfinished"></translation>
+        <translation>Sin permiso de micrófono</translation>
     </message>
     <message>
         <source>You are not allowed to use the microphone. In this condition you will capture only silence. To activate the use of the microphone, you must authorize ocenaudio.</source>
-        <translation type="unfinished"></translation>
+        <translation>No se le permite utilizar el micrófono. En esta condición solo capturarás el silencio. Para activar el uso del micrófono, debe autorizar Ocenaudio.</translation>
     </message>
     <message>
         <source>Mixer Disabled</source>
-        <translation type="unfinished"></translation>
+        <translation>Mezclador Deshabilitado</translation>
     </message>
     <message>
         <source>In this condition it will not be possible to reproduce and/or record audios.
 Do you want to enable your mixer?</source>
-        <translation type="unfinished"></translation>
+        <translation>En esta condición no será posible reproducir y/o grabar audios.
+¿Quieres habilitar tu mezclador?</translation>
     </message>
     <message>
         <source>Enable Mixer!</source>
-        <translation type="unfinished"></translation>
+        <translation>¡Habilitar Mezclador!</translation>
     </message>
     <message>
         <source>ocenaudio crashed previously</source>
-        <translation type="unfinished">ocenaudio falló previamente</translation>
+        <translation>ocenaudio falló previamente</translation>
     </message>
     <message>
         <source>Do you want to write a report and send details on the crash to ocenaudio&apos;s development team?</source>
-        <translation type="unfinished"></translation>
+        <translation>¿Quieres escribir un informe y enviar detalles sobre el bloqueo al equipo de desarrollo de Ocenaudio?</translation>
     </message>
     <message>
         <source>Write a Report!</source>
-        <translation type="unfinished"></translation>
+        <translation>¡Escribe un reporte!</translation>
     </message>
     <message>
         <source>Enjoying ocenaudio?</source>
-        <translation type="unfinished"></translation>
+        <translation>¿Disfrutando de ocenaudio?</translation>
     </message>
     <message>
         <source>Show your appreciation by making a donation!</source>
-        <translation type="unfinished"></translation>
+        <translation>¡Muestre su agradecimiento haciendo una donación!</translation>
     </message>
     <message>
         <source>Donating will allow ocenaudio to improve and continue to exist for FREE.</source>
-        <translation type="unfinished"></translation>
+        <translation>La donación permitirá que ocenaudio mejore y continúe existiendo GRATIS.</translation>
     </message>
 </context>
 <context>
@@ -3443,283 +3444,283 @@ Canal
     </message>
     <message>
         <source>Extend Selection to Begin</source>
-        <translation type="unfinished"></translation>
+        <translation>Ampliar la Selección hasta el Principio</translation>
     </message>
     <message>
         <source>Extend Selection to End</source>
-        <translation type="unfinished"></translation>
+        <translation>Ampliar la Selección hasta el Final</translation>
     </message>
     <message>
         <source>Extend Selection to Previous Marker</source>
-        <translation type="unfinished"></translation>
+        <translation>Extender la Selección al Marcador Anterior</translation>
     </message>
     <message>
         <source>Extend Selection to Next Marker</source>
-        <translation type="unfinished"></translation>
+        <translation>Extender la Selección al Siguiente Marcador</translation>
     </message>
     <message>
         <source>Reduce Selection to Next Marker</source>
-        <translation type="unfinished"></translation>
+        <translation>Reducir la Selección al Siguiente Marcador</translation>
     </message>
     <message>
         <source>Reduce Selection to Previous Marker</source>
-        <translation type="unfinished"></translation>
+        <translation>Reducir la Selección al Marcador Anterior</translation>
     </message>
     <message>
         <source>Silence</source>
-        <translation type="unfinished">Silencio</translation>
+        <translation>Silencio</translation>
     </message>
     <message>
         <source>Normalize</source>
-        <translation type="unfinished">Normalizar</translation>
+        <translation>Normalizar</translation>
     </message>
     <message>
         <source>Invert</source>
-        <translation type="unfinished"></translation>
+        <translation>Invertido</translation>
     </message>
     <message>
         <source>Reverse</source>
-        <translation type="unfinished"></translation>
+        <translation>Al Revés</translation>
     </message>
     <message>
         <source>Smooth</source>
-        <translation type="unfinished"></translation>
+        <translation>Suave</translation>
     </message>
     <message>
         <source>Remove Dc</source>
-        <translation type="unfinished"></translation>
+        <translation>Quitar DC</translation>
     </message>
     <message>
         <source>Applying Fade In</source>
-        <translation type="unfinished"></translation>
+        <translation>Aplicando Fade In</translation>
     </message>
     <message>
         <source>Applying Fade Out</source>
-        <translation type="unfinished"></translation>
+        <translation>Aplicando Fade Out</translation>
     </message>
     <message>
         <source>Hide Canvas Tools</source>
-        <translation type="unfinished"></translation>
+        <translation>Ocultar Herramientas de Lienzo</translation>
     </message>
     <message>
         <source>Show Canvas Tools</source>
-        <translation type="unfinished"></translation>
+        <translation>Mostrar Herramientas de Lienzo</translation>
     </message>
     <message>
         <source>readonly</source>
-        <translation type="unfinished"></translation>
+        <translation>solo lectura</translation>
     </message>
     <message>
         <source>Paste Only Signal</source>
-        <translation type="unfinished"></translation>
+        <translation>Pegar solo señal</translation>
     </message>
     <message>
         <source>Paste Only Metadata</source>
-        <translation type="unfinished"></translation>
+        <translation>Pegar Solo Metadatos</translation>
     </message>
     <message>
         <source>Paste Only Markers</source>
-        <translation type="unfinished"></translation>
+        <translation>Pegar Solo Marcadores</translation>
     </message>
     <message>
         <source>Remove DC</source>
-        <translation type="unfinished"></translation>
+        <translation>Quitar DC</translation>
     </message>
     <message>
         <source>Fade</source>
-        <translation type="unfinished"></translation>
+        <translation>Desvanecimiento</translation>
     </message>
     <message>
         <source>Gain</source>
-        <translation type="unfinished">Ganancia</translation>
+        <translation>Ganancia</translation>
     </message>
     <message>
         <source>Normalize Custom</source>
-        <translation type="unfinished"></translation>
+        <translation>Normalizar Personalizado</translation>
     </message>
     <message>
         <source>DC Offset</source>
-        <translation type="unfinished">DC Offset</translation>
+        <translation>DC Offset</translation>
     </message>
     <message>
         <source>Add Noise</source>
-        <translation type="unfinished">Añadir ruido</translation>
+        <translation>Añadir ruido</translation>
     </message>
     <message>
         <source>Low Pass Filter</source>
-        <translation type="unfinished"></translation>
+        <translation>Filtro de Paso Bajo</translation>
     </message>
     <message>
         <source>High Pass Filter</source>
-        <translation type="unfinished"></translation>
+        <translation>Filtro de Paso Alto</translation>
     </message>
     <message>
         <source>Band Pass Filter</source>
-        <translation type="unfinished"></translation>
+        <translation>Filtro de Paso de Banda</translation>
     </message>
     <message>
         <source>Band Stop Filter</source>
-        <translation type="unfinished"></translation>
+        <translation>Filtro de Supresión de Banda</translation>
     </message>
     <message>
         <source>11-Band Graphic Equalizer</source>
-        <translation type="unfinished"></translation>
+        <translation>Ecualizador gráfico de 11 bandas</translation>
     </message>
     <message>
         <source>31-Band Graphic Equalizer</source>
-        <translation type="unfinished"></translation>
+        <translation>Ecualizador gráfico de 31 bandas</translation>
     </message>
     <message>
         <source>Delay</source>
-        <translation type="unfinished">Retraso</translation>
+        <translation>Retraso</translation>
     </message>
     <message>
         <source>Flanger</source>
-        <translation type="unfinished">Flanger</translation>
+        <translation>Flanger</translation>
     </message>
     <message>
         <source>Chorus</source>
-        <translation type="unfinished">Coro</translation>
+        <translation>Coro</translation>
     </message>
     <message>
         <source>Reverb</source>
-        <translation type="unfinished">Reverberación</translation>
+        <translation>Reverberación</translation>
     </message>
     <message>
         <source>Vibrato</source>
-        <translation type="unfinished">Vibrato</translation>
+        <translation>Vibrato</translation>
     </message>
     <message>
         <source>Compressor</source>
-        <translation type="unfinished">Compresor</translation>
+        <translation>Compresor</translation>
     </message>
     <message>
         <source>Expander</source>
-        <translation type="unfinished">Expansor</translation>
+        <translation>Expansor</translation>
     </message>
     <message>
         <source>Limiter</source>
-        <translation type="unfinished">Limitador</translation>
+        <translation>Limitador</translation>
     </message>
     <message>
         <source>Noise Gate</source>
-        <translation type="unfinished">Puerta de ruido</translation>
+        <translation>Puerta de ruido</translation>
     </message>
     <message>
         <source>Dirac</source>
-        <translation type="unfinished">Dirac</translation>
+        <translation>Dirac</translation>
     </message>
     <message>
         <source>Time and Pitch Adjust</source>
-        <translation type="unfinished"></translation>
+        <translation>Ajuste de Tiempo y Tono</translation>
     </message>
     <message>
         <source>Automatic Noise Reduction</source>
-        <translation type="unfinished">Reducción automática de ruido</translation>
+        <translation>Reducción automática de ruido</translation>
     </message>
     <message>
         <source>Apply Quantization</source>
-        <translation type="unfinished">Aplicar cuantización</translation>
+        <translation>Aplicar cuantización</translation>
     </message>
     <message>
         <source>Convert Region to Markers</source>
-        <translation type="unfinished"></translation>
+        <translation>Convertir Región en Marcadores</translation>
     </message>
     <message>
         <source>Convert Loop to Markers</source>
-        <translation type="unfinished"></translation>
+        <translation>Convertir Bucle en Marcadores</translation>
     </message>
     <message>
         <source>Effect: %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Efecto: %1</translation>
     </message>
     <message>
         <source>Effect: Open %1 Effect</source>
-        <translation type="unfinished"></translation>
+        <translation>Efecto: Abrir Efecto %1</translation>
     </message>
     <message>
         <source>Graphic Equalizer (11 bands)</source>
-        <translation type="unfinished"></translation>
+        <translation>Ecualizador Gráfico (11 bandas)</translation>
     </message>
     <message>
         <source>Graphic Equalizer (31 bands)</source>
-        <translation type="unfinished"></translation>
+        <translation>Ecualizador Gráfico (31 bandas)</translation>
     </message>
     <message>
         <source>Spectral Scale in Bark</source>
-        <translation type="unfinished"></translation>
+        <translation>Escala Espectral en Bark</translation>
     </message>
     <message>
         <source>Scanning VST plugins</source>
-        <translation type="unfinished"></translation>
+        <translation>Escaneando complementos VST</translation>
     </message>
     <message>
         <source>Paste to New Audio</source>
-        <translation type="unfinished"></translation>
+        <translation>Pegar en Audio Nuevo</translation>
     </message>
     <message>
         <source>Paste to Fit in Selection</source>
-        <translation type="unfinished"></translation>
+        <translation>Pegar para Encajar en la Selección</translation>
     </message>
     <message>
         <source>Adjust Selection to Silences</source>
-        <translation type="unfinished"></translation>
+        <translation>Ajustar la Selección a los Silencios</translation>
     </message>
     <message>
         <source>Donate Now</source>
-        <translation type="unfinished"></translation>
+        <translation>Done ahora</translation>
     </message>
     <message>
         <source>DTMF Generator</source>
-        <translation type="unfinished"></translation>
+        <translation>Generador de DTMF</translation>
     </message>
     <message>
         <source>Generate DTMF sequences</source>
-        <translation type="unfinished"></translation>
+        <translation>Genera secuencias DTMF</translation>
     </message>
     <message>
         <source>Noise Generator</source>
-        <translation type="unfinished"></translation>
+        <translation>Generador de Ruido</translation>
     </message>
     <message>
         <source>Generate Black, White, Pink and Brown Noise</source>
-        <translation type="unfinished"></translation>
+        <translation>Genera Ruido Negro, Blanco, Rosa y Marrón</translation>
     </message>
     <message>
         <source>Tone Generator</source>
-        <translation type="unfinished"></translation>
+        <translation>Generador de Tonos</translation>
     </message>
     <message>
         <source>Generate Tones</source>
-        <translation type="unfinished"></translation>
+        <translation>Generar Tonos</translation>
     </message>
     <message>
         <source>Silence Generator</source>
-        <translation type="unfinished"></translation>
+        <translation>Generador de Silencio</translation>
     </message>
     <message>
         <source>Generate Silence</source>
-        <translation type="unfinished"></translation>
+        <translation>Generar Silencio</translation>
     </message>
     <message>
         <source>Convert Sample Type</source>
-        <translation type="unfinished"></translation>
+        <translation>Convertir tipo de muestreo</translation>
     </message>
     <message>
         <source>Change sample rate (resample) and/or number of channels</source>
-        <translation type="unfinished"></translation>
+        <translation>Cambiar la frecuencia de muestreo (remuestreo) y/o el número de canales</translation>
     </message>
     <message>
         <source>Cancel VST Scanning</source>
-        <translation type="unfinished"></translation>
+        <translation>Cancelar Escaneo VST</translation>
     </message>
     <message>
         <source>Plugin Preferences...</source>
-        <translation type="unfinished"></translation>
+        <translation>Preferencias de Complementos...</translation>
     </message>
     <message>
         <source>Search new plugins</source>
-        <translation type="unfinished"></translation>
+        <translation>Buscar Nuevos Complementos</translation>
     </message>
 </context>
 <context>
@@ -3912,15 +3913,15 @@ Canal
     </message>
     <message>
         <source>Sort List</source>
-        <translation type="unfinished"></translation>
+        <translation>Lista Ordenada</translation>
     </message>
     <message>
         <source>Show Artwork</source>
-        <translation type="unfinished"></translation>
+        <translation>Mostrar Ilustración</translation>
     </message>
     <message>
         <source>Keep links to closed files</source>
-        <translation type="unfinished"></translation>
+        <translation>Mantener enlaces a archivos cerrados</translation>
     </message>
 </context>
 <context>
@@ -4099,15 +4100,15 @@ Canal
     </message>
     <message>
         <source>Signal Properties</source>
-        <translation type="unfinished"></translation>
+        <translation>Propiedades de la señal</translation>
     </message>
     <message>
         <source>File Properties</source>
-        <translation type="unfinished"></translation>
+        <translation>Propiedades de Archivo</translation>
     </message>
     <message>
         <source>Creation Date</source>
-        <translation type="unfinished"></translation>
+        <translation>Fecha de Creación</translation>
     </message>
 </context>
 <context>
@@ -4161,35 +4162,35 @@ Canal
     <name>QOcenAudioToolbar</name>
     <message>
         <source>Show/Hide Sidebar</source>
-        <translation type="unfinished">Mostrar/Ocultar barra lateral</translation>
+        <translation>Mostrar/Ocultar Barra Lateral</translation>
     </message>
     <message>
         <source>Loop On/Off</source>
-        <translation type="unfinished"></translation>
+        <translation>Bucle Encendido/Apagado</translation>
     </message>
     <message>
         <source>Pre Roll On/Off</source>
-        <translation type="unfinished"></translation>
+        <translation>Pre Roll Encendido/Apagado</translation>
     </message>
     <message>
         <source>Show Audio Properties</source>
-        <translation type="unfinished"></translation>
+        <translation>Mostrar Propiedades de Audio</translation>
     </message>
     <message>
         <source>Recent Files</source>
-        <translation type="unfinished">Archivo recientes</translation>
+        <translation>Archivo Recientes</translation>
     </message>
     <message>
         <source>Goto Previous audio</source>
-        <translation type="unfinished"></translation>
+        <translation>Ir a Audio Anterior</translation>
     </message>
     <message>
         <source>Goto Next audio</source>
-        <translation type="unfinished"></translation>
+        <translation>Ir a Audio Siguiente</translation>
     </message>
     <message>
         <source>Show Sound Preferences</source>
-        <translation type="unfinished"></translation>
+        <translation>Mostrar Preferencias de Sonido</translation>
     </message>
 </context>
 <context>
@@ -4240,15 +4241,15 @@ Canal
     </message>
     <message>
         <source>Report to ocenaudio Team</source>
-        <translation type="unfinished"></translation>
+        <translation>Informar al Equipo de Ocenaudio</translation>
     </message>
     <message>
         <source>Report a problem</source>
-        <translation type="unfinished"></translation>
+        <translation>Reportar un problema</translation>
     </message>
     <message>
         <source>Write us a brief description of the problem you are having with ocenaudio.</source>
-        <translation type="unfinished"></translation>
+        <translation>Escríbanos una breve descripción del problema que está teniendo con Ocenaudio.</translation>
     </message>
 </context>
 <context>
@@ -4470,11 +4471,11 @@ Canal
     </message>
     <message>
         <source>MPEG</source>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
     <message>
         <source>Type:</source>
-        <translation type="unfinished"></translation>
+        <translation>Tipo:</translation>
     </message>
 </context>
 <context>
@@ -4840,11 +4841,11 @@ Canal
     </message>
     <message>
         <source>Turn On Playback Loop</source>
-        <translation type="unfinished"></translation>
+        <translation>Activar Bucle de Reproducción</translation>
     </message>
     <message>
         <source>Turn Off Playback Loop</source>
-        <translation type="unfinished"></translation>
+        <translation>Desactivar el Bucle de Reproducción</translation>
     </message>
 </context>
 <context>
@@ -4887,19 +4888,19 @@ Canal
     </message>
     <message>
         <source>Import Presets</source>
-        <translation type="unfinished"></translation>
+        <translation>Importar Presets</translation>
     </message>
     <message>
         <source>Export Presets</source>
-        <translation type="unfinished"></translation>
+        <translation>Exportar Presets</translation>
     </message>
     <message>
         <source>Import Presets File</source>
-        <translation type="unfinished"></translation>
+        <translation>Importar Archivo de Presets</translation>
     </message>
     <message>
         <source>Export Presets File</source>
-        <translation type="unfinished"></translation>
+        <translation>Exportar Archivo de Presets</translation>
     </message>
 </context>
 <context>
@@ -5061,7 +5062,7 @@ Canal
     </message>
     <message>
         <source>192000 Hz</source>
-        <translation type="unfinished">44100 Hz {11025 ?} {192000 ?}</translation>
+        <translation></translation>
     </message>
 </context>
 <context>
@@ -5127,71 +5128,71 @@ Canal
     </message>
     <message>
         <source>Filter</source>
-        <translation type="unfinished">Filtro</translation>
+        <translation>Filtro</translation>
     </message>
     <message>
         <source>Add Path</source>
-        <translation type="unfinished"></translation>
+        <translation>Agregar Ruta</translation>
     </message>
     <message>
         <source>Remove Path</source>
-        <translation type="unfinished"></translation>
+        <translation>Eliminar Ruta</translation>
     </message>
     <message>
         <source>Rescan Plugins</source>
-        <translation type="unfinished"></translation>
+        <translation>Volver a Examinar los Complementos</translation>
     </message>
     <message>
         <source>No plugins found!</source>
-        <translation type="unfinished"></translation>
+        <translation>¡No se encontraron complementos!</translation>
     </message>
     <message>
         <source>Failed</source>
-        <translation type="unfinished"></translation>
+        <translation>falló</translation>
     </message>
     <message>
         <source>Loading...</source>
-        <translation type="unfinished"></translation>
+        <translation>Cargando...</translation>
     </message>
     <message>
         <source>Unloading...</source>
-        <translation type="unfinished"></translation>
+        <translation>Descargando...</translation>
     </message>
     <message>
         <source>Disable Path from Search</source>
-        <translation type="unfinished"></translation>
+        <translation>Desactivar Ruta de Búsqueda</translation>
     </message>
     <message>
         <source>Disable Paths from Search</source>
-        <translation type="unfinished"></translation>
+        <translation>Desactivar Rutas de Búsqueda</translation>
     </message>
     <message>
         <source>Enable Path from Search</source>
-        <translation type="unfinished"></translation>
+        <translation>Habilitar Ruta de Búsqueda</translation>
     </message>
     <message>
         <source>Enable Paths from Search</source>
-        <translation type="unfinished"></translation>
+        <translation>Habilitar Rutas de Búsqueda</translation>
     </message>
     <message>
         <source>Remove Paths from Search</source>
-        <translation type="unfinished"></translation>
+        <translation>Eliminar Rutas de Búsqueda</translation>
     </message>
     <message>
         <source>Disable Plugin</source>
-        <translation type="unfinished"></translation>
+        <translation>Deshabilitar Complemento</translation>
     </message>
     <message>
         <source>Disable Plugins</source>
-        <translation type="unfinished"></translation>
+        <translation>Deshabilitar Complementos</translation>
     </message>
     <message>
         <source>Enable Plugin</source>
-        <translation type="unfinished"></translation>
+        <translation>Habilitar Complemento</translation>
     </message>
     <message>
         <source>Enable Plugins</source>
-        <translation type="unfinished"></translation>
+        <translation>Habilitar Complementos</translation>
     </message>
 </context>
 <context>
@@ -5302,46 +5303,46 @@ Canal
     </message>
     <message>
         <source>Output #%1 </source>
-        <translation type="unfinished"></translation>
+        <translation>Salida #%1 </translation>
     </message>
     <message>
         <source>System Default</source>
-        <translation type="unfinished"></translation>
+        <translation>Sistema por Defecto</translation>
     </message>
     <message>
         <source>Disabled</source>
-        <translation type="unfinished">Desactivado</translation>
+        <translation>Desactivado</translation>
     </message>
 </context>
 <context>
     <name>QOcenTransport</name>
     <message>
         <source>Start/Stop Recording</source>
-        <translation type="unfinished">Iniciar/Detener grabación</translation>
+        <translation>Iniciar/Detener grabación</translation>
     </message>
     <message>
         <source>Start Playback</source>
-        <translation type="unfinished"></translation>
+        <translation>Iniciar Reproducción</translation>
     </message>
     <message>
         <source>Stop Playback</source>
-        <translation type="unfinished"></translation>
+        <translation>Detener Reproducción</translation>
     </message>
     <message>
         <source>Rewind Cursor</source>
-        <translation type="unfinished"></translation>
+        <translation>Cursor de Rebobinado</translation>
     </message>
     <message>
         <source>Forward Cursor</source>
-        <translation type="unfinished"></translation>
+        <translation>Cursor de Avance</translation>
     </message>
     <message>
         <source>Pause/Resume</source>
-        <translation type="unfinished"></translation>
+        <translation>Pausar/Reanudar</translation>
     </message>
     <message>
         <source>Record Monitor On/Off</source>
-        <translation type="unfinished"></translation>
+        <translation>Activar/desactivar Monitor de Grabación</translation>
     </message>
     <message>
         <source>Backward Cursor</source>
@@ -5588,47 +5589,47 @@ su ordenador, o red que desea abrir:</translation>
     </message>
     <message>
         <source>Convert to Stereo</source>
-        <translation type="unfinished"></translation>
+        <translation>Convertir a Estéreo</translation>
     </message>
     <message>
         <source>Undo Action in Selected Files</source>
-        <translation type="unfinished"></translation>
+        <translation>Deshacer Acción en Archivos Seleccionados</translation>
     </message>
     <message>
         <source>Change Artwork</source>
-        <translation type="unfinished"></translation>
+        <translation>Cambiar Cubierta</translation>
     </message>
     <message>
         <source>Audio Properties...</source>
-        <translation type="unfinished"></translation>
+        <translation>Propiedades de Sonido...</translation>
     </message>
     <message>
         <source>Paste Metadata</source>
-        <translation type="unfinished"></translation>
+        <translation>Pegar Metadatos</translation>
     </message>
     <message>
         <source>Repeat %1 on %2</source>
-        <translation type="unfinished"></translation>
+        <translation>Repetir %1 en %2</translation>
     </message>
     <message>
         <source>Selected File</source>
-        <translation type="unfinished"></translation>
+        <translation>Archivo Seleccionado</translation>
     </message>
     <message>
         <source>Selected Files</source>
-        <translation type="unfinished"></translation>
+        <translation>Archivos Seleccionados</translation>
     </message>
     <message>
         <source>Undo %1 on %2</source>
-        <translation type="unfinished"></translation>
+        <translation>Deshacer %1 en %2</translation>
     </message>
     <message>
         <source>Paste Metadata into %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Pegar metadatos en %1</translation>
     </message>
     <message>
         <source>Combine to Multichannel</source>
-        <translation type="unfinished"></translation>
+        <translation>Combinar en Multicanal</translation>
     </message>
 </context>
 <context>
@@ -5914,7 +5915,7 @@ su ordenador, o red que desea abrir:</translation>
     </message>
     <message>
         <source>samples</source>
-        <translation type="unfinished"></translation>
+        <translation>muestras</translation>
     </message>
 </context>
 <context>
