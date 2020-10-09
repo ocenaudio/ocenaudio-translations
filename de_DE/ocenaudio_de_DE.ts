@@ -56,11 +56,11 @@
     <name>MAC_TOOLBAR</name>
     <message>
         <source>Sidebar</source>
-        <translation type="unfinished">Seitenleiste</translation>
+        <translation>Seitenleiste</translation>
     </message>
     <message>
         <source>Transport</source>
-        <translation type="unfinished"></translation>
+        <translation>Transport</translation>
     </message>
     <message>
         <source>Record</source>
@@ -72,7 +72,7 @@
     </message>
     <message>
         <source>Pre Roll</source>
-        <translation type="unfinished"></translation>
+        <translation>Pre Roll</translation>
     </message>
     <message>
         <source>Navigator</source>
@@ -88,19 +88,19 @@
     </message>
     <message>
         <source>Mixer Options</source>
-        <translation type="unfinished">Mixer Optionen</translation>
+        <translation>Mixer Optionen</translation>
     </message>
     <message>
         <source>Audio Properties</source>
-        <translation type="unfinished">Audioeigenschaften</translation>
+        <translation>Audioeigenschaften</translation>
     </message>
     <message>
         <source>Volume</source>
-        <translation type="unfinished">Lautstärke</translation>
+        <translation>Lautstärke</translation>
     </message>
     <message>
         <source>Display</source>
-        <translation type="unfinished"></translation>
+        <translation>Anzeige</translation>
     </message>
     <message>
         <source>Show Sidebar</source>
@@ -112,11 +112,11 @@
     </message>
     <message>
         <source>Stop Capture</source>
-        <translation type="unfinished"></translation>
+        <translation>Aufnahme stoppen</translation>
     </message>
     <message>
         <source>Start Capture</source>
-        <translation type="unfinished"></translation>
+        <translation>Aufnahme starten</translation>
     </message>
     <message>
         <source>Play</source>
@@ -124,15 +124,15 @@
     </message>
     <message>
         <source>Pause</source>
-        <translation type="unfinished"></translation>
+        <translation>Pause</translation>
     </message>
     <message>
         <source>Monitor On</source>
-        <translation type="unfinished"></translation>
+        <translation>Monitor ein</translation>
     </message>
     <message>
         <source>Monitor Off</source>
-        <translation type="unfinished"></translation>
+        <translation>Monitor aus</translation>
     </message>
     <message>
         <source>Resume</source>
@@ -144,19 +144,19 @@
     </message>
     <message>
         <source>Fast Backward</source>
-        <translation type="unfinished"></translation>
+        <translation>Schneller Rücklauf</translation>
     </message>
     <message>
         <source>Fast Forward</source>
-        <translation type="unfinished"></translation>
+        <translation>Schneller Vorlauf</translation>
     </message>
     <message>
         <source>Rewind</source>
-        <translation type="unfinished"></translation>
+        <translation>Zurückspulen</translation>
     </message>
     <message>
         <source>Open Sound Preferences</source>
-        <translation type="unfinished"></translation>
+        <translation>Ton-Einstellungen öffnen</translation>
     </message>
     <message>
         <source>Show Audio Properties</source>
@@ -172,19 +172,19 @@
     </message>
     <message>
         <source>Pre Roll On</source>
-        <translation type="unfinished"></translation>
+        <translation>Pre Roll ein</translation>
     </message>
     <message>
         <source>Pre Roll Off</source>
-        <translation type="unfinished"></translation>
+        <translation>Pre Roll aus</translation>
     </message>
     <message>
         <source>Play Loop On</source>
-        <translation type="unfinished"></translation>
+        <translation>Wiedergabeschleife an</translation>
     </message>
     <message>
         <source>Play Loop Off</source>
-        <translation type="unfinished"></translation>
+        <translation>Wiedergabeschleife aus</translation>
     </message>
 </context>
 <context>
@@ -691,7 +691,7 @@
     </message>
     <message>
         <source>Quick Open...</source>
-        <translation></translation>
+        <translation>Schnell öffnen...</translation>
     </message>
     <message>
         <source>Noise Reduction</source>
@@ -1003,7 +1003,7 @@
     </message>
     <message>
         <source>Select</source>
-        <translation>auswählen</translation>
+        <translation>Auswählen</translation>
     </message>
     <message>
         <source>Silences</source>
@@ -2237,11 +2237,11 @@
     </message>
     <message>
         <source>Key Bindings Preferences</source>
-        <translation>Einstellungen für Schlüsselbindungen</translation>
+        <translation>Einstellungen für Tastenkombinationen</translation>
     </message>
     <message>
         <source>Show Key Bindings Preferences</source>
-        <translation>Einstellungen für Schlüsselbindungen anzeigen</translation>
+        <translation>Einstellungen für Tastenkombination anzeigen</translation>
     </message>
     <message>
         <source>Spectrogram Preferences</source>
@@ -3706,15 +3706,15 @@ Kanal
     </message>
     <message>
         <source>Cancel VST Scanning</source>
-        <translation type="unfinished"></translation>
+        <translation>VST-Scannen abbrechen</translation>
     </message>
     <message>
         <source>Plugin Preferences...</source>
-        <translation type="unfinished"></translation>
+        <translation>Plugin Einstellungen...</translation>
     </message>
     <message>
         <source>Search new plugins</source>
-        <translation type="unfinished"></translation>
+        <translation>Neue Plugins suchen</translation>
     </message>
 </context>
 <context>
@@ -5323,7 +5323,7 @@ Kanal
     </message>
     <message>
         <source>Rewind Cursor</source>
-        <translation>Cursor zurückspulen</translation>
+        <translation>Cursor zurück</translation>
     </message>
     <message>
         <source>Forward Cursor</source>
@@ -5339,7 +5339,7 @@ Kanal
     </message>
     <message>
         <source>Backward Cursor</source>
-        <translation>Cursor rückwärts</translation>
+        <translation>Cursor zum Anfang</translation>
     </message>
 </context>
 <context>

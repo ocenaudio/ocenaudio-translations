@@ -492,7 +492,7 @@
     </message>
     <message>
         <source>Key Bindings Preferences</source>
-        <translation>Tastenkombinationen Einstellungen</translation>
+        <translation>Einstellungen für Tastenkombinationen</translation>
     </message>
     <message>
         <source>Network</source>
@@ -1266,7 +1266,7 @@
     </message>
     <message>
         <source>Use this scheme when %1 %2 appearance is selected</source>
-        <translation>Verwenden Sie dieses Schema, wenn %1 %2 Erscheinungsbild ausgewählt ist</translation>
+        <translation>Verwenden Sie dieses Farbschema, wenn %1 %2 Erscheinungsbild ausgewählt ist</translation>
     </message>
     <message>
         <source>Dark Theme</source>
@@ -1662,7 +1662,7 @@ Um ohne die Markierungen/Regionen zu speichern, verwenden Sie den Exportvorgang.
     </message>
     <message>
         <source>You are about to combine audios with different sample rates to a multichannel audio. Do you want to proceed?</source>
-        <translation type="unfinished"></translation>
+        <translation>Sie sind dabei, Töne mit verschiedenen Abtastraten zu einem Mehrkanalton zu kombinieren. Wollen Sie fortfahren?</translation>
     </message>
 </context>
 <context>
