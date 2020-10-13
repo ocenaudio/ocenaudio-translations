@@ -1266,7 +1266,7 @@
     </message>
     <message>
         <source>Use this scheme when %1 %2 appearance is selected</source>
-        <translation>Verwenden Sie dieses Farbschema, wenn %1 %2 Erscheinungsbild ausgewählt ist</translation>
+        <translation>Verwenden Sie dieses Farbschema, wenn %1 %2 als Erscheinungsbild ausgewählt ist</translation>
     </message>
     <message>
         <source>Dark Theme</source>
