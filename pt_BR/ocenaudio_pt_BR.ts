@@ -2312,6 +2312,10 @@
         <source>Loaded</source>
         <translation>Carregado</translation>
     </message>
+    <message>
+        <source>Updating Device List</source>
+        <translation>Atualizando Lista de Dispositivos</translation>
+    </message>
 </context>
 <context>
     <name>QOcenAboutDialog</name>

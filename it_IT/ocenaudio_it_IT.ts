@@ -2318,6 +2318,10 @@
         <source>Loaded</source>
         <translation type="unfinished"></translation>
     </message>
+    <message>
+        <source>Updating Device List</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>QOcenAboutDialog</name>
