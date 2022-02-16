@@ -4520,7 +4520,7 @@ Kanal
     </message>
     <message>
         <source>Play at %1x speed</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Spielen mit %1x Geschwindigkeit</translation>
     </message>
     <message>
         <source>Play</source>

@@ -1308,6 +1308,10 @@
         <source>Send log file on close</source>
         <translation>Enviar arquivo de log ao fechar</translation>
     </message>
+    <message>
+        <source>Save dialog prefer file path over last saved path</source>
+        <translation>Diálogo de Salvar prefere o caminho do arquivo ao último caminho salvo</translation>
+    </message>
 </context>
 <context>
     <name>QOcenGetTextDialog</name>

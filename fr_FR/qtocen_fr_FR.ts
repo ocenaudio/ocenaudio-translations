@@ -1307,6 +1307,10 @@
         <source>Send log file on close</source>
         <translation type="unfinished"></translation>
     </message>
+    <message>
+        <source>Save dialog prefer file path over last saved path</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>QOcenGetTextDialog</name>
