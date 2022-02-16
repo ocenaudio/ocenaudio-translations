@@ -171,19 +171,27 @@
         <translation type="unfinished">Aller audio suivant</translation>
     </message>
     <message>
-        <source>Pre Roll On</source>
+        <source>Overwrite</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Pre Roll Off</source>
+        <source>Pre Roll On/Off</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Play Loop On</source>
+        <source>Overwrite Record Mode On/Off</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Play Loop Off</source>
+        <source>Play Loop On/Off</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Press and Hold to Change Speed</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Play at %1x speed</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -448,10 +456,6 @@
     <message>
         <source>Export Regions Text...</source>
         <translation>Exporter Texte de Régions...</translation>
-    </message>
-    <message>
-        <source>Export Audio From Regions...</source>
-        <translation>Exporter audio à partir de régions...</translation>
     </message>
     <message>
         <source>Import Regions...</source>
@@ -1037,6 +1041,34 @@
         <source>Regions from</source>
         <translation type="unfinished"></translation>
     </message>
+    <message>
+        <source>Regions</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Speed</source>
+        <translation type="unfinished">Vitesse</translation>
+    </message>
+    <message>
+        <source>Export Regions Audio...</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Convert Markers to Regions</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Goto Sample</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Ctrl+G</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Save Regions Audio...</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>NavigatorDialog</name>
@@ -1159,10 +1191,6 @@
         <translation>Longues</translation>
     </message>
     <message>
-        <source>100.0 ms</source>
-        <translation></translation>
-    </message>
-    <message>
         <source>Feedback</source>
         <translation>Retour</translation>
     </message>
@@ -1176,10 +1204,6 @@
     </message>
     <message>
         <source>100%</source>
-        <translation></translation>
-    </message>
-    <message>
-        <source>-100.0 %</source>
         <translation></translation>
     </message>
     <message>
@@ -1231,10 +1255,6 @@
         <translation>Chœur</translation>
     </message>
     <message>
-        <source>100.0 %</source>
-        <translation></translation>
-    </message>
-    <message>
         <source>Reverb</source>
         <translation>Réverbération</translation>
     </message>
@@ -1244,10 +1264,6 @@
     </message>
     <message>
         <source>Vibrato</source>
-        <translation></translation>
-    </message>
-    <message>
-        <source>20.00 Hz</source>
         <translation></translation>
     </message>
     <message>
@@ -2315,6 +2331,54 @@
         <source>Updating Device List</source>
         <translation type="unfinished"></translation>
     </message>
+    <message>
+        <source>Classic</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Set Classic color profile</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Aqua</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Set Aqua color profile</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Light</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Set Light color profile</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Dark Classic</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Set Dark Classic color profile</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Dark Aqua</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Set Dark Aqua color profile</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Dark Theme</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Set Dark Theme color profile</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>QOcenAboutDialog</name>
@@ -2515,6 +2579,14 @@ Do you want to enable your mixer?</source>
         <source>Donating will allow ocenaudio to improve and continue to exist for FREE.</source>
         <translation type="unfinished"></translation>
     </message>
+    <message>
+        <source>Output Volume is Low</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>The output volume is too low and you will not be able to hear anything played. If this condition is not desired, increase the volume on the toolbar to an appropriate level.</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>QOcenAudioChangeFormatDialog</name>
@@ -2654,6 +2726,422 @@ Channel
     </message>
 </context>
 <context>
+    <name>QOcenAudioConfigExportDialog</name>
+    <message>
+        <source>Dialog</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>RAW</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>WAV</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>CAF</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>MPEG</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>MP4</source>
+        <translation type="unfinished">MP4</translation>
+    </message>
+    <message>
+        <source>OGG</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Others</source>
+        <translation type="unfinished">Autres</translation>
+    </message>
+    <message>
+        <source>Export to separate files</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Load exported file</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Format:</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>QOcenAudioConfigSaveDialog</name>
+    <message>
+        <source>Dialog</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>file.pcm</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>/home/ruijunir/Desktop/audio</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>RAW</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Load saved file</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Back</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>QOcenAudioConfigWidget_AIF</name>
+    <message>
+        <source>Form</source>
+        <translation type="unfinished">Forme</translation>
+    </message>
+    <message>
+        <source>Audio Format:</source>
+        <translation type="unfinished">Format du audio:</translation>
+    </message>
+    <message>
+        <source>Dithering:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>%1</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>QOcenAudioConfigWidget_CAF</name>
+    <message>
+        <source>Form</source>
+        <translation type="unfinished">Forme</translation>
+    </message>
+    <message>
+        <source>Audio Format:</source>
+        <translation type="unfinished">Format du audio:</translation>
+    </message>
+    <message>
+        <source>Resolution:</source>
+        <translation type="unfinished">Résolution:</translation>
+    </message>
+    <message>
+        <source>Dithering:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>%1 bits</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>%1</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>QOcenAudioConfigWidget_EMPTY</name>
+    <message>
+        <source>Form</source>
+        <translation type="unfinished">Forme</translation>
+    </message>
+</context>
+<context>
+    <name>QOcenAudioConfigWidget_FLAC</name>
+    <message>
+        <source>Form</source>
+        <translation type="unfinished">Forme</translation>
+    </message>
+    <message>
+        <source>Audio Format:</source>
+        <translation type="unfinished">Format du audio:</translation>
+    </message>
+    <message>
+        <source>Dithering:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>%1</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>QOcenAudioConfigWidget_MP4</name>
+    <message>
+        <source>Form</source>
+        <translation type="unfinished">Forme</translation>
+    </message>
+    <message>
+        <source>Audio Compressor:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Use Variable Bit Rate Encoding (VBR)</source>
+        <translation type="unfinished">Utiliser l&apos;encodage VBR</translation>
+    </message>
+    <message>
+        <source>Bit Rate:</source>
+        <translation type="unfinished">Débit:</translation>
+    </message>
+    <message>
+        <source>Quality:</source>
+        <translation type="unfinished">Qualité:</translation>
+    </message>
+    <message>
+        <source>%1 kbps</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>QOcenAudioConfigWidget_MPEG</name>
+    <message>
+        <source>Form</source>
+        <translation type="unfinished">Forme</translation>
+    </message>
+    <message>
+        <source>Type:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Use Variable Bit Rate Encoding (VBR)</source>
+        <translation type="unfinished">Utiliser l&apos;encodage VBR</translation>
+    </message>
+    <message>
+        <source>Quality:</source>
+        <translation type="unfinished">Qualité:</translation>
+    </message>
+    <message>
+        <source>Bit Rate:</source>
+        <translation type="unfinished">Débit:</translation>
+    </message>
+    <message>
+        <source>Stereo Mode:</source>
+        <translation type="unfinished">Mode stéréo:</translation>
+    </message>
+    <message>
+        <source>%1 kbps</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>QOcenAudioConfigWidget_NSP</name>
+    <message>
+        <source>Form</source>
+        <translation type="unfinished">Forme</translation>
+    </message>
+    <message>
+        <source>Dithering:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>%1</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>QOcenAudioConfigWidget_OGG</name>
+    <message>
+        <source>Form</source>
+        <translation type="unfinished">Forme</translation>
+    </message>
+    <message>
+        <source>Audio Compressor:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Mode:</source>
+        <translation type="unfinished">Mode:</translation>
+    </message>
+    <message>
+        <source>Bit Rate:</source>
+        <translation type="unfinished">Débit:</translation>
+    </message>
+    <message>
+        <source>Minimum Bit Rate:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Maximum Bit Rate:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>%1 kbps</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>QOcenAudioConfigWidget_RAW</name>
+    <message>
+        <source>Form</source>
+        <translation type="unfinished">Forme</translation>
+    </message>
+    <message>
+        <source>Data Type:</source>
+        <translation type="unfinished">Type de données:</translation>
+    </message>
+    <message>
+        <source>Precision:</source>
+        <translation type="unfinished">Précision:</translation>
+    </message>
+    <message>
+        <source>Dithering:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Bit Rate:</source>
+        <translation type="unfinished">Débit:</translation>
+    </message>
+    <message>
+        <source>%1</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>%1 kbps</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>QOcenAudioConfigWidget_RF64</name>
+    <message>
+        <source>Form</source>
+        <translation type="unfinished">Forme</translation>
+    </message>
+    <message>
+        <source>Audio Format:</source>
+        <translation type="unfinished">Format du audio:</translation>
+    </message>
+    <message>
+        <source>Resolution:</source>
+        <translation type="unfinished">Résolution:</translation>
+    </message>
+    <message>
+        <source>Dithering:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>%1 bits</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>%1</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>QOcenAudioConfigWidget_SND</name>
+    <message>
+        <source>Form</source>
+        <translation type="unfinished">Forme</translation>
+    </message>
+    <message>
+        <source>Audio Format:</source>
+        <translation type="unfinished">Format du audio:</translation>
+    </message>
+    <message>
+        <source>Dithering:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>%1</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>QOcenAudioConfigWidget_TXT</name>
+    <message>
+        <source>Form</source>
+        <translation type="unfinished">Forme</translation>
+    </message>
+    <message>
+        <source>Audio Format:</source>
+        <translation type="unfinished">Format du audio:</translation>
+    </message>
+    <message>
+        <source>Dithering:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>%1</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>QOcenAudioConfigWidget_W64</name>
+    <message>
+        <source>Form</source>
+        <translation type="unfinished">Forme</translation>
+    </message>
+    <message>
+        <source>Audio Format:</source>
+        <translation type="unfinished">Format du audio:</translation>
+    </message>
+    <message>
+        <source>Resolution:</source>
+        <translation type="unfinished">Résolution:</translation>
+    </message>
+    <message>
+        <source>Dithering:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>%1 bits</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>%1</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>QOcenAudioConfigWidget_WAV</name>
+    <message>
+        <source>Audio Format:</source>
+        <translation type="unfinished">Format du audio:</translation>
+    </message>
+    <message>
+        <source>Dithering:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Use Variable Bit Rate Encoding (VBR)</source>
+        <translation type="unfinished">Utiliser l&apos;encodage VBR</translation>
+    </message>
+    <message>
+        <source>Quality:</source>
+        <translation type="unfinished">Qualité:</translation>
+    </message>
+    <message>
+        <source>Bit Rate:</source>
+        <translation type="unfinished">Débit:</translation>
+    </message>
+    <message>
+        <source>Stereo Mode:</source>
+        <translation type="unfinished">Mode stéréo:</translation>
+    </message>
+    <message>
+        <source>Resolution:</source>
+        <translation type="unfinished">Résolution:</translation>
+    </message>
+    <message>
+        <source>%1 bits</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>%1</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>%1 kbps</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
     <name>QOcenAudioFftAnalysisDialog</name>
     <message>
         <source>FFT Analysis</source>
@@ -2666,6 +3154,44 @@ Channel
     <message>
         <source>Updating FFT ...</source>
         <translation>FFT mise à jour...</translation>
+    </message>
+</context>
+<context>
+    <name>QOcenAudioGenreListEditorDialog</name>
+    <message>
+        <source>Genre List Editor</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Enable All</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Disable All</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Commom Genres</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Winamp Extension Genres</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Custom Genres</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Delete &quot;%1&quot; genre</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>QOcenAudioGotoWidget</name>
+    <message>
+        <source>Sample Position</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -2979,10 +3505,6 @@ Channel
         <translation>Enregistrer chaque sélection préfixés par...</translation>
     </message>
     <message>
-        <source>Prefix With:</source>
-        <translation>Préfixer avec:</translation>
-    </message>
-    <message>
         <source>Save Sound Selections As ...</source>
         <translation>Enregistrer les sélections sous...</translation>
     </message>
@@ -2993,10 +3515,6 @@ Channel
     <message>
         <source>Exporting Selection As</source>
         <translation>Exportation de la sélection sous</translation>
-    </message>
-    <message>
-        <source>region</source>
-        <translation>région</translation>
     </message>
     <message>
         <source>Exporting Regions As</source>
@@ -3495,14 +4013,6 @@ Channel
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Hide Canvas Tools</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Show Canvas Tools</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>readonly</source>
         <translation type="unfinished"></translation>
     </message>
@@ -3718,6 +4228,82 @@ Channel
         <source>Search new plugins</source>
         <translation type="unfinished"></translation>
     </message>
+    <message>
+        <source>VST Load Error</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>The VST %1 plug-in could not be loaded (or crash during this process).</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>It may be a temporary problem that can be resolved by restarting ocenaudio.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Convert Markers To Regions</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Goto Sample...</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Save Region As ...</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Saving Region As</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>You have multiple regions. Do you want to save each region to a separate file?</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Select “separate” to save each region to a different file. If you select “single”, all your regions will be appended and saved to a single file.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Save Each Region Prefixed With ...</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Save Sound Regions As ...</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Export each selection to a sperate file</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Export each region to a sperate file</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Hide Audio Tools</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Show Audio Tools</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>&amp;Play at %1x speed</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Speed (%1x)</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>%1 (*.%2)</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Format</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>QOcenAudioNoiseReductionWidget</name>
@@ -3921,6 +4507,60 @@ Channel
     </message>
 </context>
 <context>
+    <name>QOcenAudioPlayOptionsPopover</name>
+    <message>
+        <source>Dialog</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Play at 1x speed</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Play at %1x speed</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Play</source>
+        <translation type="unfinished">Lecture</translation>
+    </message>
+    <message>
+        <source>Press and Hold to Change Speed</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Play at %1 speed</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>QOcenAudioPreRollOptionsPopover</name>
+    <message>
+        <source>Dialog</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Pre Roll Duration: 0 s</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Preroll Duration: %1</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>off (%1 s)</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Pre Roll On/Off</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Press and Hold to Change Duration</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
     <name>QOcenAudioPropertiesDialog</name>
     <message>
         <source>Audio Properties</source>
@@ -4023,10 +4663,6 @@ Channel
         <translation>Année</translation>
     </message>
     <message>
-        <source>Disk Number</source>
-        <translation>Nº du disque</translation>
-    </message>
-    <message>
         <source>of</source>
         <translation>sur</translation>
     </message>
@@ -4057,10 +4693,6 @@ Channel
     <message>
         <source>PNG / 256 x 256</source>
         <translation></translation>
-    </message>
-    <message>
-        <source>Change Artwork...</source>
-        <translation>Changer...</translation>
     </message>
     <message>
         <source>Markers</source>
@@ -4104,6 +4736,218 @@ Channel
     </message>
     <message>
         <source>Creation Date</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Disc Number</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Add Genre</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Customize</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Change Artwork ...</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Extensions</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Client ID</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>End Date</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Title</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p style=&quot;margin: 6px;&quot;&gt;&lt;span style=&quot; font-weight:600;&quot;&gt;Title&lt;/span&gt;&lt;br/&gt;&lt;br/&gt;Title of the cut. This differs in use from the BEXT &quot;description&quot; field.  The title is normally viewable on the cart or delivery applications and can be used as an entry into a table of contents or a key in an indexing or search system. &lt;br/&gt;&lt;br/&gt;&lt;span style=&quot; font-weight:600;&quot;&gt;Maximum Length 64 characters&lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Reference</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p style=&quot;margin: 6px;&quot;&gt;&lt;span style=&quot; font-weight:600;&quot;&gt;Start Date&lt;/span&gt;&lt;br/&gt;&lt;br/&gt;Any valid date can be used. To signify an immediate start date, use “1900/01/01.” &lt;br/&gt;&lt;br/&gt;&lt;span style=&quot; font-weight:600;&quot;&gt;Maximum Length 10 characters&lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>0000-00-00</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p style=&quot;margin: 6px;&quot;&gt;&lt;span style=&quot; font-weight:600;&quot;&gt;User Defined Text&lt;/span&gt;&lt;br/&gt;&lt;br/&gt;Use and contents are defined by the user of the system.&lt;br/&gt;&lt;br/&gt;&lt;span style=&quot; font-weight:600;&quot;&gt;Maximum Length 64 characters&lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p style=&quot;margin: 6px;&quot;&gt;&lt;span style=&quot; font-weight:600;&quot;&gt;Originator&lt;/span&gt;&lt;br/&gt;&lt;br/&gt;Name of the originator/producer of the audio file.  &lt;br/&gt;&lt;br/&gt;&lt;span style=&quot; font-weight:600;&quot;&gt;Maximum Length 32 characters&lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p style=&quot;margin: 6px;&quot;&gt;&lt;span style=&quot; font-weight:600;&quot;&gt;Start Time&lt;/span&gt;&lt;br/&gt;&lt;br/&gt;A time, such as 12:31:45, representing the 24 hour time-of-day for the start time on the assigned &quot;Start Date&quot;. If blank, assume 00:00:00.&lt;br/&gt;&lt;br/&gt;&lt;span style=&quot; font-weight:600;&quot;&gt;Maximum Length 8 characters&lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>00:00:00</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Classification</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Cut ID</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p style=&quot;margin: 6px;&quot;&gt;&lt;span style=&quot; font-weight:600;&quot;&gt;Cut ID&lt;/span&gt;&lt;br/&gt;&lt;br/&gt;Cut number, or unique cut key. Some consumer systems may have restricted cut number lengths or allowable character set.&lt;br/&gt;&lt;br/&gt;&lt;span style=&quot; font-weight:600;&quot;&gt;Maximum Length 64 characters&lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Producer</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p style=&quot;margin: 6px;&quot;&gt;&lt;span style=&quot; font-weight:600;&quot;&gt;Producer Application Id&lt;/span&gt;&lt;br/&gt;&lt;br/&gt;Vendor name and/or product name of the program or application that produced the WAVE file with this ‘cart’ chunk.&lt;br/&gt;&lt;br/&gt;&lt;span style=&quot; font-weight:600;&quot;&gt;Maximum Length 64 characters&lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Out Cue</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Prod. Version</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p style=&quot;margin-top: 6px; margin-bottom: 6px; margin-left: 6px;margin-right: 6px;&quot;&gt;&lt;span style=&quot;font-weight:600&quot;&gt;Description&lt;/span&gt;&lt;br/&gt;&lt;br/&gt;Free description of the sequence.  To help applications which only display a short description,  it is recomended that a résumé of the description is contained in the first 64 characters,  and the last 192 characters are use for details.&lt;br/&gt;&lt;br/&gt;&lt;span style=&quot; font-weight:600&quot;&gt;Maximum Length 256 characters&lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p style=&quot;margin: 6px;&quot;&gt;&lt;span style=&quot; font-weight:600;&quot;&gt;Origination Date&lt;/span&gt;&lt;br/&gt;&lt;br/&gt;Date of creation of the audio sequence.  &lt;br/&gt;Use &amp;quot;Set Current&amp;quot; button to update to current date and time.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p style=&quot;margin: 6px;&quot;&gt;&lt;span style=&quot; font-weight:600;&quot;&gt;Category&lt;/span&gt;&lt;br/&gt;&lt;br/&gt;The category name is somewhat application dependent. It’s advisable, though, to use common or standard category names, such as “PSA” or “NEWS” and so on. &lt;br/&gt;&lt;br/&gt;&lt;span style=&quot; font-weight:600;&quot;&gt;Maximum Length 64 characters&lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Originator</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p style=&quot;margin: 6px;&quot;&gt;&lt;span style=&quot; font-weight:600;&quot;&gt;Out Cue&lt;/span&gt;&lt;br/&gt;&lt;br/&gt;Optional outcue phrase to be displayed when the cut is being played.  &lt;br/&gt;&lt;br/&gt;&lt;span style=&quot; font-weight:600;&quot;&gt;Maximum Length 64 characters&lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p style=&quot;margin: 6px;&quot;&gt;&lt;span style=&quot; font-weight:600;&quot;&gt;Client ID&lt;/span&gt;&lt;br/&gt;&lt;br/&gt;Client or customer identification or name&lt;br/&gt;&lt;br/&gt;&lt;span style=&quot; font-weight:600;&quot;&gt;Maximum Length 64 characters&lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Audio Delivery Extension (CART / WAV File Format Only)</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p style=&quot;margin: 6px;&quot;&gt;&lt;span style=&quot; font-weight:600;&quot;&gt;Originator Reference&lt;/span&gt;&lt;br/&gt;&lt;br/&gt;Non ambiguous reference allocated by the originating organization.  &lt;br/&gt;&lt;br/&gt;&lt;span style=&quot; font-weight:600;&quot;&gt;Maximum Length 32 characters&lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p style=&quot;margin: 6px;&quot;&gt;&lt;span style=&quot; font-weight:600;&quot;&gt;Classification&lt;/span&gt;&lt;br/&gt;&lt;br/&gt;Classification key. This key can be used for general classification, selection or sorting based on language, locale or other similar applications. &lt;br/&gt;&lt;br/&gt;&lt;span style=&quot; font-weight:600;&quot;&gt;Maximum Length 64 characters&lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Start Time</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>User Text</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Set Current</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p style=&quot;margin: 6px;&quot;&gt;&lt;span style=&quot; font-weight:600;&quot;&gt;Producer Application Version&lt;/span&gt;&lt;br/&gt;&lt;br/&gt;Version of the program or applications that produced the WAVE file containing the ‘cart’ chunk.&lt;br/&gt;&lt;br/&gt;&lt;span style=&quot; font-weight:600;&quot;&gt;Maximum Length 64 characters&lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Category</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source> Broardcast Extension (BEXT / WAV File Format Only)</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Date</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p style=&quot;margin: 6px;&quot;&gt;&lt;span style=&quot; font-weight:600;&quot;&gt;Origination Time&lt;/span&gt;&lt;br/&gt;&lt;br/&gt;Time of creation of the audio sequence.  &lt;br/&gt;Use &amp;quot;Set Current&amp;quot; button to update to current date and time.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>End Time</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Time</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Start Date</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Description</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p style=&quot;margin: 6px;&quot;&gt;&lt;span style=&quot; font-weight:600;&quot;&gt;End Time&lt;/span&gt;&lt;br/&gt;&lt;br/&gt;As above in start time, indicating the time of day on the appointed end date. If blank, assumed 23:59:59. &lt;br/&gt;&lt;br/&gt;&lt;span style=&quot; font-weight:600;&quot;&gt;Maximum Length 8 characters&lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p style=&quot;margin: 6px;&quot;&gt;&lt;span style=&quot; font-weight:600;&quot;&gt;Artist&lt;/span&gt;&lt;br/&gt;&lt;br/&gt;Artist or creator name. This is different than the &quot;originator&quot; field in the BEXT chunk in that it can be used to describe the original artist of a song, for example, while the &quot;originator&quot; field would be more appropriate as the producer of the specific audio file.&lt;br/&gt;&lt;br/&gt;&lt;span style=&quot; font-weight:600;&quot;&gt;Maximum Length 64 characters&lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p style=&quot;margin: 6px;&quot;&gt;&lt;span style=&quot; font-weight:600;&quot;&gt;End Date&lt;/span&gt;&lt;br/&gt;&lt;br/&gt;As above in start date, but indicating the end date. This the date on after which the sequence will no longer be active. If the sequence is to run forever, use “9999/12/31”. &lt;br/&gt;&lt;br/&gt;&lt;span style=&quot; font-weight:600;&quot;&gt;Maximum Length 10 characters&lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Export Regions</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Play</source>
+        <translation type="unfinished">Lecture</translation>
+    </message>
+    <message>
+        <source>Delete selected regions</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>◄</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>►</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Export regions/markers As...</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -4186,6 +5030,45 @@ Channel
     </message>
     <message>
         <source>Show Sound Preferences</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Overwrite Record Mode On/Off</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>QOcenAudioToolbar::Transport</name>
+    <message>
+        <source>Start/Stop Recording</source>
+        <translation type="unfinished">Lancer/Arrêter l&apos;enregistrement</translation>
+    </message>
+    <message>
+        <source>Start Playback</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Stop Playback</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Rewind Cursor</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Forward Cursor</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Pause/Resume</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Record Monitor On/Off</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Backward Cursor</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -5072,10 +5955,6 @@ Channel
 <context>
     <name>QOcenPluginsPrefs</name>
     <message>
-        <source>Form</source>
-        <translation>Forme</translation>
-    </message>
-    <message>
         <source>Supports Audio Units (requires restart)</source>
         <translation>Activer Audio Units (redémarrage requis)</translation>
     </message>
@@ -5084,32 +5963,8 @@ Channel
         <translation>Activer VST (redémarrage requis)</translation>
     </message>
     <message>
-        <source>Add VST Path</source>
-        <translation>Ajouter un chemin VST</translation>
-    </message>
-    <message>
-        <source>Add a new path to search for VST effects</source>
-        <translation>Ajouter un nouveau chemin pour rechercher des effets VST</translation>
-    </message>
-    <message>
-        <source>Remove VST Path</source>
-        <translation>Supprimer le chemin VST</translation>
-    </message>
-    <message>
-        <source>Remove path from VST path list</source>
-        <translation>Supprimer le chemin de la liste de chemins VST</translation>
-    </message>
-    <message>
         <source>Scanning Plugins</source>
         <translation>Recherche plugins</translation>
-    </message>
-    <message>
-        <source>Refresh VST Effects</source>
-        <translation>Actualiser les effets VST</translation>
-    </message>
-    <message>
-        <source>Search for VST effects in the selected path</source>
-        <translation>Rechercher des effets VST dans les chemins sélectionnés</translation>
     </message>
     <message>
         <source>Select Directory</source>
@@ -5191,6 +6046,10 @@ Channel
         <source>Enable Plugins</source>
         <translation type="unfinished"></translation>
     </message>
+    <message>
+        <source>Plugins Preferences</source>
+        <translation type="unfinished">Préférences de plugins</translation>
+    </message>
 </context>
 <context>
     <name>QOcenRecentMenu</name>
@@ -5211,10 +6070,6 @@ Channel
         <translation>Ouvrez tous les streams dans ce fichier</translation>
     </message>
     <message>
-        <source>Open all files in this directory</source>
-        <translation>Ouvrez tous les fichiers dans ce dossier</translation>
-    </message>
-    <message>
         <source>Open both files in this %1</source>
         <translation>Ouvrez les deux fichiers dans ce %1</translation>
     </message>
@@ -5225,6 +6080,10 @@ Channel
     <message>
         <source>and %1 other files</source>
         <translation>et %1 d&apos;autres fichiers</translation>
+    </message>
+    <message>
+        <source>Open all files in this folder</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -5309,41 +6168,6 @@ Channel
     <message>
         <source>Disabled</source>
         <translation type="unfinished">Désactivé</translation>
-    </message>
-</context>
-<context>
-    <name>QOcenTransport</name>
-    <message>
-        <source>Start/Stop Recording</source>
-        <translation type="unfinished">Lancer/Arrêter l&apos;enregistrement</translation>
-    </message>
-    <message>
-        <source>Start Playback</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Stop Playback</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Rewind Cursor</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Forward Cursor</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Pause/Resume</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Record Monitor On/Off</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Backward Cursor</source>
-        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -5471,10 +6295,6 @@ ou votre réseau que vous souhaitez ouvrir:</translation>
     <message>
         <source>Extract %1 Channel</source>
         <translation>Extrait du canal %1</translation>
-    </message>
-    <message>
-        <source>Close selected Files</source>
-        <translation>Fermer les fichiers sélectionnés</translation>
     </message>
     <message>
         <source>Save Selected Files</source>
@@ -5626,6 +6446,30 @@ ou votre réseau que vous souhaitez ouvrir:</translation>
     </message>
     <message>
         <source>Combine to Multichannel</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Open Links</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Open Link</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Remove Link</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Remove Selected Links</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Close Selected Files</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Open Selected Links</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -6278,6 +7122,10 @@ ou votre réseau que vous souhaitez ouvrir:</translation>
     <message>
         <source>Images (*.png *.xpm *.jpg)</source>
         <translation>Images (*.png *.xpm *.jpg)</translation>
+    </message>
+    <message>
+        <source>Format</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 </TS>

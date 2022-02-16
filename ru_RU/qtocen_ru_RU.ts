@@ -871,6 +871,22 @@
         <source>Undetermined</source>
         <translation type="unfinished"></translation>
     </message>
+    <message>
+        <source>Select Visible</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Waveform View</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Spectrogram View</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Waveform and Spectrogram View</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>QOcenApplication</name>
@@ -1275,6 +1291,22 @@
         <source>Keep links to closed files</source>
         <translation type="unfinished"></translation>
     </message>
+    <message>
+        <source>Requires double click to select audio from open file list</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Privacy</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Send diagnostics on unexpected crashes</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Send log file on close</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>QOcenGetTextDialog</name>
@@ -1350,6 +1382,18 @@
     <message>
         <source>Filter</source>
         <translation>Фильтр</translation>
+    </message>
+    <message>
+        <source>Import</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Export</source>
+        <translation type="unfinished">Экспорт</translation>
+    </message>
+    <message>
+        <source>Export KeyBindings Settings...</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -1526,22 +1570,6 @@
         <translation>Произошла ошибка при сохранении звукового файла “%1”!</translation>
     </message>
     <message>
-        <source>Your sound “%1” contains informations that can not be saved in the selected format. You want to continue and export to this format?</source>
-        <translation>Ваш звук “%1” содержит информацию, которая не может быть сохранена в выбранном формате. Хотите продолжить экспорт в этот формат?</translation>
-    </message>
-    <message>
-        <source>Export</source>
-        <translation>Экспорт</translation>
-    </message>
-    <message>
-        <source>Exporting As</source>
-        <translation>Экспортировать как</translation>
-    </message>
-    <message>
-        <source>Unsupported information will not be present in the exported file.</source>
-        <translation>Неподдерживаемые сведения не будут присутствовать в экспортированном файле.</translation>
-    </message>
-    <message>
         <source>The file for the sound that was at %1 is now empty. Do you want to keep as new, save or close the sound?</source>
         <translation>Файл звука, который был в %1, теперь пуст. Хотите сохранить как новый, сохранить или закрыть звук?</translation>
     </message>
@@ -1659,6 +1687,30 @@ To save without the markers/regions, use the export operation.</source>
         <source>You are about to combine audios with different sample rates to a multichannel audio. Do you want to proceed?</source>
         <translation type="unfinished"></translation>
     </message>
+    <message>
+        <source>Your sound “%1” contains informations that can not be saved in the selected format. You want to continue and save a copy to this format?</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Unsupported information will not be present in the saved file.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Save Copy</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Saving Copy As</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Proceed and not save regions?</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>The format chosen to save the “%1” file does not support regions. If you proceed the regions and markers contained in this audio will NOT be saved.</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>QOcenNetworkPrefs</name>
@@ -1712,6 +1764,233 @@ To save without the markers/regions, use the export operation.</source>
     <message>
         <source>Press &apos;alt&apos; to close all</source>
         <translation>Нажмите &apos;alt&apos; чтобы закрыть все</translation>
+    </message>
+</context>
+<context>
+    <name>QOcenPlainTextEdit</name>
+    <message>
+        <source>Ignore Spelling</source>
+        <translation type="unfinished">Игнорировать произношение</translation>
+    </message>
+    <message>
+        <source>Learn Spelling</source>
+        <translation type="unfinished">Запомнить произношение</translation>
+    </message>
+    <message>
+        <source>mil </source>
+        <translation type="unfinished">мил </translation>
+    </message>
+    <message>
+        <source>milhão </source>
+        <translation type="unfinished">миллион </translation>
+    </message>
+    <message>
+        <source>bilhão </source>
+        <translation type="unfinished">миллиард </translation>
+    </message>
+    <message>
+        <source>trilhão </source>
+        <translation type="unfinished">триллион </translation>
+    </message>
+    <message>
+        <source>quatrilhão </source>
+        <translation type="unfinished">квадрильон </translation>
+    </message>
+    <message>
+        <source>quintilhão </source>
+        <translation type="unfinished">квинтильон </translation>
+    </message>
+    <message>
+        <source>sextilhão </source>
+        <translation type="unfinished">секстиллион </translation>
+    </message>
+    <message>
+        <source>setilhão </source>
+        <translation type="unfinished">септильон </translation>
+    </message>
+    <message>
+        <source>milhões </source>
+        <translation type="unfinished">миллионы </translation>
+    </message>
+    <message>
+        <source>bilhões </source>
+        <translation type="unfinished">миллиарды </translation>
+    </message>
+    <message>
+        <source>trilhões </source>
+        <translation type="unfinished">триллионы </translation>
+    </message>
+    <message>
+        <source>quadrilhões </source>
+        <translation type="unfinished">квадрильоны </translation>
+    </message>
+    <message>
+        <source>quintilhões </source>
+        <translation type="unfinished">квинтильоны </translation>
+    </message>
+    <message>
+        <source>sextilhões </source>
+        <translation type="unfinished">секстиллионы </translation>
+    </message>
+    <message>
+        <source>setilhões </source>
+        <translation type="unfinished">септильоны </translation>
+    </message>
+    <message>
+        <source>zero</source>
+        <translation type="unfinished">ноль</translation>
+    </message>
+    <message>
+        <source>e </source>
+        <translation type="unfinished">и </translation>
+    </message>
+    <message>
+        <source>cento </source>
+        <translation type="unfinished">сотня </translation>
+    </message>
+    <message>
+        <source>cem </source>
+        <translation type="unfinished">сто </translation>
+    </message>
+    <message>
+        <source>duzentos </source>
+        <translation type="unfinished">двести </translation>
+    </message>
+    <message>
+        <source>trezentos </source>
+        <translation type="unfinished">триста </translation>
+    </message>
+    <message>
+        <source>quatrocentos </source>
+        <translation type="unfinished">четыреста </translation>
+    </message>
+    <message>
+        <source>quinhentos </source>
+        <translation type="unfinished">пятьсот </translation>
+    </message>
+    <message>
+        <source>seiscentos </source>
+        <translation type="unfinished">шестьсот </translation>
+    </message>
+    <message>
+        <source>setecentos </source>
+        <translation type="unfinished">семьсот </translation>
+    </message>
+    <message>
+        <source>oitocentos </source>
+        <translation type="unfinished">восемьсот </translation>
+    </message>
+    <message>
+        <source>novecentos </source>
+        <translation type="unfinished">девятьсот </translation>
+    </message>
+    <message>
+        <source>dez </source>
+        <translation type="unfinished">десять </translation>
+    </message>
+    <message>
+        <source>onze </source>
+        <translation type="unfinished">одиннадцать </translation>
+    </message>
+    <message>
+        <source>doze </source>
+        <translation type="unfinished">двенадцать </translation>
+    </message>
+    <message>
+        <source>treze </source>
+        <translation type="unfinished">тринадцать </translation>
+    </message>
+    <message>
+        <source>quatorze </source>
+        <translation type="unfinished">четырнадцать </translation>
+    </message>
+    <message>
+        <source>quinze </source>
+        <translation type="unfinished">пятнадцать </translation>
+    </message>
+    <message>
+        <source>dezesseis </source>
+        <translation type="unfinished">шестнадцать </translation>
+    </message>
+    <message>
+        <source>dezessete </source>
+        <translation type="unfinished">семнадцать </translation>
+    </message>
+    <message>
+        <source>dezoito </source>
+        <translation type="unfinished">восемнадцать </translation>
+    </message>
+    <message>
+        <source>dezenove </source>
+        <translation type="unfinished">девятнадцать </translation>
+    </message>
+    <message>
+        <source>vinte </source>
+        <translation type="unfinished">двадцать </translation>
+    </message>
+    <message>
+        <source>trinta </source>
+        <translation type="unfinished">тридцать </translation>
+    </message>
+    <message>
+        <source>quarenta </source>
+        <translation type="unfinished">сорок </translation>
+    </message>
+    <message>
+        <source>cinquenta </source>
+        <translation type="unfinished">пятьдесят </translation>
+    </message>
+    <message>
+        <source>sessenta </source>
+        <translation type="unfinished">шестьдесят </translation>
+    </message>
+    <message>
+        <source>setenta </source>
+        <translation type="unfinished">семьдесят </translation>
+    </message>
+    <message>
+        <source>oitenta </source>
+        <translation type="unfinished">восемьдесят </translation>
+    </message>
+    <message>
+        <source>noventa </source>
+        <translation type="unfinished">девяносто </translation>
+    </message>
+    <message>
+        <source>um </source>
+        <translation type="unfinished">один </translation>
+    </message>
+    <message>
+        <source>dois </source>
+        <translation type="unfinished">два </translation>
+    </message>
+    <message>
+        <source>três </source>
+        <translation type="unfinished">três </translation>
+    </message>
+    <message>
+        <source>quatro </source>
+        <translation type="unfinished">четыре </translation>
+    </message>
+    <message>
+        <source>cinco </source>
+        <translation type="unfinished">пять </translation>
+    </message>
+    <message>
+        <source>seis </source>
+        <translation type="unfinished">шесть </translation>
+    </message>
+    <message>
+        <source>sete </source>
+        <translation type="unfinished">семь </translation>
+    </message>
+    <message>
+        <source>oito </source>
+        <translation type="unfinished">восемь </translation>
+    </message>
+    <message>
+        <source>nove </source>
+        <translation type="unfinished">девять </translation>
     </message>
 </context>
 <context>
@@ -1808,18 +2087,6 @@ To save without the markers/regions, use the export operation.</source>
 </context>
 <context>
     <name>QOcenSaveFileDialog</name>
-    <message>
-        <source>Question</source>
-        <translation>Вопрос</translation>
-    </message>
-    <message>
-        <source>The selected format doesn&apos;t support regions and markers. Do you want to proceed without save regions?</source>
-        <translation>Выбранный формат не поддерживает области и маркеры. Продолжить без сохранения областей?</translation>
-    </message>
-    <message>
-        <source>If you continue the saved file will not contain the regions created in this audio.</source>
-        <translation>Если продолжите, то сохраненный файл не будет содержать области, созданные для этого звука.</translation>
-    </message>
     <message>
         <source>Format</source>
         <translation>Формат</translation>
@@ -2106,16 +2373,8 @@ To save without the markers/regions, use the export operation.</source>
         <translation>Blackman-Nuttall</translation>
     </message>
     <message>
-        <source>Hanning</source>
-        <translation>Hanning</translation>
-    </message>
-    <message>
         <source>Hamming</source>
         <translation>Hamming</translation>
-    </message>
-    <message>
-        <source>Inv. Linear Grayscale</source>
-        <translation>Обратная линейная шкала в оттенках серого</translation>
     </message>
     <message>
         <source>Linear Grayscale</source>
@@ -2124,10 +2383,6 @@ To save without the markers/regions, use the export operation.</source>
     <message>
         <source>Grayscale</source>
         <translation>Шкала в оттенках серого</translation>
-    </message>
-    <message>
-        <source>Inv. Grayscale</source>
-        <translation>Обратная шкала в оттенках серого</translation>
     </message>
     <message>
         <source>Color</source>
@@ -2178,14 +2433,6 @@ To save without the markers/regions, use the export operation.</source>
         <translation>Выберите количество бинов частоты, которые будут использоваться в спектрограмме</translation>
     </message>
     <message>
-        <source>Select spectrogram dynamic range. The chosen value will be used as lower energy displayed in the spectrogram</source>
-        <translation>Выбрать динамический диапазон спектрограммы. Выбранное значение будет использовано как меньшее значение спектрограммы</translation>
-    </message>
-    <message>
-        <source>Select spectrogram window size. The window size is a percentage of two times the number of bins</source>
-        <translation>Выбрать размер окна спектрограммы. Размер окна в процентах в два раза больше количества бинов</translation>
-    </message>
-    <message>
         <source>Number of Bins</source>
         <translation>Количество бинов</translation>
     </message>
@@ -2193,232 +2440,57 @@ To save without the markers/regions, use the export operation.</source>
         <source>Use Pre-Emphasis Filtering</source>
         <translation>Использовать выбранное в фильтре</translation>
     </message>
-</context>
-<context>
-    <name>QOcenTextEdit</name>
     <message>
-        <source>Ignore Spelling</source>
-        <translation>Игнорировать произношение</translation>
+        <source>Invert</source>
+        <translation type="unfinished">Инвертировать</translation>
     </message>
     <message>
-        <source>Learn Spelling</source>
-        <translation>Запомнить произношение</translation>
+        <source>Hann</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>mil </source>
-        <translation>мил </translation>
+        <source>Viridis</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>milhão </source>
-        <translation>миллион </translation>
+        <source>Magma</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>bilhão </source>
-        <translation>миллиард </translation>
+        <source>Plasma</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>trilhão </source>
-        <translation>триллион </translation>
+        <source>Inferno</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>quatrilhão </source>
-        <translation>квадрильон </translation>
+        <source>Cividis</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>quintilhão </source>
-        <translation>квинтильон </translation>
+        <source>Mako</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>sextilhão </source>
-        <translation>секстиллион </translation>
+        <source>Rocket</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>setilhão </source>
-        <translation>септильон </translation>
+        <source>Turbo</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>milhões </source>
-        <translation>миллионы </translation>
+        <source>Copper</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>bilhões </source>
-        <translation>миллиарды </translation>
+        <source>Hot</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>trilhões </source>
-        <translation>триллионы </translation>
-    </message>
-    <message>
-        <source>quadrilhões </source>
-        <translation>квадрильоны </translation>
-    </message>
-    <message>
-        <source>quintilhões </source>
-        <translation>квинтильоны </translation>
-    </message>
-    <message>
-        <source>sextilhões </source>
-        <translation>секстиллионы </translation>
-    </message>
-    <message>
-        <source>setilhões </source>
-        <translation>септильоны </translation>
-    </message>
-    <message>
-        <source>zero</source>
-        <translation>ноль</translation>
-    </message>
-    <message>
-        <source>e </source>
-        <translation>и </translation>
-    </message>
-    <message>
-        <source>cento </source>
-        <translation>сотня </translation>
-    </message>
-    <message>
-        <source>cem </source>
-        <translation>сто </translation>
-    </message>
-    <message>
-        <source>duzentos </source>
-        <translation>двести </translation>
-    </message>
-    <message>
-        <source>trezentos </source>
-        <translation>триста </translation>
-    </message>
-    <message>
-        <source>quatrocentos </source>
-        <translation>четыреста </translation>
-    </message>
-    <message>
-        <source>quinhentos </source>
-        <translation>пятьсот </translation>
-    </message>
-    <message>
-        <source>seiscentos </source>
-        <translation>шестьсот </translation>
-    </message>
-    <message>
-        <source>setecentos </source>
-        <translation>семьсот </translation>
-    </message>
-    <message>
-        <source>oitocentos </source>
-        <translation>восемьсот </translation>
-    </message>
-    <message>
-        <source>novecentos </source>
-        <translation>девятьсот </translation>
-    </message>
-    <message>
-        <source>dez </source>
-        <translation>десять </translation>
-    </message>
-    <message>
-        <source>onze </source>
-        <translation>одиннадцать </translation>
-    </message>
-    <message>
-        <source>doze </source>
-        <translation>двенадцать </translation>
-    </message>
-    <message>
-        <source>treze </source>
-        <translation>тринадцать </translation>
-    </message>
-    <message>
-        <source>quatorze </source>
-        <translation>четырнадцать </translation>
-    </message>
-    <message>
-        <source>quinze </source>
-        <translation>пятнадцать </translation>
-    </message>
-    <message>
-        <source>dezesseis </source>
-        <translation>шестнадцать </translation>
-    </message>
-    <message>
-        <source>dezessete </source>
-        <translation>семнадцать </translation>
-    </message>
-    <message>
-        <source>dezoito </source>
-        <translation>восемнадцать </translation>
-    </message>
-    <message>
-        <source>dezenove </source>
-        <translation>девятнадцать </translation>
-    </message>
-    <message>
-        <source>vinte </source>
-        <translation>двадцать </translation>
-    </message>
-    <message>
-        <source>trinta </source>
-        <translation>тридцать </translation>
-    </message>
-    <message>
-        <source>quarenta </source>
-        <translation>сорок </translation>
-    </message>
-    <message>
-        <source>cinquenta </source>
-        <translation>пятьдесят </translation>
-    </message>
-    <message>
-        <source>sessenta </source>
-        <translation>шестьдесят </translation>
-    </message>
-    <message>
-        <source>setenta </source>
-        <translation>семьдесят </translation>
-    </message>
-    <message>
-        <source>oitenta </source>
-        <translation>восемьдесят </translation>
-    </message>
-    <message>
-        <source>noventa </source>
-        <translation>девяносто </translation>
-    </message>
-    <message>
-        <source>um </source>
-        <translation>один </translation>
-    </message>
-    <message>
-        <source>dois </source>
-        <translation>два </translation>
-    </message>
-    <message>
-        <source>três </source>
-        <translation>três </translation>
-    </message>
-    <message>
-        <source>quatro </source>
-        <translation>четыре </translation>
-    </message>
-    <message>
-        <source>cinco </source>
-        <translation>пять </translation>
-    </message>
-    <message>
-        <source>seis </source>
-        <translation>шесть </translation>
-    </message>
-    <message>
-        <source>sete </source>
-        <translation>семь </translation>
-    </message>
-    <message>
-        <source>oito </source>
-        <translation>восемь </translation>
-    </message>
-    <message>
-        <source>nove </source>
-        <translation>девять </translation>
+        <source>Bone</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 </TS>

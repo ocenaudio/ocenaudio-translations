@@ -872,6 +872,22 @@
         <source>Undetermined</source>
         <translation>Unbestimmt</translation>
     </message>
+    <message>
+        <source>Select Visible</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Waveform View</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Spectrogram View</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Waveform and Spectrogram View</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>QOcenApplication</name>
@@ -1276,6 +1292,22 @@
         <source>Keep links to closed files</source>
         <translation>Links zu geschlossenen Dateien behalten</translation>
     </message>
+    <message>
+        <source>Requires double click to select audio from open file list</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Privacy</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Send diagnostics on unexpected crashes</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Send log file on close</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>QOcenGetTextDialog</name>
@@ -1351,6 +1383,18 @@
     <message>
         <source>Filter</source>
         <translation>Filter</translation>
+    </message>
+    <message>
+        <source>Import</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Export</source>
+        <translation type="unfinished">Exportieren</translation>
+    </message>
+    <message>
+        <source>Export KeyBindings Settings...</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -1527,22 +1571,6 @@
         <translation>Ein Fehler ereignete sich beim Speichern der Audiodatei “%1”!</translation>
     </message>
     <message>
-        <source>Your sound “%1” contains informations that can not be saved in the selected format. You want to continue and export to this format?</source>
-        <translation>Die audio “%1” enthält Informationen, die nicht in dem ausgewählten Format gespeichert werden kann. Sie wollen dieses Format fortzusetzen und exportieren?</translation>
-    </message>
-    <message>
-        <source>Export</source>
-        <translation>Exportieren</translation>
-    </message>
-    <message>
-        <source>Exporting As</source>
-        <translation>Exportieren als</translation>
-    </message>
-    <message>
-        <source>Unsupported information will not be present in the exported file.</source>
-        <translation>Nicht unterstützte Daten werden nicht in die exportierte Datei gespeichert werden.</translation>
-    </message>
-    <message>
         <source>The file for the sound that was at %1 is now empty. Do you want to keep as new, save or close the sound?</source>
         <translation>Die Datei für den Ton, die bei %1 lag, ist jetzt leer. Möchten Sie den Ton als neu behalten, speichern oder schließen?</translation>
     </message>
@@ -1664,6 +1692,30 @@ Um ohne die Markierungen/Regionen zu speichern, verwenden Sie den Exportvorgang.
         <source>You are about to combine audios with different sample rates to a multichannel audio. Do you want to proceed?</source>
         <translation>Sie sind dabei, Töne mit verschiedenen Abtastraten zu einem Mehrkanalton zu kombinieren. Wollen Sie fortfahren?</translation>
     </message>
+    <message>
+        <source>Your sound “%1” contains informations that can not be saved in the selected format. You want to continue and save a copy to this format?</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Unsupported information will not be present in the saved file.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Save Copy</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Saving Copy As</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Proceed and not save regions?</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>The format chosen to save the “%1” file does not support regions. If you proceed the regions and markers contained in this audio will NOT be saved.</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>QOcenNetworkPrefs</name>
@@ -1717,6 +1769,233 @@ Um ohne die Markierungen/Regionen zu speichern, verwenden Sie den Exportvorgang.
     <message>
         <source>Press &apos;alt&apos; to close all</source>
         <translation>Drücken Sie &apos;Alt&apos; um alle zu schließen</translation>
+    </message>
+</context>
+<context>
+    <name>QOcenPlainTextEdit</name>
+    <message>
+        <source>Ignore Spelling</source>
+        <translation type="unfinished">Rechtschreibung ignorieren</translation>
+    </message>
+    <message>
+        <source>Learn Spelling</source>
+        <translation type="unfinished">Lernen</translation>
+    </message>
+    <message>
+        <source>mil </source>
+        <translation type="unfinished">tausend</translation>
+    </message>
+    <message>
+        <source>milhão </source>
+        <translation type="unfinished">Million</translation>
+    </message>
+    <message>
+        <source>bilhão </source>
+        <translation type="unfinished">Milliarde</translation>
+    </message>
+    <message>
+        <source>trilhão </source>
+        <translation type="unfinished">Billion</translation>
+    </message>
+    <message>
+        <source>quatrilhão </source>
+        <translation type="unfinished">Billiarden</translation>
+    </message>
+    <message>
+        <source>quintilhão </source>
+        <translation type="unfinished">Trillion</translation>
+    </message>
+    <message>
+        <source>sextilhão </source>
+        <translation type="unfinished">sextillion</translation>
+    </message>
+    <message>
+        <source>setilhão </source>
+        <translation type="unfinished">setilhão</translation>
+    </message>
+    <message>
+        <source>milhões </source>
+        <translation type="unfinished">Millionen</translation>
+    </message>
+    <message>
+        <source>bilhões </source>
+        <translation type="unfinished">Milliarden</translation>
+    </message>
+    <message>
+        <source>trilhões </source>
+        <translation type="unfinished">Billionen</translation>
+    </message>
+    <message>
+        <source>quadrilhões </source>
+        <translation type="unfinished">Billiarden</translation>
+    </message>
+    <message>
+        <source>quintilhões </source>
+        <translation type="unfinished">Trillionen</translation>
+    </message>
+    <message>
+        <source>sextilhões </source>
+        <translation type="unfinished">sextillion</translation>
+    </message>
+    <message>
+        <source>setilhões </source>
+        <translation type="unfinished">setilhão</translation>
+    </message>
+    <message>
+        <source>zero</source>
+        <translation type="unfinished">null</translation>
+    </message>
+    <message>
+        <source>e </source>
+        <translation type="unfinished">und</translation>
+    </message>
+    <message>
+        <source>cento </source>
+        <translation type="unfinished">hundert</translation>
+    </message>
+    <message>
+        <source>cem </source>
+        <translation type="unfinished">hundert</translation>
+    </message>
+    <message>
+        <source>duzentos </source>
+        <translation type="unfinished">zweihundert</translation>
+    </message>
+    <message>
+        <source>trezentos </source>
+        <translation type="unfinished">dreihundert</translation>
+    </message>
+    <message>
+        <source>quatrocentos </source>
+        <translation type="unfinished">vierhundert</translation>
+    </message>
+    <message>
+        <source>quinhentos </source>
+        <translation type="unfinished">fünfhundert</translation>
+    </message>
+    <message>
+        <source>seiscentos </source>
+        <translation type="unfinished">sechshundert</translation>
+    </message>
+    <message>
+        <source>setecentos </source>
+        <translation type="unfinished">siebenhundert</translation>
+    </message>
+    <message>
+        <source>oitocentos </source>
+        <translation type="unfinished">achthundert</translation>
+    </message>
+    <message>
+        <source>novecentos </source>
+        <translation type="unfinished">neunhundert</translation>
+    </message>
+    <message>
+        <source>dez </source>
+        <translation type="unfinished">zehn</translation>
+    </message>
+    <message>
+        <source>onze </source>
+        <translation type="unfinished">elf</translation>
+    </message>
+    <message>
+        <source>doze </source>
+        <translation type="unfinished">zwölf</translation>
+    </message>
+    <message>
+        <source>treze </source>
+        <translation type="unfinished">dreizehn</translation>
+    </message>
+    <message>
+        <source>quatorze </source>
+        <translation type="unfinished">vierzehn</translation>
+    </message>
+    <message>
+        <source>quinze </source>
+        <translation type="unfinished">fünfzehn</translation>
+    </message>
+    <message>
+        <source>dezesseis </source>
+        <translation type="unfinished">sechzehn</translation>
+    </message>
+    <message>
+        <source>dezessete </source>
+        <translation type="unfinished">siebzehn</translation>
+    </message>
+    <message>
+        <source>dezoito </source>
+        <translation type="unfinished">achtzehn</translation>
+    </message>
+    <message>
+        <source>dezenove </source>
+        <translation type="unfinished">neunzehn</translation>
+    </message>
+    <message>
+        <source>vinte </source>
+        <translation type="unfinished">zwanzig</translation>
+    </message>
+    <message>
+        <source>trinta </source>
+        <translation type="unfinished">dreißig</translation>
+    </message>
+    <message>
+        <source>quarenta </source>
+        <translation type="unfinished">vierzig</translation>
+    </message>
+    <message>
+        <source>cinquenta </source>
+        <translation type="unfinished">fünfzig</translation>
+    </message>
+    <message>
+        <source>sessenta </source>
+        <translation type="unfinished">sechzig</translation>
+    </message>
+    <message>
+        <source>setenta </source>
+        <translation type="unfinished">siebzig</translation>
+    </message>
+    <message>
+        <source>oitenta </source>
+        <translation type="unfinished">achtzig</translation>
+    </message>
+    <message>
+        <source>noventa </source>
+        <translation type="unfinished">neunzig</translation>
+    </message>
+    <message>
+        <source>um </source>
+        <translation type="unfinished">eins</translation>
+    </message>
+    <message>
+        <source>dois </source>
+        <translation type="unfinished">zwei</translation>
+    </message>
+    <message>
+        <source>três </source>
+        <translation type="unfinished">drei</translation>
+    </message>
+    <message>
+        <source>quatro </source>
+        <translation type="unfinished">vier</translation>
+    </message>
+    <message>
+        <source>cinco </source>
+        <translation type="unfinished">fünf</translation>
+    </message>
+    <message>
+        <source>seis </source>
+        <translation type="unfinished">sechs</translation>
+    </message>
+    <message>
+        <source>sete </source>
+        <translation type="unfinished">sieben</translation>
+    </message>
+    <message>
+        <source>oito </source>
+        <translation type="unfinished">acht</translation>
+    </message>
+    <message>
+        <source>nove </source>
+        <translation type="unfinished">neun</translation>
     </message>
 </context>
 <context>
@@ -1813,18 +2092,6 @@ Um ohne die Markierungen/Regionen zu speichern, verwenden Sie den Exportvorgang.
 </context>
 <context>
     <name>QOcenSaveFileDialog</name>
-    <message>
-        <source>Question</source>
-        <translation>Frage</translation>
-    </message>
-    <message>
-        <source>The selected format doesn&apos;t support regions and markers. Do you want to proceed without save regions?</source>
-        <translation>Das gewählte Format unterstützt keine Regionen und Marker. Wollen Sie fortfahren, ohne die Regionen zu speichern?</translation>
-    </message>
-    <message>
-        <source>If you continue the saved file will not contain the regions created in this audio.</source>
-        <translation>Wenn Sie fortfahren, wird die gespeicherte Datei keine Regionen enthalten.</translation>
-    </message>
     <message>
         <source>Format</source>
         <translation>Format</translation>
@@ -2111,16 +2378,8 @@ Um ohne die Markierungen/Regionen zu speichern, verwenden Sie den Exportvorgang.
         <translation>Blackman-Nuttall</translation>
     </message>
     <message>
-        <source>Hanning</source>
-        <translation>Hanning</translation>
-    </message>
-    <message>
         <source>Hamming</source>
         <translation>Hamming</translation>
-    </message>
-    <message>
-        <source>Inv. Linear Grayscale</source>
-        <translation>Inv. Linear Graustufen</translation>
     </message>
     <message>
         <source>Linear Grayscale</source>
@@ -2129,10 +2388,6 @@ Um ohne die Markierungen/Regionen zu speichern, verwenden Sie den Exportvorgang.
     <message>
         <source>Grayscale</source>
         <translation>Graustufen</translation>
-    </message>
-    <message>
-        <source>Inv. Grayscale</source>
-        <translation>Inv. Graustufen</translation>
     </message>
     <message>
         <source>Color</source>
@@ -2183,14 +2438,6 @@ Um ohne die Markierungen/Regionen zu speichern, verwenden Sie den Exportvorgang.
         <translation>Wählen Sie die Anzahl der Frequenzbehälter, die zur Erstellung des Spektrogramms verwendet werden sollen</translation>
     </message>
     <message>
-        <source>Select spectrogram dynamic range. The chosen value will be used as lower energy displayed in the spectrogram</source>
-        <translation>Wählen Sie den Spektrogramm-Dynamikbereich. Der gewählte Wert wird als niedrigere Energie verwendet, die im Spektrogramm angezeigt wird</translation>
-    </message>
-    <message>
-        <source>Select spectrogram window size. The window size is a percentage of two times the number of bins</source>
-        <translation>Wählen Sie die Größe des Spektrogrammfensters. Die Fenstergröße ist ein Prozentsatz des Zweifachen der Anzahl der Bins</translation>
-    </message>
-    <message>
         <source>Number of Bins</source>
         <translation>Anzahl der Behälter</translation>
     </message>
@@ -2198,232 +2445,57 @@ Um ohne die Markierungen/Regionen zu speichern, verwenden Sie den Exportvorgang.
         <source>Use Pre-Emphasis Filtering</source>
         <translation>Prä-Emphasis-Filterung verwenden</translation>
     </message>
-</context>
-<context>
-    <name>QOcenTextEdit</name>
     <message>
-        <source>Ignore Spelling</source>
-        <translation>Rechtschreibung ignorieren</translation>
+        <source>Invert</source>
+        <translation type="unfinished">Umkehren</translation>
     </message>
     <message>
-        <source>Learn Spelling</source>
-        <translation>Lernen</translation>
+        <source>Hann</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>mil </source>
-        <translation>tausend</translation>
+        <source>Viridis</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>milhão </source>
-        <translation>Million</translation>
+        <source>Magma</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>bilhão </source>
-        <translation>Milliarde</translation>
+        <source>Plasma</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>trilhão </source>
-        <translation>Billion</translation>
+        <source>Inferno</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>quatrilhão </source>
-        <translation>Billiarden</translation>
+        <source>Cividis</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>quintilhão </source>
-        <translation>Trillion</translation>
+        <source>Mako</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>sextilhão </source>
-        <translation>sextillion</translation>
+        <source>Rocket</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>setilhão </source>
-        <translation>setilhão</translation>
+        <source>Turbo</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>milhões </source>
-        <translation>Millionen</translation>
+        <source>Copper</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>bilhões </source>
-        <translation>Milliarden</translation>
+        <source>Hot</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>trilhões </source>
-        <translation>Billionen</translation>
-    </message>
-    <message>
-        <source>quadrilhões </source>
-        <translation>Billiarden</translation>
-    </message>
-    <message>
-        <source>quintilhões </source>
-        <translation>Trillionen</translation>
-    </message>
-    <message>
-        <source>sextilhões </source>
-        <translation>sextillion</translation>
-    </message>
-    <message>
-        <source>setilhões </source>
-        <translation>setilhão</translation>
-    </message>
-    <message>
-        <source>zero</source>
-        <translation>null</translation>
-    </message>
-    <message>
-        <source>e </source>
-        <translation>und</translation>
-    </message>
-    <message>
-        <source>cento </source>
-        <translation>hundert</translation>
-    </message>
-    <message>
-        <source>cem </source>
-        <translation>hundert</translation>
-    </message>
-    <message>
-        <source>duzentos </source>
-        <translation>zweihundert</translation>
-    </message>
-    <message>
-        <source>trezentos </source>
-        <translation>dreihundert</translation>
-    </message>
-    <message>
-        <source>quatrocentos </source>
-        <translation>vierhundert</translation>
-    </message>
-    <message>
-        <source>quinhentos </source>
-        <translation>fünfhundert</translation>
-    </message>
-    <message>
-        <source>seiscentos </source>
-        <translation>sechshundert</translation>
-    </message>
-    <message>
-        <source>setecentos </source>
-        <translation>siebenhundert</translation>
-    </message>
-    <message>
-        <source>oitocentos </source>
-        <translation>achthundert</translation>
-    </message>
-    <message>
-        <source>novecentos </source>
-        <translation>neunhundert</translation>
-    </message>
-    <message>
-        <source>dez </source>
-        <translation>zehn</translation>
-    </message>
-    <message>
-        <source>onze </source>
-        <translation>elf</translation>
-    </message>
-    <message>
-        <source>doze </source>
-        <translation>zwölf</translation>
-    </message>
-    <message>
-        <source>treze </source>
-        <translation>dreizehn</translation>
-    </message>
-    <message>
-        <source>quatorze </source>
-        <translation>vierzehn</translation>
-    </message>
-    <message>
-        <source>quinze </source>
-        <translation>fünfzehn</translation>
-    </message>
-    <message>
-        <source>dezesseis </source>
-        <translation>sechzehn</translation>
-    </message>
-    <message>
-        <source>dezessete </source>
-        <translation>siebzehn</translation>
-    </message>
-    <message>
-        <source>dezoito </source>
-        <translation>achtzehn</translation>
-    </message>
-    <message>
-        <source>dezenove </source>
-        <translation>neunzehn</translation>
-    </message>
-    <message>
-        <source>vinte </source>
-        <translation>zwanzig</translation>
-    </message>
-    <message>
-        <source>trinta </source>
-        <translation>dreißig</translation>
-    </message>
-    <message>
-        <source>quarenta </source>
-        <translation>vierzig</translation>
-    </message>
-    <message>
-        <source>cinquenta </source>
-        <translation>fünfzig</translation>
-    </message>
-    <message>
-        <source>sessenta </source>
-        <translation>sechzig</translation>
-    </message>
-    <message>
-        <source>setenta </source>
-        <translation>siebzig</translation>
-    </message>
-    <message>
-        <source>oitenta </source>
-        <translation>achtzig</translation>
-    </message>
-    <message>
-        <source>noventa </source>
-        <translation>neunzig</translation>
-    </message>
-    <message>
-        <source>um </source>
-        <translation>eins</translation>
-    </message>
-    <message>
-        <source>dois </source>
-        <translation>zwei</translation>
-    </message>
-    <message>
-        <source>três </source>
-        <translation>drei</translation>
-    </message>
-    <message>
-        <source>quatro </source>
-        <translation>vier</translation>
-    </message>
-    <message>
-        <source>cinco </source>
-        <translation>fünf</translation>
-    </message>
-    <message>
-        <source>seis </source>
-        <translation>sechs</translation>
-    </message>
-    <message>
-        <source>sete </source>
-        <translation>sieben</translation>
-    </message>
-    <message>
-        <source>oito </source>
-        <translation>acht</translation>
-    </message>
-    <message>
-        <source>nove </source>
-        <translation>neun</translation>
+        <source>Bone</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 </TS>

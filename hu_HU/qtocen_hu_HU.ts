@@ -871,6 +871,22 @@
         <source>Undetermined</source>
         <translation type="unfinished"></translation>
     </message>
+    <message>
+        <source>Select Visible</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Waveform View</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Spectrogram View</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Waveform and Spectrogram View</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>QOcenApplication</name>
@@ -1275,6 +1291,22 @@
         <source>Keep links to closed files</source>
         <translation type="unfinished"></translation>
     </message>
+    <message>
+        <source>Requires double click to select audio from open file list</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Privacy</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Send diagnostics on unexpected crashes</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Send log file on close</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>QOcenGetTextDialog</name>
@@ -1350,6 +1382,18 @@
     <message>
         <source>Filter</source>
         <translation>Szűrő</translation>
+    </message>
+    <message>
+        <source>Import</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Export</source>
+        <translation type="unfinished">Exportálás</translation>
+    </message>
+    <message>
+        <source>Export KeyBindings Settings...</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -1526,22 +1570,6 @@
         <translation>Hiba történt a(z) “%1” audiófájl mentésekor!</translation>
     </message>
     <message>
-        <source>Your sound “%1” contains informations that can not be saved in the selected format. You want to continue and export to this format?</source>
-        <translation>A(z) “%1” audió nem menthető formnátumú információkat tartalmaz. Folytatni és imoprtálni akarja ezt a formátumot?</translation>
-    </message>
-    <message>
-        <source>Export</source>
-        <translation>Exportálás</translation>
-    </message>
-    <message>
-        <source>Exporting As</source>
-        <translation>Exportálás mint</translation>
-    </message>
-    <message>
-        <source>Unsupported information will not be present in the exported file.</source>
-        <translation>Nem támogatott adatok nem menthetők az exportálandó fájlba.</translation>
-    </message>
-    <message>
         <source>The file for the sound that was at %1 is now empty. Do you want to keep as new, save or close the sound?</source>
         <translation>A %1 hangfájl jelenleg üres. Megtartja újként, elmenti vagy bezárja hangot?</translation>
     </message>
@@ -1658,6 +1686,30 @@ To save without the markers/regions, use the export operation.</source>
         <source>You are about to combine audios with different sample rates to a multichannel audio. Do you want to proceed?</source>
         <translation type="unfinished"></translation>
     </message>
+    <message>
+        <source>Your sound “%1” contains informations that can not be saved in the selected format. You want to continue and save a copy to this format?</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Unsupported information will not be present in the saved file.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Save Copy</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Saving Copy As</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Proceed and not save regions?</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>The format chosen to save the “%1” file does not support regions. If you proceed the regions and markers contained in this audio will NOT be saved.</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>QOcenNetworkPrefs</name>
@@ -1711,6 +1763,233 @@ To save without the markers/regions, use the export operation.</source>
     <message>
         <source>Press &apos;alt&apos; to close all</source>
         <translation>Nyomjon &apos;Alt&apos;-ot, hogy minden keresést bezárjon</translation>
+    </message>
+</context>
+<context>
+    <name>QOcenPlainTextEdit</name>
+    <message>
+        <source>Ignore Spelling</source>
+        <translation type="unfinished">Helyesírás mellőzése</translation>
+    </message>
+    <message>
+        <source>Learn Spelling</source>
+        <translation type="unfinished">Helyesírés tanulása</translation>
+    </message>
+    <message>
+        <source>mil </source>
+        <translation type="unfinished">ezer</translation>
+    </message>
+    <message>
+        <source>milhão </source>
+        <translation type="unfinished">millió</translation>
+    </message>
+    <message>
+        <source>bilhão </source>
+        <translation type="unfinished">milliárd</translation>
+    </message>
+    <message>
+        <source>trilhão </source>
+        <translation type="unfinished">billió</translation>
+    </message>
+    <message>
+        <source>quatrilhão </source>
+        <translation type="unfinished">biliárd</translation>
+    </message>
+    <message>
+        <source>quintilhão </source>
+        <translation type="unfinished">trillió</translation>
+    </message>
+    <message>
+        <source>sextilhão </source>
+        <translation type="unfinished">triliárd</translation>
+    </message>
+    <message>
+        <source>setilhão </source>
+        <translation type="unfinished">qvadrillió</translation>
+    </message>
+    <message>
+        <source>milhões </source>
+        <translation type="unfinished">milliók</translation>
+    </message>
+    <message>
+        <source>bilhões </source>
+        <translation type="unfinished">milliárdok</translation>
+    </message>
+    <message>
+        <source>trilhões </source>
+        <translation type="unfinished">billiók</translation>
+    </message>
+    <message>
+        <source>quadrilhões </source>
+        <translation type="unfinished">biliárdok</translation>
+    </message>
+    <message>
+        <source>quintilhões </source>
+        <translation type="unfinished">triliók</translation>
+    </message>
+    <message>
+        <source>sextilhões </source>
+        <translation type="unfinished">sextrillió</translation>
+    </message>
+    <message>
+        <source>setilhões </source>
+        <translation type="unfinished">setilhão</translation>
+    </message>
+    <message>
+        <source>zero</source>
+        <translation type="unfinished">nulla</translation>
+    </message>
+    <message>
+        <source>e </source>
+        <translation type="unfinished">és</translation>
+    </message>
+    <message>
+        <source>cento </source>
+        <translation type="unfinished">száz</translation>
+    </message>
+    <message>
+        <source>cem </source>
+        <translation type="unfinished">száz</translation>
+    </message>
+    <message>
+        <source>duzentos </source>
+        <translation type="unfinished">zweihundert</translation>
+    </message>
+    <message>
+        <source>trezentos </source>
+        <translation type="unfinished">háromszáz</translation>
+    </message>
+    <message>
+        <source>quatrocentos </source>
+        <translation type="unfinished">négyszáz</translation>
+    </message>
+    <message>
+        <source>quinhentos </source>
+        <translation type="unfinished">ötszáz</translation>
+    </message>
+    <message>
+        <source>seiscentos </source>
+        <translation type="unfinished">hatszáz</translation>
+    </message>
+    <message>
+        <source>setecentos </source>
+        <translation type="unfinished">hétszáz</translation>
+    </message>
+    <message>
+        <source>oitocentos </source>
+        <translation type="unfinished">nyolcszáz</translation>
+    </message>
+    <message>
+        <source>novecentos </source>
+        <translation type="unfinished">kilencszáz</translation>
+    </message>
+    <message>
+        <source>dez </source>
+        <translation type="unfinished">tíz</translation>
+    </message>
+    <message>
+        <source>onze </source>
+        <translation type="unfinished">tizenegy</translation>
+    </message>
+    <message>
+        <source>doze </source>
+        <translation type="unfinished">tizenkettő</translation>
+    </message>
+    <message>
+        <source>treze </source>
+        <translation type="unfinished">tizenhárom</translation>
+    </message>
+    <message>
+        <source>quatorze </source>
+        <translation type="unfinished">tizennégy</translation>
+    </message>
+    <message>
+        <source>quinze </source>
+        <translation type="unfinished">tizenöt</translation>
+    </message>
+    <message>
+        <source>dezesseis </source>
+        <translation type="unfinished">tizenhat</translation>
+    </message>
+    <message>
+        <source>dezessete </source>
+        <translation type="unfinished">tizenhét</translation>
+    </message>
+    <message>
+        <source>dezoito </source>
+        <translation type="unfinished">tizennyolc</translation>
+    </message>
+    <message>
+        <source>dezenove </source>
+        <translation type="unfinished">tizenkilenc</translation>
+    </message>
+    <message>
+        <source>vinte </source>
+        <translation type="unfinished">húsz</translation>
+    </message>
+    <message>
+        <source>trinta </source>
+        <translation type="unfinished">harminc</translation>
+    </message>
+    <message>
+        <source>quarenta </source>
+        <translation type="unfinished">negyven</translation>
+    </message>
+    <message>
+        <source>cinquenta </source>
+        <translation type="unfinished">ötven</translation>
+    </message>
+    <message>
+        <source>sessenta </source>
+        <translation type="unfinished">hatvan</translation>
+    </message>
+    <message>
+        <source>setenta </source>
+        <translation type="unfinished">hetven</translation>
+    </message>
+    <message>
+        <source>oitenta </source>
+        <translation type="unfinished">nyolcvan</translation>
+    </message>
+    <message>
+        <source>noventa </source>
+        <translation type="unfinished">kilencven</translation>
+    </message>
+    <message>
+        <source>um </source>
+        <translation type="unfinished">egy</translation>
+    </message>
+    <message>
+        <source>dois </source>
+        <translation type="unfinished">jettő</translation>
+    </message>
+    <message>
+        <source>três </source>
+        <translation type="unfinished">három</translation>
+    </message>
+    <message>
+        <source>quatro </source>
+        <translation type="unfinished">négy</translation>
+    </message>
+    <message>
+        <source>cinco </source>
+        <translation type="unfinished">öt</translation>
+    </message>
+    <message>
+        <source>seis </source>
+        <translation type="unfinished">hat</translation>
+    </message>
+    <message>
+        <source>sete </source>
+        <translation type="unfinished">hét</translation>
+    </message>
+    <message>
+        <source>oito </source>
+        <translation type="unfinished">nyolc</translation>
+    </message>
+    <message>
+        <source>nove </source>
+        <translation type="unfinished">kilenc</translation>
     </message>
 </context>
 <context>
@@ -1807,18 +2086,6 @@ To save without the markers/regions, use the export operation.</source>
 </context>
 <context>
     <name>QOcenSaveFileDialog</name>
-    <message>
-        <source>Question</source>
-        <translation>Kérdés</translation>
-    </message>
-    <message>
-        <source>The selected format doesn&apos;t support regions and markers. Do you want to proceed without save regions?</source>
-        <translation>A választtt formátum  nem támogat egyetlen tartományt és jelölőt sem. FDolytatja a tartományok mentése nélkül?</translation>
-    </message>
-    <message>
-        <source>If you continue the saved file will not contain the regions created in this audio.</source>
-        <translation>Ha folytatja, a választott fájl nem fog tatományt tartalmazni.</translation>
-    </message>
     <message>
         <source>Format</source>
         <translation>Formátum</translation>
@@ -2105,16 +2372,8 @@ To save without the markers/regions, use the export operation.</source>
         <translation>Blackman-Nuttall</translation>
     </message>
     <message>
-        <source>Hanning</source>
-        <translation>Hanning</translation>
-    </message>
-    <message>
         <source>Hamming</source>
         <translation>Hamming</translation>
-    </message>
-    <message>
-        <source>Inv. Linear Grayscale</source>
-        <translation>Invertálás lineáris szürkeárnyalatra</translation>
     </message>
     <message>
         <source>Linear Grayscale</source>
@@ -2123,10 +2382,6 @@ To save without the markers/regions, use the export operation.</source>
     <message>
         <source>Grayscale</source>
         <translation>Szürkeárnyalatú</translation>
-    </message>
-    <message>
-        <source>Inv. Grayscale</source>
-        <translation>Unv. szürkeárnyalatúra</translation>
     </message>
     <message>
         <source>Color</source>
@@ -2177,14 +2432,6 @@ To save without the markers/regions, use the export operation.</source>
         <translation>Válassza ki a spektogram tárolók frekvenciaszámát</translation>
     </message>
     <message>
-        <source>Select spectrogram dynamic range. The chosen value will be used as lower energy displayed in the spectrogram</source>
-        <translation>Válassza ki a spectrogram dinamikatartományát. A kiválasztott érték kerül felhasználásra, mint alacsonyabb energia</translation>
-    </message>
-    <message>
-        <source>Select spectrogram window size. The window size is a percentage of two times the number of bins</source>
-        <translation>Válasszon spektrogram ablakméretet. Az ablak mérete százalékában kétszerese a tárolószámnak</translation>
-    </message>
-    <message>
         <source>Number of Bins</source>
         <translation>Tárolók száma</translation>
     </message>
@@ -2192,232 +2439,57 @@ To save without the markers/regions, use the export operation.</source>
         <source>Use Pre-Emphasis Filtering</source>
         <translation type="unfinished"></translation>
     </message>
-</context>
-<context>
-    <name>QOcenTextEdit</name>
     <message>
-        <source>Ignore Spelling</source>
-        <translation>Helyesírás mellőzése</translation>
+        <source>Invert</source>
+        <translation type="unfinished">Megfordítás</translation>
     </message>
     <message>
-        <source>Learn Spelling</source>
-        <translation>Helyesírés tanulása</translation>
+        <source>Hann</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>mil </source>
-        <translation>ezer</translation>
+        <source>Viridis</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>milhão </source>
-        <translation>millió</translation>
+        <source>Magma</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>bilhão </source>
-        <translation>milliárd</translation>
+        <source>Plasma</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>trilhão </source>
-        <translation>billió</translation>
+        <source>Inferno</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>quatrilhão </source>
-        <translation>biliárd</translation>
+        <source>Cividis</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>quintilhão </source>
-        <translation>trillió</translation>
+        <source>Mako</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>sextilhão </source>
-        <translation>triliárd</translation>
+        <source>Rocket</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>setilhão </source>
-        <translation>qvadrillió</translation>
+        <source>Turbo</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>milhões </source>
-        <translation>milliók</translation>
+        <source>Copper</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>bilhões </source>
-        <translation>milliárdok</translation>
+        <source>Hot</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>trilhões </source>
-        <translation>billiók</translation>
-    </message>
-    <message>
-        <source>quadrilhões </source>
-        <translation>biliárdok</translation>
-    </message>
-    <message>
-        <source>quintilhões </source>
-        <translation>triliók</translation>
-    </message>
-    <message>
-        <source>sextilhões </source>
-        <translation>sextrillió</translation>
-    </message>
-    <message>
-        <source>setilhões </source>
-        <translation>setilhão</translation>
-    </message>
-    <message>
-        <source>zero</source>
-        <translation>nulla</translation>
-    </message>
-    <message>
-        <source>e </source>
-        <translation>és</translation>
-    </message>
-    <message>
-        <source>cento </source>
-        <translation>száz</translation>
-    </message>
-    <message>
-        <source>cem </source>
-        <translation>száz</translation>
-    </message>
-    <message>
-        <source>duzentos </source>
-        <translation>zweihundert</translation>
-    </message>
-    <message>
-        <source>trezentos </source>
-        <translation>háromszáz</translation>
-    </message>
-    <message>
-        <source>quatrocentos </source>
-        <translation>négyszáz</translation>
-    </message>
-    <message>
-        <source>quinhentos </source>
-        <translation>ötszáz</translation>
-    </message>
-    <message>
-        <source>seiscentos </source>
-        <translation>hatszáz</translation>
-    </message>
-    <message>
-        <source>setecentos </source>
-        <translation>hétszáz</translation>
-    </message>
-    <message>
-        <source>oitocentos </source>
-        <translation>nyolcszáz</translation>
-    </message>
-    <message>
-        <source>novecentos </source>
-        <translation>kilencszáz</translation>
-    </message>
-    <message>
-        <source>dez </source>
-        <translation>tíz</translation>
-    </message>
-    <message>
-        <source>onze </source>
-        <translation>tizenegy</translation>
-    </message>
-    <message>
-        <source>doze </source>
-        <translation>tizenkettő</translation>
-    </message>
-    <message>
-        <source>treze </source>
-        <translation>tizenhárom</translation>
-    </message>
-    <message>
-        <source>quatorze </source>
-        <translation>tizennégy</translation>
-    </message>
-    <message>
-        <source>quinze </source>
-        <translation>tizenöt</translation>
-    </message>
-    <message>
-        <source>dezesseis </source>
-        <translation>tizenhat</translation>
-    </message>
-    <message>
-        <source>dezessete </source>
-        <translation>tizenhét</translation>
-    </message>
-    <message>
-        <source>dezoito </source>
-        <translation>tizennyolc</translation>
-    </message>
-    <message>
-        <source>dezenove </source>
-        <translation>tizenkilenc</translation>
-    </message>
-    <message>
-        <source>vinte </source>
-        <translation>húsz</translation>
-    </message>
-    <message>
-        <source>trinta </source>
-        <translation>harminc</translation>
-    </message>
-    <message>
-        <source>quarenta </source>
-        <translation>negyven</translation>
-    </message>
-    <message>
-        <source>cinquenta </source>
-        <translation>ötven</translation>
-    </message>
-    <message>
-        <source>sessenta </source>
-        <translation>hatvan</translation>
-    </message>
-    <message>
-        <source>setenta </source>
-        <translation>hetven</translation>
-    </message>
-    <message>
-        <source>oitenta </source>
-        <translation>nyolcvan</translation>
-    </message>
-    <message>
-        <source>noventa </source>
-        <translation>kilencven</translation>
-    </message>
-    <message>
-        <source>um </source>
-        <translation>egy</translation>
-    </message>
-    <message>
-        <source>dois </source>
-        <translation>jettő</translation>
-    </message>
-    <message>
-        <source>três </source>
-        <translation>három</translation>
-    </message>
-    <message>
-        <source>quatro </source>
-        <translation>négy</translation>
-    </message>
-    <message>
-        <source>cinco </source>
-        <translation>öt</translation>
-    </message>
-    <message>
-        <source>seis </source>
-        <translation>hat</translation>
-    </message>
-    <message>
-        <source>sete </source>
-        <translation>hét</translation>
-    </message>
-    <message>
-        <source>oito </source>
-        <translation>nyolc</translation>
-    </message>
-    <message>
-        <source>nove </source>
-        <translation>kilenc</translation>
+        <source>Bone</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 </TS>
