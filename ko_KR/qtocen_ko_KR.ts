@@ -635,14 +635,6 @@
         <translation>이전 마커 선택</translation>
     </message>
     <message>
-        <source>%1 sec</source>
-        <translation>%1 초</translation>
-    </message>
-    <message>
-        <source>%1 ms</source>
-        <translation>%1 밀리초</translation>
-    </message>
-    <message>
         <source>Show cursor/Select region</source>
         <translation>커서 표시하기/영역 선택</translation>
     </message>
@@ -887,6 +879,22 @@
         <source>Waveform and Spectrogram View</source>
         <translation type="unfinished"></translation>
     </message>
+    <message>
+        <source>Decimal (mm:ss.ddd)</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Samples</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Frames</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Seconds</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>QOcenApplication</name>
@@ -903,10 +911,6 @@
         <translation>임시 데이터를 디스크에 쓰는 동안에 에러가 발생했습니다. 이 이슈는 메인 디스크의 공간이 부족할 때 일어납니다.</translation>
     </message>
     <message>
-        <source>An error occured while allocating memory! This issue might happen if you are running out of memory</source>
-        <translation>메모리를 할당 받는 동안 에러가 발생했습니다. 이 이슈는 메모리가 부족할 때 일어납니다.</translation>
-    </message>
-    <message>
         <source>Failed to execute last action!</source>
         <translation type="unfinished"></translation>
     </message>
@@ -916,6 +920,10 @@
     </message>
     <message>
         <source>Last action produced an empty signal!</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>An error occured while allocating memory! This issue might happen if you are running out of memory.</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -1288,10 +1296,6 @@
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Keep links to closed files</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>Requires double click to select audio from open file list</source>
         <translation type="unfinished"></translation>
     </message>
@@ -1309,6 +1313,10 @@
     </message>
     <message>
         <source>Save dialog prefer file path over last saved path</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Preserve view state of closed files</source>
         <translation type="unfinished"></translation>
     </message>
 </context>

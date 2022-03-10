@@ -635,14 +635,6 @@
         <translation>Seleccionar al anterior marcador</translation>
     </message>
     <message>
-        <source>%1 sec</source>
-        <translation>%1 seg</translation>
-    </message>
-    <message>
-        <source>%1 ms</source>
-        <translation>%1 ms</translation>
-    </message>
-    <message>
         <source>Show cursor/Select region</source>
         <translation>Mostrar cursor/Seleccionar región</translation>
     </message>
@@ -888,6 +880,22 @@
         <source>Waveform and Spectrogram View</source>
         <translation type="unfinished"></translation>
     </message>
+    <message>
+        <source>Decimal (mm:ss.ddd)</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Samples</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Frames</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Seconds</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>QOcenApplication</name>
@@ -904,10 +912,6 @@
         <translation>Se produjo un error al escribir datos temporales en el disco. Este problema puede ocurrir si su disco principal se está quedando sin espacio libre.</translation>
     </message>
     <message>
-        <source>An error occured while allocating memory! This issue might happen if you are running out of memory</source>
-        <translation>¡Ocurrió un error al asignar memoria! Este problema puede ocurrir si se está quedando sin memoria</translation>
-    </message>
-    <message>
         <source>Failed to execute last action!</source>
         <translation>¡No se pudo ejecutar la última acción!</translation>
     </message>
@@ -918,6 +922,10 @@
     <message>
         <source>Last action produced an empty signal!</source>
         <translation>¡La última acción produjo una señal vacía!</translation>
+    </message>
+    <message>
+        <source>An error occured while allocating memory! This issue might happen if you are running out of memory.</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -1289,10 +1297,6 @@
         <translation>Tema Oscuro</translation>
     </message>
     <message>
-        <source>Keep links to closed files</source>
-        <translation>Mantener enlaces a archivos cerrados</translation>
-    </message>
-    <message>
         <source>Requires double click to select audio from open file list</source>
         <translation type="unfinished"></translation>
     </message>
@@ -1310,6 +1314,10 @@
     </message>
     <message>
         <source>Save dialog prefer file path over last saved path</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Preserve view state of closed files</source>
         <translation type="unfinished"></translation>
     </message>
 </context>

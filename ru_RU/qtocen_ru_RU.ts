@@ -635,14 +635,6 @@
         <translation>Выбрать до предыдущего маркера</translation>
     </message>
     <message>
-        <source>%1 sec</source>
-        <translation>%1 сек</translation>
-    </message>
-    <message>
-        <source>%1 ms</source>
-        <translation>%1 мс</translation>
-    </message>
-    <message>
         <source>Show cursor/Select region</source>
         <translation>Показать курсор/выбрать область</translation>
     </message>
@@ -887,6 +879,22 @@
         <source>Waveform and Spectrogram View</source>
         <translation type="unfinished"></translation>
     </message>
+    <message>
+        <source>Decimal (mm:ss.ddd)</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Samples</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Frames</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Seconds</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>QOcenApplication</name>
@@ -903,10 +911,6 @@
         <translation>Ошибка при записи временных данных на диск. Эта возможно, если на диске нет свободного места.</translation>
     </message>
     <message>
-        <source>An error occured while allocating memory! This issue might happen if you are running out of memory</source>
-        <translation>Ошибка при выделении памяти! Это возможно при нехватке памяти</translation>
-    </message>
-    <message>
         <source>Failed to execute last action!</source>
         <translation type="unfinished"></translation>
     </message>
@@ -916,6 +920,10 @@
     </message>
     <message>
         <source>Last action produced an empty signal!</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>An error occured while allocating memory! This issue might happen if you are running out of memory.</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -1288,10 +1296,6 @@
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Keep links to closed files</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>Requires double click to select audio from open file list</source>
         <translation type="unfinished"></translation>
     </message>
@@ -1309,6 +1313,10 @@
     </message>
     <message>
         <source>Save dialog prefer file path over last saved path</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Preserve view state of closed files</source>
         <translation type="unfinished"></translation>
     </message>
 </context>

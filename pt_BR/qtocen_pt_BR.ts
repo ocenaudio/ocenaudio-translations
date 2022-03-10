@@ -635,14 +635,6 @@
         <translation>Selecionar até o marcador anterior</translation>
     </message>
     <message>
-        <source>%1 sec</source>
-        <translation>%1 seg</translation>
-    </message>
-    <message>
-        <source>%1 ms</source>
-        <translation>%1 ms</translation>
-    </message>
-    <message>
         <source>Show cursor/Select region</source>
         <translation>Mostar cursor/Selecionar região</translation>
     </message>
@@ -888,6 +880,22 @@
         <source>Waveform and Spectrogram View</source>
         <translation>Visão de Forma de Onda e Espectrograma</translation>
     </message>
+    <message>
+        <source>Decimal (mm:ss.ddd)</source>
+        <translation></translation>
+    </message>
+    <message>
+        <source>Samples</source>
+        <translation>Amostras</translation>
+    </message>
+    <message>
+        <source>Frames</source>
+        <translation></translation>
+    </message>
+    <message>
+        <source>Seconds</source>
+        <translation>Segundos</translation>
+    </message>
 </context>
 <context>
     <name>QOcenApplication</name>
@@ -904,10 +912,6 @@
         <translation>Um erro ocorreu durante a escrita de dados temporários no disco. Isto pode ocorrer devido à falta de espaço livre no disco.</translation>
     </message>
     <message>
-        <source>An error occured while allocating memory! This issue might happen if you are running out of memory</source>
-        <translation>Um erro ocorreu durante a alocação de memória. Isto pode ocorrer devido à falta de memória</translation>
-    </message>
-    <message>
         <source>Failed to execute last action!</source>
         <translation>Falha ao executar a última ação!</translation>
     </message>
@@ -918,6 +922,10 @@
     <message>
         <source>Last action produced an empty signal!</source>
         <translation>A última ação produziu um sinal vazio!</translation>
+    </message>
+    <message>
+        <source>An error occured while allocating memory! This issue might happen if you are running out of memory.</source>
+        <translation>Um erro ocorreu ao tentar alocar memória! Este problema pode acontecer se o sistema estiver com pouca memória disponível.</translation>
     </message>
 </context>
 <context>
@@ -1289,10 +1297,6 @@
         <translation>Tema Escuro</translation>
     </message>
     <message>
-        <source>Keep links to closed files</source>
-        <translation>Manter links para arquivos fechados</translation>
-    </message>
-    <message>
         <source>Requires double click to select audio from open file list</source>
         <translation>Requer clique duplo para selecionar o áudio da lista de arquivos abertos</translation>
     </message>
@@ -1311,6 +1315,10 @@
     <message>
         <source>Save dialog prefer file path over last saved path</source>
         <translation>Diálogo de Salvar prefere o caminho do arquivo ao último caminho salvo</translation>
+    </message>
+    <message>
+        <source>Preserve view state of closed files</source>
+        <translation>Preservar o estado de visualização dos arquivos fechados</translation>
     </message>
 </context>
 <context>

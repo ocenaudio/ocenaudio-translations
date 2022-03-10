@@ -1069,6 +1069,14 @@
         <source>Save Regions Audio...</source>
         <translation type="unfinished"></translation>
     </message>
+    <message>
+        <source>Scale A</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Scale B</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>NavigatorDialog</name>
@@ -2771,6 +2779,30 @@ Channel
         <source>Format:</source>
         <translation type="unfinished"></translation>
     </message>
+    <message>
+        <source>FLAC</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Add to save format list</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source> ★ </source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Export</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Set as %1 favorite format</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Remove %1 favorite format</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>QOcenAudioConfigSaveDialog</name>
@@ -2796,6 +2828,22 @@ Channel
     </message>
     <message>
         <source>Back</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Add to save format list</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source> ★ </source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Set as %1 favorite format</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Remove %1 favorite format</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -2859,15 +2907,49 @@ Channel
         <translation type="unfinished">Forme</translation>
     </message>
     <message>
-        <source>Audio Format:</source>
-        <translation type="unfinished">Format du audio:</translation>
-    </message>
-    <message>
         <source>Dithering:</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
         <source>%1</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Bits per Sample:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Compression Level:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>least compression
+fastest</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>most compression
+slowest</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>8 bits</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>12 bits</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>16 bits</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>20 bits</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>24 bits</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -2972,6 +3054,52 @@ Channel
     </message>
     <message>
         <source>%1 kbps</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Bits per Sample:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Dithering:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Compression Level:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>least compression
+fastest</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>most compression
+slowest</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>8 bits</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>12 bits</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>16 bits</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>20 bits</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>24 bits</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>%1</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -4273,14 +4401,6 @@ Channel
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Export each selection to a sperate file</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Export each region to a sperate file</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>Hide Audio Tools</source>
         <translation type="unfinished"></translation>
     </message>
@@ -4302,6 +4422,22 @@ Channel
     </message>
     <message>
         <source>Format</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Display Time from Scale A</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Display Time from Scale B</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Export each selection to a separate file</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Export each region to a separate file</source>
         <translation type="unfinished"></translation>
     </message>
 </context>

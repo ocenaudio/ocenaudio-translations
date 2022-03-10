@@ -1070,6 +1070,14 @@
         <source>Save Regions Audio...</source>
         <translation>Salvar Regiões do Áudio...</translation>
     </message>
+    <message>
+        <source>Scale A</source>
+        <translation>Escala A</translation>
+    </message>
+    <message>
+        <source>Scale B</source>
+        <translation>Escala B</translation>
+    </message>
 </context>
 <context>
     <name>NavigatorDialog</name>
@@ -2776,6 +2784,30 @@ Saída
         <source>Format:</source>
         <translation>Formato:</translation>
     </message>
+    <message>
+        <source>FLAC</source>
+        <translation></translation>
+    </message>
+    <message>
+        <source>Add to save format list</source>
+        <translation>Adicionar a lista de formatos de salvamento</translation>
+    </message>
+    <message>
+        <source> ★ </source>
+        <translation></translation>
+    </message>
+    <message>
+        <source>Export</source>
+        <translation>Exportar</translation>
+    </message>
+    <message>
+        <source>Set as %1 favorite format</source>
+        <translation>Definir como formato favorito para %1</translation>
+    </message>
+    <message>
+        <source>Remove %1 favorite format</source>
+        <translation>Remover formato favorito para %1</translation>
+    </message>
 </context>
 <context>
     <name>QOcenAudioConfigSaveDialog</name>
@@ -2802,6 +2834,22 @@ Saída
     <message>
         <source>Back</source>
         <translation>Voltar</translation>
+    </message>
+    <message>
+        <source>Add to save format list</source>
+        <translation>Adicionar a lista de formatos de salvamento</translation>
+    </message>
+    <message>
+        <source> ★ </source>
+        <translation></translation>
+    </message>
+    <message>
+        <source>Set as %1 favorite format</source>
+        <translation>Remover formato favorito para %1</translation>
+    </message>
+    <message>
+        <source>Remove %1 favorite format</source>
+        <translation>Remover formato favorito para %1</translation>
     </message>
 </context>
 <context>
@@ -2864,15 +2912,51 @@ Saída
         <translation>Formulário</translation>
     </message>
     <message>
-        <source>Audio Format:</source>
-        <translation>Formato do Áudio:</translation>
-    </message>
-    <message>
         <source>Dithering:</source>
         <translation></translation>
     </message>
     <message>
         <source>%1</source>
+        <translation></translation>
+    </message>
+    <message>
+        <source>Bits per Sample:</source>
+        <translation>Bits por Amostra:</translation>
+    </message>
+    <message>
+        <source>Compression Level:</source>
+        <translation>Nível de Compressão:</translation>
+    </message>
+    <message>
+        <source>least compression
+fastest</source>
+        <translation>menos compressão
+mais rápido</translation>
+    </message>
+    <message>
+        <source>most compression
+slowest</source>
+        <translation>mais compressão
+mais lento</translation>
+    </message>
+    <message>
+        <source>8 bits</source>
+        <translation></translation>
+    </message>
+    <message>
+        <source>12 bits</source>
+        <translation></translation>
+    </message>
+    <message>
+        <source>16 bits</source>
+        <translation></translation>
+    </message>
+    <message>
+        <source>20 bits</source>
+        <translation></translation>
+    </message>
+    <message>
+        <source>24 bits</source>
         <translation></translation>
     </message>
 </context>
@@ -2977,6 +3061,54 @@ Saída
     </message>
     <message>
         <source>%1 kbps</source>
+        <translation></translation>
+    </message>
+    <message>
+        <source>Bits per Sample:</source>
+        <translation>Bits por Amostra:</translation>
+    </message>
+    <message>
+        <source>Dithering:</source>
+        <translation></translation>
+    </message>
+    <message>
+        <source>Compression Level:</source>
+        <translation>Nível de Compressão:</translation>
+    </message>
+    <message>
+        <source>least compression
+fastest</source>
+        <translation>menos compressão
+mais rápido</translation>
+    </message>
+    <message>
+        <source>most compression
+slowest</source>
+        <translation>mais compressão
+mais lento</translation>
+    </message>
+    <message>
+        <source>8 bits</source>
+        <translation></translation>
+    </message>
+    <message>
+        <source>12 bits</source>
+        <translation></translation>
+    </message>
+    <message>
+        <source>16 bits</source>
+        <translation></translation>
+    </message>
+    <message>
+        <source>20 bits</source>
+        <translation></translation>
+    </message>
+    <message>
+        <source>24 bits</source>
+        <translation></translation>
+    </message>
+    <message>
+        <source>%1</source>
         <translation></translation>
     </message>
 </context>
@@ -4278,14 +4410,6 @@ Saída
         <translation>Salvar Regiões Como...</translation>
     </message>
     <message>
-        <source>Export each selection to a sperate file</source>
-        <translation>Exportar cada seleção para um arquivo separado</translation>
-    </message>
-    <message>
-        <source>Export each region to a sperate file</source>
-        <translation>Salvar cada região em um arquivo separado</translation>
-    </message>
-    <message>
         <source>Hide Audio Tools</source>
         <translation>Ocultar Ferramentas de Áudio</translation>
     </message>
@@ -4308,6 +4432,22 @@ Saída
     <message>
         <source>Format</source>
         <translation>Formato</translation>
+    </message>
+    <message>
+        <source>Display Time from Scale A</source>
+        <translation>Mostrar Tempo na Escala A</translation>
+    </message>
+    <message>
+        <source>Display Time from Scale B</source>
+        <translation>Mostrar Tempo na Escala B</translation>
+    </message>
+    <message>
+        <source>Export each selection to a separate file</source>
+        <translation>Exportar cada seleção para um arquivo separado</translation>
+    </message>
+    <message>
+        <source>Export each region to a separate file</source>
+        <translation>Exportar cada região para um arquivo separado</translation>
     </message>
 </context>
 <context>
