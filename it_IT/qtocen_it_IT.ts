@@ -536,364 +536,365 @@
     </message>
     <message>
         <source>Move to previous zero crossing</source>
-        <translation type="unfinished"></translation>
+        <translation>Vai al passaggio per lo zero precedente</translation>
     </message>
     <message>
         <source>Move to next zero crossing</source>
-        <translation type="unfinished"></translation>
+        <translation>Vai al passaggio per lo zero successivo</translation>
     </message>
     <message>
         <source>Select to previous zero crossing</source>
-        <translation type="unfinished"></translation>
+        <translation>Seleziona fino al passaggio per lo zero precedente</translation>
     </message>
     <message>
         <source>Select to next zero crossing</source>
-        <translation type="unfinished"></translation>
+        <translation>Seleziona fino al passaggio per lo zero successivo</translation>
     </message>
     <message>
         <source>Scroll audio backward</source>
-        <translation type="unfinished"></translation>
+        <translation>Scorri audio indietro</translation>
     </message>
     <message>
         <source>Scroll audio forward</source>
-        <translation type="unfinished"></translation>
+        <translation>Scorri audio avanti</translation>
     </message>
     <message>
         <source>Move cursor to previous page</source>
-        <translation type="unfinished"></translation>
+        <translation>Sposta cursore alla pagina precedente</translation>
     </message>
     <message>
         <source>Move cursor to next page</source>
-        <translation type="unfinished"></translation>
+        <translation>Sposta cursore alla pagina successiva</translation>
     </message>
     <message>
         <source>Move cursor to previous scale tick</source>
-        <translation type="unfinished"></translation>
+        <translation>Sposta cursore al segno di spunta scala precedente</translation>
     </message>
     <message>
         <source>Move cursor to next scale tick</source>
-        <translation type="unfinished"></translation>
+        <translation>Sposta cursore al segno di spunta scala successivo</translation>
     </message>
     <message>
         <source>Move cursor to left</source>
-        <translation type="unfinished"></translation>
+        <translation>Sposta cursore a sinistra</translation>
     </message>
     <message>
         <source>Move cursor to right</source>
-        <translation type="unfinished"></translation>
+        <translation>Sposta cursore a destra</translation>
     </message>
     <message>
         <source>Move cursor to begin</source>
-        <translation type="unfinished"></translation>
+        <translation>Sposta cursore all&apos;inizio</translation>
     </message>
     <message>
         <source>Move cursor to end</source>
-        <translation type="unfinished"></translation>
+        <translation>Sposta cursore alla fine</translation>
     </message>
     <message>
         <source>Select region under cursor/region</source>
-        <translation type="unfinished"></translation>
+        <translation>Seleziona regione sotto al cursore/regione</translation>
     </message>
     <message>
         <source>Select Audio/Region to left</source>
-        <translation type="unfinished"></translation>
+        <translation>Seleziona audio/regione a sinistra</translation>
     </message>
     <message>
         <source>Select Audio/Region to right</source>
-        <translation type="unfinished"></translation>
+        <translation>Seleziona audio/regione a destra</translation>
     </message>
     <message>
         <source>Select Audio/Region to begin</source>
-        <translation type="unfinished"></translation>
+        <translation>Seleziona audio/regione all&apos;inizio</translation>
     </message>
     <message>
         <source>Select Audio/Region to end</source>
-        <translation type="unfinished"></translation>
+        <translation>Seleziona audio/regione alla fine</translation>
     </message>
     <message>
         <source>Select to previous scale tick</source>
-        <translation type="unfinished"></translation>
+        <translation>Seleziona fino a segno spunta scala precedente</translation>
     </message>
     <message>
         <source>Select to next scale tick</source>
-        <translation type="unfinished"></translation>
+        <translation>Seleziona fino a segno spunta scala successivo</translation>
     </message>
     <message>
         <source>Move cursor to next marker</source>
-        <translation type="unfinished"></translation>
+        <translation>Sposta il cursore al marcatore successivo</translation>
     </message>
     <message>
         <source>Move cursor to previous marker</source>
-        <translation type="unfinished"></translation>
+        <translation>Sposta il cursore al marcatore precedente</translation>
     </message>
     <message>
         <source>Select to next marker</source>
-        <translation type="unfinished"></translation>
+        <translation>Seleziona fino al marcatore successivo</translation>
     </message>
     <message>
         <source>Select to previous marker</source>
-        <translation type="unfinished"></translation>
+        <translation>Seleziona fino al marcatore precedente</translation>
     </message>
     <message>
         <source>Show cursor/Select region</source>
-        <translation type="unfinished"></translation>
+        <translation>Visualizza cursore/seleziona regione</translation>
     </message>
     <message>
         <source>Smoothing</source>
-        <translation type="unfinished"></translation>
+        <translation>Addolcimento</translation>
     </message>
     <message>
         <source>Create/Edit region</source>
-        <translation type="unfinished"></translation>
+        <translation>Crea/modifica regione</translation>
     </message>
     <message>
         <source>Move Region</source>
-        <translation type="unfinished"></translation>
+        <translation>Sposta regione</translation>
     </message>
     <message>
         <source>Pasting file %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Incollaggio file %1</translation>
     </message>
     <message>
         <source>Selection Begin</source>
-        <translation type="unfinished"></translation>
+        <translation>Inizio selezione</translation>
     </message>
     <message>
         <source>Selection End</source>
-        <translation type="unfinished"></translation>
+        <translation>Fine selezione</translation>
     </message>
     <message>
         <source>Selection Duration</source>
-        <translation type="unfinished"></translation>
+        <translation>Durata selezione</translation>
     </message>
     <message>
         <source>Copy</source>
-        <translation type="unfinished"></translation>
+        <translation>Copia</translation>
     </message>
     <message>
         <source>Zoom Selection</source>
-        <translation type="unfinished"></translation>
+        <translation>Selezione zoom</translation>
     </message>
     <message>
         <source>Zoom Back</source>
-        <translation type="unfinished"></translation>
+        <translation>Zoom -</translation>
     </message>
     <message>
         <source>Drag me!</source>
-        <translation type="unfinished"></translation>
+        <translation>Trascinami!</translation>
     </message>
     <message>
         <source>Double-Click to create a marker</source>
-        <translation type="unfinished"></translation>
+        <translation>Doppio clic per creare un marcatore</translation>
     </message>
     <message>
         <source>Converting to Stereo</source>
-        <translation type="unfinished"></translation>
+        <translation>Conversione in stereo</translation>
     </message>
     <message>
         <source>Convert to Stereo</source>
-        <translation type="unfinished"></translation>
+        <translation>Converti in stereo</translation>
     </message>
     <message>
         <source>Converting to Mono</source>
-        <translation type="unfinished"></translation>
+        <translation>Conversione in mono</translation>
     </message>
     <message>
         <source>Convert to Mono</source>
-        <translation type="unfinished"></translation>
+        <translation>Converti in mono</translation>
     </message>
     <message>
         <source>Changing Audio Sample Rate</source>
-        <translation type="unfinished"></translation>
+        <translation>Modifica frequenza campionamento audio</translation>
     </message>
     <message>
         <source>Change Audio Sample Rate</source>
-        <translation type="unfinished"></translation>
+        <translation>Modifica frequenza campionamento audio</translation>
     </message>
     <message>
         <source>Moving Audio</source>
-        <translation type="unfinished"></translation>
+        <translation>Spostamento audio</translation>
     </message>
     <message>
         <source>Move Audio</source>
-        <translation type="unfinished"></translation>
+        <translation>Sposta audio</translation>
     </message>
     <message>
         <source>Copy Audio</source>
-        <translation type="unfinished"></translation>
+        <translation>Copia audio</translation>
     </message>
     <message>
         <source>Undo</source>
-        <translation type="unfinished">Annulla</translation>
+        <translation>Annulla azione</translation>
     </message>
     <message>
         <source>Redo</source>
-        <translation type="unfinished"></translation>
+        <translation>Ripeti azione</translation>
     </message>
     <message>
         <source>Applying Fade</source>
-        <translation type="unfinished"></translation>
+        <translation>Applicazione dissolvenza</translation>
     </message>
     <message>
         <source>Fade In</source>
-        <translation type="unfinished"></translation>
+        <translation>Dissolvenza in ingresso</translation>
     </message>
     <message>
         <source>Fade Out</source>
-        <translation type="unfinished"></translation>
+        <translation>Dissolvenza in uscita</translation>
     </message>
     <message>
         <source>Change Gain by +%1 dB</source>
-        <translation type="unfinished"></translation>
+        <translation>Modifica guadagno di +%1 dB</translation>
     </message>
     <message>
         <source>Change Gain by %1 dB</source>
-        <translation type="unfinished"></translation>
+        <translation>Modifica guadagno di %1 dB</translation>
     </message>
     <message>
         <source>%1 %2</source>
-        <translation type="unfinished"></translation>
+        <translation>%1 %2</translation>
     </message>
     <message>
         <source>Delete Selection</source>
-        <translation type="unfinished"></translation>
+        <translation>Elimina selezione</translation>
     </message>
     <message>
         <source>Show/Hide Gain Tool</source>
-        <translation type="unfinished"></translation>
+        <translation>Visualizza/nascondi strumento guadagno</translation>
     </message>
     <message>
         <source>Change Gain</source>
-        <translation type="unfinished"></translation>
+        <translation>Modifica guadagno</translation>
     </message>
     <message>
         <source>Zoom In</source>
-        <translation type="unfinished"></translation>
+        <translation>Zoom +</translation>
     </message>
     <message>
         <source>Zoom Out</source>
-        <translation type="unfinished"></translation>
+        <translation>Zoom -</translation>
     </message>
     <message>
         <source>Zoom Out Full</source>
-        <translation type="unfinished"></translation>
+        <translation>Zoom completo verticale</translation>
     </message>
     <message>
         <source>Zoom In Vertical</source>
-        <translation type="unfinished"></translation>
+        <translation>Zoom + verticale</translation>
     </message>
     <message>
         <source>Zoom Out Vertical</source>
-        <translation type="unfinished"></translation>
+        <translation>Zoom - verticale</translation>
     </message>
     <message>
         <source>Press %1 to create!</source>
-        <translation type="unfinished"></translation>
+        <translation>Premi %1 per creare!</translation>
     </message>
     <message>
         <source>Apply</source>
-        <translation type="unfinished"></translation>
+        <translation>Applica</translation>
     </message>
     <message>
         <source>Duplicated from %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Duplicato da %1</translation>
     </message>
     <message>
         <source>Show/Hide Speed Tool</source>
-        <translation type="unfinished"></translation>
+        <translation>Visualizza/nascondi strumento velocità</translation>
     </message>
     <message>
         <source>Paste Metadata</source>
-        <translation type="unfinished"></translation>
+        <translation>Incolla metadati</translation>
     </message>
     <message>
         <source>Quick Export!</source>
-        <translation type="unfinished"></translation>
+        <translation>Esportazione rapida!</translation>
     </message>
     <message>
         <source>Destination</source>
-        <translation type="unfinished"></translation>
+        <translation>Destinazione</translation>
     </message>
     <message>
         <source>Alt+Click to choose a different destination.</source>
-        <translation type="unfinished"></translation>
+        <translation>Alt+clic per scegliere una destinazione diversa.</translation>
     </message>
     <message>
         <source>Combined multichannel audio</source>
-        <translation type="unfinished"></translation>
+        <translation>Audio multicanale unito</translation>
     </message>
     <message>
         <source>Adjusting Selections to silences</source>
-        <translation type="unfinished"></translation>
+        <translation>Adeguamento selezioni ai silenzi</translation>
     </message>
     <message>
         <source>Searching for silences</source>
-        <translation type="unfinished"></translation>
+        <translation>Ricerca silenzi</translation>
     </message>
     <message>
         <source>Starting Recording from
 %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Avvio registrazione da
+%1</translation>
     </message>
     <message>
         <source>Move cursor to playhead position</source>
-        <translation type="unfinished"></translation>
+        <translation>Sposta cursore alla posizione testina riproduzione</translation>
     </message>
     <message>
         <source>Selection Left Border</source>
-        <translation type="unfinished"></translation>
+        <translation>Selezione bordo sinistro</translation>
     </message>
     <message>
         <source>Selection Right Border</source>
-        <translation type="unfinished"></translation>
+        <translation>Selezione bordo destro</translation>
     </message>
     <message>
         <source>Select Audio from Region Under Cursor</source>
-        <translation type="unfinished"></translation>
+        <translation>Seleziona audio dalla regione sotto il cursore</translation>
     </message>
     <message>
         <source>Select Silences</source>
-        <translation type="unfinished"></translation>
+        <translation>Seleziona silenzi</translation>
     </message>
     <message>
         <source>Zoom Back from Selection</source>
-        <translation type="unfinished"></translation>
+        <translation>Zoom - dalla selezione</translation>
     </message>
     <message>
         <source>Undetermined</source>
-        <translation type="unfinished"></translation>
+        <translation>Non determinato</translation>
     </message>
     <message>
         <source>Select Visible</source>
-        <translation type="unfinished"></translation>
+        <translation>Seleziona visibile</translation>
     </message>
     <message>
         <source>Waveform View</source>
-        <translation type="unfinished"></translation>
+        <translation>Vista forma d&apos;onda</translation>
     </message>
     <message>
         <source>Spectrogram View</source>
-        <translation type="unfinished"></translation>
+        <translation>Vista spettrogramma</translation>
     </message>
     <message>
         <source>Waveform and Spectrogram View</source>
-        <translation type="unfinished"></translation>
+        <translation>Vista forma d&apos;onda e spettrogramma</translation>
     </message>
     <message>
         <source>Decimal (mm:ss.ddd)</source>
-        <translation type="unfinished"></translation>
+        <translation>Decimale (mm:ss.ggg)</translation>
     </message>
     <message>
         <source>Samples</source>
-        <translation type="unfinished"></translation>
+        <translation>Campioni</translation>
     </message>
     <message>
         <source>Frames</source>
-        <translation type="unfinished"></translation>
+        <translation>Fotogrammi</translation>
     </message>
     <message>
         <source>Seconds</source>
-        <translation type="unfinished"></translation>
+        <translation>Secondi</translation>
     </message>
 </context>
 <context>
@@ -1574,160 +1575,179 @@ Controlla se il nome file è valido e disponi delle autorizzazioni per aprirlo.<
     </message>
     <message>
         <source>Audio VST Check Failed</source>
-        <translation type="unfinished"></translation>
+        <translation>Controllo audio VST non riuscito</translation>
     </message>
     <message>
         <source>An error occurred in the execution of VST plugin application. No VST plugin can be loaded in this condition.</source>
-        <translation type="unfinished"></translation>
+        <translation>Si è verificato un errore nell&apos;esecuzione dell&apos;applicazione plug-in VST. 
+In queste condizioni non può essere caricato nessun plug-in VST.</translation>
     </message>
     <message>
         <source>Audio not saved</source>
-        <translation type="unfinished"></translation>
+        <translation>Audio non salvato</translation>
     </message>
     <message>
         <source>An error was encountered while saving your sound file “%1”!</source>
-        <translation type="unfinished"></translation>
+        <translation>Si è verificato un errore durante il salvataggio del file audio “%1”!</translation>
     </message>
     <message>
         <source>The file for the sound that was at %1 is now empty. Do you want to keep as new, save or close the sound?</source>
-        <translation type="unfinished"></translation>
+        <translation>Il file audio che era in %1 ora è vuoto. 
+Vuoi mantenerlo come nuovo file, salvarlo o chiudere il file?</translation>
     </message>
     <message>
         <source>The file for the sound that was at %1 is now corrupted. Do you want to keep as new, save or close the sound?</source>
-        <translation type="unfinished"></translation>
+        <translation>Il file per audio che era in %1 ora è danneggiato. 
+Vuoi mantenerlo come nuovo file, salvarlo o chiudere il file?</translation>
     </message>
     <message>
         <source>Keep as New</source>
-        <translation type="unfinished"></translation>
+        <translation>Mantieni come nuovo</translation>
     </message>
     <message>
         <source>The file for the sound that was at %1 has disappeared. The document has previously unsaved changes. Do you want to keep as new, save or close the sound?</source>
-        <translation type="unfinished"></translation>
+        <translation>Il file audio che era in %1 non è più disponibile. 
+Il fiel ha modifiche precedentemente non salvate. 
+Vuoi mantenerlo come nuovo file, salvarlo o chiudere il file?</translation>
     </message>
     <message>
         <source>Would you like to proceed and reencode the audio?</source>
-        <translation type="unfinished"></translation>
+        <translation>Vuoi procedere e ricodificare l&apos;audio?</translation>
     </message>
     <message>
         <source>Your changes affect only the metadata, however ocenaudio don&apos;t supports metadata update for this format. If you proceed, a complete rewrite of your file will be done (this may re-encode your audio signal).</source>
-        <translation type="unfinished"></translation>
+        <translation>Le modifiche influiscono solo sui metadati, tuttavia ocenaudio non supporta l&apos;aggiornamento dei metadati per questo formato. 
+Se procedi, verrà eseguita una riscrittura completa del file (questo potrebbe ricodificare il segnale audio).</translation>
     </message>
     <message>
         <source>The file for the sound at %1 has been modified by another application. There are also unsaved changes in ocenaudio. Do you want to keep the ocenaudio version or revert to the version on disk?</source>
-        <translation type="unfinished"></translation>
+        <translation>Il file audio in %1 è stato modificato da un&apos;altra applicazione. 
+Ci sono anche modifiche non salvate in ocenaudio. 
+Vuoi mantenere la versione ocenaudio o ripristinare la versione su disco?</translation>
     </message>
     <message>
         <source>The file for the sound that was at %1 has disappeared. Do you want to keep as new, save or close the sound?</source>
-        <translation type="unfinished"></translation>
+        <translation>Il file per audio che era in %1 non è più disponibile. 
+Vuoi mantenerlo come nuovo file, salvarlo o chiudere il file?</translation>
     </message>
     <message>
         <source>Supported Sound Files</source>
-        <translation type="unfinished"></translation>
+        <translation>File audio supportati</translation>
     </message>
     <message>
         <source>Do you want to overwrite the backup copy of the original file?</source>
-        <translation type="unfinished"></translation>
+        <translation>Vuoi sovrascrivere la copia di backup del file originale?</translation>
     </message>
     <message>
         <source>The file “%1” already has a backup. If you proceed it will be replaced by the current version of this file.</source>
-        <translation type="unfinished"></translation>
+        <translation>Il file “%1” ha già un backup. 
+Se procedi, verrà sostituito dalla versione attuale di questo file.</translation>
     </message>
     <message>
         <source>This is an unrecoverable error and ocenaudio must quit!</source>
-        <translation type="unfinished"></translation>
+        <translation>Questo è un errore irreversibile e ocenaudio deve chiudersi!</translation>
     </message>
     <message>
         <source>If you continue all comments from this region will be removed.</source>
-        <translation type="unfinished"></translation>
+        <translation>Se continui, verranno rimossi tutti i commenti in questa regione.</translation>
     </message>
     <message>
         <source>The disk you are using to save is full.</source>
-        <translation type="unfinished"></translation>
+        <translation>Il disco in uso per i salvataggi è pieno.</translation>
     </message>
     <message>
         <source>File: %1</source>
-        <translation type="unfinished"></translation>
+        <translation>File: %1</translation>
     </message>
     <message>
         <source>
 Storage: %1 mount on %2</source>
-        <translation type="unfinished"></translation>
+        <translation>
+Storage: %1 mountato in %2</translation>
     </message>
     <message>
         <source>Disk Is Full</source>
-        <translation type="unfinished"></translation>
+        <translation>Il disco è pieno</translation>
     </message>
     <message>
         <source>The conversion from region to markers will discard comments. You want to proceed?</source>
-        <translation type="unfinished"></translation>
+        <translation>La conversione da regione a marcatori eliminerà i commenti. 
+Vuoi procedere?</translation>
     </message>
     <message>
         <source>Metadata not Exported</source>
-        <translation type="unfinished"></translation>
+        <translation>Metadati non esportati</translation>
     </message>
     <message>
         <source>It was not possible to export the metadata to file “%1” because the chosen container does not support metadata.</source>
-        <translation type="unfinished"></translation>
+        <translation>Non è stato possibile esportare i metadati nel file “%1” perché il contenitore scelto non supporta i metadati.</translation>
     </message>
     <message>
         <source>Markers/Regions not Exported</source>
-        <translation type="unfinished"></translation>
+        <translation>Marcatori/regioni non esportati</translation>
     </message>
     <message>
         <source>It was not possible to complete the save of file “%1” because the chosen container does not support metadata.
 
 To save without the metadata, use the export operation.</source>
-        <translation type="unfinished"></translation>
+        <translation>Non è stato possibile completare il salvataggio del file “%1” perché il contenitore scelto non supporta i metadati.
+
+Per salvare senza i metadati, usa la funzione di esportazione.</translation>
     </message>
     <message>
         <source>It was not possible to complete the save of file “%1” because the chosen container does not support markers/regions.
 
 To save without the markers/regions, use the export operation.</source>
-        <translation type="unfinished"></translation>
+        <translation>Non è stato possibile completare il salvataggio del file “%1” perché il contenitore scelto non supporta i marcatori/regioni.
+
+Per salvare senza i marcatori/regioni, usa la funzione di esportazione.</translation>
     </message>
     <message>
         <source>If you agree to continue the highest sample rate will be used.</source>
-        <translation type="unfinished"></translation>
+        <translation>Se accetti di continuare, verrà usata la frequenza di campionamento più alta.</translation>
     </message>
     <message>
         <source>Proceed</source>
-        <translation type="unfinished"></translation>
+        <translation>Procedi</translation>
     </message>
     <message>
         <source>Canel</source>
-        <translation type="unfinished"></translation>
+        <translation>Annulla</translation>
     </message>
     <message>
         <source>It was not possible to export the markers/regions to file “%1” because the chosen container does not support markers/regions.</source>
-        <translation type="unfinished"></translation>
+        <translation>Non è stato possibile esportare i marcatori/regioni nel file “%1” perché il contenitore scelto non supporta i marcatori/regioni.</translation>
     </message>
     <message>
         <source>You are about to combine audios with different sample rates to a multichannel audio. Do you want to proceed?</source>
-        <translation type="unfinished"></translation>
+        <translation>Verranno uniti audio con frequenze di campionamento diverse in un audio multicanale. 
+Vuoi procedere?</translation>
     </message>
     <message>
         <source>Your sound “%1” contains informations that can not be saved in the selected format. You want to continue and save a copy to this format?</source>
-        <translation type="unfinished"></translation>
+        <translation>Il file audio “%1” contiene informazioni che non possono essere salvate nel formato selezionato. 
+Vuoi continuare e salvarne una copia in questo formato?</translation>
     </message>
     <message>
         <source>Unsupported information will not be present in the saved file.</source>
-        <translation type="unfinished"></translation>
+        <translation>Nel file salvato non saranno presenti le informazioni non supportate.</translation>
     </message>
     <message>
         <source>Save Copy</source>
-        <translation type="unfinished"></translation>
+        <translation>Salva copia</translation>
     </message>
     <message>
         <source>Saving Copy As</source>
-        <translation type="unfinished"></translation>
+        <translation>Salva copia come</translation>
     </message>
     <message>
         <source>Proceed and not save regions?</source>
-        <translation type="unfinished"></translation>
+        <translation>Vuoi procedere e non salvare le regioni?</translation>
     </message>
     <message>
         <source>The format chosen to save the “%1” file does not support regions. If you proceed the regions and markers contained in this audio will NOT be saved.</source>
-        <translation type="unfinished"></translation>
+        <translation>Il formato scelto per salvare il file &quot;%1&quot; non supporta le regioni. 
+Se procedi le regioni e i marcatori contenuti in questo audio NON verranno salvati.</translation>
     </message>
 </context>
 <context>
@@ -1796,219 +1816,220 @@ To save without the markers/regions, use the export operation.</source>
     </message>
     <message>
         <source>mil </source>
-        <translation type="unfinished"></translation>
+        <translation>migliaia </translation>
     </message>
     <message>
         <source>milhão </source>
-        <translation type="unfinished"></translation>
+        <translation>milione </translation>
     </message>
     <message>
         <source>bilhão </source>
-        <translation type="unfinished"></translation>
+        <translation>bilione </translation>
     </message>
     <message>
         <source>trilhão </source>
-        <translation type="unfinished"></translation>
+        <translation>trilione </translation>
     </message>
     <message>
         <source>quatrilhão </source>
-        <translation type="unfinished"></translation>
+        <translation>quadrilione </translation>
     </message>
     <message>
         <source>quintilhão </source>
-        <translation type="unfinished"></translation>
+        <translatorcomment>quintilione </translatorcomment>
+        <translation></translation>
     </message>
     <message>
         <source>sextilhão </source>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
     <message>
         <source>setilhão </source>
-        <translation type="unfinished"></translation>
+        <translation>sestilione </translation>
     </message>
     <message>
         <source>milhões </source>
-        <translation type="unfinished"></translation>
+        <translation>milioni </translation>
     </message>
     <message>
         <source>bilhões </source>
-        <translation type="unfinished"></translation>
+        <translation>bilioni </translation>
     </message>
     <message>
         <source>trilhões </source>
-        <translation type="unfinished"></translation>
+        <translation>trilioni </translation>
     </message>
     <message>
         <source>quadrilhões </source>
-        <translation type="unfinished"></translation>
+        <translation>quadrilioni </translation>
     </message>
     <message>
         <source>quintilhões </source>
-        <translation type="unfinished"></translation>
+        <translation>quintilioni </translation>
     </message>
     <message>
         <source>sextilhões </source>
-        <translation type="unfinished"></translation>
+        <translation>sestilioni </translation>
     </message>
     <message>
         <source>setilhões </source>
-        <translation type="unfinished"></translation>
+        <translation>settilioni </translation>
     </message>
     <message>
         <source>zero</source>
-        <translation type="unfinished"></translation>
+        <translation>zero</translation>
     </message>
     <message>
         <source>e </source>
-        <translation type="unfinished"></translation>
+        <translation>e </translation>
     </message>
     <message>
         <source>cento </source>
-        <translation type="unfinished"></translation>
+        <translation>cento </translation>
     </message>
     <message>
         <source>cem </source>
-        <translation type="unfinished"></translation>
+        <translation>cem </translation>
     </message>
     <message>
         <source>duzentos </source>
-        <translation type="unfinished"></translation>
+        <translation>duecento </translation>
     </message>
     <message>
         <source>trezentos </source>
-        <translation type="unfinished"></translation>
+        <translation>trecento </translation>
     </message>
     <message>
         <source>quatrocentos </source>
-        <translation type="unfinished"></translation>
+        <translation>quattrocento </translation>
     </message>
     <message>
         <source>quinhentos </source>
-        <translation type="unfinished"></translation>
+        <translation>cinquecento </translation>
     </message>
     <message>
         <source>seiscentos </source>
-        <translation type="unfinished"></translation>
+        <translation>seicento </translation>
     </message>
     <message>
         <source>setecentos </source>
-        <translation type="unfinished"></translation>
+        <translation>settecento </translation>
     </message>
     <message>
         <source>oitocentos </source>
-        <translation type="unfinished"></translation>
+        <translation>ottocento </translation>
     </message>
     <message>
         <source>novecentos </source>
-        <translation type="unfinished"></translation>
+        <translation>novecento </translation>
     </message>
     <message>
         <source>dez </source>
-        <translation type="unfinished"></translation>
+        <translation>dieci </translation>
     </message>
     <message>
         <source>onze </source>
-        <translation type="unfinished"></translation>
+        <translation>undici </translation>
     </message>
     <message>
         <source>doze </source>
-        <translation type="unfinished"></translation>
+        <translation>dodici </translation>
     </message>
     <message>
         <source>treze </source>
-        <translation type="unfinished"></translation>
+        <translation>tredici </translation>
     </message>
     <message>
         <source>quatorze </source>
-        <translation type="unfinished"></translation>
+        <translation>quattordici </translation>
     </message>
     <message>
         <source>quinze </source>
-        <translation type="unfinished"></translation>
+        <translation>quindici </translation>
     </message>
     <message>
         <source>dezesseis </source>
-        <translation type="unfinished"></translation>
+        <translation>sedici </translation>
     </message>
     <message>
         <source>dezessete </source>
-        <translation type="unfinished"></translation>
+        <translation>diciassette </translation>
     </message>
     <message>
         <source>dezoito </source>
-        <translation type="unfinished"></translation>
+        <translation>diciotto </translation>
     </message>
     <message>
         <source>dezenove </source>
-        <translation type="unfinished"></translation>
+        <translation>diciannove </translation>
     </message>
     <message>
         <source>vinte </source>
-        <translation type="unfinished"></translation>
+        <translation>venti </translation>
     </message>
     <message>
         <source>trinta </source>
-        <translation type="unfinished"></translation>
+        <translation>trenta </translation>
     </message>
     <message>
         <source>quarenta </source>
-        <translation type="unfinished"></translation>
+        <translation>quaranta </translation>
     </message>
     <message>
         <source>cinquenta </source>
-        <translation type="unfinished"></translation>
+        <translation>cinquanta </translation>
     </message>
     <message>
         <source>sessenta </source>
-        <translation type="unfinished"></translation>
+        <translation>sessanta </translation>
     </message>
     <message>
         <source>setenta </source>
-        <translation type="unfinished"></translation>
+        <translation>settanta </translation>
     </message>
     <message>
         <source>oitenta </source>
-        <translation type="unfinished"></translation>
+        <translation>ottanta </translation>
     </message>
     <message>
         <source>noventa </source>
-        <translation type="unfinished"></translation>
+        <translation>novanta </translation>
     </message>
     <message>
         <source>um </source>
-        <translation type="unfinished"></translation>
+        <translation>uno </translation>
     </message>
     <message>
         <source>dois </source>
-        <translation type="unfinished"></translation>
+        <translation>due </translation>
     </message>
     <message>
         <source>três </source>
-        <translation type="unfinished"></translation>
+        <translation>tre </translation>
     </message>
     <message>
         <source>quatro </source>
-        <translation type="unfinished"></translation>
+        <translation>quattro </translation>
     </message>
     <message>
         <source>cinco </source>
-        <translation type="unfinished"></translation>
+        <translation>cinque </translation>
     </message>
     <message>
         <source>seis </source>
-        <translation type="unfinished"></translation>
+        <translation>sei </translation>
     </message>
     <message>
         <source>sete </source>
-        <translation type="unfinished"></translation>
+        <translation>sette </translation>
     </message>
     <message>
         <source>oito </source>
-        <translation type="unfinished"></translation>
+        <translation>otto </translation>
     </message>
     <message>
         <source>nove </source>
-        <translation type="unfinished"></translation>
+        <translation>nove </translation>
     </message>
 </context>
 <context>
