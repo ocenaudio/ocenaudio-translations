@@ -14,7 +14,8 @@ The translation files can be edited using Qt Linguist from [Qt Project](http://q
 If you would like to add a new translation for ocenaudio please
 [submit a pull request](https://github.com/ocenaudio/ocenaudio-translations/pull/new/master) using the files inside `**base**` folder and renaming them as follows the
 [ISO 639 'underscore' ISO 3166](http://www.localeplanet.com/icu/) format.
-You could also translate the files inside `**installers**` folder.
+
+You could also translate the files inside `**installers**` folder. More info about the installer strings in [https://nsis.sourceforge.io/Docs/Chapter4.html#langstring](https://nsis.sourceforge.io/Docs/Chapter4.html#langstring).
 
 If you have any questions, please write us in [http://www.ocenaudio.com/feedback](http://www.ocenaudio.com/feedback).
 
