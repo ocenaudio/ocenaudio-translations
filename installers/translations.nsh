@@ -20,12 +20,12 @@ LangString StrX64Required ${LANG_ITALIAN}			               "Questo installer ric
 
 
 !ifndef OPT_WIN64
-LangString StrX64Available ${LANG_ENGLISH}	      	         "There is a 64-bit version of Ocenaudio available.$\nAre you sure you want to install the 32-bit version?"
-LangString StrX64Available ${LANG_FRENCH}		                 "Il existe une version 64 bits de Ocenaudio disponibles.$\nEtes-vous sûr que vous voulez installer la version 32-bit?"
-LangString StrX64Available ${LANG_GERMAN}		                 "Es gibt eine 64-Bit-Version von Ocenaudio verfügbar.$\nSind Sie sicher, dass Sie die 32-Bit-Version zu installieren?"
-LangString StrX64Available ${LANG_ITALIAN}		               "È disponibile una versione di oceanaudio a 64bit.$\nVuoi installare la versione di oceanaudio a 32bit?"
-LangString StrX64Available ${LANG_PortugueseBR}	             "Existe uma versão 64-bit do Ocenaudio disponível.$\nVocê tem certeza que deseja instalar a versão 32-bit?"
-LangString StrX64Available ${LANG_SPANISH}		               "Hay una versión de 64 bits de ocenaudio disponible.$\n¿Seguro que desea instalar la versión de 32 bits?"
+LangString StrX64Available ${LANG_ENGLISH}	      	         "There is a 64-bit version of ${PRODUCT_NAME_LABEL} available.$\nAre you sure you want to install the 32-bit version?"
+LangString StrX64Available ${LANG_FRENCH}		                 "Il existe une version 64 bits de ${PRODUCT_NAME_LABEL} disponibles.$\nEtes-vous sûr que vous voulez installer la version 32-bit?"
+LangString StrX64Available ${LANG_GERMAN}		                 "Es gibt eine 64-Bit-Version von ${PRODUCT_NAME_LABEL} verfügbar.$\nSind Sie sicher, dass Sie die 32-Bit-Version zu installieren?"
+LangString StrX64Available ${LANG_ITALIAN}		               "È disponibile una versione di ${PRODUCT_NAME_LABEL} a 64bit.$\nVuoi installare la versione di oceanaudio a 32bit?"
+LangString StrX64Available ${LANG_PortugueseBR}	             "Existe uma versão 64-bit do ${PRODUCT_NAME_LABEL} disponível.$\nVocê tem certeza que deseja instalar a versão 32-bit?"
+LangString StrX64Available ${LANG_SPANISH}		               "Hay una versión de 64 bits de ${PRODUCT_NAME_LABEL} disponible.$\n¿Seguro que desea instalar la versión de 32 bits?"
 !endif ; OPT_WIN64
 
 
@@ -71,7 +71,7 @@ LangString StrOcenPleaseCloseOcenaudio ${LANG_SPANISH}		   "${PRODUCT_NAME_LABEL
 
 LangString StrOcenErrorCloseOcenaudio ${LANG_ENGLISH}		     "Installation error. Please close ${PRODUCT_NAME_LABEL} and try again."
 LangString StrOcenErrorCloseOcenaudio ${LANG_FRENCH}		     "Erreur dans l'installation. S'il vous plaît proche ${PRODUCT_NAME_LABEL} et essayez à nouveau."
-LangString StrOcenErrorCloseOcenaudio ${LANG_GERMAN}		     "Fehler bei der Installation. Bitte schließen Sie ocenaudio und erneut versuchen."
+LangString StrOcenErrorCloseOcenaudio ${LANG_GERMAN}		     "Fehler bei der Installation. Bitte schließen Sie ${PRODUCT_NAME_LABEL} und erneut versuchen."
 LangString StrOcenErrorCloseOcenaudio ${LANG_ITALIAN}		     "Errore di installazione.$\nChiudi ${PRODUCT_NAME_LABEL} e riprova."
 LangString StrOcenErrorCloseOcenaudio ${LANG_PortugueseBR}	 "Erro na instalação. Por favor, feche o ${PRODUCT_NAME_LABEL} e tente novamente."
 LangString StrOcenErrorCloseOcenaudio ${LANG_SPANISH}		     "Error de instalación. Por favor, cierre ${PRODUCT_NAME_LABEL} y vuelva a intentarlo."
